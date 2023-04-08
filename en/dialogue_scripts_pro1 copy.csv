@@ -1,0 +1,301 @@
+line,filename,lines,type,character,text
+0,pro1.txt,300,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,G'evening.
+3,undefined,undefined,dialogue,Dana,"Well, at least one of my employees showed up."
+4,undefined,undefined,dialogue,Jill,Huh? What about Gil?
+5,undefined,undefined,dialogue,Dana,"He mumbled something about holes and pests, and asked for a couple of days off."
+6,undefined,undefined,dialogue,Jill,Business as usual then.
+7,undefined,undefined,dialogue,Dana,Not... quite.
+8,undefined,undefined,dialogue,Jill,How so?
+9,undefined,undefined,dialogue,Dana,"I mean us, not Gil. Business will be a tad different through the weekend."
+10,undefined,undefined,dialogue,Dana,We got booked.
+11,undefined,undefined,dialogue,Jill,That's a new one. Who made the booking?
+12,undefined,undefined,dialogue,Dana,The Seifar Toy Company - they make toys for dogs.
+13,undefined,undefined,dialogue,Dana,It's their anniversary or something like that.
+14,undefined,undefined,dialogue,Jill,We usually don't reserve the bar. Why do it this time?
+15,undefined,undefined,dialogue,Dana,...the clients are adorable.
+16,undefined,undefined,dialogue,Jill,Excuse me?
+17,undefined,undefined,dialogue,Dana,You'll see.
+18,undefined,undefined,dialogue,Jill,Anything special I should know?
+19,undefined,undefined,dialogue,Dana,They'll give you a ticket to trade in for any drink they want. Just do your usual thing.
+20,undefined,undefined,dialogue,Jill,Fair enough.
+21,undefined,undefined,dialogue,Dana,I'll be in my office. Call if you need me.
+22,undefined,undefined,dialogue,Jill,Sure.
+23,undefined,undefined,dialogue,Jill,Well then...
+24,undefined,undefined,dialogue,Jill,Time to mix drinks and change lives.
+25,undefined,undefined,dialogue,Lord Pumplerump,Um... excuse me. I'll have a Grizzly Temple.
+26,undefined,undefined,dialogue,Jill,...
+27,undefined,undefined,dialogue,Lord Pumplerump,Hello...?
+28,undefined,undefined,dialogue,Jill,(A dog...)
+29,undefined,undefined,dialogue,Jill,(A TALKING dog...)
+30,undefined,undefined,dialogue,Jill,A-Are you with the Seifar Toy Company?
+31,undefined,undefined,dialogue,Lord Pumplerump,Yeah. Did I arrive too early?
+32,undefined,undefined,dialogue,Jill,No...
+33,undefined,undefined,dialogue,Jill,"(""The clients are adorable."" Son of a bitch...)"
+34,undefined,undefined,dialogue,Jill,"A Grizzly Temple, right? Coming right up."
+35,undefined,undefined,dialogue,Jill,Here you go.
+36,undefined,undefined,dialogue,Lord Pumplerump,Thanks!
+37,undefined,undefined,dialogue,Jill,Here.
+38,undefined,undefined,dialogue,Lord Pumplerump,What's this?
+39,undefined,undefined,dialogue,Jill,"S-Sorry, I'm a bit off tonight. I'll do it again."
+40,undefined,undefined,dialogue,Lord Pumplerump,No need. Just be careful next time.
+41,undefined,undefined,dialogue,Jill,...
+42,undefined,undefined,dialogue,Jill,"This is gonna be a long weekend, isn't it?"
+43,undefined,undefined,dialogue,Arial Wienerton,"Hey, is the Bronson Extract here produced using organic roots?"
+44,undefined,undefined,dialogue,Jill,I don't know that information.
+45,undefined,undefined,dialogue,Arial Wienerton,Anyone I can talk to about that?
+46,undefined,undefined,dialogue,Jill,Here? Right now? No.
+47,undefined,undefined,dialogue,Arial Wienerton,But you should have that information on hand.
+48,undefined,undefined,dialogue,Jill,Every BTC-certified bar is no different from a fast food chain.
+49,undefined,undefined,dialogue,Jill,We get the same supplies as everyone else. Ask BTC officials if you want to know.
+50,undefined,undefined,dialogue,Arial Wienerton,But you should...
+51,undefined,undefined,dialogue,Jill,But we don't.
+52,undefined,undefined,dialogue,Arial Wienerton,But-...
+53,undefined,undefined,dialogue,Jill,Saying that we should over and over is not going to change reality.
+54,undefined,undefined,dialogue,Arial Wienerton,Give me something with lots of Bronson Extract then.
+55,undefined,undefined,dialogue,Jill,Okay...
+56,undefined,undefined,dialogue,Jill,Here.
+57,undefined,undefined,dialogue,Arial Wienerton,What the hell is this?!
+58,undefined,undefined,dialogue,Jill,Your order.
+59,undefined,undefined,dialogue,Arial Wienerton,This is what Bronson Extract tastes like?!
+60,undefined,undefined,dialogue,Jill,"Sorta, yeah."
+61,undefined,undefined,dialogue,Arial Wienerton,"Well, fuck that noise. It's not worth the effort."
+62,undefined,undefined,dialogue,Jill,"*sigh* No, it's not."
+63,undefined,undefined,dialogue,Jill,Here.
+64,undefined,undefined,dialogue,Arial Wienerton,"Yeah, this is nice enough."
+65,undefined,undefined,dialogue,Arial Wienerton,"You pass, Bartender."
+66,undefined,undefined,dialogue,Jill,...
+67,undefined,undefined,dialogue,Deal,Excuse me...
+68,undefined,undefined,dialogue,Jill,Thank GOD. A person.
+69,undefined,undefined,dialogue,Deal,"Well, as much of a person as the designated driver can be."
+70,undefined,undefined,dialogue,Jill,What I mean is... why are there so many dogs?
+71,undefined,undefined,dialogue,Jill,Why dogs? Why?
+72,undefined,undefined,dialogue,Deal,"Well, the Corgis created the Seifar Toy Company and they've been doing a great job, so..."
+73,undefined,undefined,dialogue,Jill,"A company run exclusively by dogs, really?"
+74,undefined,undefined,dialogue,Deal,And a good one at that.
+75,undefined,undefined,dialogue,Deal,Their only problem is that they have a not-so-discreet preference for hiring Corgis exclusively.
+76,undefined,undefined,dialogue,Jill,Why?
+77,undefined,undefined,dialogue,Deal,Something about being more comfortable around their own kind.
+78,undefined,undefined,dialogue,Jill,Are you with them?
+79,undefined,undefined,dialogue,Deal,"Well, I DO prefer Corgis, but..."
+80,undefined,undefined,dialogue,Jill,"No, I mean... are you working with them?"
+81,undefined,undefined,dialogue,Deal,"Yeah, well, I'm only here because the law requires at least one humanoid on the payroll."
+82,undefined,undefined,dialogue,Jill,(Does the law really cover such scenarios?)
+83,undefined,undefined,dialogue,Jill,Why take a job like this?
+84,undefined,undefined,dialogue,Deal,Because it means I'm surrounded by Corgis all day long!
+85,undefined,undefined,dialogue,Deal,"Designated driver woes aside, it's the closest thing to heaven!"
+86,undefined,undefined,dialogue,Deal,"Although to be fair, I'm not much of a drinker anyway."
+87,undefined,undefined,dialogue,Jill,"I see. Well, to each their own. Are you gonna drink anything?"
+88,undefined,undefined,dialogue,Deal,Do you have anything non-alcoholic?
+89,undefined,undefined,dialogue,Jill,Let's see what I can fetch you.
+90,undefined,undefined,dialogue,Deal,Did you intend to make a pun?
+91,undefined,undefined,dialogue,Jill,A pun?
+92,undefined,undefined,dialogue,Deal,Nevermind.
+93,undefined,undefined,dialogue,Jill,Here.
+94,undefined,undefined,dialogue,Deal,Thanks.
+95,undefined,undefined,dialogue,Deal,...you sure this isn't alcoholic?
+96,undefined,undefined,dialogue,Jill,Pretty sure.
+97,undefined,undefined,dialogue,Deal,Okay.
+98,undefined,undefined,dialogue,Jill,Listen. I need to know. Is it really going to be ONLY Corgis today?
+99,undefined,undefined,dialogue,Jill,Is that ALL I'm gonna do all night? Serve the same kind of dog over and over?
+100,undefined,undefined,dialogue,Deal,The vast majority of them are Pembroke Welsh Corgis.
+101,undefined,undefined,dialogue,Deal,There are a couple of Cardigan Welsh Corgis.
+102,undefined,undefined,dialogue,Deal,"But the relationship between the two breeds is a tad... difficult, so the Cardigans weren't invited"
+103,undefined,undefined,dialogue,Deal,"So, yeah. I guess you'll be serving the same kind of dogs all night."
+104,undefined,undefined,dialogue,Jill,"No, I mean."
+105,undefined,undefined,dialogue,Jill,Isn't there some other human I might talk to today?
+106,undefined,undefined,dialogue,Deal,"There's a woman on staff, but she couldn't come today."
+107,undefined,undefined,dialogue,Jill,Oh boy...
+108,undefined,undefined,dialogue,Deal,Is that a problem somehow?
+109,undefined,undefined,dialogue,Jill,"It's not really a ""problem."" We've survived worse than this."
+110,undefined,undefined,dialogue,Jill,Like that time when an AA meeting came here asking for non-alcoholic stuff only.
+111,undefined,undefined,dialogue,Jill,"But, just thinking about the fact that I'm serving drinks to dogs..."
+112,undefined,undefined,dialogue,Jill,That at some point all the choices in my life led to me serving drinks to a group of TALKING dogs...
+113,undefined,undefined,dialogue,Jill,It's one of those moments that makes you want to stop and rethink where your life is going.
+114,undefined,undefined,dialogue,Deal,Do you perhaps not like this job?
+115,undefined,undefined,dialogue,Jill,I do! I love every second of this job... but... DOGS!
+116,undefined,undefined,dialogue,Jill,It's like a fashion designer suddenly realizing he's been designing edible underwear.
+117,undefined,undefined,dialogue,Deal,"I still don't see what your problem is with the dogs, but I'm not going to force the subject."
+118,undefined,undefined,dialogue,Deal,"Well, I'm going to try entertaining myself for a bit."
+119,undefined,undefined,dialogue,Jill,The stuff for playing pool is underneath the table.
+120,undefined,undefined,dialogue,Jill,There are also darts in the box next to the Jukebox.
+121,undefined,undefined,dialogue,Deal,Great. Thanks for the information.
+122,undefined,undefined,dialogue,Jill,Call if you need another drink.
+123,undefined,undefined,dialogue,Deal,Sure.
+124,undefined,undefined,dialogue,Lady Banner,"I'm feeling happy, so I'll get EVERYONE a round!"
+125,undefined,undefined,dialogue,Jill,"Actually, it's a free bar..."
+126,undefined,undefined,dialogue,Lady Banner,I won't let you spoil my mood! I want a Fringe Weaver.
+127,undefined,undefined,dialogue,Jill,Coming right up.
+128,undefined,undefined,dialogue,Jill,Here you go.
+129,undefined,undefined,dialogue,Lady Banner,Still an awesome day!
+130,undefined,undefined,dialogue,Jill,Here you go.
+131,undefined,undefined,dialogue,Lady Banner,Why are you so hellbent on ruining my awesome day?
+132,undefined,undefined,dialogue,Dragon Fucker,YO WHAT'S AN ALPHA MALE GOTTA DO TO GET SOME SERVICE?!
+133,undefined,undefined,dialogue,Jill,What may I serve you?
+134,undefined,undefined,dialogue,Dragon Fucker,"Beer, and quickly!"
+135,undefined,undefined,dialogue,Jill,Coming right up.
+136,undefined,undefined,dialogue,Jill,Here you are.
+137,undefined,undefined,dialogue,Dragon Fucker,"Damn, you're a slow piece of shit."
+138,undefined,undefined,dialogue,Jill,Here you go.
+139,undefined,undefined,dialogue,Dragon Fucker,"THIS IS NOT WHAT I ASKED FOR, YOU LITTLE SHIT."
+140,undefined,undefined,dialogue,Jill,...
+141,undefined,undefined,dialogue,Jill,Hey Boss! What was the opposite of deja vu again?
+142,undefined,undefined,dialogue,Dana,Jamais vu!
+143,undefined,undefined,dialogue,Jill,"Yeah, that..."
+144,undefined,undefined,dialogue,Deal,Are you having a premonition?
+145,undefined,undefined,dialogue,Jill,Something like that. That dog felt uncannily familiar.
+146,undefined,undefined,dialogue,Jill,Are you bored?
+147,undefined,undefined,dialogue,Deal,Not really. I was playing with the darts a bit ago.
+148,undefined,undefined,dialogue,Deal,"I thought about playing pool, but all the other clients are... thumb-challenged."
+149,undefined,undefined,dialogue,Deal,"Sorry if this sounds rude, but why was the dart box so dusty?"
+150,undefined,undefined,dialogue,Jill,You're the first person in the year or so I've been here that has actually played with darts.
+151,undefined,undefined,dialogue,Jill,I think even my boss forgot they existed.
+152,undefined,undefined,dialogue,Deal,"By the way, how are the dogs as clients?"
+153,undefined,undefined,dialogue,Jill,We've had worse.
+154,undefined,undefined,dialogue,Deal,Have you had someone come in and gnaw chairs to pieces?
+155,undefined,undefined,dialogue,Jill,Yes. She was testing out her new mechanical teeth. She got banned from entering any BTC bar after that.
+156,undefined,undefined,dialogue,Deal,"With anecdotes like those, you'd think serving dogs would feel totally normal."
+157,undefined,undefined,dialogue,Jill,"You'd be wrong because even then, we were talking about humans."
+158,undefined,undefined,dialogue,Jill,"I mean, don't get me wrong. I've served a dog or two in my time, but they usually come in with someone..."
+159,undefined,undefined,dialogue,Jill,...and they never talk.
+160,undefined,undefined,dialogue,Deal,"Now that I think about it, are these drinks bad for the dogs?"
+161,undefined,undefined,dialogue,Jill,NOW you worry about that?
+162,undefined,undefined,dialogue,Jill,"But no, they aren't. Only Cappuccino Monkeys are at risk if they drink those chemicals."
+163,undefined,undefined,dialogue,Jill,"Anyway, you want anything to drink?"
+164,undefined,undefined,dialogue,Deal,Surprise me. But keep it non-alcoholic.
+165,undefined,undefined,dialogue,Jill,Sure.
+166,undefined,undefined,dialogue,Jill,Here you go.
+167,undefined,undefined,dialogue,Deal,Thank you.
+168,undefined,undefined,dialogue,Jill,"This might sound weird to ask but... they talk through their collars, right?"
+169,undefined,undefined,dialogue,Deal,That's right.
+170,undefined,undefined,dialogue,Jill,How do they work?
+171,undefined,undefined,dialogue,Deal,"It's not too hard, really. They're just translators."
+172,undefined,undefined,dialogue,Deal,They read the dogs' brains and turn their thoughts into words.
+173,undefined,undefined,dialogue,Deal,Do keep in mind that today's dog breeds have more cognitive capacity than their ancestors.
+174,undefined,undefined,dialogue,Deal,"If you put the translators on dogs from a decade ago, they wouldn't work like they do now."
+175,undefined,undefined,dialogue,Jill,"Yeah, I read something about that once."
+176,undefined,undefined,dialogue,Jill,Another question: Why do they wear those small tuxedos?
+177,undefined,undefined,dialogue,Deal,It's good for PR.
+178,undefined,undefined,dialogue,Jill,You don't say...
+179,undefined,undefined,dialogue,Deal,"Well, it'll be a bit before we go for the day. Any other questions?"
+180,undefined,undefined,dialogue,Jill,Yes. Why the fuck do these dogs want to get drunk?
+181,undefined,undefined,dialogue,Deal,They see humans do it and they think it might be fun.
+182,undefined,undefined,dialogue,Jill,"Just like teens, then."
+183,undefined,undefined,dialogue,Deal,"Now, if you'll excuse me..."
+184,undefined,undefined,dialogue,Satan's Hellper,...
+185,undefined,undefined,dialogue,Jill,What can I serve you?
+186,undefined,undefined,dialogue,Satan's Hellper,MOOOOOOOOOOOOOOOON!
+187,undefined,undefined,dialogue,Jill,Excuse me?
+188,undefined,undefined,dialogue,Satan's Hellper,MOOOOOOOOOOOOOOOON!
+189,undefined,undefined,dialogue,Jill,A Moonblast?
+190,undefined,undefined,dialogue,Satan's Hellper,MOOOOOOOOOOOOOOOON!
+191,undefined,undefined,dialogue,Jill,A BIG Moonblast?
+192,undefined,undefined,dialogue,Satan's Hellper,Moon!
+193,undefined,undefined,dialogue,Jill,Alright then.
+194,undefined,undefined,dialogue,Jill,Here.
+195,undefined,undefined,dialogue,Satan's Hellper,MOOOOOOOOOOOOOOOON!
+196,undefined,undefined,dialogue,Jill,(Was that a good moon or a bad moon?)
+197,undefined,undefined,dialogue,Pesky Furball,"Ay Revicecay Pikessay, leasepay."
+198,undefined,undefined,dialogue,Jill,A Crevice Spike? Sure.
+199,undefined,undefined,dialogue,Pesky Furball,Ouyay nderstanduay emay?
+200,undefined,undefined,dialogue,Jill,I was a kid too.
+201,undefined,undefined,dialogue,Jill,Erehay.
+202,undefined,undefined,dialogue,Pesky Furball,Hankstay!
+203,undefined,undefined,dialogue,Jill,Erehay.
+204,undefined,undefined,dialogue,Pesky Furball,Erkjay...
+205,undefined,undefined,dialogue,Jill,Fuck you too... ay.
+206,undefined,undefined,dialogue,Deal,You sure you didn't give me alcohol? I'm feeling dizzy.
+207,undefined,undefined,dialogue,Jill,Maybe you're just drunk off the mood of the place?
+208,undefined,undefined,dialogue,Deal,"Yeah, that might be it."
+209,undefined,undefined,dialogue,Jill,You want anything else?
+210,undefined,undefined,dialogue,Deal,"Oh, sure. Why not?"
+211,undefined,undefined,dialogue,Deal,"Alright, one more drink before we wrap things up."
+212,undefined,undefined,dialogue,Jill,What do you want?
+213,undefined,undefined,dialogue,Deal,I'm not picky. Give me anything.
+214,undefined,undefined,dialogue,Jill,Of course.
+215,undefined,undefined,dialogue,Jill,Here you are.
+216,undefined,undefined,dialogue,Deal,Thanks.
+217,undefined,undefined,dialogue,Jill,So... what exactly do you do? Sorry if it's rude to ask.
+218,undefined,undefined,dialogue,Deal,I guess I am what people call an Office Boy.
+219,undefined,undefined,dialogue,Deal,"My duties usually involve looking for things, answering a few calls, that sort of stuff."
+220,undefined,undefined,dialogue,Deal,"But this being a dog-run company, there are a lot more responsibilities."
+221,undefined,undefined,dialogue,Deal,"Like, getting stuff off of shelves and opening windows."
+222,undefined,undefined,dialogue,Deal,At least they pay well.
+223,undefined,undefined,dialogue,Jill,I see.
+224,undefined,undefined,dialogue,Jill,And how did you end up in that position? Where did you get that offer?
+225,undefined,undefined,dialogue,Deal,"My neighbour is the owner of one of the dogs. He told me they needed ""thumbs""."
+226,undefined,undefined,dialogue,Jill,Figures.
+227,undefined,undefined,dialogue,Jill,"They are celebrating the company's anniversary, right?"
+228,undefined,undefined,dialogue,Deal,"Yeah. 5 years ago, three Corgis became dissatisfied with the quality of existing dog toys."
+229,undefined,undefined,dialogue,Deal,So they founded this company.
+230,undefined,undefined,dialogue,Deal,"They got the money from their owners, if I remember correctly."
+231,undefined,undefined,dialogue,Jill,I can see that happening... somehow.
+232,undefined,undefined,dialogue,Deal,The STC is the second biggest dog toy company in the world.
+233,undefined,undefined,dialogue,Deal,Fun fact: they started as Seifar Toy Development.
+234,undefined,undefined,dialogue,Jill,Ain't that unfortunate...
+235,undefined,undefined,dialogue,Dorothy,Heeeeeeello~
+236,undefined,undefined,dialogue,Deal,Hm?
+237,undefined,undefined,dialogue,Dorothy,The bar's favorite sweetheart has arrived!
+238,undefined,undefined,dialogue,Dorothy,...
+239,undefined,undefined,dialogue,Jill,...why are you quiet?
+240,undefined,undefined,dialogue,Dorothy,I'm waiting for the audience's cheers to stop.
+241,undefined,undefined,dialogue,Jill,This isn't a sitcom.
+242,undefined,undefined,dialogue,Dorothy,"Ah, honey, how innocent..."
+243,undefined,undefined,dialogue,Deal,"Um... excuse me, you are...?"
+244,undefined,undefined,dialogue,Dorothy,"I'm the lovely Dorothy Haze, at your ser-..."
+245,undefined,undefined,dialogue,Dorothy,"WAIT! You're a Lilim. Not at your service, then..."
+246,undefined,undefined,dialogue,Deal,...?
+247,undefined,undefined,dialogue,Jill,Don't be rude to other clients.
+248,undefined,undefined,dialogue,Jill,She's kind of a regular here.
+249,undefined,undefined,dialogue,Dorothy,"""Kind of""? I've been coming here religiously for the past three months now. THREE MONTHS."
+250,undefined,undefined,dialogue,Dorothy,"I come here to see your charming face and you say I'm just kind of"" a regular?"
+251,undefined,undefined,dialogue,Dorothy,"For shame, honey. For shame!"
+252,undefined,undefined,dialogue,Jill,I'm sorry... I guess.
+253,undefined,undefined,dialogue,Dorothy,Nothing a free drink won't solve.
+254,undefined,undefined,dialogue,Jill,Won't do.
+255,undefined,undefined,dialogue,Dorothy,Huh? You playing hard to get?
+256,undefined,undefined,dialogue,Jill,...
+257,undefined,undefined,dialogue,Jill,"Even if I wanted to give you a drink, we're booked for the whole weekend."
+258,undefined,undefined,dialogue,Dorothy,Don't you think you should at least put a sign out front or something?
+259,undefined,undefined,dialogue,Jill,"Hey, I only found out myself just a few minutes ago."
+260,undefined,undefined,dialogue,Deal,She can have one of my tickets if you're okay with it.
+261,undefined,undefined,dialogue,Jill,I see no problem.
+262,undefined,undefined,dialogue,Dorothy,"Oh, you're so sweet! If you were at least 40% organic, I would give you a discount."
+263,undefined,undefined,dialogue,Deal,Discount?
+264,undefined,undefined,dialogue,Jill,You don't need to know.
+265,undefined,undefined,dialogue,Dorothy,"So, who booked you? This guy?"
+266,undefined,undefined,dialogue,Jill,The Seifar Toy Company.
+267,undefined,undefined,dialogue,Dorothy,What do they do?
+268,undefined,undefined,dialogue,Deal,We... um... They create dog toys.
+269,undefined,undefined,dialogue,Dorothy,"Oh, lovely."
+270,undefined,undefined,dialogue,Jill,It's also run by dogs.
+271,undefined,undefined,dialogue,Dorothy,"Oh, don't joke like that."
+272,undefined,undefined,dialogue,Jill,You think I'd kid about something like that?
+273,undefined,undefined,dialogue,Dorothy,...
+274,undefined,undefined,dialogue,Dorothy,...y-you mean that if I turn around I'd s-s-see dogs?
+275,undefined,undefined,dialogue,Jill,"Yeah, didn't you see them when you came in?"
+276,undefined,undefined,dialogue,Dorothy,I-I-I just entered without looking anywhere else but the bar!
+277,undefined,undefined,dialogue,Deal,You look troubled.
+278,undefined,undefined,dialogue,Dorothy,"I-I'm not too much of a dog p-p-person, I even charge extra if my clients want it doggy style..."
+279,undefined,undefined,dialogue,Deal,Doggy...?
+280,undefined,undefined,dialogue,Jill,You don't need to know.
+281,undefined,undefined,dialogue,Dorothy,I'm gonna take this ticket and trade it in next Monday. I'm leaving right n-now...
+282,undefined,undefined,dialogue,Jill,The ticket would've expired by then though.
+283,undefined,undefined,dialogue,Deal,She looks like the kind of girl that will hold you to your promise regardless.
+284,undefined,undefined,dialogue,Jill,Is it that obvious?
+285,undefined,undefined,dialogue,Deal,"Well, I have to gather the cabs outside. Keep it up, bartender. Good night."
+286,undefined,undefined,dialogue,Jill,"Yeah, you too. Good night. Come again."
+287,undefined,undefined,dialogue,Deal,"All right, sirs. The night's over. You have kennels you need to return to!"
+288,undefined,undefined,dialogue,Dana,All done?
+289,undefined,undefined,dialogue,Jill,Yeah.
+290,undefined,undefined,dialogue,Jill,"Boss, how do you end up being booked by dogs?"
+291,undefined,undefined,dialogue,Dana,I know some dogs myself.
+292,undefined,undefined,dialogue,Jill,Huh...
+293,undefined,undefined,dialogue,Jill,"And you told me we're booked the whole weekend, right?"
+294,undefined,undefined,dialogue,Dana,That's right.
+295,undefined,undefined,dialogue,Jill,...
+296,undefined,undefined,dialogue,Dana,"Please bear with it, we're all doing our part after all."
+297,undefined,undefined,dialogue,Jill,"Yeah, yeah..."
+298,undefined,undefined,dialogue,Jill,"Well, I gotta go for today. Bye."
+299,undefined,undefined,dialogue,Dana,Take care.
+300,undefined,undefined,dialogue,Dana,Take care.

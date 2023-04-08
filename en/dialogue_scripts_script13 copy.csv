@@ -1,0 +1,783 @@
+line,filename,lines,type,character,text
+0,script13.txt,782,META,undefined,undefined
+2,undefined,undefined,dialogue,Dana,"Alright then, rules are simple. If you get picked, you pick either Truth or Dare."
+3,undefined,undefined,dialogue,Dana,"After you finish, you get to pick somebody else."
+4,undefined,undefined,dialogue,Dana,We go like that until food's done.
+5,undefined,undefined,dialogue,Alma,What about punishment games?
+6,undefined,undefined,dialogue,Dana,Those are a hassle. Just issue new questions or challenges until the other person complies.
+7,undefined,undefined,dialogue,Dana,That said... Jill!
+8,undefined,undefined,dialogue,Jill,YES?!
+9,undefined,undefined,dialogue,Dana,You start. Pick someone.
+10,undefined,undefined,dialogue,Jill,Oh... um...
+11,undefined,undefined,dialogue,Jill,Let's see...
+12,undefined,undefined,dialogue,Jill,Okay. Boss...
+13,undefined,undefined,dialogue,Dana,I pick Dare.
+14,undefined,undefined,dialogue,Jill,Dare? Uh...
+15,undefined,undefined,dialogue,Jill,Suplex Gil.
+16,undefined,undefined,dialogue,Gillian,Suplex who?
+17,undefined,undefined,dialogue,Dana,SUCKAAAAAAAAAAAAAH!
+18,undefined,undefined,dialogue,Gillian,AGH!
+19,undefined,undefined,dialogue,Dana,Alright! Gillian Kneute! Get up!
+20,undefined,undefined,dialogue,Gillian,Ouch... Who?
+21,undefined,undefined,dialogue,Dana,Truth or Dare?
+22,undefined,undefined,dialogue,Gillian,Hm... Dare?
+23,undefined,undefined,dialogue,Dana,I dare you to lift Jamie with one hand!
+24,undefined,undefined,dialogue,Gillian,...you just wanted to ask me something right? Okay then. Truth.
+25,undefined,undefined,dialogue,Dana,Did you or did you not have a brief stint as bodyguard to a certain Madame Laverne six years ago?
+26,undefined,undefined,dialogue,Gillian,Huh? Six years ago?
+27,undefined,undefined,dialogue,Gillian,I don't think so. I don't even know any Madame Laverne.
+28,undefined,undefined,dialogue,Dana,"Alright, that's one possibility off the list."
+29,undefined,undefined,dialogue,Gillian,...
+30,undefined,undefined,dialogue,Gillian,Alright then... um...
+31,undefined,undefined,dialogue,Dorothy,Me! Pick me!
+32,undefined,undefined,dialogue,Gillian,"You, the dog."
+33,undefined,undefined,dialogue,Dorothy,Come on!
+34,undefined,undefined,dialogue,Rad Shiba,Dare! I dare you!
+35,undefined,undefined,dialogue,Gillian,"No, I'm the one that dares you."
+36,undefined,undefined,dialogue,Rad Shiba,Bring it on!
+37,undefined,undefined,dialogue,Gillian,Um... roll.
+38,undefined,undefined,dialogue,Rad Shiba,Sir! Yes sir!
+39,undefined,undefined,dialogue,Gillian,You're not rolling.
+40,undefined,undefined,dialogue,Rad Shiba,Sir! Yes sir!
+41,undefined,undefined,dialogue,Gillian,"...whatever, you did it."
+42,undefined,undefined,dialogue,Rad Shiba,Woohoo!
+43,undefined,undefined,dialogue,Rad Shiba,"Alright, J! Truth or Dare?"
+44,undefined,undefined,dialogue,Jill,...truth.
+45,undefined,undefined,dialogue,Rad Shiba,Are those things on your head your ears?
+46,undefined,undefined,dialogue,Jill,My... eh?
+47,undefined,undefined,dialogue,Alma,Your twintails.
+48,undefined,undefined,dialogue,Jill,"Ah. No, they're not."
+49,undefined,undefined,dialogue,Rad Shiba,"Oh, I see."
+50,undefined,undefined,dialogue,Jill,...
+51,undefined,undefined,dialogue,Jill,"Well then, Dorothy."
+52,undefined,undefined,dialogue,Dorothy,Yes!
+53,undefined,undefined,dialogue,Jill,Truth or Dare?
+54,undefined,undefined,dialogue,Dorothy,Let's go with... Truth!
+55,undefined,undefined,dialogue,Jill,Is there anything you have rejected from clients?
+56,undefined,undefined,dialogue,Dorothy,Those who want to roleplay with mutilation.
+57,undefined,undefined,dialogue,Jill,Huh...
+58,undefined,undefined,dialogue,Dorothy,"I mean sure, I can take off my limbs with no problem. I have to do that for maintenance every now and again."
+59,undefined,undefined,dialogue,Dorothy,"But I'm not okay with doing it for clients. Because first: that leaves me defenseless, which I cannot allow by any means."
+60,undefined,undefined,dialogue,Dorothy,"And second: Half of the time, the roleplay involves a violent scenario."
+61,undefined,undefined,dialogue,Dorothy,"And there are some behaviours I won't reinforce, namely non-consensual violence of any kind."
+62,undefined,undefined,dialogue,Jill,Interesting.
+63,undefined,undefined,dialogue,Dorothy,Alright then. My turn.
+64,undefined,undefined,dialogue,Dorothy,You! Sweater pups!
+65,undefined,undefined,dialogue,Alma,Me?
+66,undefined,undefined,dialogue,Dorothy,Truth or Dare?
+67,undefined,undefined,dialogue,Alma,Um... Dare?
+68,undefined,undefined,dialogue,Jill,"Man, you're brave... or stupid."
+69,undefined,undefined,dialogue,Dorothy,"Okay, I want you to say in the most sultry voice you can muster: ""admin override""."
+70,undefined,undefined,dialogue,Alma,Okay...?
+71,undefined,undefined,dialogue,Alma,*ahem*
+72,undefined,undefined,dialogue,Alma,Admin... Override.
+73,undefined,undefined,dialogue,Jill,...
+74,undefined,undefined,dialogue,Alma,Happy?
+75,undefined,undefined,dialogue,Dorothy,"Yes, very."
+76,undefined,undefined,dialogue,Dana,Seems you caused some collateral damage here.
+77,undefined,undefined,dialogue,Alma,Hm?
+78,undefined,undefined,dialogue,Gillian,I-I don't know what you're talking about.
+79,undefined,undefined,dialogue,Jill,Don't mind me.
+80,undefined,undefined,dialogue,Alma,Seriously guys?
+81,undefined,undefined,dialogue,Alma,"Well, let's see..."
+82,undefined,undefined,dialogue,Alma,"You, the dog."
+83,undefined,undefined,dialogue,Rad Shiba,My name is...
+84,undefined,undefined,dialogue,Alma,"Yeah, whatever. I want you to bark."
+85,undefined,undefined,dialogue,Rad Shiba,I haven't picked dare.
+86,undefined,undefined,dialogue,Alma,I said: Bark.
+87,undefined,undefined,dialogue,Rad Shiba,Bark!
+88,undefined,undefined,dialogue,Alma,I asked you to do it. Not to say it.
+89,undefined,undefined,dialogue,Rad Shiba,Bark! Barking!
+90,undefined,undefined,dialogue,Rad Shiba,"Hey! If I bark, then I'm the king of the bar! 'cause I'm barking!"
+91,undefined,undefined,dialogue,Jill,*pffft*
+92,undefined,undefined,dialogue,Alma,"Seriously, Jill?"
+93,undefined,undefined,dialogue,Jill,"Yeah, yeah. I have a lame sense of humor. Whatever."
+94,undefined,undefined,dialogue,Rad Shiba,"Alright, my turn!"
+95,undefined,undefined,dialogue,Rad Shiba,Hey J! Truth or Dare?
+96,undefined,undefined,dialogue,Jill,Um... Dare.
+97,undefined,undefined,dialogue,Rad Shiba,Then... pet me!
+98,undefined,undefined,dialogue,Jill,I'll pick Truth.
+99,undefined,undefined,dialogue,Rad Shiba,Okay... why are your nails so thin?
+100,undefined,undefined,dialogue,Jill,My... eh?
+101,undefined,undefined,dialogue,Rad Shiba,Your nails! You won't be able to dig with such flimsy nails!
+102,undefined,undefined,dialogue,Jill,Um... all humans have nails like these.
+103,undefined,undefined,dialogue,Rad Shiba,"Wait, they do?"
+104,undefined,undefined,dialogue,Rad Shiba,How do you dig?
+105,undefined,undefined,dialogue,Jill,With shovels.
+106,undefined,undefined,dialogue,Rad Shiba,You guys are weird.
+107,undefined,undefined,dialogue,Dana,Why are you so reluctant to pet him?
+108,undefined,undefined,dialogue,Jill,Call it a gut feeling.
+109,undefined,undefined,dialogue,Jill,"Okay then, dog."
+110,undefined,undefined,dialogue,Rad Shiba,Yes!
+111,undefined,undefined,dialogue,Jill,I dare you to go out and stay there.
+112,undefined,undefined,dialogue,Rad Shiba,That's easy!
+113,undefined,undefined,dialogue,Jill,...
+114,undefined,undefined,dialogue,Jill,And that's one problem less.
+115,undefined,undefined,dialogue,Dana,...
+116,undefined,undefined,dialogue,Dana,"Well, why don't you continue in the dog's place, Dorothy."
+117,undefined,undefined,dialogue,Dorothy,Alright!
+118,undefined,undefined,dialogue,Dorothy,"I dare you, Dana, to pick up honey and carry her like a bride!"
+119,undefined,undefined,dialogue,Dana,Alright.
+120,undefined,undefined,dialogue,Jill,"Wait, what?!"
+121,undefined,undefined,dialogue,Dana,"Come, Jill. Get up."
+122,undefined,undefined,dialogue,Jill,...!
+123,undefined,undefined,dialogue,Jill,...
+124,undefined,undefined,dialogue,Dorothy,(You're welcome.)
+125,undefined,undefined,dialogue,Jill,"Oh, shut up."
+126,undefined,undefined,dialogue,Dana,"Okay then, Jill."
+127,undefined,undefined,dialogue,Jill,Yes?!
+128,undefined,undefined,dialogue,Dana,Truth or Dare?
+129,undefined,undefined,dialogue,Jill,Um... dare?
+130,undefined,undefined,dialogue,Dana,I want you to say...
+131,undefined,undefined,dialogue,Jill,...yes?
+132,undefined,undefined,dialogue,Dana,"""How can a clam cram in a clean cream can?"""
+133,undefined,undefined,dialogue,Jill,...eh?
+134,undefined,undefined,dialogue,Dana,It's a tongue twister. Say it.
+135,undefined,undefined,dialogue,Jill,...
+136,undefined,undefined,dialogue,Jill,"""How can a clam cram in a clean cream can?"""
+137,undefined,undefined,dialogue,Dana,Faster!
+138,undefined,undefined,dialogue,Jill,"""How can a clam cram in a clean cream can?"" ""How can a clam cram in a clean cream can?"""
+139,undefined,undefined,dialogue,Dana,You make it seem so easy...
+140,undefined,undefined,dialogue,Alma,"""How can a clam clam-..."" Damn."
+141,undefined,undefined,dialogue,Gillian,"""How can a clam cram in a crean-..."" Agh!"
+142,undefined,undefined,dialogue,Dorothy,"""How can a cram-..."" Oops."
+143,undefined,undefined,dialogue,Jill,"(Wait, Lilim get confused by tongue twisters?)"
+144,undefined,undefined,dialogue,Jill,Um... Boss.
+145,undefined,undefined,dialogue,Dana,Yes?
+146,undefined,undefined,dialogue,Jill,You can drop me now.
+147,undefined,undefined,dialogue,Dana,"Oh, right."
+148,undefined,undefined,dialogue,Jill,Hm... Alma.
+149,undefined,undefined,dialogue,Alma,Let's go with Truth.
+150,undefined,undefined,dialogue,Jill,What's the most uncomfortable thing that has happened to those arms of yours?
+151,undefined,undefined,dialogue,Alma,Uncomfortable...
+152,undefined,undefined,dialogue,Alma,They get stuck a lot on clothes and fibers. Sometimes the joints get jammed with cloth.
+153,undefined,undefined,dialogue,Jill,"Just how much of those arms are mechanical, anyway?"
+154,undefined,undefined,dialogue,Alma,Less than you think. The only things I truly lost were my hands.
+155,undefined,undefined,dialogue,Alma,"The arm muscles are still mine, albeit with some enhancements."
+156,undefined,undefined,dialogue,Alma,And my skin doesn't grow on them. They're covered by the plates.
+157,undefined,undefined,dialogue,Alma,"It's more an enhancement than a replacement, really."
+158,undefined,undefined,dialogue,Jill,Huh.
+159,undefined,undefined,dialogue,Alma,Well then...
+160,undefined,undefined,dialogue,Alma,Hey Boss!
+161,undefined,undefined,dialogue,Dana,Me?
+162,undefined,undefined,dialogue,Alma,Truth or Dare?
+163,undefined,undefined,dialogue,Dana,Dare me. I dare you.
+164,undefined,undefined,dialogue,Alma,Hm... Use an Argentine Backbreaker on Nick.
+165,undefined,undefined,dialogue,Dana,Surely.
+166,undefined,undefined,dialogue,Dana,NIIIIIIIIIIIIIIIIIIICK!!!
+167,undefined,undefined,dialogue,Gillian,whoAAAAAAAGH!!
+168,undefined,undefined,dialogue,Gillian,I give! I give!
+169,undefined,undefined,dialogue,Dana,Only after you answer this.
+170,undefined,undefined,dialogue,Gillian,What?!
+171,undefined,undefined,dialogue,Dana,Does the name Joseph Valentine ring any bells?
+172,undefined,undefined,dialogue,Gillian,"I know of a Joseph Shine, but not Valentine."
+173,undefined,undefined,dialogue,Dana,Joseph Shine... alright then...
+174,undefined,undefined,dialogue,Gillian,"...I guess it's my turn, um..."
+175,undefined,undefined,dialogue,Gillian,"Hey, Chief. Can you drop me?"
+176,undefined,undefined,dialogue,Dana,"Oh, right."
+177,undefined,undefined,dialogue,Gillian,...
+178,undefined,undefined,dialogue,Gillian,"Hey, Jill. Truth or Dare?"
+179,undefined,undefined,dialogue,Jill,I'll pick Dare.
+180,undefined,undefined,dialogue,Gillian,Pet the dog.
+181,undefined,undefined,dialogue,Jill,"Yeah, whatever."
+182,undefined,undefined,dialogue,Jill,"C'mere, mutt."
+183,undefined,undefined,dialogue,Rad Shiba,Yes! Come on! Pet me harder! Is that all you've got?!
+184,undefined,undefined,dialogue,Jill,"Ah, fuck you."
+185,undefined,undefined,dialogue,Jill,"Okay then, Gil. What do you pick?"
+186,undefined,undefined,dialogue,Gillian,Um... truth.
+187,undefined,undefined,dialogue,Jill,What's your last name?
+188,undefined,undefined,dialogue,Gillian,Dare! I pick Dare!
+189,undefined,undefined,dialogue,Jill,...
+190,undefined,undefined,dialogue,Jill,Try to make a Sugar Rush with your eyes closed.
+191,undefined,undefined,dialogue,Gillian,Alright.
+192,undefined,undefined,dialogue,Jill,...
+193,undefined,undefined,dialogue,Gillian,Here.
+194,undefined,undefined,dialogue,Jill,This is a Beer...
+195,undefined,undefined,dialogue,Jill,"Well, it works... I think."
+196,undefined,undefined,dialogue,Gillian,"My turn, right? Well..."
+197,undefined,undefined,dialogue,Dorothy,Me! Pick me!
+198,undefined,undefined,dialogue,Gillian,"You, the dog."
+199,undefined,undefined,dialogue,Dorothy,Come on!
+200,undefined,undefined,dialogue,Rad Shiba,Dare! I dare you!
+201,undefined,undefined,dialogue,Gillian,"No, I'm the one that dares you."
+202,undefined,undefined,dialogue,Rad Shiba,Bring it on!
+203,undefined,undefined,dialogue,Gillian,Um... sit.
+204,undefined,undefined,dialogue,Rad Shiba,Sir! Yes sir!
+205,undefined,undefined,dialogue,Gillian,You're not sitting.
+206,undefined,undefined,dialogue,Rad Shiba,Sir! Yes sir!
+207,undefined,undefined,dialogue,Gillian,"...whatever, you did it."
+208,undefined,undefined,dialogue,Rad Shiba,"Alright! You, the blonde. Pet me."
+209,undefined,undefined,dialogue,Alma,"Eh, whatever."
+210,undefined,undefined,dialogue,Rad Shiba,Your hands are cold.
+211,undefined,undefined,dialogue,Alma,"Colder than your usual hands, I guess."
+212,undefined,undefined,dialogue,Alma,Alright then... Jill!
+213,undefined,undefined,dialogue,Jill,I'll go with Dare.
+214,undefined,undefined,dialogue,Alma,Give me a shoulder massage.
+215,undefined,undefined,dialogue,Jill,...really?
+216,undefined,undefined,dialogue,Alma,Really.
+217,undefined,undefined,dialogue,Jill,Okay...
+218,undefined,undefined,dialogue,Jill,...
+219,undefined,undefined,dialogue,Alma,You are good at this.
+220,undefined,undefined,dialogue,Jill,My grandpa taught me how years ago.
+221,undefined,undefined,dialogue,Alma,How old were you when your grandpa died?
+222,undefined,undefined,dialogue,Jill,"14 or so, if memory serves right."
+223,undefined,undefined,dialogue,Alma,Then he was-...
+224,undefined,undefined,dialogue,Alma,...
+225,undefined,undefined,dialogue,Alma,Sorry. Need to use the bathroom.
+226,undefined,undefined,dialogue,Dana,Jill... what did that massage do exactly?
+227,undefined,undefined,dialogue,Jill,It was a regular massage. I might have accidentally unclasped her bra though.
+228,undefined,undefined,dialogue,Jill,It felt like something snapped.
+229,undefined,undefined,dialogue,Dorothy,"Well, just imagine the pressure the poor thing must be a subject to."
+230,undefined,undefined,dialogue,Gillian,You have a pretty triumphant look on your face though.
+231,undefined,undefined,dialogue,Jill,Wouldn't you?
+232,undefined,undefined,dialogue,Gillian,I wonder...
+233,undefined,undefined,dialogue,Alma,"If everyone's done talking about my bra, let's move on."
+234,undefined,undefined,dialogue,Jill,(I wonder how long until the food is done.)
+235,undefined,undefined,dialogue,Jill,"Alright, Boss. Pick."
+236,undefined,undefined,dialogue,Dana,Truth me.
+237,undefined,undefined,dialogue,Jill,How did you get your arm?
+238,undefined,undefined,dialogue,Dana,"On second thought, dare me."
+239,undefined,undefined,dialogue,Jill,...
+240,undefined,undefined,dialogue,Jill,Lift Gil by the neck of his shirt.
+241,undefined,undefined,dialogue,Dana,Okay.
+242,undefined,undefined,dialogue,Gillian,Eh?!
+243,undefined,undefined,dialogue,Gillian,Wah!
+244,undefined,undefined,dialogue,Dana,Happy?
+245,undefined,undefined,dialogue,Jill,I guess. Who cares? I didn't hear about your arm.
+246,undefined,undefined,dialogue,Gillian,I do! I care!
+247,undefined,undefined,dialogue,Dana,"Alright, Gil. Now that I have you in this position, answer me."
+248,undefined,undefined,dialogue,Gillian,I didn't pick...
+249,undefined,undefined,dialogue,Dana,You're in no position to pick! Now answer!
+250,undefined,undefined,dialogue,Dana,Did you live in Scotland for two years?
+251,undefined,undefined,dialogue,Gillian,Scotland? No...
+252,undefined,undefined,dialogue,Dana,I guess that rules out a couple of possibilities...
+253,undefined,undefined,dialogue,Gillian,Um... Chief...
+254,undefined,undefined,dialogue,Dana,"What? Oh right, I'm still lifting you. Sorry."
+255,undefined,undefined,dialogue,Gillian,And now she apologizes...
+256,undefined,undefined,dialogue,Gillian,I guess it's my turn...
+257,undefined,undefined,dialogue,Gillian,"Hey, Alma. Truth or Dare?"
+258,undefined,undefined,dialogue,Alma,Hm... Dare.
+259,undefined,undefined,dialogue,Dorothy,Oh! Oh! I have a suggestion!
+260,undefined,undefined,dialogue,Jill,You stay quiet.
+261,undefined,undefined,dialogue,Dorothy,Fiiiiiiiiine.
+262,undefined,undefined,dialogue,Gillian,Hm... how strong are those arms of yours?
+263,undefined,undefined,dialogue,Alma,It's still my muscles under them so... not very.
+264,undefined,undefined,dialogue,Alma,Although not having fleshy skin makes things easier.
+265,undefined,undefined,dialogue,Alma,"Wait. That's Truth, not Dare."
+266,undefined,undefined,dialogue,Gillian,I just wanted to make sure.
+267,undefined,undefined,dialogue,Gillian,I dare you to break this nut with your hands.
+268,undefined,undefined,dialogue,Alma,Okay.
+269,undefined,undefined,dialogue,Gillian,"Well, that was easy."
+270,undefined,undefined,dialogue,Dana,"Holy shit, Gil. Are you really into that?"
+271,undefined,undefined,dialogue,Gillian,Eh?
+272,undefined,undefined,dialogue,Jill,"Asking a woman to break a nut in her hands and then watching her eat it, does that turn you on?"
+273,undefined,undefined,dialogue,Gillian,Eh?!
+274,undefined,undefined,dialogue,Dorothy,"Wait, wait... is this an actual thing that turns guys on? I need to know for professional reasons."
+275,undefined,undefined,dialogue,Gillian,*sigh*
+276,undefined,undefined,dialogue,Alma,"...you're a pervert, Gilbert."
+277,undefined,undefined,dialogue,Gillian,"Gil-... wait, that was close this time."
+278,undefined,undefined,dialogue,Alma,My turn then? Alright.
+279,undefined,undefined,dialogue,Alma,"Hey Jill, pick."
+280,undefined,undefined,dialogue,Jill,Um... truth.
+281,undefined,undefined,dialogue,Alma,Okay then. What's your most embarrassing childhood dream?
+282,undefined,undefined,dialogue,Jill,Um... elaborate?
+283,undefined,undefined,dialogue,Alma,"For example: when I was a girl I wanted to be a ""Professional Puzzle Master""."
+284,undefined,undefined,dialogue,Alma,"I guess, in a way, I accomplished that, but you understand."
+285,undefined,undefined,dialogue,Jill,...
+286,undefined,undefined,dialogue,Jill,I wanted to be a... ventriloquist.
+287,undefined,undefined,dialogue,Alma,Huh?
+288,undefined,undefined,dialogue,Jill,"When I was a child, I liked this show called Lucia's Fun House."
+289,undefined,undefined,dialogue,Alma,The one with the woman in the house with the talking stuff?
+290,undefined,undefined,dialogue,Jill,That one.
+291,undefined,undefined,dialogue,Jill,"My parents divorced when I was around... six, I think."
+292,undefined,undefined,dialogue,Jill,Mom was on tour with an orchestra and my dad was working constantly.
+293,undefined,undefined,dialogue,Jill,"I spent a lot of time with my grandpa, but he slept a lot, so I was on my own most of the time."
+294,undefined,undefined,dialogue,Jill,I liked to pretend things like chairs or beds could talk. And since AI wasn't so advanced back then...
+295,undefined,undefined,dialogue,Jill,"Anyway, I went to a magic show once, and there was this guy making a puppet talk."
+296,undefined,undefined,dialogue,Jill,"My dad told me he was a ""ventriloquist"" so I kinda obsessed about wanting to be one."
+297,undefined,undefined,dialogue,Jill,"Even today, I'd be lying if I said that I don't think about it every now and then."
+298,undefined,undefined,dialogue,Dana,So that's why you pretend Fore can talk.
+299,undefined,undefined,dialogue,Alma,She what?!
+300,undefined,undefined,dialogue,Jill,Nothing.
+301,undefined,undefined,dialogue,Jill,Hm... Dorothy.
+302,undefined,undefined,dialogue,Dorothy,Yes! I pick Dare!
+303,undefined,undefined,dialogue,Jill,"Okay, I want you to put your leg behind your head."
+304,undefined,undefined,dialogue,Dorothy,Just that? Alright...
+305,undefined,undefined,dialogue,Jill,"So, the extra-flexible joints weren't just a bluff."
+306,undefined,undefined,dialogue,Dorothy,I never bluff!
+307,undefined,undefined,dialogue,Dorothy,I'm pretty sure I heard something rip though.
+308,undefined,undefined,dialogue,Dorothy,Okay then. Dana!
+309,undefined,undefined,dialogue,Dana,I pick Dare.
+310,undefined,undefined,dialogue,Dorothy,I dare you to stare honey straight in the eyes for ten seconds.
+311,undefined,undefined,dialogue,Dana,Hm? Sure.
+312,undefined,undefined,dialogue,Jill,...
+313,undefined,undefined,dialogue,Dana,...
+314,undefined,undefined,dialogue,Jill,Um...
+315,undefined,undefined,dialogue,Dana,...
+316,undefined,undefined,dialogue,Jill,"Please, stop."
+317,undefined,undefined,dialogue,Dana,Seven seconds...
+318,undefined,undefined,dialogue,Jill,...
+319,undefined,undefined,dialogue,Dana,And done.
+320,undefined,undefined,dialogue,Dana,"Okay then, dog!"
+321,undefined,undefined,dialogue,Rad Shiba,Yes! Challenge me!
+322,undefined,undefined,dialogue,Dana,"Chase your tail... but only make three spins. No more, no less."
+323,undefined,undefined,dialogue,Rad Shiba,Alright!
+324,undefined,undefined,dialogue,Jill,...
+325,undefined,undefined,dialogue,Rad Shiba,Done!
+326,undefined,undefined,dialogue,Dana,That was four.
+327,undefined,undefined,dialogue,Rad Shiba,And now?
+328,undefined,undefined,dialogue,Dana,Two.
+329,undefined,undefined,dialogue,Rad Shiba,AAAAAAAAAAAAAGH!
+330,undefined,undefined,dialogue,Dana,That was three. Good job.
+331,undefined,undefined,dialogue,Rad Shiba,Alright!
+332,undefined,undefined,dialogue,Rad Shiba,Hey J! Pick one!
+333,undefined,undefined,dialogue,Jill,Dare.
+334,undefined,undefined,dialogue,Rad Shiba,I dare you to call me a good boy!
+335,undefined,undefined,dialogue,Jill,...good boy.
+336,undefined,undefined,dialogue,Rad Shiba,Yes!!!
+337,undefined,undefined,dialogue,Dana,"Okay, then... Gil!"
+338,undefined,undefined,dialogue,Gillian,Yes?
+339,undefined,undefined,dialogue,Dana,Truth or Truth?
+340,undefined,undefined,dialogue,Gillian,Um... truth?
+341,undefined,undefined,dialogue,Dana,Have you ever heard of the Unicorn Gang?
+342,undefined,undefined,dialogue,Gillian,"Ah, yeah. The person that got me into Glitch City is part of it, actually."
+343,undefined,undefined,dialogue,Dana,"Dammit, that makes me backtrack a bit."
+344,undefined,undefined,dialogue,Gillian,...?
+345,undefined,undefined,dialogue,Gillian,"Okay then... hey Jill, pick."
+346,undefined,undefined,dialogue,Jill,I'll go with Dare.
+347,undefined,undefined,dialogue,Gillian,Can you spin your twintails?
+348,undefined,undefined,dialogue,Jill,I guess...
+349,undefined,undefined,dialogue,Gillian,Then please...
+350,undefined,undefined,dialogue,Jill,...
+351,undefined,undefined,dialogue,Gillian,Um...
+352,undefined,undefined,dialogue,Gillian,You're just spinning yourself on the chair.
+353,undefined,undefined,dialogue,Jill,And the twintails with me.
+354,undefined,undefined,dialogue,Gillian,That's not what I had in mind.
+355,undefined,undefined,dialogue,Jill,Then be more specific next time.
+356,undefined,undefined,dialogue,Dana,"Your turn, Jill."
+357,undefined,undefined,dialogue,Jill,"Hold on, I'm dizzy..."
+358,undefined,undefined,dialogue,Jill,"Okay then, dog."
+359,undefined,undefined,dialogue,Rad Shiba,Yes!
+360,undefined,undefined,dialogue,Jill,I dare you to go out and stay there.
+361,undefined,undefined,dialogue,Rad Shiba,That's easy!
+362,undefined,undefined,dialogue,Jill,And that's one problem less.
+363,undefined,undefined,dialogue,Dana,...
+364,undefined,undefined,dialogue,Dana,"Well, then. Why don't you continue in the dog's place, Dorothy?"
+365,undefined,undefined,dialogue,Dorothy,Alright!
+366,undefined,undefined,dialogue,Dorothy,"Hey, sweater pups. What do you pick?"
+367,undefined,undefined,dialogue,Alma,Let's go with dare.
+368,undefined,undefined,dialogue,Dorothy,I dare you to put on some twintails!
+369,undefined,undefined,dialogue,Alma,Sure.
+370,undefined,undefined,dialogue,Alma,"Hey Jill, lend me your hair ties for a second."
+371,undefined,undefined,dialogue,Jill,Alright.
+372,undefined,undefined,dialogue,Alma,"I haven't worn twintails since elementary school, now that I think about it."
+373,undefined,undefined,dialogue,Alma,Is this good?
+374,undefined,undefined,dialogue,Dorothy,Yup!
+375,undefined,undefined,dialogue,Alma,"Alright, let me untie them. Too breezy for my taste."
+376,undefined,undefined,dialogue,Alma,Then... Jill!
+377,undefined,undefined,dialogue,Jill,I'll go with Truth.
+378,undefined,undefined,dialogue,Alma,"If you had to spend two hours in a pressurization chamber with someone, who would you pick?"
+379,undefined,undefined,dialogue,Jill,Out of what pool of people?
+380,undefined,undefined,dialogue,Alma,The ones here right now.
+381,undefined,undefined,dialogue,Jill,Hm...
+382,undefined,undefined,dialogue,Jill,I guess either you or Jamie.
+383,undefined,undefined,dialogue,Alma,Oh?
+384,undefined,undefined,dialogue,Jill,"Yeah, I mean. If I went into a chamber with Dorothy, it'd be... fishy."
+385,undefined,undefined,dialogue,Jill,I know for certain that my Boss would fall asleep because she gets bored easily.
+386,undefined,undefined,dialogue,Jill,And Gil is claustrophobic.
+387,undefined,undefined,dialogue,Alma,Phillip is claustrophobic?
+388,undefined,undefined,dialogue,Gillian,I'm many things...
+389,undefined,undefined,dialogue,Jill,Alright then. Alma.
+390,undefined,undefined,dialogue,Alma,I'll pick truth.
+391,undefined,undefined,dialogue,Jill,What's the most embarrassing thing that has happened to your arms?
+392,undefined,undefined,dialogue,Alma,Well...
+393,undefined,undefined,dialogue,Alma,There was this one time when I got mugged on the street so I... uh...
+394,undefined,undefined,dialogue,Alma,I... kinda threw my hand at the thief to knock him out.
+395,undefined,undefined,dialogue,Jill,Threw?
+396,undefined,undefined,dialogue,Alma,I think it's what you usually call a... rocket punch?
+397,undefined,undefined,dialogue,Jill,So you didn't throw it so much as it... propelled itself towards the thief.
+398,undefined,undefined,dialogue,Alma,Yup.
+399,undefined,undefined,dialogue,Jill,And how is that embarrassing?
+400,undefined,undefined,dialogue,Alma,It was just so cartoony! It's a bit embarrassing.
+401,undefined,undefined,dialogue,Alma,It's a bit impractical too. The hand has a startup time after reattachment.
+402,undefined,undefined,dialogue,Jill,"Yes, but... why add such a function?"
+403,undefined,undefined,dialogue,Dana,Why WOULDN'T you add such a function?
+404,undefined,undefined,dialogue,Jill,Well... because...
+405,undefined,undefined,dialogue,Jill,"Boss, don't tell your arm can also..."
+406,undefined,undefined,dialogue,Dana,This hand of mine is awesome!
+407,undefined,undefined,dialogue,Alma,"My turn, then..."
+408,undefined,undefined,dialogue,Alma,I'll pick Lorenzo.
+409,undefined,undefined,dialogue,Gillian,Gillian.
+410,undefined,undefined,dialogue,Alma,Casimiro. Truth or Dare?
+411,undefined,undefined,dialogue,Gillian,Um... Truth.
+412,undefined,undefined,dialogue,Alma,How do you manage to keep that stubble of yours at the same length all the time?
+413,undefined,undefined,dialogue,Gillian,How do I... eh?
+414,undefined,undefined,dialogue,Alma,"I mean, no matter when I come here, whether it's at 3AM on a weekday or in the afternoon on Sunday, you always have the same three day beard."
+415,undefined,undefined,dialogue,Alma,"It never gets any longer, but you also never shave. How the hell do you do that?!"
+416,undefined,undefined,dialogue,Gillian,Well...
+417,undefined,undefined,dialogue,Dana,"That's a good question, really."
+418,undefined,undefined,dialogue,Jill,Now that I think about it...
+419,undefined,undefined,dialogue,Gillian,Uh...
+420,undefined,undefined,dialogue,Gillian,"I do shave, but... I use an electric razor."
+421,undefined,undefined,dialogue,Gillian,"And set it quite low, so..."
+422,undefined,undefined,dialogue,Alma,...
+423,undefined,undefined,dialogue,Alma,You're not saying something. But whatever.
+424,undefined,undefined,dialogue,Gillian,A-Anyways.
+425,undefined,undefined,dialogue,Gillian,"Um... Chief, Truth or Dare?"
+426,undefined,undefined,dialogue,Dana,Let's go with truth.
+427,undefined,undefined,dialogue,Gillian,This is something I've been meaning to ask for a long time.
+428,undefined,undefined,dialogue,Gillian,"Why is the bar called Valhalla if your designation is ""VA-11""? Shouldn't it be ""VA-1""?"
+429,undefined,undefined,dialogue,Dana,...
+430,undefined,undefined,dialogue,Dana,It WAS going to be that.
+431,undefined,undefined,dialogue,Dana,"When I applied for a bar owner certification through the BTC, Brian told me I would have the VA-1 code."
+432,undefined,undefined,dialogue,Dana,"BUT then came this one guy, and he pulled some strings to get a certification faster."
+433,undefined,undefined,dialogue,Dana,He took MY position and I told Brian to hold off until the VA-11 code became available.
+434,undefined,undefined,dialogue,Dana,This bar remained closed for five months longer than it should have been.
+435,undefined,undefined,dialogue,Dana,What kind of monster takes the chance for a pun from someone?!
+436,undefined,undefined,dialogue,Gillian,...right.
+437,undefined,undefined,dialogue,Dana,Now I need something to cheer myself up.
+438,undefined,undefined,dialogue,Dana,"Hey Jill, I dare you to make this glass ""talk."""
+439,undefined,undefined,dialogue,Jill,...
+440,undefined,undefined,dialogue,Dana,Jill?
+441,undefined,undefined,dialogue,"""Glass""",Oi! Whatcha lookin' at mate? Imma hook ya in yer gabber.
+442,undefined,undefined,dialogue,Dana,"Wow, you actually did it."
+443,undefined,undefined,dialogue,Jill,J-Just this once...
+444,undefined,undefined,dialogue,Dorothy,"Why that accent, though?"
+445,undefined,undefined,dialogue,Jill,I don't know.
+446,undefined,undefined,dialogue,Gillian,Um... let's see...
+447,undefined,undefined,dialogue,Gillian,"Hey, dog."
+448,undefined,undefined,dialogue,Rad Shiba,Dare! Dare!
+449,undefined,undefined,dialogue,Gillian,Then... play dead.
+450,undefined,undefined,dialogue,Rad Shiba,AAAAGH!!
+451,undefined,undefined,dialogue,Gillian,...!
+452,undefined,undefined,dialogue,Rad Shiba,There's not much time left.
+453,undefined,undefined,dialogue,Rad Shiba,I-I want you to know...
+454,undefined,undefined,dialogue,Rad Shiba,I always thought you were...
+455,undefined,undefined,dialogue,Rad Shiba,...a fuckboy.
+456,undefined,undefined,dialogue,Gillian,...
+457,undefined,undefined,dialogue,Rad Shiba,I'm dead.
+458,undefined,undefined,dialogue,Rad Shiba,I'm so dead.
+459,undefined,undefined,dialogue,Rad Shiba,"Hey J, I dare you to bury me."
+460,undefined,undefined,dialogue,Jill,Okay...
+461,undefined,undefined,dialogue,Rad Shiba,I was joking! Joking! Don't bury me for reals! I'm alive!
+462,undefined,undefined,dialogue,Jill,"Okay then, Gil. Pick your poison."
+463,undefined,undefined,dialogue,Gillian,Truth.
+464,undefined,undefined,dialogue,Jill,How did you get into the city? How did you end up here of all places?
+465,undefined,undefined,dialogue,Gillian,To be honest... I just wandered aimlessly for some time.
+466,undefined,undefined,dialogue,Gillian,Stuff happened and I went from place to place.
+467,undefined,undefined,dialogue,Gillian,"Eventually, I came across the city and stumbled upon the bar."
+468,undefined,undefined,dialogue,Gillian,Almost like it was destiny.
+469,undefined,undefined,dialogue,Jill,Huh.
+470,undefined,undefined,dialogue,Gillian,Well then...
+471,undefined,undefined,dialogue,Gillian,"Hey Alma, Truth or Dare?"
+472,undefined,undefined,dialogue,Alma,Dare.
+473,undefined,undefined,dialogue,Gillian,Try reading that sign without your glasses.
+474,undefined,undefined,dialogue,Alma,Alright...
+475,undefined,undefined,dialogue,Alma,"""For... rela... xing times, make it sun... """
+476,undefined,undefined,dialogue,Alma,The rest is torn off.
+477,undefined,undefined,dialogue,Gillian,So you can see without them?
+478,undefined,undefined,dialogue,Alma,I'm not blind. Just mildly uncomfortable without my glasses.
+479,undefined,undefined,dialogue,Alma,"Boss, what do you pick?"
+480,undefined,undefined,dialogue,Dana,I'll go with Dare.
+481,undefined,undefined,dialogue,Alma,Try to undo that bed hair of yours.
+482,undefined,undefined,dialogue,Dana,Bed hair?
+483,undefined,undefined,dialogue,Alma,"Yeah, you know, that one bit of hair that's always protruding."
+484,undefined,undefined,dialogue,Dana,I have no idea what you're saying.
+485,undefined,undefined,dialogue,Alma,"Here, let me try..."
+486,undefined,undefined,dialogue,Alma,...it's very tough.
+487,undefined,undefined,dialogue,Alma,Maybe if I split it... it rejoined on its own?!
+488,undefined,undefined,dialogue,Dana,Silly Armitage.
+489,undefined,undefined,dialogue,Dana,That ahoge is like my willpower.
+490,undefined,undefined,dialogue,Dana,You. Can't. Placate. It.
+491,undefined,undefined,dialogue,Alma,...right.
+492,undefined,undefined,dialogue,Alma,The fuck is an ahoge?
+493,undefined,undefined,dialogue,Dana,"Well, it's..."
+494,undefined,undefined,dialogue,Jill,"Boss, please continue."
+495,undefined,undefined,dialogue,Dana,Right.
+496,undefined,undefined,dialogue,Dana,"Well then, Jill."
+497,undefined,undefined,dialogue,Jill,Truth.
+498,undefined,undefined,dialogue,Dana,What would you do if Fore was a girl AND pregnant?
+499,undefined,undefined,dialogue,Jill,I wouldn't do anything.
+500,undefined,undefined,dialogue,Jill,"I mean, you educate them and give them the tools, but it's up to them in the end."
+501,undefined,undefined,dialogue,Jill,I'd just make sure she was able to cope with it.
+502,undefined,undefined,dialogue,Jill,I'd only call myself a failure if it was the result of personal irresponsibility.
+503,undefined,undefined,dialogue,Jill,"But if it's her choice or if she's at least able to take responsibility, then I can only support her."
+504,undefined,undefined,dialogue,Jill,"After all, she didn't kill someone, she's bringing a new life into this world."
+505,undefined,undefined,dialogue,Dana,...
+506,undefined,undefined,dialogue,Alma,Whoa.
+507,undefined,undefined,dialogue,Dorothy,Hey Honey! Be my mom.
+508,undefined,undefined,dialogue,Gillian,"...Jill, it's a hypothetical scenario. And it's a cat."
+509,undefined,undefined,dialogue,Jill,Your point being?
+510,undefined,undefined,dialogue,Gillian,Hm... Hey dog.
+511,undefined,undefined,dialogue,Rad Shiba,Truth!
+512,undefined,undefined,dialogue,Gillian,What's your owner's name?
+513,undefined,undefined,dialogue,Rad Shiba,I'm not revealing it!
+514,undefined,undefined,dialogue,Rad Shiba,"It might be Tom, it might be James, it might be something else. But I'm not revealing it!"
+515,undefined,undefined,dialogue,Rad Shiba,What I CAN tell you is that my name is-...
+516,undefined,undefined,dialogue,Alma,What if he's called Tom James?
+517,undefined,undefined,dialogue,Rad Shiba,WHO TOLD YOU?!
+518,undefined,undefined,dialogue,Rad Shiba,"Okay then, who's YOUR owner, G?"
+519,undefined,undefined,dialogue,Jill,It's Boss.
+520,undefined,undefined,dialogue,Dorothy,"It's Dana, right?"
+521,undefined,undefined,dialogue,Alma,It's definitely Boss.
+522,undefined,undefined,dialogue,Gillian,"*sigh* Whatever. You take it from here, Jill."
+523,undefined,undefined,dialogue,Jill,(I'm getting hungry.)
+524,undefined,undefined,dialogue,Jill,Hm... Boss.
+525,undefined,undefined,dialogue,Dana,I'll pick dare.
+526,undefined,undefined,dialogue,Jill,Can you lift me with just your non-mechanical arm?
+527,undefined,undefined,dialogue,Dana,...
+528,undefined,undefined,dialogue,Jill,"Alright, you can. You can! Please put me down!"
+529,undefined,undefined,dialogue,Dana,"Well then. Hey Gil, Truth or Dare?"
+530,undefined,undefined,dialogue,Gillian,Can I really pick?
+531,undefined,undefined,dialogue,Gillian,Let's go with dare.
+532,undefined,undefined,dialogue,Dana,Okay then. Please cross your arms.
+533,undefined,undefined,dialogue,Gillian,Alright...
+534,undefined,undefined,dialogue,Dana,Now turn a bit to the left...
+535,undefined,undefined,dialogue,Gillian,...
+536,undefined,undefined,dialogue,Dana,I mean my left.
+537,undefined,undefined,dialogue,Gillian,Oh!
+538,undefined,undefined,dialogue,Dana,A bit more... and now stand still for a second.
+539,undefined,undefined,dialogue,Gillian,...
+540,undefined,undefined,dialogue,Jill,"Boss, is that a picture?"
+541,undefined,undefined,dialogue,Dana,That it is.
+542,undefined,undefined,dialogue,Dana,"Nope, not even same race. Sorry for the trouble."
+543,undefined,undefined,dialogue,Gillian,You were comparing me to a pic?!
+544,undefined,undefined,dialogue,Dana,Yup.
+545,undefined,undefined,dialogue,Gillian,Can I at least see it?
+546,undefined,undefined,dialogue,Dana,No.
+547,undefined,undefined,dialogue,Gillian,...*sigh* Fine.
+548,undefined,undefined,dialogue,Jill,"Okay then, Dorothy."
+549,undefined,undefined,dialogue,Dorothy,Dare!
+550,undefined,undefined,dialogue,Jill,Do something... freaky.
+551,undefined,undefined,dialogue,Dorothy,Like removing my head?
+552,undefined,undefined,dialogue,Jill,Removing your...
+553,undefined,undefined,dialogue,Dorothy,Because I can remove my head with no problem.
+554,undefined,undefined,dialogue,Dorothy,Do you want me to remove my head?
+555,undefined,undefined,dialogue,Jill,I'll pass. I take your word for it.
+556,undefined,undefined,dialogue,Dorothy,Anyone wanna see that?
+557,undefined,undefined,dialogue,Alma,No.
+558,undefined,undefined,dialogue,Gillian,No thank you.
+559,undefined,undefined,dialogue,Dana,"I do, but... I'm not gonna be the party pooper here."
+560,undefined,undefined,dialogue,Dorothy,Fiiiiiiiiine. I guess it's my turn now.
+561,undefined,undefined,dialogue,Dorothy,Hey Dana. What do you pick?
+562,undefined,undefined,dialogue,Dana,I'll pick truth.
+563,undefined,undefined,dialogue,Dorothy,"If you had to marry honey OR John, who would you pick?"
+564,undefined,undefined,dialogue,Dana,Hm...
+565,undefined,undefined,dialogue,Dana,Probably Jill.
+566,undefined,undefined,dialogue,Jill,Eh?!
+567,undefined,undefined,dialogue,Dana,"I mean she's cute, she's smart..."
+568,undefined,undefined,dialogue,Dana,"...and I kinda own Gil anyways, so it's kinda redundant."
+569,undefined,undefined,dialogue,Jill,...
+570,undefined,undefined,dialogue,Gillian,...
+571,undefined,undefined,dialogue,Dana,"Speaking of Gil. Truth or Truth, fuckboy?"
+572,undefined,undefined,dialogue,Gillian,Pick one for me.
+573,undefined,undefined,dialogue,Dana,"Well, where were you born?"
+574,undefined,undefined,dialogue,Gillian,I... don't really know.
+575,undefined,undefined,dialogue,Gillian,It's one of those things I can't remember or was never informed about.
+576,undefined,undefined,dialogue,Gillian,"Strangely, I do remember an early childhood in the Arctic of all places."
+577,undefined,undefined,dialogue,Dana,The Arctic. Huh...
+578,undefined,undefined,dialogue,Jill,"Just ""huh""?"
+579,undefined,undefined,dialogue,Jill,"Okay then, dog."
+580,undefined,undefined,dialogue,Rad Shiba,Yes!
+581,undefined,undefined,dialogue,Jill,I dare you to go out and stay there.
+582,undefined,undefined,dialogue,Rad Shiba,That's easy!
+583,undefined,undefined,dialogue,Jill,And that's one problem less.
+584,undefined,undefined,dialogue,Dana,...
+585,undefined,undefined,dialogue,Dana,"Well then, I'll take the next turn."
+586,undefined,undefined,dialogue,Dana,"Yo, Armitage."
+587,undefined,undefined,dialogue,Alma,Yes?
+588,undefined,undefined,dialogue,Dana,"You're a hacker, right? I dare you to hack a cute pic of Jill out of her phone."
+589,undefined,undefined,dialogue,Alma,"I have old pics, cat pics, selfies. Pick one."
+590,undefined,undefined,dialogue,Dana,"Wait, what?"
+591,undefined,undefined,dialogue,Alma,Jill's phone is a CaliCOMP. They get updates more than any other system in the world.
+592,undefined,undefined,dialogue,Alma,I've made it a weekly ritual to update my CaliCOMP hack program and she's my guinea pig.
+593,undefined,undefined,dialogue,Alma,"I hack into it once a week. And since she takes daily pics, I just take one for that week."
+594,undefined,undefined,dialogue,Alma,"If I'm missing a week, I just look for the missing pic and investigate."
+595,undefined,undefined,dialogue,Dana,"Oooh, interesting."
+596,undefined,undefined,dialogue,Jill,"...you guys do know I'm still here, right?"
+597,undefined,undefined,dialogue,Jill,"Okay, Alma. Truth or Dare?"
+598,undefined,undefined,dialogue,Alma,Hm... Dare.
+599,undefined,undefined,dialogue,Jill,Then I dare you to call Gil by his real name.
+600,undefined,undefined,dialogue,Alma,Gillian.
+601,undefined,undefined,dialogue,Jill,...so you can actually do it.
+602,undefined,undefined,dialogue,Alma,Of course I can. But messing with Dilbert is more fun.
+603,undefined,undefined,dialogue,Gillian,...
+604,undefined,undefined,dialogue,Alma,"Well then, Dorothy. Truth or Dare?"
+605,undefined,undefined,dialogue,Dorothy,I'll pick truth.
+606,undefined,undefined,dialogue,Alma,Do you have any dreams you'd want to eventually fulfill?
+607,undefined,undefined,dialogue,Dorothy,"Well, this might sound silly but... I wanna work with kids."
+608,undefined,undefined,dialogue,Jill,Oh?
+609,undefined,undefined,dialogue,Dorothy,I have a friend that works in an orphanage. I help her from time to time.
+610,undefined,undefined,dialogue,Dorothy,And I find it so much fun to work with kids. I can't explain why...
+611,undefined,undefined,dialogue,Dorothy,"If I had to pick another job or think of something I want to eventually try, that would be it."
+612,undefined,undefined,dialogue,Dorothy,"Teacher, nurse, pediatrician. Something like that."
+613,undefined,undefined,dialogue,Alma,That wasn't an answer I expected.
+614,undefined,undefined,dialogue,Jill,Me neither.
+615,undefined,undefined,dialogue,Dorothy,What are you implying?
+616,undefined,undefined,dialogue,Dorothy,"Okay! Hey, John! Pick!"
+617,undefined,undefined,dialogue,Gillian,Um... Dare.
+618,undefined,undefined,dialogue,Dorothy,I dare you to say something nice about all of us playing.
+619,undefined,undefined,dialogue,Gillian,*sigh* Well...
+620,undefined,undefined,dialogue,Gillian,"You are a pretty cheerful girl, Dorothy."
+621,undefined,undefined,dialogue,Dorothy,Of course I am.
+622,undefined,undefined,dialogue,Gillian,"Chief... well, I pretty much owe you everything for giving my life any semblance of order."
+623,undefined,undefined,dialogue,Dana,Of course you do.
+624,undefined,undefined,dialogue,Gillian,Alma... you can be a really caring person.
+625,undefined,undefined,dialogue,Alma,"""Can be""."
+626,undefined,undefined,dialogue,Gillian,And Jill... you're a pretty smart girl.
+627,undefined,undefined,dialogue,Jill,I wonder if that's true.
+628,undefined,undefined,dialogue,Dorothy,"So, is nobody gonna say anything nice about him in return?"
+629,undefined,undefined,dialogue,Dana,What is there to say? He's one of the nicest and most responsible guys I've met.
+630,undefined,undefined,dialogue,Alma,The kind that gets you talking through an expression of sincere interest.
+631,undefined,undefined,dialogue,Jill,The kind of guy that will go the extra mile even when asked not to.
+632,undefined,undefined,dialogue,Gillian,"...you could always say that more frequently, you know?"
+633,undefined,undefined,dialogue,Jill,"Well then, Gil. What do you pick?"
+634,undefined,undefined,dialogue,Gillian,I'll go with Dare.
+635,undefined,undefined,dialogue,Jill,I dare you to eat this bell pepper.
+636,undefined,undefined,dialogue,Gillian,Truth! I meant Truth!
+637,undefined,undefined,dialogue,Jill,Eat the bell pepper!
+638,undefined,undefined,dialogue,Dana,Eat it! Eat it! Eat it! Eat it! Eat it! Eat it! Eat it! Eat it!
+639,undefined,undefined,dialogue,Gillian,I'd rather not...
+640,undefined,undefined,dialogue,Dana,Eat it or I'll make your life impossible next week! Eat it or I'll make your life impossible next week!
+641,undefined,undefined,dialogue,Gillian,...
+642,undefined,undefined,dialogue,Gillian,Ugh...
+643,undefined,undefined,dialogue,Jill,Was that hard?
+644,undefined,undefined,dialogue,Gillian,Yes.
+645,undefined,undefined,dialogue,Gillian,"*sigh* Anyways. What do you pick, Alma?"
+646,undefined,undefined,dialogue,Alma,I pick truth.
+647,undefined,undefined,dialogue,Gillian,What's the most embarrassing thing that has happened to you while drunk?
+648,undefined,undefined,dialogue,Alma,I...
+649,undefined,undefined,dialogue,Alma,I almost...
+650,undefined,undefined,dialogue,Alma,...bought a timeshare in Panama.
+651,undefined,undefined,dialogue,Gillian,Eh?
+652,undefined,undefined,dialogue,Jill,What?
+653,undefined,undefined,dialogue,Dana,Ha!
+654,undefined,undefined,dialogue,Alma,I was on vacation with my family and family's friends.
+655,undefined,undefined,dialogue,Alma,We went to a hotel where a couple of salesmen tried to coerce us into buying a timeshare.
+656,undefined,undefined,dialogue,Alma,"When I was sober, it was obvious bullshit."
+657,undefined,undefined,dialogue,Alma,But then I fell into their trap with the free bar.
+658,undefined,undefined,dialogue,Alma,"Were it not for my brother-in-law, I'd be forever doomed to spend one week a year in Panama."
+659,undefined,undefined,dialogue,Jill,You could just not go.
+660,undefined,undefined,dialogue,Alma,And lose my money? Forget it.
+661,undefined,undefined,dialogue,Dorothy,A bell?
+662,undefined,undefined,dialogue,Alma,Food's ready!
+663,undefined,undefined,dialogue,Dana,Finally!
+664,undefined,undefined,dialogue,Gillian,Let's go!
+665,undefined,undefined,dialogue,Jill,You guys go ahead. I'll have a quick smoke outside.
+666,undefined,undefined,dialogue,Dana,Careful.
+667,undefined,undefined,dialogue,Jill,G'evening.
+668,undefined,undefined,dialogue,Dana,Jill! I told you to come in the nicest clothes you have!
+669,undefined,undefined,dialogue,Dana,You came in your uniform!
+670,undefined,undefined,dialogue,Jill,...these ARE the nicest clothes I have with me.
+671,undefined,undefined,dialogue,Jill,"Besides, you and Gil are in your uniforms too."
+672,undefined,undefined,dialogue,Dana,"Well, I can't really show up in casual clothing. I'm being monitored."
+673,undefined,undefined,dialogue,Jill,What about the kilt you wore that one time?
+674,undefined,undefined,dialogue,Dana,I'm still surprised that one didn't break the dress code somehow.
+675,undefined,undefined,dialogue,Jill,"And you, Gil?"
+676,undefined,undefined,dialogue,Gillian,I don't have that many clothes to begin with.
+677,undefined,undefined,dialogue,Dana,You people depress me.
+678,undefined,undefined,dialogue,Alma,"Well, everything's in place back there."
+679,undefined,undefined,dialogue,Jill,"Ah, Alma's here."
+680,undefined,undefined,dialogue,Alma,"You know, there was a time when people greeted others before saying stuff like that."
+681,undefined,undefined,dialogue,Dana,"Come on, Jill. Greet her properly."
+682,undefined,undefined,dialogue,Jill,Welcome to Valha-... wait.
+683,undefined,undefined,dialogue,Gillian,AHAHAHAHAHAHAHA!!!
+684,undefined,undefined,dialogue,Alma,"Man, if that's not a sign that you need to ease up on the work, I don't know what is."
+685,undefined,undefined,dialogue,Jill,Shut up. It's become a reflex.
+686,undefined,undefined,dialogue,Jill,Wait. Alma also came in her usual attire. Why aren't you saying anything to her?
+687,undefined,undefined,dialogue,Dana,Ribbed sweaters get a free pass.
+688,undefined,undefined,dialogue,Jill,Why?
+689,undefined,undefined,dialogue,Dana,...
+690,undefined,undefined,dialogue,Jill,
+691,undefined,undefined,dialogue,Gillian,Jamie came earlier too. The dogs went with him to get some ice.
+692,undefined,undefined,dialogue,Jill,Don't we have ice?
+693,undefined,undefined,dialogue,Dana,"Trying to take it out of the bartending station is a chore, so it's better to buy some outside."
+694,undefined,undefined,dialogue,Jill,Huh...
+695,undefined,undefined,dialogue,Jill,"What were you doing back there, Alma?"
+696,undefined,undefined,dialogue,Alma,Setting up the food warmer.
+697,undefined,undefined,dialogue,Jill,The what?
+698,undefined,undefined,dialogue,Dana,I bought it three days ago.
+699,undefined,undefined,dialogue,Dana,"It's amazing. It looks like just a set of wires, but you can create a frame with them."
+700,undefined,undefined,dialogue,Dana,"Put the food inside it, press a button and watch as it warms the food up just like a microwave!"
+701,undefined,undefined,dialogue,Alma,"It's an informercial bauble, though. Really useful, but tricky to handle at the same time."
+702,undefined,undefined,dialogue,Alma,One wrong move and we'll be out of food for the night.
+703,undefined,undefined,dialogue,Alma,Everything will be scorched in a second.
+704,undefined,undefined,dialogue,Jill,Oh.
+705,undefined,undefined,dialogue,Jill,So you've bought infomercial stuff too?
+706,undefined,undefined,dialogue,Alma,Haven't you? It's at the very least a good idea for gifts.
+707,undefined,undefined,dialogue,Jill,Well...
+708,undefined,undefined,dialogue,Dorothy,DYNAMIC ENTRYYYY!!
+709,undefined,undefined,dialogue,Jill,"Finally, at least somebody came after me."
+710,undefined,undefined,dialogue,Dorothy,Is it weird that I've already heard that three times in the last hour?
+711,undefined,undefined,dialogue,Jill,*sigh*
+712,undefined,undefined,dialogue,Alma,"Oh, don't be like that. She's not saying it out of malice or anything. She just found it funny."
+713,undefined,undefined,dialogue,Jill,You're taking her side now?
+714,undefined,undefined,dialogue,Alma,Jealous?
+715,undefined,undefined,dialogue,Jill,You wish.
+716,undefined,undefined,dialogue,Dorothy,You don't need to fight for me.
+717,undefined,undefined,dialogue,Jill,We're not.
+718,undefined,undefined,dialogue,Alma,I'll go check the microwave wires thingy. I'm starting to get hungry.
+719,undefined,undefined,dialogue,Dana,Great idea.
+720,undefined,undefined,dialogue,Jamie,Back.
+721,undefined,undefined,dialogue,Jill,Oh...
+722,undefined,undefined,dialogue,Jamie,"Ah, hello Jill."
+723,undefined,undefined,dialogue,Nacho,Soldier! You're late!
+724,undefined,undefined,dialogue,Rad Shiba,Hey J!
+725,undefined,undefined,dialogue,Alma,See? That's how you greet people.
+726,undefined,undefined,dialogue,Jill,You shut it!
+727,undefined,undefined,dialogue,Dorothy,...
+728,undefined,undefined,dialogue,Dorothy,I-I'll go help Al... um... A...
+729,undefined,undefined,dialogue,Dorothy,I'll go help sweater pups.
+730,undefined,undefined,dialogue,Jamie,Something wrong?
+731,undefined,undefined,dialogue,Jill,She's not good with dogs.
+732,undefined,undefined,dialogue,Jamie,Oh.
+733,undefined,undefined,dialogue,Dana,"Alright! We're all here, so we can start. Yo Anchorage!"
+734,undefined,undefined,dialogue,Alma,Alma.
+735,undefined,undefined,dialogue,Dana,I know what I said. How's the food doing?
+736,undefined,undefined,dialogue,Alma,"It's doing well, but it'll take a bit."
+737,undefined,undefined,dialogue,Dana,Can't you speed it up?
+738,undefined,undefined,dialogue,Alma,"I've used those microwave wire things before. It's either ""warm nicely but slowly"" or ""burn that bitch""."
+739,undefined,undefined,dialogue,Dana,"So, how long?"
+740,undefined,undefined,dialogue,Alma,15 minutes or so. A bell will ring when the time comes.
+741,undefined,undefined,dialogue,Dana,We need to kill some time then.
+742,undefined,undefined,dialogue,Dana,Hm...
+743,undefined,undefined,dialogue,Dana,"Alright, let's play Truth or Dare."
+744,undefined,undefined,dialogue,Jill,What?
+745,undefined,undefined,dialogue,Jamie,I'll pass.
+746,undefined,undefined,dialogue,Nacho,Games are for kids!
+747,undefined,undefined,dialogue,Rad Shiba,I'm in!
+748,undefined,undefined,dialogue,Gillian,"Sure, I'll play."
+749,undefined,undefined,dialogue,Dorothy,Sounds fun! Aslongasthatmuttstaysawayfromme.
+750,undefined,undefined,dialogue,Alma,That'll make the time pass faster.
+751,undefined,undefined,dialogue,Jill,I'll pa-...
+752,undefined,undefined,dialogue,Dana,You'll play.
+753,undefined,undefined,dialogue,Jill,...
+754,undefined,undefined,dialogue,Jill,...
+755,undefined,undefined,dialogue,Jill,"(Truth or Dare, huh...)"
+756,undefined,undefined,dialogue,Jill,"It was fun, I guess."
+757,undefined,undefined,dialogue,Alma,Hey.
+758,undefined,undefined,dialogue,Jill,"Ah, Al-..."
+759,undefined,undefined,dialogue,Jill,"I mean, hello."
+760,undefined,undefined,dialogue,Alma,"A bit late for the hello, don't you think?"
+761,undefined,undefined,dialogue,Jill,Want one?
+762,undefined,undefined,dialogue,Alma,You know I don't smoke.
+763,undefined,undefined,dialogue,Jill,True.
+764,undefined,undefined,dialogue,Jill,Are you leaving already?
+765,undefined,undefined,dialogue,Alma,"Yeah. Technically, we celebrated Mega Christmas yesterday..."
+766,undefined,undefined,dialogue,Alma,"...but I just got a message that Dayana is making a ruckus, so I gotta leave."
+767,undefined,undefined,dialogue,Jill,Good luck with that.
+768,undefined,undefined,dialogue,Alma,"Speaking of ruckus, how have you been doing?"
+769,undefined,undefined,dialogue,Jill,"Fine, I guess. All of this has helped keep my mind off things for a while."
+770,undefined,undefined,dialogue,Jill,*sigh*
+771,undefined,undefined,dialogue,Jill,I-Is it weird to feel the absence of someone you had no contact with whatsoever for the last three years?
+772,undefined,undefined,dialogue,Alma,"Ask Katyusha, or any of the ""old literature maidens whose spouse went to war"" types."
+773,undefined,undefined,dialogue,Alma,"I mean, even if you had no contact with her, maybe she was constantly on your mind."
+774,undefined,undefined,dialogue,Alma,"If you tweak the circumstances, it's not that different from one of you going to a war."
+775,undefined,undefined,dialogue,Jill,I guess...
+776,undefined,undefined,dialogue,Alma,"Well, although the circumstances make me not want to, I've gotta go."
+777,undefined,undefined,dialogue,Jill,Careful out there.
+778,undefined,undefined,dialogue,Alma,"Oh yeah. You should take the chance and spend this time with everyone inside, don't you think?"
+779,undefined,undefined,dialogue,Jill,...
+780,undefined,undefined,dialogue,Jill,...
+781,undefined,undefined,dialogue,Jill,"...yeah, she's right."
+782,undefined,undefined,dialogue,Dana,Hey! Jill's back!

@@ -1,0 +1,469 @@
+line,filename,lines,type,character,text
+0,anna.txt,468,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,...
+3,undefined,undefined,dialogue,Jill,"Hey Fore, leave Gaby alone. Let her sleep."
+4,undefined,undefined,dialogue,Anna,Happy new year!
+5,undefined,undefined,dialogue,Jill,...
+6,undefined,undefined,dialogue,Anna,I said... Happy. New. Year!
+7,undefined,undefined,dialogue,Jill,...
+8,undefined,undefined,dialogue,Anna,*ahem* I said... HA-
+9,undefined,undefined,dialogue,Jill,I heard you the first time.
+10,undefined,undefined,dialogue,Anna,"Then answer the first time, would you? Don't be rude."
+11,undefined,undefined,dialogue,Jill,You trespass into my house and I'm the rude one?
+12,undefined,undefined,dialogue,Anna,"I didn't trespass, I just showed up here."
+13,undefined,undefined,dialogue,Jill,That's trespassing.
+14,undefined,undefined,dialogue,Anna,"Trespassing implies passing. I just appeared here, thus there was no passing."
+15,undefined,undefined,dialogue,Jill,And how exactly did you do that?
+16,undefined,undefined,dialogue,Anna,"Oh, hey! You're talking to me directly!"
+17,undefined,undefined,dialogue,Jill,Don't change the subject!
+18,undefined,undefined,dialogue,Anna,I'm so happy you're not pulling that whole telepath crap.
+19,undefined,undefined,dialogue,Jill,You're the one being a telepath.
+20,undefined,undefined,dialogue,Anna,"But I can't read minds. I can read words, however."
+21,undefined,undefined,dialogue,Jill,...?
+22,undefined,undefined,dialogue,Jill,"No, what I mean is that I'm not the one reading thoughts, so I'm not..."
+23,undefined,undefined,dialogue,Jill,"Agh, forget it."
+24,undefined,undefined,dialogue,Jill,Why are you here?
+25,undefined,undefined,dialogue,Anna,I wanted to wish you a happy new year.
+26,undefined,undefined,dialogue,Jill,So you were bored.
+27,undefined,undefined,dialogue,Anna,Being bored has nothing to do with me wishing you happy holidays.
+28,undefined,undefined,dialogue,Jill,But it helps.
+29,undefined,undefined,dialogue,Anna,I won't deny that.
+30,undefined,undefined,dialogue,Anna,"Still, you deserve some congratulations, Jo!"
+31,undefined,undefined,dialogue,Anna,You closed off an old chapter of your life and grew as a person!
+32,undefined,undefined,dialogue,Anna,"That always deserves some cheers. In fact, let's make a toast."
+33,undefined,undefined,dialogue,Anna,Mind if I grab a Beer?
+34,undefined,undefined,dialogue,Jill,"I do, actually. I don't wanna clean beer off the floor."
+35,undefined,undefined,dialogue,Anna,You don't know if that's what'll happen.
+36,undefined,undefined,dialogue,Jill,"Trust me, I know."
+37,undefined,undefined,dialogue,Anna,But the to-o-o-o-oast...
+38,undefined,undefined,dialogue,Jill,"It's the thought that counts, let's leave it at that."
+39,undefined,undefined,dialogue,Anna,"Fine, sheesh."
+40,undefined,undefined,dialogue,Anna,Oh! Hey kitty!
+41,undefined,undefined,dialogue,Jill,I wonder if Fore can see you.
+42,undefined,undefined,dialogue,Anna,"With cats, you never know..."
+43,undefined,undefined,dialogue,Anna,"He might see me, or he might be seeing an interesting speck of dust."
+44,undefined,undefined,dialogue,Anna,"Hey Jo, let's play a game."
+45,undefined,undefined,dialogue,Jill,What kind of game?
+46,undefined,undefined,dialogue,Anna,Truth or truth.
+47,undefined,undefined,dialogue,Jill,Don't you mean Truth or Dare?
+48,undefined,undefined,dialogue,Anna,"No, dares with me wouldn't be too fun, I'm guessing."
+49,undefined,undefined,dialogue,Anna,We ask questions to each other and we can't lie.
+50,undefined,undefined,dialogue,Anna,You'll even get your ever-so-precious dialogue choices! Ain't that nice?
+51,undefined,undefined,dialogue,Jill,The what now?
+52,undefined,undefined,dialogue,Anna,"I'm thinking out loud, don't mind me."
+53,undefined,undefined,dialogue,Jill,Right...
+54,undefined,undefined,dialogue,Jill,Will you keep your word on that?
+55,undefined,undefined,dialogue,Anna,I don't lie.
+56,undefined,undefined,dialogue,Jill,"...fine, I'll play with you."
+57,undefined,undefined,dialogue,Anna,Great! You start.
+58,undefined,undefined,dialogue,Jill,Hm...
+59,undefined,undefined,dialogue,Jill,Just... what are you?
+60,undefined,undefined,dialogue,Anna,A cute girl!
+61,undefined,undefined,dialogue,Jill,That's not what I meant.
+62,undefined,undefined,dialogue,Anna,"Well, I'm also from a Catholic family, although I'm not religious."
+63,undefined,undefined,dialogue,Jill,Not what I meant either.
+64,undefined,undefined,dialogue,Anna,I'm also very gay and like girls a lot.
+65,undefined,undefined,dialogue,Jill,I should've figured you wouldn't take the question seriously.
+66,undefined,undefined,dialogue,Anna,"Yeah, but did you think that maybe those are the answers I have?"
+67,undefined,undefined,dialogue,Jill,Hm?
+68,undefined,undefined,dialogue,Anna,There're things I know about myself.
+69,undefined,undefined,dialogue,Anna,"Why I am like this, is not one of those things."
+70,undefined,undefined,dialogue,Anna,"I got out of the hospital, got hit by something and here I am."
+71,undefined,undefined,dialogue,Anna,Why I'm in this state... hell if I know.
+72,undefined,undefined,dialogue,Jill,...sorry if I sounded rude.
+73,undefined,undefined,dialogue,Anna,"You were just your charming usual self, Jo."
+74,undefined,undefined,dialogue,Jill,...
+75,undefined,undefined,dialogue,Anna,"Well then, my turn. Do you like your boss?"
+76,undefined,undefined,dialogue,Jill,I do.
+77,undefined,undefined,dialogue,Anna,"No, do you like, LIKE your boss?"
+78,undefined,undefined,dialogue,Jill,Mhm.
+79,undefined,undefined,dialogue,Anna,Both of you go to a romantic dinner. The mood is right.
+80,undefined,undefined,dialogue,Anna,Do you say you love her?
+81,undefined,undefined,dialogue,Jill,Well...
+82,undefined,undefined,dialogue,Anna,"The mood escalated! You're both nude in a room, do you have sex?"
+83,undefined,undefined,dialogue,Jill,Um...
+84,undefined,undefined,dialogue,Anna,Why so hesitant all of a sudden?
+85,undefined,undefined,dialogue,Jill,Because you took me off-guard.
+86,undefined,undefined,dialogue,Anna,"No, that's not it..."
+87,undefined,undefined,dialogue,Anna,"Jo, do you really like your boss like that?"
+88,undefined,undefined,dialogue,Jill,I do...
+89,undefined,undefined,dialogue,Anna,"Ok, let's say you have the chance to have sex with Blondie Sweaterpups."
+90,undefined,undefined,dialogue,Jill,I'd do it.
+91,undefined,undefined,dialogue,Anna,Do you see the hesitation now?
+92,undefined,undefined,dialogue,Jill,...
+93,undefined,undefined,dialogue,Anna,...I can't believe you just have a teen crush on your boss.
+94,undefined,undefined,dialogue,Jill,It's not a...
+95,undefined,undefined,dialogue,Anna,"You like her and love her, but hesitate at the thought of fucking."
+96,undefined,undefined,dialogue,Anna,You admire her and want her with you but won't go deeper.
+97,undefined,undefined,dialogue,Jill,That's called friendship.
+98,undefined,undefined,dialogue,Anna,Edging on teen crush.
+99,undefined,undefined,dialogue,Jill,...
+100,undefined,undefined,dialogue,Anna,Let's move on to the next question before you shortcircuit.
+101,undefined,undefined,dialogue,Jill,"Say, how much of your story is true?"
+102,undefined,undefined,dialogue,Anna,"It depends on what you mean by ""my story""."
+103,undefined,undefined,dialogue,Jill,"A couple of weeks back, when you showed up the first time at the bar."
+104,undefined,undefined,dialogue,Jill,"That whole hospital thing, how much of that is true?"
+105,undefined,undefined,dialogue,Anna,How much do you think is true?
+106,undefined,undefined,dialogue,Jill,That's not an answer.
+107,undefined,undefined,dialogue,Anna,"I could say ""all of it"", but I could be lying."
+108,undefined,undefined,dialogue,Anna,Truth depends on either facts or trust.
+109,undefined,undefined,dialogue,Anna,"And since that question shows a lack of trust, there're only facts left."
+110,undefined,undefined,dialogue,Anna,I believe you have enough facts to form yourself an opinion of what's true.
+111,undefined,undefined,dialogue,Jill,...
+112,undefined,undefined,dialogue,Anna,Your lack of trust hurts me Jo. I really like you.
+113,undefined,undefined,dialogue,Jill,...
+114,undefined,undefined,dialogue,Jill,Just ask your question.
+115,undefined,undefined,dialogue,Anna,What will you do after the bar closes?
+116,undefined,undefined,dialogue,Jill,...
+117,undefined,undefined,dialogue,Jill,I've been looking into the other bar Boss told me about.
+118,undefined,undefined,dialogue,Jill,"It's a bit far, but I can manage."
+119,undefined,undefined,dialogue,Anna,Let me rephrase the question a bit.
+120,undefined,undefined,dialogue,Anna,Do you plan on being a bartender the rest of your life?
+121,undefined,undefined,dialogue,Anna,Is this your calling?
+122,undefined,undefined,dialogue,Jill,I don't know.
+123,undefined,undefined,dialogue,Anna,"The bar closing is the chance to retake your life, to do whatever you want."
+124,undefined,undefined,dialogue,Anna,Don't you have any dreams to follow?
+125,undefined,undefined,dialogue,Jill,I don't know.
+126,undefined,undefined,dialogue,Anna,And are you okay with that? Not knowing?
+127,undefined,undefined,dialogue,Jill,"Yes, actually."
+128,undefined,undefined,dialogue,Anna,Oh?
+129,undefined,undefined,dialogue,Jill,My biggest regrets arose from those worries.
+130,undefined,undefined,dialogue,Jill,But I've come to realize that running directionless is worse.
+131,undefined,undefined,dialogue,Jill,"What's more, I've been doing fine just managing things one at a time."
+132,undefined,undefined,dialogue,Jill,So that's what I'll do until I know what I wanna do.
+133,undefined,undefined,dialogue,Anna,You do know I'm the one hearing you and acting cool amounts to nothing.
+134,undefined,undefined,dialogue,Jill,Whatever.
+135,undefined,undefined,dialogue,Jill,"I get to ask something now, right?"
+136,undefined,undefined,dialogue,Anna,Yup.
+137,undefined,undefined,dialogue,Jill,"Okay, why am I the only one that can see you?"
+138,undefined,undefined,dialogue,Anna,Don't be so pretentious. You're not the only one that can see me.
+139,undefined,undefined,dialogue,Anna,You're the only one among the people close to you.
+140,undefined,undefined,dialogue,Jill,"Still, why?"
+141,undefined,undefined,dialogue,Anna,"Beats me, I don't even know why I'm like this."
+142,undefined,undefined,dialogue,Anna,I do have a theory though.
+143,undefined,undefined,dialogue,Anna,Maybe the ones that can see me are the ones I wish could see me.
+144,undefined,undefined,dialogue,Jill,How so?
+145,undefined,undefined,dialogue,Anna,"The day I entered the bar, I thought you were cute."
+146,undefined,undefined,dialogue,Anna,Maybe I wanted you to see me so hard that you were able to.
+147,undefined,undefined,dialogue,Anna,"It was hard to contain my surprise, to be honest."
+148,undefined,undefined,dialogue,Anna,"I've tried to get some people to see me, but maybe something holds me back."
+149,undefined,undefined,dialogue,Jill,So you make those things happen with your mind?
+150,undefined,undefined,dialogue,Anna,It's still a theory. I don't have any solid basis for these speculations.
+151,undefined,undefined,dialogue,Anna,"I mean, Beth could see me, so..."
+152,undefined,undefined,dialogue,Jill,Who's Beth?
+153,undefined,undefined,dialogue,Anna,A very nice girl.
+154,undefined,undefined,dialogue,Anna,"Speaking of nice girls, what's so cool about your boss?"
+155,undefined,undefined,dialogue,Jill,How so?
+156,undefined,undefined,dialogue,Anna,What makes you all giddy about her?
+157,undefined,undefined,dialogue,Jill,*ahem*
+158,undefined,undefined,dialogue,Jill,"Well, she's so... strong, you know?"
+159,undefined,undefined,dialogue,Jill,"Not only physically, but mentally too!"
+160,undefined,undefined,dialogue,Jill,"She's steadfast, reliable, charismatic, fun to be with..."
+161,undefined,undefined,dialogue,Jill,"She's everything I'm not, she makes you feel safe while you're with her."
+162,undefined,undefined,dialogue,Jill,"I mean, how can you not see it?!"
+163,undefined,undefined,dialogue,Anna,"I haven't spent enough time with her, I guess."
+164,undefined,undefined,dialogue,Anna,"Jeez, you got pretty excited there."
+165,undefined,undefined,dialogue,Jill,Maybe.
+166,undefined,undefined,dialogue,Jill,Did you have any hobbies?
+167,undefined,undefined,dialogue,Anna,Do not talk about me in past tense.
+168,undefined,undefined,dialogue,Jill,*sigh* do you have any hobbies?
+169,undefined,undefined,dialogue,Anna,"Well, back when I had a solid body I liked tabletop games."
+170,undefined,undefined,dialogue,Jill,Really?
+171,undefined,undefined,dialogue,Anna,"Yeah, like the one where you push someone on it, raise her legs and..."
+172,undefined,undefined,dialogue,Jill,That's one weird way of playing Monopoly.
+173,undefined,undefined,dialogue,Anna,Anything for Athena Avenue.
+174,undefined,undefined,dialogue,Anna,The only things I remember I liked doing were pranks.
+175,undefined,undefined,dialogue,Jill,No shit.
+176,undefined,undefined,dialogue,Anna,It's so fun to see how people react to them.
+177,undefined,undefined,dialogue,Anna,"The setup, the deception, the payoff... it's like art."
+178,undefined,undefined,dialogue,Jill,Right...
+179,undefined,undefined,dialogue,Anna,I did have some limits though.
+180,undefined,undefined,dialogue,Anna,"If I know something would make someone cry, it's out of the question."
+181,undefined,undefined,dialogue,Anna,"If it puts them in any risk, it's out of the question."
+182,undefined,undefined,dialogue,Anna,"And if it causes trouble to too many outsiders, it's out of the question."
+183,undefined,undefined,dialogue,Jill,That sounds... sensible.
+184,undefined,undefined,dialogue,Anna,"Of course, pranks are no good if only the prankster has fun with them."
+185,undefined,undefined,dialogue,Anna,Then you're just a bully.
+186,undefined,undefined,dialogue,Jill,Any prank you regret doing?
+187,undefined,undefined,dialogue,Anna,In elementary school I hid a bee in a boy's backpack... he was allergic.
+188,undefined,undefined,dialogue,Anna,"Nothing terrible happened, but... yeah."
+189,undefined,undefined,dialogue,Anna,My turn then!
+190,undefined,undefined,dialogue,Anna,How was the party? I was busy.
+191,undefined,undefined,dialogue,Jill,You? Busy?
+192,undefined,undefined,dialogue,Anna,I can be busy.
+193,undefined,undefined,dialogue,Anna,"I mean, I saw you get your big moment and talk about cucumbers..."
+194,undefined,undefined,dialogue,Jill,*cough*
+195,undefined,undefined,dialogue,Anna,But that was a break from other stuff I was doing.
+196,undefined,undefined,dialogue,Jill,Is this here another break?
+197,undefined,undefined,dialogue,Anna,This is a well-earned rest.
+198,undefined,undefined,dialogue,Jill,Good for you.
+199,undefined,undefined,dialogue,Jill,"The party was fun, not a crazy thing, just a chill time."
+200,undefined,undefined,dialogue,Jill,"Food, drinks and friends... and a couple of dogs."
+201,undefined,undefined,dialogue,Jill,"Boss almost burned the place down setting off her ""totally legal fireworks""."
+202,undefined,undefined,dialogue,Jill,"Gil brought his girlfriend, and I still can't believe who she was."
+203,undefined,undefined,dialogue,Jill,Dorothy brought some acquaintances too. Really nice people... if a bit gaudy.
+204,undefined,undefined,dialogue,Jill,Alma and I...
+205,undefined,undefined,dialogue,Jill,...
+206,undefined,undefined,dialogue,Anna,What? You and Sweaterpups WHAT?!
+207,undefined,undefined,dialogue,Jill,"Nothing, I just realized how nice it felt to say I have friends."
+208,undefined,undefined,dialogue,Anna,...
+209,undefined,undefined,dialogue,Anna,"Holy shit, that's some corny-ass line right there."
+210,undefined,undefined,dialogue,Jill,It's true though.
+211,undefined,undefined,dialogue,Jill,It's the first time the friendship has felt... real.
+212,undefined,undefined,dialogue,Jill,"There're people I can trust, people that trust me."
+213,undefined,undefined,dialogue,Jill,People I can get invested into outside my family.
+214,undefined,undefined,dialogue,Jill,That's such an awesome feeling...
+215,undefined,undefined,dialogue,Anna,"Like I said, that's god damn cheesy."
+216,undefined,undefined,dialogue,Anna,"...that said, am I your friend, Jo?"
+217,undefined,undefined,dialogue,Jill,Maybe? Give it more time.
+218,undefined,undefined,dialogue,Anna,Heheh...
+219,undefined,undefined,dialogue,Anna,"...no, but seriously. You and Sweaterpups did what?"
+220,undefined,undefined,dialogue,Jill,Take pics.
+221,undefined,undefined,dialogue,Anna,BOOOOORING.
+222,undefined,undefined,dialogue,Anna,Were they nudes?
+223,undefined,undefined,dialogue,Jill,
+224,undefined,undefined,dialogue,Anna,BOOOOOOOOOOOOOOOOOOOOOORING.
+225,undefined,undefined,dialogue,Anna,"Well then, next question."
+226,undefined,undefined,dialogue,Jill,"So, what do you like?"
+227,undefined,undefined,dialogue,Anna,Girls. Boys are icky.
+228,undefined,undefined,dialogue,Jill,"It's not a wrong answer, but not the one I was looking for."
+229,undefined,undefined,dialogue,Anna,"So, likes in general?"
+230,undefined,undefined,dialogue,Jill,Mhm.
+231,undefined,undefined,dialogue,Anna,Well...
+232,undefined,undefined,dialogue,Anna,I like pizza with lots of mushrooms.
+233,undefined,undefined,dialogue,Anna,I like stockings that go up to the thigh.
+234,undefined,undefined,dialogue,Anna,I like long hair even though I prefer to have it short.
+235,undefined,undefined,dialogue,Anna,"I like small animals, but I like really big ones more."
+236,undefined,undefined,dialogue,Anna,I REALLY like flowery perfumes.
+237,undefined,undefined,dialogue,Anna,"I don't like stuffed animals, as weird as it sounds."
+238,undefined,undefined,dialogue,Anna,"I like tall girls, or at least those taller than me."
+239,undefined,undefined,dialogue,Anna,I also like the smell of freshly cut grass.
+240,undefined,undefined,dialogue,Anna,I like the sound of a cat's purr.
+241,undefined,undefined,dialogue,Anna,I like to laugh and to make people laugh.
+242,undefined,undefined,dialogue,Anna,"And of course, I like you or I wouldn't be here."
+243,undefined,undefined,dialogue,Jill,That's a concise list.
+244,undefined,undefined,dialogue,Anna,"Speaking of likes, do you like what you see?"
+245,undefined,undefined,dialogue,Jill,...come again?
+246,undefined,undefined,dialogue,Anna,"Do you like what you see? If you saw me on the street, would you hit on me?"
+247,undefined,undefined,dialogue,Jill,I doubt it.
+248,undefined,undefined,dialogue,Anna,That's a lie and you know it.
+249,undefined,undefined,dialogue,Jill,I wouldn't.
+250,undefined,undefined,dialogue,Anna,"Liar, I'm hot."
+251,undefined,undefined,dialogue,Jill,"Nobody's denying that, but I wouldn't."
+252,undefined,undefined,dialogue,Anna,Why not?!
+253,undefined,undefined,dialogue,Jill,"For starters, I'm not one to hit on strangers."
+254,undefined,undefined,dialogue,Jill,Let alone hit on a girl in a fucking sailor uniform.
+255,undefined,undefined,dialogue,Anna,Like you wouldn't fuck a girl in a sailor uniform.
+256,undefined,undefined,dialogue,Jill,Do you mean....
+257,undefined,undefined,dialogue,Anna,I mean that in any way that phrase could be taken as.
+258,undefined,undefined,dialogue,Anna,Let me rephrase this then...
+259,undefined,undefined,dialogue,Anna,Would I be able to make you look at me so hard you couldn't avert your gaze?
+260,undefined,undefined,dialogue,Jill,Yes. Happy?
+261,undefined,undefined,dialogue,Anna,I am.
+262,undefined,undefined,dialogue,Anna,"So much in fact, that I'll let you ask something else."
+263,undefined,undefined,dialogue,Jill,Do you have any regrets?
+264,undefined,undefined,dialogue,Anna,Don't we all?
+265,undefined,undefined,dialogue,Jill,Any in particular that come to mind? Stuff you really wanna fix?
+266,undefined,undefined,dialogue,Anna,...
+267,undefined,undefined,dialogue,Anna,...my mom.
+268,undefined,undefined,dialogue,Anna,"My dad left, so when I died, I was worried about leaving her by herself."
+269,undefined,undefined,dialogue,Anna,"Luckily, then came Becky."
+270,undefined,undefined,dialogue,Anna,"*sigh* But then, Becky feared she might be hurting my mom with her presence."
+271,undefined,undefined,dialogue,Anna,I guess I have to thank you for that.
+272,undefined,undefined,dialogue,Anna,Becky fixed her relationship with my mom.
+273,undefined,undefined,dialogue,Anna,Lanette's mom was able to close her chapter too.
+274,undefined,undefined,dialogue,Anna,And it was all thanks to you speaking with her.
+275,undefined,undefined,dialogue,Jill,It's not a big deal.
+276,undefined,undefined,dialogue,Anna,"But yeah, with Becky being closer to my mom, I can't think of anything else."
+277,undefined,undefined,dialogue,Anna,"Just the usual scars, the stuff we use to grow up."
+278,undefined,undefined,dialogue,Anna,The things we can't fix...
+279,undefined,undefined,dialogue,Anna,...
+280,undefined,undefined,dialogue,Anna,"...say, Jo. Did you lie to that Gaby girl?"
+281,undefined,undefined,dialogue,Jill,About what?
+282,undefined,undefined,dialogue,Anna,"About staying with her, how you wouldn't leave her alone and all that."
+283,undefined,undefined,dialogue,Jill,I didn't.
+284,undefined,undefined,dialogue,Anna,"She's asleep, she can't hear me. You can be honest with me."
+285,undefined,undefined,dialogue,Jill,...
+286,undefined,undefined,dialogue,Jill,"Alright, I'll tell you the truth."
+287,undefined,undefined,dialogue,Anna,Hm?
+288,undefined,undefined,dialogue,Jill,Just between us...
+289,undefined,undefined,dialogue,Jill,...I didn't lie.
+290,undefined,undefined,dialogue,Anna,Heh.
+291,undefined,undefined,dialogue,Jill,The time I spent with Lenore was also time I spent with Gaby.
+292,undefined,undefined,dialogue,Jill,"Since Lenore was pretty much the one that raised her, she was always there."
+293,undefined,undefined,dialogue,Jill,"We'd play, read together, watch TV..."
+294,undefined,undefined,dialogue,Jill,"I don't know, she felt like a little sister... or a daughter."
+295,undefined,undefined,dialogue,Jill,But one of the things that hurt me the most when Gaby reappeared was her hate.
+296,undefined,undefined,dialogue,Jill,...it's never nice when the one you love suddenly hates you with reason.
+297,undefined,undefined,dialogue,Jill,"So yeah, why the hell would I lie about that?"
+298,undefined,undefined,dialogue,Anna,It's a relief to hear that.
+299,undefined,undefined,dialogue,Anna,"She's cute, she'll grow into a fine lady."
+300,undefined,undefined,dialogue,Anna,Was her sister as cute?
+301,undefined,undefined,dialogue,Jill,Lenore was in a league of her own.
+302,undefined,undefined,dialogue,Anna,Something I must see then.
+303,undefined,undefined,dialogue,Anna,Any other questions?
+304,undefined,undefined,dialogue,Jill,"So, how long will you keep fucking with me?"
+305,undefined,undefined,dialogue,Anna,"I don't know, we haven't even started. You wanna?"
+306,undefined,undefined,dialogue,Jill,Can you do anything in your current state?
+307,undefined,undefined,dialogue,Anna,"Finding out would be half the fun, wouldn't you say?"
+308,undefined,undefined,dialogue,Jill,"Fucking with me, pestering me, appearing out of the blue here."
+309,undefined,undefined,dialogue,Jill,Will you keep doing that?
+310,undefined,undefined,dialogue,Anna,"I can answer that, but first I need you to answer something."
+311,undefined,undefined,dialogue,Jill,What?
+312,undefined,undefined,dialogue,Anna,"Do you hate me, Jo?"
+313,undefined,undefined,dialogue,Jill,Isn't this like the third time you've asked this?
+314,undefined,undefined,dialogue,Anna,Then maybe I haven't gotten a clear answer.
+315,undefined,undefined,dialogue,Jill,...
+316,undefined,undefined,dialogue,Jill,You made me spill some drinks that were discounted from my paycheck.
+317,undefined,undefined,dialogue,Anna,You still sore about that?
+318,undefined,undefined,dialogue,Jill,I really wanted curry that week and the stunt left me broke.
+319,undefined,undefined,dialogue,Jill,There's also the fact that your jokes made a fool out of me too many times.
+320,undefined,undefined,dialogue,Jill,Not to mention that your existence is mind-breaking.
+321,undefined,undefined,dialogue,Jill,"If you're a hallucination, then I'm going mad and that's no good."
+322,undefined,undefined,dialogue,Jill,"If you're not, then that opens a whole new can of worms."
+323,undefined,undefined,dialogue,Jill,"If you're a ghost, then science has to rethink where it's going."
+324,undefined,undefined,dialogue,Jill,"If you're... something else, then what? How? Why?"
+325,undefined,undefined,dialogue,Anna,...
+326,undefined,undefined,dialogue,Jill,Not to mention you turn anything into innuendo and might be too horny.
+327,undefined,undefined,dialogue,Anna,Go on...
+328,undefined,undefined,dialogue,Jill,But... I have no reason to hate you.
+329,undefined,undefined,dialogue,Jill,Your demeanor is no different from many other regulars of the bar.
+330,undefined,undefined,dialogue,Jill,"Hell, talking to you is fun... in a really messed up way."
+331,undefined,undefined,dialogue,Jill,"I don't feel like your actions come from trying to be mean, and you're cute."
+332,undefined,undefined,dialogue,Jill,"So yeah, I don't hate you."
+333,undefined,undefined,dialogue,Anna,"Well, to answer your question. Yes! I will keep bugging you."
+334,undefined,undefined,dialogue,Jill,Can you at least keep it here instead of the bar?
+335,undefined,undefined,dialogue,Anna,"Then I wouldn't be doing a good job of bugging you, right?"
+336,undefined,undefined,dialogue,Jill,...
+337,undefined,undefined,dialogue,Anna,Glad to know you don't hate me!
+338,undefined,undefined,dialogue,Anna,"It's fun to be around you, and I'd get sad if I annoyed you that much."
+339,undefined,undefined,dialogue,Jill,Don't push your luck though.
+340,undefined,undefined,dialogue,Jill,"Okay, let's get this over with..."
+341,undefined,undefined,dialogue,Anna,"Your next words will be ""Do you watch me masturbate?"""
+342,undefined,undefined,dialogue,Jill,Do you watch... me... the fuck?
+343,undefined,undefined,dialogue,Anna,That question was gonna come up at some point.
+344,undefined,undefined,dialogue,Anna,And the answer is...
+345,undefined,undefined,dialogue,Jill,Is...?
+346,undefined,undefined,dialogue,Anna,...
+347,undefined,undefined,dialogue,Jill,Um...
+348,undefined,undefined,dialogue,Anna,I'm building suspense.
+349,undefined,undefined,dialogue,Jill,Just answer.
+350,undefined,undefined,dialogue,Anna,No.
+351,undefined,undefined,dialogue,Jill,Why not?
+352,undefined,undefined,dialogue,Anna,I meant that I don't watch you masturbate.
+353,undefined,undefined,dialogue,Jill,Huh...
+354,undefined,undefined,dialogue,Anna,Why do you sound so surprised?
+355,undefined,undefined,dialogue,Jill,"With the stuff you say, can you blame me?"
+356,undefined,undefined,dialogue,Anna,"I have a sense of personal space too, you know?"
+357,undefined,undefined,dialogue,Anna,And there's a line between pestering and being an asshole.
+358,undefined,undefined,dialogue,Anna,"Not that I'd be against the idea of watching you, mind you."
+359,undefined,undefined,dialogue,Jill,Should that flatter me?
+360,undefined,undefined,dialogue,Anna,Take it as you will.
+361,undefined,undefined,dialogue,Anna,I'm surprised you believe me though.
+362,undefined,undefined,dialogue,Jill,At one point I just gave up and started taking you as you come.
+363,undefined,undefined,dialogue,Jill,And you didn't start suddenly joking about how you watch me masturbate...
+364,undefined,undefined,dialogue,Jill,That means it's something you wouldn't joke about and thus not lie.
+365,undefined,undefined,dialogue,Anna,...
+366,undefined,undefined,dialogue,Anna,"You've been thinking about that question for a long time, haven't you?"
+367,undefined,undefined,dialogue,Jill,Maybe.
+368,undefined,undefined,dialogue,Anna,"Well, to ask something in the same vein..."
+369,undefined,undefined,dialogue,Anna,Let's say you have the chance to have sex with any person you want.
+370,undefined,undefined,dialogue,Anna,One night of action until your body crumbles.
+371,undefined,undefined,dialogue,Anna,Who do you pick?
+372,undefined,undefined,dialogue,Jill,Hm...
+373,undefined,undefined,dialogue,Anna,Your boss?
+374,undefined,undefined,dialogue,Jill,I wonder...
+375,undefined,undefined,dialogue,Anna,Blondie Sweaterpups?
+376,undefined,undefined,dialogue,Jill,Please be quiet for a second.
+377,undefined,undefined,dialogue,Anna,"It's not the riddle of the sphinx, Jo."
+378,undefined,undefined,dialogue,Jill,I guess I'd pick...
+379,undefined,undefined,dialogue,Jill,Have you ever heard of an actress named Glo-ri-a?
+380,undefined,undefined,dialogue,Anna,Oh my god.
+381,undefined,undefined,dialogue,Anna,You too?!
+382,undefined,undefined,dialogue,Jill,Hm?
+383,undefined,undefined,dialogue,Anna,I've been a huge fan of Glo-ri-a for a long time.
+384,undefined,undefined,dialogue,Anna,"She's such a talented actress, such a charismatic person."
+385,undefined,undefined,dialogue,Anna,"But more importantly, she's hot as all hell!"
+386,undefined,undefined,dialogue,Anna,"Still is, thank God she didn't prune like other actresses do."
+387,undefined,undefined,dialogue,Anna,I'm surprised you'd pick her over everyone else.
+388,undefined,undefined,dialogue,Jill,"I mean, if I could pick anyone, might as well pick someone I don't even know."
+389,undefined,undefined,dialogue,Anna,Yet.
+390,undefined,undefined,dialogue,Jill,Yet?
+391,undefined,undefined,dialogue,Anna,"You might get to know her, you never know."
+392,undefined,undefined,dialogue,Jill,"True, I got to know an idol after all."
+393,undefined,undefined,dialogue,Jill,So... have you met anyone else in your state?
+394,undefined,undefined,dialogue,Anna,My state?
+395,undefined,undefined,dialogue,Jill,A ghost.
+396,undefined,undefined,dialogue,Anna,I ain't no ghost.
+397,undefined,undefined,dialogue,Jill,"Poltergeist, imp, brat. You know what I mean."
+398,undefined,undefined,dialogue,Anna,Hey...
+399,undefined,undefined,dialogue,Anna,I've met many rarities in my current state.
+400,undefined,undefined,dialogue,Anna,Like this weird thing I keep seeing popping up in my field of view.
+401,undefined,undefined,dialogue,Anna,It flies everywhere and sometimes tries to touch me indecently.
+402,undefined,undefined,dialogue,Anna,"But someone like me? No, not yet."
+403,undefined,undefined,dialogue,Anna,Although considering I don't even know why I am like this...
+404,undefined,undefined,dialogue,Anna,"Who knows, I might've met someone already."
+405,undefined,undefined,dialogue,Anna,"The closest thing is that brat, I guess, but..."
+406,undefined,undefined,dialogue,Anna,"...can't think of anyone, no."
+407,undefined,undefined,dialogue,Jill,"You do know dropping vague pronouns like that is annoying, right?"
+408,undefined,undefined,dialogue,Anna,"I'm just thinking out loud, don't think too much about it."
+409,undefined,undefined,dialogue,Anna,"If you wanna think about something, what are your new year resolutions?"
+410,undefined,undefined,dialogue,Jill,I have none.
+411,undefined,undefined,dialogue,Anna,"That can't be right, everyone has new year resolutions!"
+412,undefined,undefined,dialogue,Anna,It's the only thing that reminds people that they want to be better.
+413,undefined,undefined,dialogue,Anna,Even if they don't do any of the stuff they say they will.
+414,undefined,undefined,dialogue,Anna,"But it's the wish, the intention that counts!"
+415,undefined,undefined,dialogue,Jill,"...yup, can't think of any."
+416,undefined,undefined,dialogue,Anna,Lose weight?
+417,undefined,undefined,dialogue,Jill,I'm fine.
+418,undefined,undefined,dialogue,Anna,Quit smoking?
+419,undefined,undefined,dialogue,Jill,Hell no.
+420,undefined,undefined,dialogue,Anna,Speak more with your parents?
+421,undefined,undefined,dialogue,Jill,I'm good.
+422,undefined,undefined,dialogue,Anna,Make this cat lose weight?
+423,undefined,undefined,dialogue,Jill,He...  hm... that sounds like a good goal.
+424,undefined,undefined,dialogue,Fore,I wholeheartedly disagree.
+425,undefined,undefined,dialogue,Anna,Oh?
+426,undefined,undefined,dialogue,Jill,...crap.
+427,undefined,undefined,dialogue,Anna,Did you just...?
+428,undefined,undefined,dialogue,Jill,I did nothing.
+429,undefined,undefined,dialogue,Anna,You just pretended your cat talked.
+430,undefined,undefined,dialogue,Jill,Did not.
+431,undefined,undefined,dialogue,Anna,You did!
+432,undefined,undefined,dialogue,Jill,Quiet.
+433,undefined,undefined,dialogue,Anna,"Well, you're yawning."
+434,undefined,undefined,dialogue,Anna,"I sure as hell ain't boring, so it must be because of the hour."
+435,undefined,undefined,dialogue,Anna,I'll let you be... for now.
+436,undefined,undefined,dialogue,Jill,Hey Anna.
+437,undefined,undefined,dialogue,Jill,Um... you have a happy new year too.
+438,undefined,undefined,dialogue,Jill,"And if you wanna bother me, I do get bored in here from time to time."
+439,undefined,undefined,dialogue,Jill,Uh... yeah... that.
+440,undefined,undefined,dialogue,Anna,...
+441,undefined,undefined,dialogue,Anna,You called me by my name!
+442,undefined,undefined,dialogue,Jill,On second thought...
+443,undefined,undefined,dialogue,Anna,Don't be like that.
+444,undefined,undefined,dialogue,Anna,I'll take your offer and pester you some more later.
+445,undefined,undefined,dialogue,Anna,"Hell, I'll do it even if you say nothing!"
+446,undefined,undefined,dialogue,Jill,*sigh* Oh dear...
+447,undefined,undefined,dialogue,Anna,"Hey Jo, can you open the door for me?"
+448,undefined,undefined,dialogue,Jill,Just disappear like how you came in.
+449,undefined,undefined,dialogue,Anna,"Come on, humor me."
+450,undefined,undefined,dialogue,Jill,Fine...
+451,undefined,undefined,dialogue,Jill,...
+452,undefined,undefined,dialogue,Jill,There.
+453,undefined,undefined,dialogue,Anna,Thank you.
+454,undefined,undefined,dialogue,Anna,Bye Jo.
+455,undefined,undefined,dialogue,Jill,Take care.
+456,undefined,undefined,dialogue,Jill,...
+457,undefined,undefined,dialogue,Jill,Sometimes I wonder if this is a sign to stop drinking.
+458,undefined,undefined,dialogue,Fore,"""Fore"": Are you drunk now?"
+459,undefined,undefined,dialogue,Jill,A bit.
+460,undefined,undefined,dialogue,Anna,Truth is such a weird thing.
+461,undefined,undefined,dialogue,Anna,It can change as you learn more and more facts.
+462,undefined,undefined,dialogue,Anna,But what if those facts change? What if the facts get tampered with?
+463,undefined,undefined,dialogue,Anna,Do you trust the source of your facts?
+464,undefined,undefined,dialogue,Anna,Is that trust keeping you blind from the truth?
+465,undefined,undefined,dialogue,Anna,Truth and trust are always tied together.
+466,undefined,undefined,dialogue,Anna,And it's with that in mind that I give you this advice.
+467,undefined,undefined,dialogue,Anna,"From now on, if you want the truth..."
+468,undefined,undefined,dialogue,Anna,...you'll have to trust me.

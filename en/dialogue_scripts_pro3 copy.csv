@@ -1,0 +1,603 @@
+line,filename,lines,type,character,text
+0,pro3.txt,602,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,G'evening.
+3,undefined,undefined,dialogue,Jill,"You look bummed, Boss."
+4,undefined,undefined,dialogue,Dana,"Starting tomorrow, there will be no more Corgis in our bar. Why wouldn't I be sad?"
+5,undefined,undefined,dialogue,Jill,"(Maybe because starting tomorrow, there will be no more Corgis at the bar.)"
+6,undefined,undefined,dialogue,Dana,...I wonder if the Shiba Appreciation Society might be interested in booking us.
+7,undefined,undefined,dialogue,Jill,"One problem at a time, Boss."
+8,undefined,undefined,dialogue,Dana,"Wait, I know someone from the Pomeranian Development Institute!"
+9,undefined,undefined,dialogue,Jill,ONE PROBLEM AT A TIME!!
+10,undefined,undefined,dialogue,Jill,"Still, you've been tense ever since Friday. Are you worried about Gil or something?"
+11,undefined,undefined,dialogue,Dana,"Trust me. Of all my worries, Gil is the least of them."
+12,undefined,undefined,dialogue,Dana,"Put on some music and enjoy the day, won't you?"
+13,undefined,undefined,dialogue,Jill,Right...
+14,undefined,undefined,dialogue,Jill,Time to mix drinks and change lives.
+15,undefined,undefined,dialogue,Betty,"Bartender, we meet again."
+16,undefined,undefined,dialogue,Jill,Oh... Ms. Betty.
+17,undefined,undefined,dialogue,Deal,Hello.
+18,undefined,undefined,dialogue,Jill,And Mr. Corgi Lover.
+19,undefined,undefined,dialogue,Deal,Call me Deal.
+20,undefined,undefined,dialogue,Jill,Deal.
+21,undefined,undefined,dialogue,Deal,Deal?
+22,undefined,undefined,dialogue,Jill,Deal.
+23,undefined,undefined,dialogue,Betty,"...wipe that satisfied look off your faces, you two."
+24,undefined,undefined,dialogue,Jill,*ahem* What can I serve you today?
+25,undefined,undefined,dialogue,Betty,I'll have a Beer.
+26,undefined,undefined,dialogue,Deal,"I'm not the designated driver today, so... give me a Fringe Weaver."
+27,undefined,undefined,dialogue,Jill,"...alright, coming right up."
+28,undefined,undefined,dialogue,Jill,Here.
+29,undefined,undefined,dialogue,Betty,Thanks.
+30,undefined,undefined,dialogue,Deal,Thank you.
+31,undefined,undefined,dialogue,Jill,Here.
+32,undefined,undefined,dialogue,Betty,Thanks.
+33,undefined,undefined,dialogue,Deal,Something's not right here.
+34,undefined,undefined,dialogue,Jill,...
+35,undefined,undefined,dialogue,Jill,Here.
+36,undefined,undefined,dialogue,Deal,Thank you.
+37,undefined,undefined,dialogue,Betty,There's something wrong here. My drink.
+38,undefined,undefined,dialogue,Jill,...
+39,undefined,undefined,dialogue,Jill,Here.
+40,undefined,undefined,dialogue,Deal,This doesn't seem right.
+41,undefined,undefined,dialogue,Betty,You too?!
+42,undefined,undefined,dialogue,Jill,...
+43,undefined,undefined,dialogue,Jill,...
+44,undefined,undefined,dialogue,Deal,You seem distracted.
+45,undefined,undefined,dialogue,Betty,Has serving so many dogs finally gotten to you?
+46,undefined,undefined,dialogue,Jill,No... well. Yeah. But it's not that.
+47,undefined,undefined,dialogue,Jill,My boss has been acting weird since Friday.
+48,undefined,undefined,dialogue,Betty,Weird how?
+49,undefined,undefined,dialogue,Betty,Romantic weird? Drug-addict weird? Let's-hope-nobody-finds-the-body-in-the-fridge weird?
+50,undefined,undefined,dialogue,Jill,"For starters, there's the fact she only told me we were being booked moments before we opened."
+51,undefined,undefined,dialogue,Jill,"Plus, she seems completely distracted or lost in her thoughts."
+52,undefined,undefined,dialogue,Betty,Like you.
+53,undefined,undefined,dialogue,Jill,Worse.
+54,undefined,undefined,dialogue,Betty,Oh...
+55,undefined,undefined,dialogue,Jill,"She's not being herself, and that makes me wonder if something's going on."
+56,undefined,undefined,dialogue,Betty,Like what? Do you run a human trafficking ring in the basement?
+57,undefined,undefined,dialogue,Jill,"No, we don't have a license for that."
+58,undefined,undefined,dialogue,Jill,"Oh, well. Thinking about it too much is not part of my job."
+59,undefined,undefined,dialogue,Deal,Can I ask you something about your job?
+60,undefined,undefined,dialogue,Jill,Sure.
+61,undefined,undefined,dialogue,Deal,I've always been curious. What does the BTC need in their bartenders? What do you need to study?
+62,undefined,undefined,dialogue,Jill,"They train you from scratch, so you don't have to study anything beforehand."
+63,undefined,undefined,dialogue,Deal,What does the training involve?
+64,undefined,undefined,dialogue,Jill,"It's a lot of etiquette and regulation work. Most of our time, though, is actually spent in simulations."
+65,undefined,undefined,dialogue,Betty,Simulations?
+66,undefined,undefined,dialogue,Jill,Different scenarios involving different chemical hazards. That sort of thing.
+67,undefined,undefined,dialogue,Jill,They want you to be able to respond to every possible situation that might come up involving our ingredients.
+68,undefined,undefined,dialogue,Jill,"I mean, the chances for failure are really slim... but it's better to not take those chances."
+69,undefined,undefined,dialogue,Deal,I see.
+70,undefined,undefined,dialogue,Jill,I'll be back with you guys in a bit. I must attend to the other clients... dogs... that.
+71,undefined,undefined,dialogue,Deal,"Oh, sure."
+72,undefined,undefined,dialogue,Mister Puff,"THEY ARE CHASING ME, MAN!"
+73,undefined,undefined,dialogue,Jill,Who?
+74,undefined,undefined,dialogue,Mister Puff,"THE CABBAGES, MAN! THE GODDAMN CABBAGES!"
+75,undefined,undefined,dialogue,Mister Puff,THEY ARE EVERYWHERE! THEY ARE OUT FOR MY RUMP!!
+76,undefined,undefined,dialogue,Jill,Your...? Nevermind.
+77,undefined,undefined,dialogue,Jill,Can I get you anything to calm down?
+78,undefined,undefined,dialogue,Mister Puff,A BIG BLUE FAIRY WOULD BE NICE.
+79,undefined,undefined,dialogue,Jill,Okay then.
+80,undefined,undefined,dialogue,Jill,Here.
+81,undefined,undefined,dialogue,Mister Puff,"THANKS, VERY NICE OF YOU."
+82,undefined,undefined,dialogue,Jill,Here.
+83,undefined,undefined,dialogue,Mister Puff,THIS ISN'T THAT BIG.
+84,undefined,undefined,dialogue,Jill,Here.
+85,undefined,undefined,dialogue,Mister Puff,"THE CABAGGES TOLD YOU TO SERVE ME SOMETHING ELSE, DIDN'T THEY?!"
+86,undefined,undefined,dialogue,Jill,...
+87,undefined,undefined,dialogue,Third Barkday,*sigh*
+88,undefined,undefined,dialogue,Jill,Something the matter?
+89,undefined,undefined,dialogue,Third Barkday,Nothing a drink can't solve.
+90,undefined,undefined,dialogue,Jill,"Not sure about that, but it's hardly my job to preach sobriety. What do you want?"
+91,undefined,undefined,dialogue,Third Barkday,Give me a Gut Punch.
+92,undefined,undefined,dialogue,Jill,Okay.
+93,undefined,undefined,dialogue,Jill,Here you are.
+94,undefined,undefined,dialogue,Third Barkday,Thanks.
+95,undefined,undefined,dialogue,Third Barkday,"Hey, you ever felt guilty for being born the wrong race?"
+96,undefined,undefined,dialogue,Jill,The what now?
+97,undefined,undefined,dialogue,Third Barkday,I've just been hearing so much about how we're racist. I'm wondering...
+98,undefined,undefined,dialogue,Jill,Are you racist?
+99,undefined,undefined,dialogue,Third Barkday,Not really.
+100,undefined,undefined,dialogue,Jill,Do you feel like other Corgis might be?
+101,undefined,undefined,dialogue,Third Barkday,Definitely. I mean...
+102,undefined,undefined,dialogue,Jill,"Then, why worry? It's not like they're calling YOU racist."
+103,undefined,undefined,dialogue,Jill,You shouldn't take generalizations personally.
+104,undefined,undefined,dialogue,Third Barkday,You might be right...
+105,undefined,undefined,dialogue,Jill,Here.
+106,undefined,undefined,dialogue,Third Barkday,*sigh*
+107,undefined,undefined,dialogue,Jill,"(Well, that made me feel guilty.)"
+108,undefined,undefined,dialogue,Betty,"Man, you should've seen the cutie I saw yesterday on the way home."
+109,undefined,undefined,dialogue,Betty,"She looked like a Cat Boomer. She was wearing a mini-dress, and had this prosthetic eye..."
+110,undefined,undefined,dialogue,Deal,I thought you were against people using prosthetics.
+111,undefined,undefined,dialogue,Betty,"I'm not against cute, though."
+112,undefined,undefined,dialogue,Betty,"Besides, I'm not against prosthetics. I'm only against enhancements."
+113,undefined,undefined,dialogue,Deal,I don't see a difference between the two.
+114,undefined,undefined,dialogue,Betty,"Alright, let me put it this way."
+115,undefined,undefined,dialogue,Betty,"If you lost an arm and replaced it with a mechanical arm that does exactly what the older one did, I'm okay with it."
+116,undefined,undefined,dialogue,Betty,But if you lost your arm and replaced it with a gun-loaded super arm from hell...
+117,undefined,undefined,dialogue,Betty,That's something I'm not okay with.
+118,undefined,undefined,dialogue,Betty,"Even worse is if you decide to replace your arm because of fashion, or a whim, or to get better at some sport."
+119,undefined,undefined,dialogue,Betty,That's completely not cool.
+120,undefined,undefined,dialogue,Betty,"That's the difference between a prosthetic and an enhancement. Replacement versus, er, enhancement..."
+121,undefined,undefined,dialogue,Betty,I'm of a similar opinion about Lilim replacing their factory parts for kicks.
+122,undefined,undefined,dialogue,Betty,"If you think that's going to be an easy way of getting better at something, you're in for a bad surprise."
+123,undefined,undefined,dialogue,Deal,"Well, I can see why you think that, but... what suggested to you that what she had wasn't an enhancement?"
+124,undefined,undefined,dialogue,Deal,"If she had bad eyesight, wouldn't that count as an enhancement? Even if it fixes it?"
+125,undefined,undefined,dialogue,Deal,How does reparative work factor into your ideologies?
+126,undefined,undefined,dialogue,Deal,"They might be enhancements, but they also replace something faulty."
+127,undefined,undefined,dialogue,Betty,Well... uh...
+128,undefined,undefined,dialogue,Betty,"Dammit. Stop making sense, you piece o' scrap."
+129,undefined,undefined,dialogue,Betty,You're weakening my resolve.
+130,undefined,undefined,dialogue,Jill,Having fun?
+131,undefined,undefined,dialogue,Deal,"Oh, bartender. That was fast."
+132,undefined,undefined,dialogue,Jill,"There seem to be less dogs out today - at least, dogs that want a drink."
+133,undefined,undefined,dialogue,Deal,Yeah... some of them ate their tickets.
+134,undefined,undefined,dialogue,Betty,*sigh* Lovely. I'll be the one dealing with that later.
+135,undefined,undefined,dialogue,Betty,"Say, what's your take on the whole enhancement discussion, bartender?"
+136,undefined,undefined,dialogue,Jill,"My mom had a saying: ""Anyone can make a chandelier out of their asses."""
+137,undefined,undefined,dialogue,Jill,"Which somehow means ""Your body, your choices."""
+138,undefined,undefined,dialogue,Jill,"If they are not hurting anyone, I don't see the point in hating them."
+139,undefined,undefined,dialogue,Deal,"See, Betty?"
+140,undefined,undefined,dialogue,Betty,Hey! I didn't say I automatically hate anyone who has an enhancement.
+141,undefined,undefined,dialogue,Betty,Me being against something isn't the same as me being against someone.
+142,undefined,undefined,dialogue,Betty,I'm not some 12 year old blindingly hating someone because of something like that.
+143,undefined,undefined,dialogue,Deal,Maybe you should practice what you preach.
+144,undefined,undefined,dialogue,Betty,What does THAT mean?
+145,undefined,undefined,dialogue,Deal,"I fear retaliation, so I'm not saying another word."
+146,undefined,undefined,dialogue,Jill,Are you two gonna order anything?
+147,undefined,undefined,dialogue,Betty,I'm fine right now.
+148,undefined,undefined,dialogue,Deal,"She's drinking mine, actually."
+149,undefined,undefined,dialogue,Jill,Alright. Call if you need anything else.
+150,undefined,undefined,dialogue,Betty,Sure.
+151,undefined,undefined,dialogue,Jill,Let's see...
+152,undefined,undefined,dialogue,Deal,Ow!
+153,undefined,undefined,dialogue,Jill,(So much for avoiding retaliation.)
+154,undefined,undefined,dialogue,Poop-eater,You're not gonna believe me.
+155,undefined,undefined,dialogue,Poop-eater,I was in the bathroom and this other dog was looking at me from the top of the sink!
+156,undefined,undefined,dialogue,Jill,You mean the mirror?
+157,undefined,undefined,dialogue,Poop-eater,No! Another dog!
+158,undefined,undefined,dialogue,Jill,I see... what can I serve you?
+159,undefined,undefined,dialogue,Poop-eater,You're not gonna do anything about that other dog on the top of the sink?!
+160,undefined,undefined,dialogue,Jill,I'm sure he doesn't want to hurt anybody. Don't worry.
+161,undefined,undefined,dialogue,Poop-eater,I hope you're right...
+162,undefined,undefined,dialogue,Poop-eater,"Well, I want something really sweet."
+163,undefined,undefined,dialogue,Jill,Coming right up.
+164,undefined,undefined,dialogue,Jill,Here you go.
+165,undefined,undefined,dialogue,Poop-eater,Thanks! Please think about the thing with the other dog on top of the sink.
+166,undefined,undefined,dialogue,Jill,"I will, don't worry."
+167,undefined,undefined,dialogue,Jill,Here.
+168,undefined,undefined,dialogue,Poop-eater,"But I didn't want this. You're in cahoots with the dog on top of the sink, aren't you?!"
+169,undefined,undefined,dialogue,Jill,Who knows...?
+170,undefined,undefined,dialogue,Jill,Well then...
+171,undefined,undefined,dialogue,Deal,That was quick.
+172,undefined,undefined,dialogue,Jill,"Like I said, there aren't too many dogs today."
+173,undefined,undefined,dialogue,Jill,"When I heard someone booked us for three days, I expected more of an attendance."
+174,undefined,undefined,dialogue,Betty,"While you were gone, this fella here said that the Bleeding Jane is better than a Piledriver."
+175,undefined,undefined,dialogue,Betty,Please. Prove him wrong.
+176,undefined,undefined,dialogue,Deal,All I'm saying is that I don't see the point in drinks that feel more like a kick in the mouth than a beverage.
+177,undefined,undefined,dialogue,Betty,"What do you think, bartender? Do you think there's any point discussing non-alcoholic drinks in a bar?"
+178,undefined,undefined,dialogue,Jill,"In my opinion, people who order a Bad Touch always make me giggle like an idiot, though."
+179,undefined,undefined,dialogue,Betty,That's not an opinion... That's a statement.
+180,undefined,undefined,dialogue,Betty,"Oh, well. Please serve us either Piledrivers or Bleeding Janes. We'll let you decide which one is better."
+181,undefined,undefined,dialogue,Jill,Coming right up.
+182,undefined,undefined,dialogue,Jill,Here.
+183,undefined,undefined,dialogue,Deal,Yes!
+184,undefined,undefined,dialogue,Betty,Yeah. Take his side. See if I care.
+185,undefined,undefined,dialogue,Jill,Here.
+186,undefined,undefined,dialogue,Betty,Jackpot!
+187,undefined,undefined,dialogue,Deal,"Oh, well..."
+188,undefined,undefined,dialogue,Jill,"No fighting this way, right?"
+189,undefined,undefined,dialogue,Betty,"Wow, you're quite the softie..."
+190,undefined,undefined,dialogue,Betty,Just kidding. Wise choice.
+191,undefined,undefined,dialogue,Deal,No complaints here.
+192,undefined,undefined,dialogue,Jill,*pfft* Here.
+193,undefined,undefined,dialogue,Betty,And you think this is funny.
+194,undefined,undefined,dialogue,Deal,"I can see why she'd find it funny. Loosen up a bit, Betty."
+195,undefined,undefined,dialogue,Betty,"With a couple more of these, maybe I will."
+196,undefined,undefined,dialogue,Jill,Here.
+197,undefined,undefined,dialogue,Betty,"Taking a third choice, huh?"
+198,undefined,undefined,dialogue,Betty,"I could've accepted the ""Cut the baby in half"" Solomon thing, but whatever."
+199,undefined,undefined,dialogue,Jill,R-Right...
+200,undefined,undefined,dialogue,Jill,How did you two end up discussing that?
+201,undefined,undefined,dialogue,Betty,"Well, it started when I told this guy that I wasn't as crazy about the idea of working just for Corgis."
+202,undefined,undefined,dialogue,Deal,"Why don't you like Corgis?! They're cute, and fluffy, and funny and they just... like... MAKE YOU SMILE!"
+203,undefined,undefined,dialogue,Betty,Tell me one interesting thing about them.
+204,undefined,undefined,dialogue,Deal,Legends say they were created by a fairy and that their breed was raised to fight dragons.
+205,undefined,undefined,dialogue,Betty,"Oh, you have to be kidding."
+206,undefined,undefined,dialogue,Jill,"No, actually, I heard that one too."
+207,undefined,undefined,dialogue,Betty,Really?
+208,undefined,undefined,dialogue,Deal,"Still, I can't see why you're so tired of them."
+209,undefined,undefined,dialogue,Betty,Dunno. Maybe because I only ever deal with them at their worst?
+210,undefined,undefined,dialogue,Betty,"You've only seen them in their ""happy"" state."
+211,undefined,undefined,dialogue,Betty,I'm the one running feces samples and unclogging their sphincters if they eat their owner's dental floss.
+212,undefined,undefined,dialogue,Betty,"I might be their veterinarian, but they treat me more like a mom and not in a good way."
+213,undefined,undefined,dialogue,Betty,It's like being a gynecologist.
+214,undefined,undefined,dialogue,Betty,"After a while, you stop seeing boobs and vaginas. Instead, all you see are ISSUES you must fix."
+215,undefined,undefined,dialogue,Deal,At least they are cute issues.
+216,undefined,undefined,dialogue,Betty,"Depends, a gynecologist can't pick clients by age or preferences."
+217,undefined,undefined,dialogue,Deal,I was talking about your job.
+218,undefined,undefined,dialogue,Betty,Oh. Yeah. That too.
+219,undefined,undefined,dialogue,Betty,"Still, I don't think it's so much that I'm tired of them as it is I'm tired of you being so obsessed with them."
+220,undefined,undefined,dialogue,Deal,I'm not obsessed. I'm passionate.
+221,undefined,undefined,dialogue,Betty,You sleep with a Corgi plushie and have a wall dedicated to photos you've taken at the company.
+222,undefined,undefined,dialogue,Deal,I'm really passionate?
+223,undefined,undefined,dialogue,Betty,"Too much passion can become an issue, you know..."
+224,undefined,undefined,dialogue,Deal,"Speaking of issues, did you talk with the directors about the whole Cardigan conflict?"
+225,undefined,undefined,dialogue,Betty,I was going to do that tomorrow when they're all together.
+226,undefined,undefined,dialogue,Betty,But I still don't see why I should be the one doing it.
+227,undefined,undefined,dialogue,Deal,"For starters, they don't take me too seriously."
+228,undefined,undefined,dialogue,Betty,Understandable. I don't take you seriously either.
+229,undefined,undefined,dialogue,Deal,"I mean, in the end, they're still dogs. They need someone with a strong, commanding voice."
+230,undefined,undefined,dialogue,Betty,Are you saying I have a naggy voice?
+231,undefined,undefined,dialogue,Deal,"No, not your VOICE. Just your entire demeanor."
+232,undefined,undefined,dialogue,Betty,So I have a naggy DEMEANOR?
+233,undefined,undefined,dialogue,Jill,I'm assuming you two are talking about the whole race conflict.
+234,undefined,undefined,dialogue,Betty,"Yeah, this is hurting them more than they think. The company might actually collapse at this rate."
+235,undefined,undefined,dialogue,Deal,"Which is terrible, because a couple of these dogs' families are dependent on their paychecks."
+236,undefined,undefined,dialogue,Jill,Doesn't that count as unethical and... unusual treatment of animals?
+237,undefined,undefined,dialogue,Betty,"It's a bit of a legal gray area. The dogs are doing it willingly, after all."
+238,undefined,undefined,dialogue,Betty,"And even if they weren't doing it willingly, the dogs aren't actually being mistreated or exploited."
+239,undefined,undefined,dialogue,Betty,"In fact, the company's pretty relaxed."
+240,undefined,undefined,dialogue,Betty,"Speaking of relaxed, how's Juergen doing?"
+241,undefined,undefined,dialogue,Deal,"He's fine. Still complaining about his back. Still unwilling to take his medicine. He says he's ""not that weak""."
+242,undefined,undefined,dialogue,Jill,Who's this Juergen guy?
+243,undefined,undefined,dialogue,Deal,
+244,undefined,undefined,dialogue,Jill,"That's actually commonplace, isn't it?"
+245,undefined,undefined,dialogue,Jill,Lilim being unable to leave their guardians because they feel too much like family.
+246,undefined,undefined,dialogue,Betty,"Now, to be fair, people get attached to many things. Some even get obsessed with inanimate objects."
+247,undefined,undefined,dialogue,Betty,My grandpa loved his car more than any of his sons.
+248,undefined,undefined,dialogue,Deal,"The one whose will left all his earthly possessions to his car, right?"
+249,undefined,undefined,dialogue,Betty,"Yeah, that one."
+250,undefined,undefined,dialogue,Jill,How do you become a Lilim's guardian?
+251,undefined,undefined,dialogue,Deal,You fill a form at the Artificial Intelligence Council.
+252,undefined,undefined,dialogue,Deal,"Then, they do a background check. If they deem you useful, they'll give you authorization."
+253,undefined,undefined,dialogue,Deal,You're given a week's notice before they give you all the data about the Lilim you'll be taking care of.
+254,undefined,undefined,dialogue,Deal,You'll have to watch over it until it can pass three different personality tests.
+255,undefined,undefined,dialogue,Deal,"If the Lilim wants to stay with you after that, that's your problem."
+256,undefined,undefined,dialogue,Jill,"So, it's like adoption and the lottery all rolled into one."
+257,undefined,undefined,dialogue,Deal,They do that to diversify the possible outcomes.
+258,undefined,undefined,dialogue,Deal,"Two Lilim can be of the same model, but they'll grow differently depending on their guardians."
+259,undefined,undefined,dialogue,Betty,What if something happens to the guardian?
+260,undefined,undefined,dialogue,Deal,"A new guardian can appeal to the council, stating they're more fit for the position than the original."
+261,undefined,undefined,dialogue,Deal,This happens when a guardian has become unavailable in some way...
+262,undefined,undefined,dialogue,Deal,...or because you can back up claims of neglect or maltreatment.
+263,undefined,undefined,dialogue,Betty,You spit out all that information like it's hard-coded in you.
+264,undefined,undefined,dialogue,Deal,I worked in that department for some time before coming to the STC. It's almost a reflex.
+265,undefined,undefined,dialogue,Deal,"Are you interested in becoming a guardian, bartender?"
+266,undefined,undefined,dialogue,Jill,"I don't know, I'm just a nerd when it comes to AIs in general."
+267,undefined,undefined,dialogue,Betty,The money they give you for it is not that great though.
+268,undefined,undefined,dialogue,Jill,I see.
+269,undefined,undefined,dialogue,Jill,"Well, time to check on the dogs."
+270,undefined,undefined,dialogue,Money Shredder,LISTEN HERE PUNK!
+271,undefined,undefined,dialogue,Money Shredder,"Sorry, I didn't mean to call you a punk. It's just..."
+272,undefined,undefined,dialogue,Money Shredder,I WAS CHASING MY TAIL AND NOW I'M TOO HYPER TO CONTROL MYSELF!
+273,undefined,undefined,dialogue,Money Shredder,"Sorry, sorry, sorry..."
+274,undefined,undefined,dialogue,Money Shredder,Just... give me anything.
+275,undefined,undefined,dialogue,Jill,...alright.
+276,undefined,undefined,dialogue,Jill,Here.
+277,undefined,undefined,dialogue,Money Shredder,"...whew, that's better."
+278,undefined,undefined,dialogue,Money Shredder,"Thanks, punk."
+279,undefined,undefined,dialogue,Money Shredder,"This is good, very good, VERY GOOD, VERY GOOOOOOOOOOOOOOOOOOOO..."
+280,undefined,undefined,dialogue,Money Shredder,AAAAAAAAAAAAAAAAAAAAAAAH!
+281,undefined,undefined,dialogue,Jill,...huh.
+282,undefined,undefined,dialogue,Deal,"No, see, I can see the value of other dog races."
+283,undefined,undefined,dialogue,Deal,"Like Pomeranians. Those are NICE, but they aren't Corgis."
+284,undefined,undefined,dialogue,Betty,"Well, yeah, I can understand that."
+285,undefined,undefined,dialogue,Betty,"I mean, remember that cute girl from yesterday I mentioned earlier?"
+286,undefined,undefined,dialogue,Deal,Yeah...
+287,undefined,undefined,dialogue,Betty,The white knight that was with her? She wasn't half-bad either.
+288,undefined,undefined,dialogue,Betty,"I mean, it was obvious that a tapestry of muscles was hidden under her armor."
+289,undefined,undefined,dialogue,Betty,"I prefer more delicate-looking girls, though."
+290,undefined,undefined,dialogue,Betty,"You can appreciate how something looks, but that doesn't mean it's necessarily YOUR thing."
+291,undefined,undefined,dialogue,Deal,"And you, bartender?"
+292,undefined,undefined,dialogue,Jill,Me... what?
+293,undefined,undefined,dialogue,Deal,Which dog race do you prefer?
+294,undefined,undefined,dialogue,Betty,That's not the question I was expecting.
+295,undefined,undefined,dialogue,Jill,"...not much of a dog person, actually."
+296,undefined,undefined,dialogue,Deal,Do you have any pets?
+297,undefined,undefined,dialogue,Jill,"A cat named Fore, yeah."
+298,undefined,undefined,dialogue,Jill,He's just a stray I rescued.
+299,undefined,undefined,dialogue,Betty,Do you like rescuing girls too?
+300,undefined,undefined,dialogue,Jill,"I'm sure I should be making a witty retort right now, but I'm just gonna go ahead and say... no."
+301,undefined,undefined,dialogue,Betty,"Weird. I've always thought that the ""rescue fantasy"" was universal."
+302,undefined,undefined,dialogue,Deal,Why call it Fore?
+303,undefined,undefined,dialogue,Jill,Fore is a Lilim I met some time ago that...
+304,undefined,undefined,dialogue,Jill,...nevermind.
+305,undefined,undefined,dialogue,Betty,"Pretty lame name, if you ask me."
+306,undefined,undefined,dialogue,Jill,"Better than calling it ""Asshat""."
+307,undefined,undefined,dialogue,Deal,"I bet when you and Fore play, it's quite the sight, eh?"
+308,undefined,undefined,dialogue,Betty,...
+309,undefined,undefined,dialogue,Jill,"He's so lively, sometimes I fear Fore shadows my presence entirely."
+310,undefined,undefined,dialogue,Betty,You guys want to lose consciousness that much?
+311,undefined,undefined,dialogue,Deal,"You really need to calm down with the whole ""pun hating"" stuff, Betty."
+312,undefined,undefined,dialogue,Deal,"But to move away from this whole Fore ground, what is this ""rescue fantasy"" you mentioned before?"
+313,undefined,undefined,dialogue,Betty,"You know, the one where wayward, dangerous souls redeem themselves through the power of love."
+314,undefined,undefined,dialogue,Betty,The bad boy who turns away a life of crime.
+315,undefined,undefined,dialogue,Betty,The drug-addict girl who lived on the streets and turned tricks until she found a good man worth changing for.
+316,undefined,undefined,dialogue,Betty,It's Corny Romance Cliches 101.
+317,undefined,undefined,dialogue,Deal,"Well, you're the one with the shelf full of old-lady romance novels. I'll trust you on this."
+318,undefined,undefined,dialogue,Betty,Hey! Fabio the 13th is a national treasure!
+319,undefined,undefined,dialogue,Deal,You don't even like guys. Why do you read all those novels?
+320,undefined,undefined,dialogue,Betty,They let you put yourself in the place of the main character quite easily.
+321,undefined,undefined,dialogue,Deal,Even if said main character is a muscular man?
+322,undefined,undefined,dialogue,Betty,I see no problem.
+323,undefined,undefined,dialogue,Deal,Just... what is your self-image?
+324,undefined,undefined,dialogue,Jill,If I can ask something else...
+325,undefined,undefined,dialogue,Betty,What is it?
+326,undefined,undefined,dialogue,Jill,Why do you hate puns so much?
+327,undefined,undefined,dialogue,Betty,"Many people cringe at puns, you know?"
+328,undefined,undefined,dialogue,Jill,"Yeah, but you react like you have a vendetta against them."
+329,undefined,undefined,dialogue,Betty,...they made me feel stupid.
+330,undefined,undefined,dialogue,Jill,Um... what?
+331,undefined,undefined,dialogue,Betty,"When I was a kid, everyone in my house had a penchant for making puns at the drop of a hat."
+332,undefined,undefined,dialogue,Betty,I was the only one who couldn't get them.
+333,undefined,undefined,dialogue,Betty,"Years later, I finally got them and... THEY WEREN'T THAT FUNNY!"
+334,undefined,undefined,dialogue,Betty,They made me feel stupid!
+335,undefined,undefined,dialogue,Betty,All in the name of some terrible joke that wasn't even funny in the first place!
+336,undefined,undefined,dialogue,Deal,"I've said this so many times I might as well just make a recording, but... you need to chill out, Betty."
+337,undefined,undefined,dialogue,Betty,I am chilling out.
+338,undefined,undefined,dialogue,Betty,Just because I complain about stuff doesn't mean I'm not relaxed.
+339,undefined,undefined,dialogue,Deal,I'm... not sure that's how it works.
+340,undefined,undefined,dialogue,Betty,"Trust me. When I'm tense and angry, you'll know it."
+341,undefined,undefined,dialogue,Deal,I fear the thought.
+342,undefined,undefined,dialogue,Betty,"Anyway, I'll go check on the dogs. I'm supposed to be their doctor and they are being suspiciously quiet."
+343,undefined,undefined,dialogue,Deal,Be careful.
+344,undefined,undefined,dialogue,Jill,You want anything else?
+345,undefined,undefined,dialogue,Deal,"I'll have a Bloom Light. Actually, make that two, please."
+346,undefined,undefined,dialogue,Jill,Sure.
+347,undefined,undefined,dialogue,Jill,Here.
+348,undefined,undefined,dialogue,Deal,Thanks.
+349,undefined,undefined,dialogue,Jill,Here.
+350,undefined,undefined,dialogue,Deal,"Not what I ordered, but whatever..."
+351,undefined,undefined,dialogue,Jill,Say... you two seem to get along quite well.
+352,undefined,undefined,dialogue,Deal,"Well, when you are the only sentient humanoids in the entire company, it kinda happens."
+353,undefined,undefined,dialogue,Jill,Sentient?
+354,undefined,undefined,dialogue,Deal,"We have a couple of test mannequins and cardboard cutouts, so..."
+355,undefined,undefined,dialogue,Jill,I see.
+356,undefined,undefined,dialogue,Jill,"Seems there's more to it than just that, though."
+357,undefined,undefined,dialogue,Jill,"I mean, even if you two are the only ones of your kind, you can still hate each other."
+358,undefined,undefined,dialogue,Deal,"Well, I guess I'm one of the few that can stand Betty."
+359,undefined,undefined,dialogue,Deal,"She's a really nice person, but she doesn't sugar coat things."
+360,undefined,undefined,dialogue,Jill,"Yeah, I can see that."
+361,undefined,undefined,dialogue,Deal,You should see her treating those dogs.
+362,undefined,undefined,dialogue,Deal,"She becomes so patient and understanding, even if it's only for a little while."
+363,undefined,undefined,dialogue,Deal,"The dogs don't call her ""Mom"" to mock her."
+364,undefined,undefined,dialogue,Jill,Can dogs mock people?
+365,undefined,undefined,dialogue,Deal,I... don't know.
+366,undefined,undefined,dialogue,Betty,"""Even if it's only for a little while""."
+367,undefined,undefined,dialogue,Deal,You were eavesdropping?
+368,undefined,undefined,dialogue,Betty,So you can say nice things once in a while...
+369,undefined,undefined,dialogue,Deal,You say it like I'm the aggressive one here.
+370,undefined,undefined,dialogue,Betty,"It's nice hearing people say good things about you once in a while, you know?"
+371,undefined,undefined,dialogue,Deal,You should take your own advice.
+372,undefined,undefined,dialogue,Betty,Maybe some other time. I'm not a hugbox.
+373,undefined,undefined,dialogue,Deal,Anything happened?
+374,undefined,undefined,dialogue,Betty,A dog in the bathroom got angry at his reflection on the mirror and charged into it.
+375,undefined,undefined,dialogue,Betty,"Luckily, nothing bad happened. It just made a dog very confused."
+376,undefined,undefined,dialogue,Jill,How the hell do they get on top of the sinks?
+377,undefined,undefined,dialogue,Betty,They are surprisingly agile even with those stubby little legs.
+378,undefined,undefined,dialogue,Deal,"Oh, yeah. I ordered you this."
+379,undefined,undefined,dialogue,Betty,"Ah, thanks."
+380,undefined,undefined,dialogue,Deal,"By the way, Betty, how's Veronica?"
+381,undefined,undefined,dialogue,Betty,She... we broke up last month.
+382,undefined,undefined,dialogue,Deal,What?!
+383,undefined,undefined,dialogue,Betty,"Well, things were not going so well. We got too used to one another."
+384,undefined,undefined,dialogue,Betty,Everything was starting to become... routine.
+385,undefined,undefined,dialogue,Betty,We decided to break up before things got bitter.
+386,undefined,undefined,dialogue,Deal,And why didn't you tell me that before?
+387,undefined,undefined,dialogue,Betty,Why? Did you want your turn at the Betty mobile?
+388,undefined,undefined,dialogue,Deal,...
+389,undefined,undefined,dialogue,Betty,I don't know. I guess I just didn't want to trouble you.
+390,undefined,undefined,dialogue,Betty,"And, after a while, it stopped feeling like it was something relevant to say."
+391,undefined,undefined,dialogue,Deal,*sigh* Please don't do that again. Try trusting me.
+392,undefined,undefined,dialogue,Betty,"Yeah, you're right..."
+393,undefined,undefined,dialogue,Deal,...
+394,undefined,undefined,dialogue,Betty,...
+395,undefined,undefined,dialogue,Jill,...
+396,undefined,undefined,dialogue,Jill,You know what bothers me?
+397,undefined,undefined,dialogue,Jill,The fact that asking after someone's health always feels like you're walking on a floor full of glass shards.
+398,undefined,undefined,dialogue,Jill,"There's always this chance that the other person is not okay, or even dead..."
+399,undefined,undefined,dialogue,Jill,And what started as a legitimately fun moment can go sour.
+400,undefined,undefined,dialogue,Betty,"Yeah, you're right."
+401,undefined,undefined,dialogue,Betty,"Sorry for not trusting you, you piece o' scrap."
+402,undefined,undefined,dialogue,Deal,Don't worry. I understand why you did it.
+403,undefined,undefined,dialogue,Betty,"Hey. Now that I think about it, you sure hang out with us a lot, bartender."
+404,undefined,undefined,dialogue,Jill,"Well, dogs can only be so interesting, and besides, there haven't been as many dogs today."
+405,undefined,undefined,dialogue,Jill,Is my presence unwanted?
+406,undefined,undefined,dialogue,Betty,Not at all. Especially since you're the one bringing the booze.
+407,undefined,undefined,dialogue,Deal,You're like those cab drivers that like to chat all the way... but you smell better than most of them.
+408,undefined,undefined,dialogue,Jill,Thank you.
+409,undefined,undefined,dialogue,Jill,Funny thing is that we are unofficially associated with a local taxi line.
+410,undefined,undefined,dialogue,Jill,They're the ones that send drunkards to their homes.
+411,undefined,undefined,dialogue,Betty,"You seem to really, really like talking to your clients. Like, it's the best part of your job or something."
+412,undefined,undefined,dialogue,Jill,It kinda is.
+413,undefined,undefined,dialogue,Jill,I used to sit around in crowded places like malls or bars and think to myself...
+414,undefined,undefined,dialogue,Jill,"""Each and every person here has a story."""
+415,undefined,undefined,dialogue,Jill,It's a humbling experience.
+416,undefined,undefined,dialogue,Jill,"Everyone has dreams, fears, and loved ones."
+417,undefined,undefined,dialogue,Jill,"If you dig deep enough, you'll realize that the gap between two random people isn't as big as you think it is."
+418,undefined,undefined,dialogue,Jill,"In fact, it's quite small."
+419,undefined,undefined,dialogue,Jill,"And in this job, you get to hear all kinds of stories."
+420,undefined,undefined,dialogue,Jill,Some people just blurt it all out. Some do it while drunk.
+421,undefined,undefined,dialogue,Jill,"To know that no matter how similar they might seem at first glance, no two people are alike... it's fascinating."
+422,undefined,undefined,dialogue,Betty,You could be a powerful information broker with all that knowledge.
+423,undefined,undefined,dialogue,Jill,Nah. Not interested.
+424,undefined,undefined,dialogue,Jill,I like to see myself more as a friendly ear rather than someone you need to be wary of.
+425,undefined,undefined,dialogue,Betty,I guess there're still decent folks out there.
+426,undefined,undefined,dialogue,Deal,I'm not decent?
+427,undefined,undefined,dialogue,Betty,YOU'RE CRITICALLY OBSESSED WITH DOGS!
+428,undefined,undefined,dialogue,Jill,I'll go check if there's any other dogs who want something.
+429,undefined,undefined,dialogue,Deal,Sure.
+430,undefined,undefined,dialogue,Betty,Go ahead.
+431,undefined,undefined,dialogue,Gruff Bucket,QUICK! A BEER!
+432,undefined,undefined,dialogue,Jill,Okay...
+433,undefined,undefined,dialogue,Jill,Here.
+434,undefined,undefined,dialogue,Gruff Bucket,"Thanks, now... BOOM!"
+435,undefined,undefined,dialogue,Jill,...
+436,undefined,undefined,dialogue,Jill,...why did you break the glass?
+437,undefined,undefined,dialogue,Gruff Bucket,I made breakfast!
+438,undefined,undefined,dialogue,Jill,...
+439,undefined,undefined,dialogue,Gruff Bucket,Get it? Because you made the drink fast... and I broke it... and...
+440,undefined,undefined,dialogue,Jill,...go.
+441,undefined,undefined,dialogue,Gruff Bucket,Tough crowd.
+442,undefined,undefined,dialogue,Jill,"(Suddenly, I understand the hate for puns.)"
+443,undefined,undefined,dialogue,Betty,Hey Bat Render!
+444,undefined,undefined,dialogue,Jill,Yeah?
+445,undefined,undefined,dialogue,Betty,Heheh... your job has a funny name.
+446,undefined,undefined,dialogue,Jill,You don't say...
+447,undefined,undefined,dialogue,Jill,How is she already drunk? She drank way less than she did last night.
+448,undefined,undefined,dialogue,Deal,Yeah... but she drank a bottle before coming here.
+449,undefined,undefined,dialogue,Jill,Why?
+450,undefined,undefined,dialogue,Deal,I wish I knew. It's an example of her alcohol tolerance though.
+451,undefined,undefined,dialogue,Betty,"Bra Denter, I want to make a toast to my good friend the robot here."
+452,undefined,undefined,dialogue,Betty,Probably the only person... robot... THING that can stand my yapping for more than half an hour.
+453,undefined,undefined,dialogue,Betty,"Without him, my job would be five times more boring and my life two times more meaningless."
+454,undefined,undefined,dialogue,Betty,Cheers!
+455,undefined,undefined,dialogue,Jill,You're not holding a drink.
+456,undefined,undefined,dialogue,Betty,"Then give me one, Ben Trader! Isn't that YOUR job? I need a Beer! A big one!"
+457,undefined,undefined,dialogue,Jill,Alright...
+458,undefined,undefined,dialogue,Betty,"Alright, cheers!"
+459,undefined,undefined,dialogue,Betty,I said... CHEEEEEEERS!
+460,undefined,undefined,dialogue,Jill,Cheers.
+461,undefined,undefined,dialogue,Deal,Cheers.
+462,undefined,undefined,dialogue,Betty,Good!
+463,undefined,undefined,dialogue,Deal,Grumpy when sober and a sweetheart when drunk. It seems like she's been like this since her university years.
+464,undefined,undefined,dialogue,Betty,You make it sound like those were a decade ago.
+465,undefined,undefined,dialogue,Deal,"*AHEM* I can understand liking the taste of alcohol, but what's so good about getting drunk?"
+466,undefined,undefined,dialogue,Betty,"First of all, I'm not drunk."
+467,undefined,undefined,dialogue,Deal,You're too happy.
+468,undefined,undefined,dialogue,Betty,I'm a happy person!
+469,undefined,undefined,dialogue,Deal,When drunk.
+470,undefined,undefined,dialogue,Betty,Hmph...
+471,undefined,undefined,dialogue,Betty,"Anyway, it's something you just can't explain."
+472,undefined,undefined,dialogue,Betty,You just like it. Your body needs it. Craves it.
+473,undefined,undefined,dialogue,Deal,That's called being an alcoholic.
+474,undefined,undefined,dialogue,Betty,"I prefer the term ""alcohol enthusiast."""
+475,undefined,undefined,dialogue,Betty,"Anyway, humans actively look for things that make them feel light-headed."
+476,undefined,undefined,dialogue,Betty,Why else would they leave some poison in potentially poisonous foods like that weird balloon fish thing?
+477,undefined,undefined,dialogue,Betty,Why would they eat spicy food or drink fermented milk?
+478,undefined,undefined,dialogue,Betty,"Seriously, how crazy does someone need to be to say ""Hey, let's eat this and see what happens""?"
+479,undefined,undefined,dialogue,Betty,"Worse yet, they've even found MEDICINE among all that junk."
+480,undefined,undefined,dialogue,Betty,The one that invented penicillin was probably the worst of them all.
+481,undefined,undefined,dialogue,Deal,"Fair enough. But see, that's proof you're drunk."
+482,undefined,undefined,dialogue,Deal,"If you were sober, you would just say ""Hell if I know..."""
+483,undefined,undefined,dialogue,Betty,Silly robot...
+484,undefined,undefined,dialogue,Betty,"Now that I think about it, what KIND of robot are you?"
+485,undefined,undefined,dialogue,Deal,Lilim.
+486,undefined,undefined,dialogue,Betty,Lilim always sounds too feminine.
+487,undefined,undefined,dialogue,Betty,Okay then. What manner of piece of scrap are you?
+488,undefined,undefined,dialogue,Deal,You don't know?
+489,undefined,undefined,dialogue,Betty,Never cared. But now I'm curious.
+490,undefined,undefined,dialogue,Deal,Oh. Well. You won't remember it tomorrow.
+491,undefined,undefined,dialogue,Deal,"I'm a DT-01d, a social development robot."
+492,undefined,undefined,dialogue,Betty,Is that like the DFC-72s?
+493,undefined,undefined,dialogue,Deal,"No, no... DFC-72s are designed to be as physically human as possible in order to blend in with humans better."
+494,undefined,undefined,dialogue,Deal,"My line is more tailored for resilience. We are ""Work Lilim."""
+495,undefined,undefined,dialogue,Betty,Why must you be cursed to only one destiny from the moment you are born?
+496,undefined,undefined,dialogue,Betty,"You can do whatever you want, silly robot. Follow your dreams!"
+497,undefined,undefined,dialogue,Deal,I know. I'm already doing it.
+498,undefined,undefined,dialogue,Deal,Being created or hardwired for one duty only means you're more adept at certain things.
+499,undefined,undefined,dialogue,Deal,Giving robots freedom of choice? That's the whole purpose of the ADN law.
+500,undefined,undefined,dialogue,Betty,"Yeah, but you know... you say you're resilient, but you don't look the part."
+501,undefined,undefined,dialogue,Deal,"True, I never upgraded my muscles, but I can stand up to 200 degrees Celsius without breaking a sweat."
+502,undefined,undefined,dialogue,Jill,Lilim can sweat?
+503,undefined,undefined,dialogue,Deal,"Cooling agents, yes."
+504,undefined,undefined,dialogue,Betty,No matter! You're still special to me no matter what kind of robot you are!
+505,undefined,undefined,dialogue,Deal,Lilim.
+506,undefined,undefined,dialogue,Betty,No matter what piece of shit you are!
+507,undefined,undefined,dialogue,Deal,"Speaking of special, how come it isn't legal to marry a dog yet?"
+508,undefined,undefined,dialogue,Betty,...
+509,undefined,undefined,dialogue,Betty,"'scuse me, what?"
+510,undefined,undefined,dialogue,Deal,If humans are allowed to marry robots... LILIM! I meant Lilim!
+511,undefined,undefined,dialogue,Deal,*ahem* They should be able to marry dogs too.
+512,undefined,undefined,dialogue,Betty,...
+513,undefined,undefined,dialogue,Betty,Ab Trender~
+514,undefined,undefined,dialogue,Jill,That's me... I think.
+515,undefined,undefined,dialogue,Betty,This guy here wants to bang a dog. Mock him.
+516,undefined,undefined,dialogue,Jill,Excuse me?
+517,undefined,undefined,dialogue,Deal,I do NOT.
+518,undefined,undefined,dialogue,Deal,"I was just saying that if humans are now allowed to marry Lilim, why shouldn't they be able to marry animals?"
+519,undefined,undefined,dialogue,Betty,"Because first of all, they're not humanoids."
+520,undefined,undefined,dialogue,Deal,What about monkeys then?
+521,undefined,undefined,dialogue,Betty,And now you wanna bang a monkey?
+522,undefined,undefined,dialogue,Deal,I DO NOT!
+523,undefined,undefined,dialogue,Betty,"And second of all, dogs, just like many other animals, can't give you consent."
+524,undefined,undefined,dialogue,Deal,But look at these dogs!
+525,undefined,undefined,dialogue,Deal,"Sure, they have the cognitive abilities of 7-year olds, but they can talk, drink booze, and argue."
+526,undefined,undefined,dialogue,Betty,So now you wanna bang a 7-year old?
+527,undefined,undefined,dialogue,Jill,We have a regular here who would be delighted to hear that.
+528,undefined,undefined,dialogue,Deal,Stop it!
+529,undefined,undefined,dialogue,Betty,Remember. Lilim-human marriages were only sanctioned after the Lilim achieved full sentience.
+530,undefined,undefined,dialogue,Betty,"And even then, they used marriage as a way to evolve the Collective Source."
+531,undefined,undefined,dialogue,Betty,"Besides, dogs don't really ""love"" us that way."
+532,undefined,undefined,dialogue,Betty,Trying to apply human ideas like marriage to a dog is like...
+533,undefined,undefined,dialogue,Betty,"...like trying to feed vegetables to a carnivore, you get me?"
+534,undefined,undefined,dialogue,Deal,Says the ex-vegetarian. Why are you only so smart when drunk?
+535,undefined,undefined,dialogue,Betty,I'm not drunk!
+536,undefined,undefined,dialogue,Betty,"But, anyways. If you want to screw a dog or a chimp, go ahead."
+537,undefined,undefined,dialogue,Betty,Just don't bring marriage or infants into the whole deal... Deal.
+538,undefined,undefined,dialogue,Betty,"But if you even start thinking about doing the horizontal mambo with a 7-year-old, please seek some mental help."
+539,undefined,undefined,dialogue,Deal,But I don't want to bang dogs! Or monkeys! Or 7 year-olds!
+540,undefined,undefined,dialogue,Betty,"Well, thank god!"
+541,undefined,undefined,dialogue,Betty,Then why did you suddenly start talking about dog-human marriage?
+542,undefined,undefined,dialogue,Deal,It's just... I was thinking about all these dogs in tuxedos and...
+543,undefined,undefined,dialogue,Deal,...and I started picturing a dog in a bridal dress...
+544,undefined,undefined,dialogue,Deal,"I mean, Just try and picture that."
+545,undefined,undefined,dialogue,Betty,...and I'M the drunk one.
+546,undefined,undefined,dialogue,Betty,"Wait... I'm not drunk, why would I say that?"
+547,undefined,undefined,dialogue,Betty,"Then again, when YOU get drunk you only get dizzy."
+548,undefined,undefined,dialogue,Betty,"Do you have a limit? As in, a limit to how much you can drink before passing out?"
+549,undefined,undefined,dialogue,Deal,"No, I just get disoriented to the point I'm effectively useless, but I never pass out."
+550,undefined,undefined,dialogue,Deal,"Maybe, if I passed out, I wouldn't have to deal with all the shit that follows."
+551,undefined,undefined,dialogue,Deal,I always have to wait at least 24 hours before the effects pass.
+552,undefined,undefined,dialogue,Deal,One has to wonder why they gave all those human flaws to Lilim.
+553,undefined,undefined,dialogue,Jill,I read something about that.
+554,undefined,undefined,dialogue,Jill,"It said that by giving Lilim the same kind of weaknesses humans have, they would develop the same way humans do."
+555,undefined,undefined,dialogue,Betty,So that's why they also bite their lips randomly when eating?
+556,undefined,undefined,dialogue,Jill,Seems like it.
+557,undefined,undefined,dialogue,Betty,But it makes me wonder: exactly how anatomically correct are you?
+558,undefined,undefined,dialogue,Deal,That's something I know and you don't.
+559,undefined,undefined,dialogue,Betty,Hmph...
+560,undefined,undefined,dialogue,Jill,Any of you want anything else to drink?
+561,undefined,undefined,dialogue,Betty,Yeah! I want...
+562,undefined,undefined,dialogue,Deal,"Nothing, you're drunk enough as is."
+563,undefined,undefined,dialogue,Betty,You're not my dad! You can't tell me what I can or can't do!
+564,undefined,undefined,dialogue,Deal,"Beatrice Albert, stop drinking right now."
+565,undefined,undefined,dialogue,Betty,"...yes, mom."
+566,undefined,undefined,dialogue,Deal,"Now, go sleep in the car. We are almost done here."
+567,undefined,undefined,dialogue,Betty,But mo-om!
+568,undefined,undefined,dialogue,Deal,Go.
+569,undefined,undefined,dialogue,Betty,Hmph...
+570,undefined,undefined,dialogue,Betty,"Bye, Bad Nerter."
+571,undefined,undefined,dialogue,Jill,Bye Ms. Betty.
+572,undefined,undefined,dialogue,Deal,It... actually worked.
+573,undefined,undefined,dialogue,Deal,"If I didn't know she wouldn't remember anything tomorrow, I'd be afraid of retaliation."
+574,undefined,undefined,dialogue,Deal,"Although, I'm curious. Why do you call her ""Ms. Betty?"" It makes her sound like a teacher or something."
+575,undefined,undefined,dialogue,Jill,Etiquette? I don't know.
+576,undefined,undefined,dialogue,Jill,"There's also something about her that makes it feel right to call her that. Maybe, it's the forehead..."
+577,undefined,undefined,dialogue,Deal,I see...
+578,undefined,undefined,dialogue,Deal,"Well, I gotta get things ready. If you'll excuse me..."
+579,undefined,undefined,dialogue,Jill,Good luck.
+580,undefined,undefined,dialogue,Wyvern Lover,Hey!
+581,undefined,undefined,dialogue,Jill,We're closing.
+582,undefined,undefined,dialogue,Wyvern Lover,Dammit!
+583,undefined,undefined,dialogue,Deal,"Well, everyone's safe in a cab."
+584,undefined,undefined,dialogue,Deal,"We are taking our leave, bartender. Thank you for providing such great service on such short notice."
+585,undefined,undefined,dialogue,Jill,"That's my job. Um, you were interesting too?"
+586,undefined,undefined,dialogue,Deal,"Well, thank you."
+587,undefined,undefined,dialogue,Deal,I'll make sure to tell all our associates about the wonders of this place.
+588,undefined,undefined,dialogue,Jill,"Thank you, and please come again."
+589,undefined,undefined,dialogue,Deal,We sure will.
+590,undefined,undefined,dialogue,Jill,Send my regards to Ms. Betty.
+591,undefined,undefined,dialogue,Deal,Gladly. See you later then.
+592,undefined,undefined,dialogue,Jill,Bye.
+593,undefined,undefined,dialogue,Dana,All done?
+594,undefined,undefined,dialogue,Jill,Yup.
+595,undefined,undefined,dialogue,Jill,Seems like we got some new regulars.
+596,undefined,undefined,dialogue,Dana,Yeah... it'd be nice if they came back... or that we're still here when they want to come back.
+597,undefined,undefined,dialogue,Jill,"You've been acting weird all weekend, Boss. Are you okay?"
+598,undefined,undefined,dialogue,Dana,"I am, but the bar is not."
+599,undefined,undefined,dialogue,Jill,What do you mean?
+600,undefined,undefined,dialogue,Dana,"Well, I guess you have the right to know."
+601,undefined,undefined,dialogue,Dana,The BTC sent me a message on Friday. Valhalla hasn't been bringing in much income these last few months.
+602,undefined,undefined,dialogue,Dana,Which means that we are at risk of being wiped off the map.

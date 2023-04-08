@@ -1,0 +1,605 @@
+line,filename,lines,type,character,text
+0,script10.txt,604,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,G'evening.
+3,undefined,undefined,dialogue,Gillian,Are you okay?
+4,undefined,undefined,dialogue,Jill,I feel like shit.
+5,undefined,undefined,dialogue,Gillian,You sure you should've come then? You're in all the right to stay at home.
+6,undefined,undefined,dialogue,Jill,I have to come.
+7,undefined,undefined,dialogue,Jill,I threw away everything I had in my life to be here.
+8,undefined,undefined,dialogue,Jill,People I loved were pushed aside just so I could enjoy my freedom of being here.
+9,undefined,undefined,dialogue,Jill,"My stupid, stupid freedom..."
+10,undefined,undefined,dialogue,Jill,...
+11,undefined,undefined,dialogue,Jill,"So I will come here until I die, even after the bar closes, until my hair falls out."
+12,undefined,undefined,dialogue,Gillian,You're the one who looks like she's about to fall apart.
+13,undefined,undefined,dialogue,Gillian,Your eyes are red and swollen.
+14,undefined,undefined,dialogue,Jill,Yeah? Well... your hair is... hairy!
+15,undefined,undefined,dialogue,Gillian,"Yes, it is."
+16,undefined,undefined,dialogue,Jill,Agh! Who was the dipshit that changed the order of the glasses?!
+17,undefined,undefined,dialogue,Gillian,"It was me. I was the one washing dishes yesterday, remember?"
+18,undefined,undefined,dialogue,Jill,"Oh yeah, I was too busy staring at my crumbling life and all that."
+19,undefined,undefined,dialogue,Gillian,"Why don't you go home, Jill? You're in no position to deal with people right now."
+20,undefined,undefined,dialogue,Gillian,"Go home, rest a bit."
+21,undefined,undefined,dialogue,Jill,My girlfrie-... my ex-girlfriend died and I wasn't there to see her one last time.
+22,undefined,undefined,dialogue,Jill,"All because of a fight I spent all these years regretting and wishing to, but never actually apologizing for."
+23,undefined,undefined,dialogue,Jill,My decision to assert my freedom and grab a hold of my life led me to this.
+24,undefined,undefined,dialogue,Jill,A bartender strapped for cash that distanced herself from her loved ones for no other reason than selfishness.
+25,undefined,undefined,dialogue,Jill,"So I won't fucking leave. I threw all of that away to be here, so here I will stay!"
+26,undefined,undefined,dialogue,Jill,"This is what I wanted, this is why I left all of that behind, this is why..."
+27,undefined,undefined,dialogue,Jill,...
+28,undefined,undefined,dialogue,Gillian,See? You're starting to sound like a broken record.
+29,undefined,undefined,dialogue,Dana,"Oh, leave her be. I'd rather have her here than be alone in her apartment."
+30,undefined,undefined,dialogue,Dana,"How are you feeling, Jill?"
+31,undefined,undefined,dialogue,Jill,I feel like a shit-eating piece of shit.
+32,undefined,undefined,dialogue,Jill,I'm the lowest of any possible life form you might find.
+33,undefined,undefined,dialogue,Jill,"Nanobes look down to me in disgust, knowing they're far superior."
+34,undefined,undefined,dialogue,Dana,"You're spirited, that's good."
+35,undefined,undefined,dialogue,Jill,Where's the mutt?
+36,undefined,undefined,dialogue,Dana,Working with CIRA.
+37,undefined,undefined,dialogue,Gillian,"""At"" CIRA."
+38,undefined,undefined,dialogue,Dana,I know what I said.
+39,undefined,undefined,dialogue,Dana,"In any case, let Jill process her anger. It's perfectly normal to feel that way."
+40,undefined,undefined,dialogue,Dana,"And here, she's surrounded by people that care about her."
+41,undefined,undefined,dialogue,Dana,That's a lot better than leaving her to fend for herself.
+42,undefined,undefined,dialogue,Dana,"I mean, as smart as Fore might be, he's still just a cat."
+43,undefined,undefined,dialogue,Gillian,"Then why not have Jill stay, but not serve anyone today?"
+44,undefined,undefined,dialogue,Jill,"What part of ""I won't leave"" didn't you understand?!"
+45,undefined,undefined,dialogue,Jill,I didn't leave everyone behind to just sit and do nothing!
+46,undefined,undefined,dialogue,Gillian,"Fine, fine..."
+47,undefined,undefined,dialogue,Gillian,*sigh* What do we do if she lashes out at a client?
+48,undefined,undefined,dialogue,Dana,"That's why you're here, Gillian Pliskin."
+49,undefined,undefined,dialogue,Gillian,Who?
+50,undefined,undefined,dialogue,Dana,Hey Jill.
+51,undefined,undefined,dialogue,Jill,What?
+52,undefined,undefined,dialogue,Dana,"I'll be in my office, but if you need a break or a hug, just tell me."
+53,undefined,undefined,dialogue,Jill,...
+54,undefined,undefined,dialogue,Gillian,"Oh, you already put on music."
+55,undefined,undefined,dialogue,Jill,...
+56,undefined,undefined,dialogue,Gillian,*sigh* This is gonna be an interesting day.
+57,undefined,undefined,dialogue,Virgilio,"The hall of heroes keeps shining. Brimming with the... *sniff* Do I smell tacos? Wait, it's outside. Nevermind."
+58,undefined,undefined,dialogue,Jill,"Oh, hell no."
+59,undefined,undefined,dialogue,Virgilio,"We meet again, bartender."
+60,undefined,undefined,dialogue,Jill,...Virgilio. What can I get you?
+61,undefined,undefined,dialogue,Virgilio,"Today, the luminous pollution on the streets makes it seem almost like a starry sky."
+62,undefined,undefined,dialogue,Virgilio,"And when I think about stars, I think about celebrities. Celebrities are fishy and my favorite fish is the octopus."
+63,undefined,undefined,dialogue,Virgilio,So I want something octopus-like.
+64,undefined,undefined,dialogue,Jill,...
+65,undefined,undefined,dialogue,Virgilio,Aren't you... gonna do that weird bartending thing?
+66,undefined,undefined,dialogue,Jill,I'm waiting for you to order like a decent human being.
+67,undefined,undefined,dialogue,Virgilio,I'm not following.
+68,undefined,undefined,dialogue,Jill,Spell out your order like you're a human who is not in need of medical help.
+69,undefined,undefined,dialogue,Virgilio,"Fine then, I want a Sparkle Star. S-P-A-R R... kle Star."
+70,undefined,undefined,dialogue,Jill,...
+71,undefined,undefined,dialogue,Jill,See? Was it that hard?
+72,undefined,undefined,dialogue,Virgilio,Have you TRIED to spell under pressure?
+73,undefined,undefined,dialogue,Jill,Here.
+74,undefined,undefined,dialogue,Virgilio,This isn't an Rkle Star.
+75,undefined,undefined,dialogue,Jill,Whatever.
+76,undefined,undefined,dialogue,Virgilio,"You look angry, Spelling Bartender. Are you having that time of the month or something?"
+77,undefined,undefined,dialogue,Jill,"No, I'm just filled with ridiculous amounts of anger, pain, and self-hate, and..."
+78,undefined,undefined,dialogue,Jill,"...on second thought, you're not that far from the truth, I guess."
+79,undefined,undefined,dialogue,Virgilio,"I get those too, you know? Periods."
+80,undefined,undefined,dialogue,Jill,...you do?
+81,undefined,undefined,dialogue,Virgilio,"Yes. Last month, I finally got over my Renaissance and moved to my Enlightenment."
+82,undefined,undefined,dialogue,Jill,...
+83,undefined,undefined,dialogue,Jill,"And here I was, thinking you'd get to say something serious for once."
+84,undefined,undefined,dialogue,Virgilio,Are you implying I'm not serious?
+85,undefined,undefined,dialogue,Jill,...
+86,undefined,undefined,dialogue,Virgilio,Glaring holes through me will do nothing. I'm glare-immune!
+87,undefined,undefined,dialogue,Jill,*sigh*
+88,undefined,undefined,dialogue,Virgilio,But if you allow me to give you a sincere piece of advice...
+89,undefined,undefined,dialogue,Jill,...whatever. It's not like it'll help.
+90,undefined,undefined,dialogue,Virgilio,You shouldn't kick yourself so much.
+91,undefined,undefined,dialogue,Virgilio,"If you keep it up, any chance of finally forgiving yourself will someday be gone."
+92,undefined,undefined,dialogue,Virgilio,Self-hate will leave you with a hole that will never heal.
+93,undefined,undefined,dialogue,Virgilio,So please take measures against it instead of sulking so much.
+94,undefined,undefined,dialogue,Jill,...I'll be damned. That actually sounded half-sensible.
+95,undefined,undefined,dialogue,Jill,And here I was thinking you were just a pompous lunatic.
+96,undefined,undefined,dialogue,Virgilio,Hey! Pompous lunatics have stories too!
+97,undefined,undefined,dialogue,Jill,Really? What story?
+98,undefined,undefined,dialogue,Virgilio,I... would rather not tell.
+99,undefined,undefined,dialogue,Jill,Figures.
+100,undefined,undefined,dialogue,Jill,You want anything else?
+101,undefined,undefined,dialogue,Virgilio,Have you ever seen how the...
+102,undefined,undefined,dialogue,Jill,...
+103,undefined,undefined,dialogue,Virgilio,A-A Bad Touch.
+104,undefined,undefined,dialogue,Jill,...
+105,undefined,undefined,dialogue,Jill,Here.
+106,undefined,undefined,dialogue,Virgilio,"Yeah, I guess this is the one."
+107,undefined,undefined,dialogue,Jill,...
+108,undefined,undefined,dialogue,Virgilio,"This is the problem with antagonizing the bartender, eh?"
+109,undefined,undefined,dialogue,Jill,...
+110,undefined,undefined,dialogue,Jill,(Maybe he's right and I shouldn't be so hard on myself.)
+111,undefined,undefined,dialogue,Jill,...
+112,undefined,undefined,dialogue,Jill,(Even though I deserve every second of it.)
+113,undefined,undefined,dialogue,Jill,"(If only I had apologized earlier, I might not be feeling this way right now.)"
+114,undefined,undefined,dialogue,Jill,(If only I... i-if only I...)
+115,undefined,undefined,dialogue,Jill,(I... I can't even remember what held me from apologizing all these years.)
+116,undefined,undefined,dialogue,Virgilio,Um... bartender. You're making lots of faces there.
+117,undefined,undefined,dialogue,Jill,(Pride? Fear? What kept me from going out and apologizing to Lenore?)
+118,undefined,undefined,dialogue,Jill,(I can't even fucking remember what feeling kept me from fixing this whole situation?!)
+119,undefined,undefined,dialogue,Jill,(Can't I at least find solace in whatever feeling it was that brought me to this situation?!)
+120,undefined,undefined,dialogue,Jill,"(Great, now I'm feeling even worse thanks to not being able to muster whatever feeling held me.)"
+121,undefined,undefined,dialogue,Jill,...
+122,undefined,undefined,dialogue,Virgilio,I-Is she okay?
+123,undefined,undefined,dialogue,Gillian,"No, but just leave her be for now."
+124,undefined,undefined,dialogue,Sei,Hey Jill!
+125,undefined,undefined,dialogue,Jill,...
+126,undefined,undefined,dialogue,Jill,...eh?
+127,undefined,undefined,dialogue,Jill,"Oh, thank god. A normal person."
+128,undefined,undefined,dialogue,Virgilio,WAAAAAAA! A Mummy!
+129,undefined,undefined,dialogue,Sei,"No, no. I don't have kids."
+130,undefined,undefined,dialogue,Jill,...still more normal than this twat.
+131,undefined,undefined,dialogue,Jill,"How are you feeling, Sei?"
+132,undefined,undefined,dialogue,Sei,"My bones are still broken, but at least the cuts are healing nicely."
+133,undefined,undefined,dialogue,Sei,Thank god I'm not someone that scars easily.
+134,undefined,undefined,dialogue,Sei,Um... I mean wounds don't leave me marks. It'd be a problem if I couldn't get scar tissue.
+135,undefined,undefined,dialogue,Virgilio,What happened to you?
+136,undefined,undefined,dialogue,Sei,Fell off two and a half stories into some trash and rubble.
+137,undefined,undefined,dialogue,Jill,"You look better, though. Last time you came, you looked like you were about to collapse emotionally."
+138,undefined,undefined,dialogue,Sei,Heheh... I guess.
+139,undefined,undefined,dialogue,Sei,...
+140,undefined,undefined,dialogue,Sei,"...you're the one who looks like it now, though."
+141,undefined,undefined,dialogue,Sei,"How do I put it... it's like when I called you your full name, but magnified."
+142,undefined,undefined,dialogue,Jill,"Yeah, don't mind me too much. I'm in a bad mood."
+143,undefined,undefined,dialogue,Sei,Anything I can do?
+144,undefined,undefined,dialogue,Jill,Please forgive me if I suddenly lash out. At you or anyone else.
+145,undefined,undefined,dialogue,Jill,Do you want something?
+146,undefined,undefined,dialogue,Sei,"My tongue's not so sensitive today, so let's have a Beer."
+147,undefined,undefined,dialogue,Jill,And you?
+148,undefined,undefined,dialogue,Virgilio,Such a change in tone.
+149,undefined,undefined,dialogue,Virgilio,I-I'm fine. I don't need anything.
+150,undefined,undefined,dialogue,Jill,...
+151,undefined,undefined,dialogue,Jill,Here.
+152,undefined,undefined,dialogue,Sei,Yay! Let's see if there are any differences from the canned ones.
+153,undefined,undefined,dialogue,Jill,...and?
+154,undefined,undefined,dialogue,Sei,This one tastes... less watered down.
+155,undefined,undefined,dialogue,Jill,Here.
+156,undefined,undefined,dialogue,Sei,This isn't what I ordered.
+157,undefined,undefined,dialogue,Sei,D-Don't lash out at me!
+158,undefined,undefined,dialogue,Jill,I won't. Sorry about that.
+159,undefined,undefined,dialogue,Sei,"So, did something happen to you?"
+160,undefined,undefined,dialogue,Jill,"I'm fine, nothing's happened to me."
+161,undefined,undefined,dialogue,Sei,People who are fine don't act like that.
+162,undefined,undefined,dialogue,Sei,"...oh! I get it. You're in ""those days""."
+163,undefined,undefined,dialogue,Jill,...
+164,undefined,undefined,dialogue,Sei,"When it's that time of the month, I get a bit sulky."
+165,undefined,undefined,dialogue,Jill,"No, I'm not on my period."
+166,undefined,undefined,dialogue,Sei,No?
+167,undefined,undefined,dialogue,Jill,"*sigh* I'm dealing with the loss of someone, okay?"
+168,undefined,undefined,dialogue,Sei,Oh!
+169,undefined,undefined,dialogue,Sei,...
+170,undefined,undefined,dialogue,Sei,...sorry.
+171,undefined,undefined,dialogue,Jill,Don't worry.
+172,undefined,undefined,dialogue,Jill,*sigh* Maybe I shouldn't have come today after all.
+173,undefined,undefined,dialogue,Sei,...
+174,undefined,undefined,dialogue,Sei,Um...
+175,undefined,undefined,dialogue,Sei,"No, I..."
+176,undefined,undefined,dialogue,Sei,Hm...
+177,undefined,undefined,dialogue,Sei,Maybe...
+178,undefined,undefined,dialogue,Sei,Agh!
+179,undefined,undefined,dialogue,Jill,Are you alright?
+180,undefined,undefined,dialogue,Sei,I-I'm trying to find something to say...
+181,undefined,undefined,dialogue,Sei,"Making a joke would be tasteless, and I can't say everything will be alright without it sounding... cheap."
+182,undefined,undefined,dialogue,Sei,I'm... at a loss as to what to do here. Sorry.
+183,undefined,undefined,dialogue,Jill,Heh...
+184,undefined,undefined,dialogue,Jill,Wanna hear something weird?
+185,undefined,undefined,dialogue,Jill,I was exactly like that when Stella came here on Monday talking about you.
+186,undefined,undefined,dialogue,Sei,Oh.
+187,undefined,undefined,dialogue,Virgilio,"Well, ladies. I'm leaving."
+188,undefined,undefined,dialogue,Jill,...Virgilio.
+189,undefined,undefined,dialogue,Virgilio,Yeah?
+190,undefined,undefined,dialogue,Jill,You were just sitting with a Valkyrie.
+191,undefined,undefined,dialogue,Virgilio,Really?! Splendid! This'll make a good entry in my poems blog.
+192,undefined,undefined,dialogue,Jill,*sigh* I'd feel bad about the way I treated him today.
+193,undefined,undefined,dialogue,Jill,...if not for the fact that he was being cryptic with his orders for no good reason.
+194,undefined,undefined,dialogue,Sei,Like Stella when she first came?
+195,undefined,undefined,dialogue,Jill,Yes... NO!! I mean...
+196,undefined,undefined,dialogue,Sei,Heheh...
+197,undefined,undefined,dialogue,Sei,You could've given him a free Beer or something and apologized.
+198,undefined,undefined,dialogue,Jill,Yeah. I just keep messing things up with people.
+199,undefined,undefined,dialogue,Sei,But you know? He seemed familiar.
+200,undefined,undefined,dialogue,Jill,Familiar?
+201,undefined,undefined,dialogue,Sei,"Yeah, I can't put my finger on it though. I just feel like I've seen him somewhere."
+202,undefined,undefined,dialogue,Sei,"Ah well, it might just be that he looks like someone from an ad or something."
+203,undefined,undefined,dialogue,Jill,"So, what brings you here?"
+204,undefined,undefined,dialogue,Sei,I wanted to come with Stella. So I'm waiting for her.
+205,undefined,undefined,dialogue,Jill,Why here?
+206,undefined,undefined,dialogue,Sei,"To be with you, of course!"
+207,undefined,undefined,dialogue,Jill,...
+208,undefined,undefined,dialogue,Jill,That reminds me. How did Stella react when you arrived?
+209,undefined,undefined,dialogue,Sei,She slapped me... real hard. It hurt.
+210,undefined,undefined,dialogue,Sei,"She said ""That's for making me worried and not listening to me!"" and then she became happy."
+211,undefined,undefined,dialogue,Jill,Huh...
+212,undefined,undefined,dialogue,Sei,Can I ask whose loss you are dealing with?
+213,undefined,undefined,dialogue,Jill,...you shouldn't be bothered with it.
+214,undefined,undefined,dialogue,Jill,Just pretend I'm in a bad mood and call it a day.
+215,undefined,undefined,dialogue,Sei,"Oh, okay."
+216,undefined,undefined,dialogue,Jill,...
+217,undefined,undefined,dialogue,Sei,...
+218,undefined,undefined,dialogue,Jill,"...you really want to know, huh?"
+219,undefined,undefined,dialogue,Sei,"I can't help it! I don't like seeing people sad. I just need to know context, not details."
+220,undefined,undefined,dialogue,Jill,*sigh* Someone to whom I said some mean thing to passed away before I could ever see her again.
+221,undefined,undefined,dialogue,Jill,Does that work?
+222,undefined,undefined,dialogue,Sei,Yeah. Sorry.
+223,undefined,undefined,dialogue,Sei,Knowing I can't do anything helps me calm down but...
+224,undefined,undefined,dialogue,Sei,E-E-EH!! I mean... it's not that I wouldn't help! I just...
+225,undefined,undefined,dialogue,Jill,Calm down. I get it.
+226,undefined,undefined,dialogue,Sei,I can't contain myself when I see people in need.
+227,undefined,undefined,dialogue,Sei,But I've learned that there are times when you just can't do anything... and that's kinda fine.
+228,undefined,undefined,dialogue,Sei,"Thank god I learned that, otherwise I would've gone insane ages ago."
+229,undefined,undefined,dialogue,Jill,"You're a good person, Sei."
+230,undefined,undefined,dialogue,Sei,"Nah, I'm just an annoying girl."
+231,undefined,undefined,dialogue,Sei,"Still, if there's anything I can do to help, let me know."
+232,undefined,undefined,dialogue,Sei,I have broken bones but that doesn't mean I can't offer emotional support.
+233,undefined,undefined,dialogue,Jill,You could always order another drink.
+234,undefined,undefined,dialogue,Sei,Oh yeah! That! Let's do that.
+235,undefined,undefined,dialogue,Sei,"Get me something cold, please."
+236,undefined,undefined,dialogue,Jill,Alright.
+237,undefined,undefined,dialogue,Jill,Here.
+238,undefined,undefined,dialogue,Jill,It's pretty cold outside though.
+239,undefined,undefined,dialogue,Sei,"Yeah, but I don't like hot or warm drinks."
+240,undefined,undefined,dialogue,Sei,They make me feel nauseous.
+241,undefined,undefined,dialogue,Jill,Here.
+242,undefined,undefined,dialogue,Sei,This isn't cold... but maybe my idea of cold is different from yours.
+243,undefined,undefined,dialogue,Sei,You know what cheers me up?
+244,undefined,undefined,dialogue,Jill,What?
+245,undefined,undefined,dialogue,Sei,Singing. Hearing people sing helps too.
+246,undefined,undefined,dialogue,Jill,Do you sing? I mean... did you take singing lessons or something?
+247,undefined,undefined,dialogue,Sei,"Nope. People have told me my voice is pretty nasty, actually. But they've also told me I'm good with the harmonica."
+248,undefined,undefined,dialogue,Jill,So you play the harmonica?
+249,undefined,undefined,dialogue,Sei,"I needed something to do some breathing exercises with, and a harmonica is a lot smaller than a tuba."
+250,undefined,undefined,dialogue,Sei,"And I guess if you practice enough, you become decent."
+251,undefined,undefined,dialogue,Jill,That's something I didn't expect.
+252,undefined,undefined,dialogue,Sei,I hear that a lot. I know I don't look like the musical type.
+253,undefined,undefined,dialogue,Jill,I used to play the violin. Right until I was... 16 or so.
+254,undefined,undefined,dialogue,Sei,Really? Can you still play?
+255,undefined,undefined,dialogue,Jill,"The violin's at my mom's house, so I don't have it with me."
+256,undefined,undefined,dialogue,Jill,But I guess I could. It's one of those things you don't forget easily.
+257,undefined,undefined,dialogue,Sei,Why did you stop?
+258,undefined,undefined,dialogue,Jill,"I don't know. One day, I just felt like stopping. No deep reason behind it."
+259,undefined,undefined,dialogue,Sei,Just like me and cooking!
+260,undefined,undefined,dialogue,Sei,That... and almost burning my place up.
+261,undefined,undefined,dialogue,Jill,...
+262,undefined,undefined,dialogue,Jill,When's Stella coming?
+263,undefined,undefined,dialogue,Sei,"Now that you mention it, she's a bit late. Let me call her."
+264,undefined,undefined,dialogue,Jill,"You do that, I'm going to take my break. Tell Gil if you need anything else."
+265,undefined,undefined,dialogue,Sei,Sure!
+266,undefined,undefined,dialogue,Jill,Back.
+267,undefined,undefined,dialogue,Gillian,Looks like you've calmed down.
+268,undefined,undefined,dialogue,Jill,"I still feel like kicking myself, make no mistake."
+269,undefined,undefined,dialogue,Jill,...but I guess I cooled down a bit.
+270,undefined,undefined,dialogue,Jill,"Sei helped a lot with that one, though. I just can't stay mad when I see her."
+271,undefined,undefined,dialogue,Jill,"Speaking of which, where is she?"
+272,undefined,undefined,dialogue,Gillian,I believe she went outside to look for that Stella girl or something.
+273,undefined,undefined,dialogue,Stella,"The way you are right now, it feels like I should be protecting you."
+274,undefined,undefined,dialogue,Sei,Hey! The only thing hindering me is the broken arm. I've gone into burning buildings with a 2cm deep cut.
+275,undefined,undefined,dialogue,Stella,"Yeah, I remember that one. 1mm more and you would've lost the motor function in your arm."
+276,undefined,undefined,dialogue,Jill,Welcome.
+277,undefined,undefined,dialogue,Stella,"Ah. Hello, Jill."
+278,undefined,undefined,dialogue,Jill,What's this about protecting who?
+279,undefined,undefined,dialogue,Sei,"Yeah, um... I'm sort of like Stella's unofficial bodyguard. But I'm not really fit for such duties right now."
+280,undefined,undefined,dialogue,Stella,My father insists I go everywhere with protection. So most of the time I only ask Sei if she feels like going out.
+281,undefined,undefined,dialogue,Stella,She's trained to deal with the kind of things that bodyguards deal with anyway.
+282,undefined,undefined,dialogue,Stella,And she's more fun to hang around with too.
+283,undefined,undefined,dialogue,Jill,So I'm assuming that gorilla outside is a bodyguard?
+284,undefined,undefined,dialogue,Sei,That's Buster. Pretty cool guy. He played football professionally until he lost his leg in a demolition derby.
+285,undefined,undefined,dialogue,Stella,"We've offered him an implant surgery for all his years of service, but he rejects it every time."
+286,undefined,undefined,dialogue,Sei,"Well, he got used to the replacement he's using, so maybe it's for the best."
+287,undefined,undefined,dialogue,Stella,It's a thick oak branch on a metal bowl tied to his stump.
+288,undefined,undefined,dialogue,Sei,And yet he can still run faster than me with it.
+289,undefined,undefined,dialogue,Stella,True.
+290,undefined,undefined,dialogue,Jill,Do you want something?
+291,undefined,undefined,dialogue,Sei,I'm fine right now.
+292,undefined,undefined,dialogue,Stella,A Brandtini. A big one. I'm in a good mood.
+293,undefined,undefined,dialogue,Jill,Here.
+294,undefined,undefined,dialogue,Stella,"After all these years, I still don't get why the finest and most expensive things come in small packages."
+295,undefined,undefined,dialogue,Stella,Ever tried to go to a restaurant only for them to serve you a really small portion of some fine food?
+296,undefined,undefined,dialogue,Stella,Sometimes you just want to... stuff yourself with really cheap food.
+297,undefined,undefined,dialogue,Stella,...
+298,undefined,undefined,dialogue,Stella,"Sei, let's go for some hamburgers later. I'm not taking a no for an answer."
+299,undefined,undefined,dialogue,Sei,"I know what you mean when you say ""some"", you know?"
+300,undefined,undefined,dialogue,Sei,You might as well call the place and tell them to prepare everything in advance.
+301,undefined,undefined,dialogue,Jill,Here.
+302,undefined,undefined,dialogue,Stella,I guess this means my good mood is halved now.
+303,undefined,undefined,dialogue,Sei,Can't you make up the other half with the fact that I'm here alive?
+304,undefined,undefined,dialogue,Stella,...
+305,undefined,undefined,dialogue,Jill,Here.
+306,undefined,undefined,dialogue,Stella,Aaaaand the good mood's gone.
+307,undefined,undefined,dialogue,Jill,That's two of us.
+308,undefined,undefined,dialogue,Jill,Can I ask you two something?
+309,undefined,undefined,dialogue,Sei,Sure!
+310,undefined,undefined,dialogue,Stella,I guess.
+311,undefined,undefined,dialogue,Jill,How did you two meet?
+312,undefined,undefined,dialogue,Sei,Stella showed up in the park I used to play at when I was a kid.
+313,undefined,undefined,dialogue,Sei,We played a couple of times. She started showing up more and more and that was it.
+314,undefined,undefined,dialogue,Stella,"*ahem* My father told me that, when I was 5, I kept insisting on going to a ""real kid's park."""
+315,undefined,undefined,dialogue,Stella,"We drove for some time, and the park I liked was the one Sei happened to be at."
+316,undefined,undefined,dialogue,Sei,Have you ever seen a girl in a dress go to a muddy park?
+317,undefined,undefined,dialogue,Sei,She learned her lesson and started showing up with more fitting clothes.
+318,undefined,undefined,dialogue,Sei,"But man, that's a scene I can't forget."
+319,undefined,undefined,dialogue,Stella,...
+320,undefined,undefined,dialogue,Jill,So you two have known each other for most of your lives?
+321,undefined,undefined,dialogue,Sei,I've known her longer than I've known my own father.
+322,undefined,undefined,dialogue,Sei,Why the question?
+323,undefined,undefined,dialogue,Jill,No reason. You two just look so comfortable with each other. Any other person could've sworn you were an item.
+324,undefined,undefined,dialogue,Sei,A-An item? What kind of item?
+325,undefined,undefined,dialogue,Stella,"...a couple, Sei."
+326,undefined,undefined,dialogue,Sei,"Oh! Ite-... yeah, I get it now."
+327,undefined,undefined,dialogue,Sei,"It's funny because we actually earned a mock prize of sorts for ""best couple"" at Stella's high school."
+328,undefined,undefined,dialogue,Stella,...Three years in a row.
+329,undefined,undefined,dialogue,Jill,So you two didn't go to the same high school?
+330,undefined,undefined,dialogue,Sei,Nope.
+331,undefined,undefined,dialogue,Jill,Oh.
+332,undefined,undefined,dialogue,Sei,"Don't you have any childhood friends, Jill?"
+333,undefined,undefined,dialogue,Jill,"Childhood friends... can't think of any. My grandpa, I guess."
+334,undefined,undefined,dialogue,Stella,What kind of man was he?
+335,undefined,undefined,dialogue,Jill,Gruff. The kind to eat raw Bronson roots every morning.
+336,undefined,undefined,dialogue,Stella,*brrrrrr*
+337,undefined,undefined,dialogue,Jill,"But around me he, was... different."
+338,undefined,undefined,dialogue,Jill,"I have memories of him barking orders to my dad, only to turn around and play with me gently."
+339,undefined,undefined,dialogue,Jill,"It's interesting though. He was my mom's dad. But after my mom and dad separated, he stayed with my dad."
+340,undefined,undefined,dialogue,Jill,"But yeah, he's the one that comes to mind when I think about childhood friends."
+341,undefined,undefined,dialogue,Sei,Ooooooh.
+342,undefined,undefined,dialogue,Sei,"Hey Jill, what's this... Bloom Light?"
+343,undefined,undefined,dialogue,Jill,A spicy drink. Tastes nice the first time but it gets same-y after a while. It's also brown for some reason.
+344,undefined,undefined,dialogue,Sei,"Gimme one of those, please."
+345,undefined,undefined,dialogue,Stella,I'll have one too.
+346,undefined,undefined,dialogue,Jill,On it.
+347,undefined,undefined,dialogue,Jill,Here.
+348,undefined,undefined,dialogue,Sei,I don't know. I kind of like it.
+349,undefined,undefined,dialogue,Stella,"Yeah, but after the third one, it starts tasting like sand."
+350,undefined,undefined,dialogue,Stella,"Spicy sand, but sand nonetheless."
+351,undefined,undefined,dialogue,Jill,Here.
+352,undefined,undefined,dialogue,Stella,Here you go. You have this one.
+353,undefined,undefined,dialogue,Sei,What are you gonna drink?
+354,undefined,undefined,dialogue,Stella,This other one. Bloom Lights taste like sand to me.
+355,undefined,undefined,dialogue,Jill,Here you go.
+356,undefined,undefined,dialogue,Sei,I-Is this right?
+357,undefined,undefined,dialogue,Stella,First time I'm glad someone messed up my order.
+358,undefined,undefined,dialogue,Sei,Who's *yawn* dimming the light?
+359,undefined,undefined,dialogue,Sei,Zzzzzz...
+360,undefined,undefined,dialogue,Stella,Huh... I guess she had too much before I came.
+361,undefined,undefined,dialogue,Stella,"Well, that, and that she must still be tired."
+362,undefined,undefined,dialogue,Jill,From the whole bank thing?
+363,undefined,undefined,dialogue,Stella,"She told me about everything that happened in there. To be honest, I don't think I would've made it in her place."
+364,undefined,undefined,dialogue,Stella,I guess I should be thankful for the nanomachine treatment she went through as a White Knight.
+365,undefined,undefined,dialogue,Jill,Treatment?
+366,undefined,undefined,dialogue,Stella,Trauma suppressors.
+367,undefined,undefined,dialogue,Stella,"Basically, it helps with the healing process of PTSD."
+368,undefined,undefined,dialogue,Stella,"It's mandatory for every White Knight, regardless of division."
+369,undefined,undefined,dialogue,Jill,Oh.
+370,undefined,undefined,dialogue,Stella,"Still, healing can only do so much."
+371,undefined,undefined,dialogue,Stella,"For three days, that bank was hell. And poor Sei is still paying for it."
+372,undefined,undefined,dialogue,Stella,The disbanding of the White Knights and subsequent persecution of those who were identifed as former members...
+373,undefined,undefined,dialogue,Stella,"It's unfair, you know? Among all the people using the White Knights to further their own goals..."
+374,undefined,undefined,dialogue,Stella,Sei was one of the few that actually believed in what they were supposed to do.
+375,undefined,undefined,dialogue,Stella,It paid off though.
+376,undefined,undefined,dialogue,Stella,The doctor who treated her wounds was the same one she's always assisted with accidents and emergencies.
+377,undefined,undefined,dialogue,Stella,He treated her at no cost whatsoever.
+378,undefined,undefined,dialogue,Jill,"Well, good karma and all that."
+379,undefined,undefined,dialogue,Stella,"She's earned the gods' favor, I think."
+380,undefined,undefined,dialogue,Stella,...but you know. All of that made me realize I might be a bad person.
+381,undefined,undefined,dialogue,Jill,How?
+382,undefined,undefined,dialogue,Stella,"When I saw Sei, wounded, asking for help; a part of me was happy."
+383,undefined,undefined,dialogue,Stella,"After all this time needing her, she finally needed ME."
+384,undefined,undefined,dialogue,Stella,I felt truly useful to her for the first time.
+385,undefined,undefined,dialogue,Stella,*sigh* How sad is that?
+386,undefined,undefined,dialogue,Jill,Sometimes the best help one can provide is to stay alive.
+387,undefined,undefined,dialogue,Jill,Who knows? Maybe it was the idea of coming back to you that helped her.
+388,undefined,undefined,dialogue,Jill,And I guess you wouldn't be human without thoughts like those once in a while.
+389,undefined,undefined,dialogue,Stella,Maybe.
+390,undefined,undefined,dialogue,Jill,Can I get you anything else?
+391,undefined,undefined,dialogue,Stella,I'm good. I should be leaving actually.
+392,undefined,undefined,dialogue,Stella,"Come, Sei. Let's get hamburgers and go home."
+393,undefined,undefined,dialogue,Sei,*mumble* Yeah...
+394,undefined,undefined,dialogue,Stella,"Sei, come on. We need to go."
+395,undefined,undefined,dialogue,Sei,*yawn* My mouth's dry...
+396,undefined,undefined,dialogue,Stella,We'll be leaving now.
+397,undefined,undefined,dialogue,Jill,Thank you. Please come again.
+398,undefined,undefined,dialogue,Sei,You know? Your grandpa reminds me a bit of Mr. Sirius.
+399,undefined,undefined,dialogue,Jill,Who?
+400,undefined,undefined,dialogue,Stella,My father.
+401,undefined,undefined,dialogue,Jill,(Stella Hoshii's father is Sirius Hoshii...)
+402,undefined,undefined,dialogue,Jill,...
+403,undefined,undefined,dialogue,Sei,"He's all like ""Sell all the stock before the month ends!"" and ""We both know that's not the best price he can offer!"""
+404,undefined,undefined,dialogue,Sei,Then he starts talking with Stella or me and he becomes all soft spoken and calm.
+405,undefined,undefined,dialogue,Stella,"Well, what did you expect? If he behaved like that during business meetings, they'd eat him alive."
+406,undefined,undefined,dialogue,Sei,"Oh yeah, you do that thing about behaving differently when in business meetings too."
+407,undefined,undefined,dialogue,Jill,Really?
+408,undefined,undefined,dialogue,Sei,"Yeah, she acts like a shallow sochi... so... sooo... cialight...?"
+409,undefined,undefined,dialogue,Stella,"""Socialite""."
+410,undefined,undefined,dialogue,Sei,Yeah! That thing.
+411,undefined,undefined,dialogue,Jill,Care to elaborate?
+412,undefined,undefined,dialogue,Stella,"My dadd-... er... father, told me since I was very young to ""cultivate a shallow, dim-witted, daddy's girl persona""."
+413,undefined,undefined,dialogue,Stella,"""They will lower their guard thinking you're just another rich daddy's girl. That's when we strike!"" He said."
+414,undefined,undefined,dialogue,Sei,Everything about that it's an act... except the daddy's girl part.
+415,undefined,undefined,dialogue,Sei,You are the biggest daddy's girl I've seen.
+416,undefined,undefined,dialogue,Stella,S-Shut up!
+417,undefined,undefined,dialogue,Sei,"But yeah, Mr. Sirius is one of the nicest guys I've met. Although Ms. Carmine isn't too far behind."
+418,undefined,undefined,dialogue,Jill,Ms. Carmine's your mother?
+419,undefined,undefined,dialogue,Stella,Yeah. Disappointed her name isn't star-themed?
+420,undefined,undefined,dialogue,Jill,Um... n-no.
+421,undefined,undefined,dialogue,Sei,"I really owe it big to her though. She got my mom some really good clients. Good enough to let her semi-retire, even."
+422,undefined,undefined,dialogue,Stella,Your mom isn't too far behind though. Being a veterinarian requires quite the thick skin.
+423,undefined,undefined,dialogue,Sei,"Well, she got bitten enough to develop one."
+424,undefined,undefined,dialogue,Jill,You want anything else?
+425,undefined,undefined,dialogue,Sei,I want a Beer.
+426,undefined,undefined,dialogue,Stella,You sure you can handle that?
+427,undefined,undefined,dialogue,Sei,I'll be fine.
+428,undefined,undefined,dialogue,Stella,"I'll have a Beer too, then."
+429,undefined,undefined,dialogue,Jill,Sure.
+430,undefined,undefined,dialogue,Jill,Here.
+431,undefined,undefined,dialogue,Sei,Cheers.
+432,undefined,undefined,dialogue,Jill,Here.
+433,undefined,undefined,dialogue,Stella,"*sigh* You take the Beer, Sei."
+434,undefined,undefined,dialogue,Sei,You sure?
+435,undefined,undefined,dialogue,Stella,"You wanted one, right?"
+436,undefined,undefined,dialogue,Sei,R-Right... cheers!
+437,undefined,undefined,dialogue,Jill,Here.
+438,undefined,undefined,dialogue,Sei,I don't see a Beer.
+439,undefined,undefined,dialogue,Sei,"Sure, I have problems with depth, but I don't see a Beer."
+440,undefined,undefined,dialogue,Sei,I'll still take it though.
+441,undefined,undefined,dialogue,Stella,I guess that's it for today.
+442,undefined,undefined,dialogue,Sei,"Oh! Before I forget. You look... calmer, Jill."
+443,undefined,undefined,dialogue,Jill,I guess you helped me cool off a bit.
+444,undefined,undefined,dialogue,Sei,That means I helped? Yay!
+445,undefined,undefined,dialogue,Sei,"Anyways, we're off!"
+446,undefined,undefined,dialogue,Stella,Good night.
+447,undefined,undefined,dialogue,Jill,Please come again.
+448,undefined,undefined,dialogue,Sei,...now if you'll excuse me...
+449,undefined,undefined,dialogue,Sei,Zzzzzz...
+450,undefined,undefined,dialogue,Stella,And that's the cue for us to leave.
+451,undefined,undefined,dialogue,Stella,Buster! Please carry Sei to the car.
+452,undefined,undefined,dialogue,Jill,"Hey, Stella?"
+453,undefined,undefined,dialogue,Stella,Yes?
+454,undefined,undefined,dialogue,Jill,Take care of Sei. Don't lose someone like her over something stupid.
+455,undefined,undefined,dialogue,Stella,"...sure, I wasn't planning to anyways."
+456,undefined,undefined,dialogue,Stella,"Goodnight, Jill."
+457,undefined,undefined,dialogue,Jill,Please come again.
+458,undefined,undefined,dialogue,Stella,"Jiiiiiiiiiiiiiiiiill, you smell gloomy!"
+459,undefined,undefined,dialogue,Jill,Smell?
+460,undefined,undefined,dialogue,Stella,"You usually just LOOK gloomy... but today, your face is making me feel down!"
+461,undefined,undefined,dialogue,Stella,What happened to you?!
+462,undefined,undefined,dialogue,Sei,"Stella, it's time we left."
+463,undefined,undefined,dialogue,Stella,I'll leave after she tells me what happened!
+464,undefined,undefined,dialogue,Jill,*sigh* Let's just say I said some mean things to someone and now I can't make amends for it.
+465,undefined,undefined,dialogue,Stella,...
+466,undefined,undefined,dialogue,Stella,IIIIIIIIIIdiot. You're an idiot!
+467,undefined,undefined,dialogue,Sei,Stella!
+468,undefined,undefined,dialogue,Stella,"If you said mean things and you're sorry, just say you're sorry!"
+469,undefined,undefined,dialogue,Stella,A friendship isn't worth a bit of pride!
+470,undefined,undefined,dialogue,Jill,Heh...
+471,undefined,undefined,dialogue,Stella,Now we're leaving.
+472,undefined,undefined,dialogue,Stella,"Learn from your mistakes, Jill!"
+473,undefined,undefined,dialogue,Sei,B-Bye...
+474,undefined,undefined,dialogue,Jill,Come again.
+475,undefined,undefined,dialogue,Jill,"""Learn from your mistakes""... I guess that's all that's left."
+476,undefined,undefined,dialogue,Sei,*yawn* Maybe we should... leave...
+477,undefined,undefined,dialogue,Stella,Seeeeeeeeeeei! Wake uuuuuuuuuuuuup!
+478,undefined,undefined,dialogue,Stella,Bars aren't a place to sleep!
+479,undefined,undefined,dialogue,Stella,Buster! Get Sei in the car!
+480,undefined,undefined,dialogue,Stella,We're out Jill.
+481,undefined,undefined,dialogue,Jill,Please come again.
+482,undefined,undefined,dialogue,Gillian,Feeling better?
+483,undefined,undefined,dialogue,Jill,"No, I just don't reek of rage."
+484,undefined,undefined,dialogue,Jill,But I still feel like a piece of shit.
+485,undefined,undefined,dialogue,Gillian,"Little steps, I guess."
+486,undefined,undefined,dialogue,Kim,Hello?
+487,undefined,undefined,dialogue,Jill,"Ah, Kim. Welcome."
+488,undefined,undefined,dialogue,Kim,I was afraid I'd mix up the directions and end up in someone's house or something.
+489,undefined,undefined,dialogue,Jill,What can I get you?
+490,undefined,undefined,dialogue,Kim,"I'll have a Sunshine Cloud, please."
+491,undefined,undefined,dialogue,Jill,Sure.
+492,undefined,undefined,dialogue,Jill,Here.
+493,undefined,undefined,dialogue,Kim,Thanks!
+494,undefined,undefined,dialogue,Jill,Here.
+495,undefined,undefined,dialogue,Kim,This isn't my order... did I arrive at a bad time?
+496,undefined,undefined,dialogue,Jill,*ahem*
+497,undefined,undefined,dialogue,Jill,"So, how's work on the webpaper?"
+498,undefined,undefined,dialogue,Kim,"Oh, I quit."
+499,undefined,undefined,dialogue,Jill,...what?
+500,undefined,undefined,dialogue,Kim,Yup! I went to the office of that chauvinistic horseblower and told him I quit!
+501,undefined,undefined,dialogue,Jill,Why did you do that?
+502,undefined,undefined,dialogue,Kim,"*sigh* Well, after I got drunk and overslept, I missed some assignments."
+503,undefined,undefined,dialogue,Kim,My supervisor yelled at me for being late. I got the mandatory bullying...
+504,undefined,undefined,dialogue,Kim,So at some point I just kinda snapped and said that I didn't have to put up with that.
+505,undefined,undefined,dialogue,Kim,So I quit.
+506,undefined,undefined,dialogue,Jill,"Ah, I see."
+507,undefined,undefined,dialogue,Jill,Um... Sorry again about that by the way.
+508,undefined,undefined,dialogue,Kim,"Oh, don't worry. I should be the one apologizing."
+509,undefined,undefined,dialogue,Kim,Lashing out like that the next day and all.
+510,undefined,undefined,dialogue,Kim,I arrived early to my meeting and got some assignment.
+511,undefined,undefined,dialogue,Kim,"I spent hours doing it, only for the other bitches to come and ruin it."
+512,undefined,undefined,dialogue,Kim,"After that, I didn't have time left so my supervisor scolded me."
+513,undefined,undefined,dialogue,Kim,So I snapped and quit on a whim.
+514,undefined,undefined,dialogue,Jill,Oh...
+515,undefined,undefined,dialogue,Jill,Don't you have any second thoughts? Regret anything?
+516,undefined,undefined,dialogue,Kim,"I guess you'll always have second thoughts. Even if you do what you want, you'll still think ""what if""."
+517,undefined,undefined,dialogue,Kim,"Even so, I was getting physically sick there. I dreaded the arrival of every morning. I even almost..."
+518,undefined,undefined,dialogue,Kim,...
+519,undefined,undefined,dialogue,Kim,"What I'm saying is: I don't know what I'll do, but it's certainly better than being there."
+520,undefined,undefined,dialogue,Kim,I feel... free.
+521,undefined,undefined,dialogue,Jill,(Free...)
+522,undefined,undefined,dialogue,Kim,"It's a wonderful feeling, you know? I feel like now I can find something I care about."
+523,undefined,undefined,dialogue,Kim,"I won't return to The Augmented Eye, but I could still pursue journalism with another outlet."
+524,undefined,undefined,dialogue,Kim,I haven't felt like this in... well... never!
+525,undefined,undefined,dialogue,Jill,...
+526,undefined,undefined,dialogue,Jill,*ahem*
+527,undefined,undefined,dialogue,Jill,What about your family?
+528,undefined,undefined,dialogue,Kim,"They weren't happy, that's for sure..."
+529,undefined,undefined,dialogue,Kim,"My dad took it better, but my mom freaked out, to put it mildly."
+530,undefined,undefined,dialogue,Kim,"""What are you gonna do?!"" and all that."
+531,undefined,undefined,dialogue,Kim,"*sigh* But I'm not here about that. Give me a big drink, please."
+532,undefined,undefined,dialogue,Jill,What kind?
+533,undefined,undefined,dialogue,Kim,I don't know... bubbly or something.
+534,undefined,undefined,dialogue,Jill,Here.
+535,undefined,undefined,dialogue,Kim,"If detergent commercials are to be believed, this will clean out my insides."
+536,undefined,undefined,dialogue,Jill,It'll also kill things inside you.
+537,undefined,undefined,dialogue,Jill,Here.
+538,undefined,undefined,dialogue,Kim,"It's big but... ah well, I didn't care that much about which drink it was anyways."
+539,undefined,undefined,dialogue,Jill,Here.
+540,undefined,undefined,dialogue,Kim,I didn't particularly care about the drink this time around but...
+541,undefined,undefined,dialogue,Kim,"...no, nevermind."
+542,undefined,undefined,dialogue,Jill,I gotta ask though. How did you end up working there?
+543,undefined,undefined,dialogue,Kim,No deep reason. That's what I did when I got out of high school.
+544,undefined,undefined,dialogue,Kim,Taking a year off was out of the question so I went for the first thing I thought about.
+545,undefined,undefined,dialogue,Kim,"...but I couldn't get into the robotics course, so I settled for journalism."
+546,undefined,undefined,dialogue,Kim,"...to be honest, I got tired of the job midway through it, but I couldn't bring myself to leave."
+547,undefined,undefined,dialogue,Kim,*sigh* Too much pressure from my family.
+548,undefined,undefined,dialogue,Jill,"It's a really common tale, I guess."
+549,undefined,undefined,dialogue,Kim,Did you have troubles like those?
+550,undefined,undefined,dialogue,Jill,Same story as you. I just... went through the motions.
+551,undefined,undefined,dialogue,Jill,"From high school to college, I never stopped to think about what I was doing."
+552,undefined,undefined,dialogue,Jill,"And then, at some point, I just felt like my life slipped through my fingers."
+553,undefined,undefined,dialogue,Jill,"Suddenly all I wanted was freedom, a little pause. To stop and take a breather."
+554,undefined,undefined,dialogue,Jill,...and my life went to hell for that fucking breather.
+555,undefined,undefined,dialogue,Jill,...
+556,undefined,undefined,dialogue,Kim,Ehhhh... um... g-give me a... err... SOMETHING!
+557,undefined,undefined,dialogue,Jill,"""Something""?"
+558,undefined,undefined,dialogue,Kim,S-Sorry. I just have a dry mouth. Anything will do.
+559,undefined,undefined,dialogue,Jill,Alright...
+560,undefined,undefined,dialogue,Jill,Here.
+561,undefined,undefined,dialogue,Kim,Thanks.
+562,undefined,undefined,dialogue,Kim,...
+563,undefined,undefined,dialogue,Kim,I feel like I asked something I shouldn't have.
+564,undefined,undefined,dialogue,Jill,Don't fret about it. I'm just in a... rough spot right now.
+565,undefined,undefined,dialogue,Jill,What are you gonna do now?
+566,undefined,undefined,dialogue,Kim,Honestly... I don't know.
+567,undefined,undefined,dialogue,Kim,"I do feel liberated, however."
+568,undefined,undefined,dialogue,Kim,"Like... I can do whatever I want. Study whatever I like, work wherever I want."
+569,undefined,undefined,dialogue,Kim,I know it's not that way and it won't be easy... but I feel a lot more confident than when I was out of high school.
+570,undefined,undefined,dialogue,Kim,I honestly don't get why they put young people who barely know how society works through that one.
+571,undefined,undefined,dialogue,Jill,"Well, I wish you the best of luck."
+572,undefined,undefined,dialogue,Jill,Your mental health should be your priority and all that.
+573,undefined,undefined,dialogue,Kim,Thanks. I really needed the encouragement.
+574,undefined,undefined,dialogue,Jill,Come back if you need more encouragement.
+575,undefined,undefined,dialogue,Jill,I wouldn't dare leave someone alone when it comes to this sort of thing.
+576,undefined,undefined,dialogue,Kim,Thanks! Bye Jill.
+577,undefined,undefined,dialogue,Jill,Please come again.
+578,undefined,undefined,dialogue,Jill,*sigh*
+579,undefined,undefined,dialogue,Gillian,You should take some of that advice for yourself.
+580,undefined,undefined,dialogue,Jill,"I know, I know..."
+581,undefined,undefined,dialogue,Gillian,Let's call it a day for now. You need some rest.
+582,undefined,undefined,dialogue,Jill,...yeah.
+583,undefined,undefined,dialogue,Dorothy,Hoooooneeeeeeeeeeeey~
+584,undefined,undefined,dialogue,Jill,"Ah, Dorothy. Sorry, we're just closing."
+585,undefined,undefined,dialogue,Dorothy,I know. I came for you!
+586,undefined,undefined,dialogue,Jill,For me?
+587,undefined,undefined,dialogue,Jill,W-Why are you hugging me?
+588,undefined,undefined,dialogue,Dana,I paid her to do that.
+589,undefined,undefined,dialogue,Dorothy,All. Night. Long.
+590,undefined,undefined,dialogue,Jill,...
+591,undefined,undefined,dialogue,Jill,Come again?
+592,undefined,undefined,dialogue,Dana,To put it simply: Dorothy will go home with you and she won't leave your side.
+593,undefined,undefined,dialogue,Jill,What do you hope to accomplish with that?
+594,undefined,undefined,dialogue,Dana,"Well, at first it was to calm that rage you had earlier."
+595,undefined,undefined,dialogue,Dana,It was either hugs or a cold bucket... and I don't promise there'll be any water in it.
+596,undefined,undefined,dialogue,Dana,"You calmed down a bit. But honestly, I know better than to leave you alone for another night."
+597,undefined,undefined,dialogue,Dana,"At the very least, all the cuddling will give you an epiphany or something."
+598,undefined,undefined,dialogue,Jill,That's some alien reasoning right there.
+599,undefined,undefined,dialogue,Dana,It's not. You need hugs. Many.
+600,undefined,undefined,dialogue,Dana,You need some human... err... humanoid contact right now.
+601,undefined,undefined,dialogue,Dana,"You had your alone time. Now, we're playing by my rules."
+602,undefined,undefined,dialogue,Dorothy,Please take care of me.
+603,undefined,undefined,dialogue,Jill,...
+604,undefined,undefined,dialogue,Jill,(Stella and Sei make me a bit jealous...)

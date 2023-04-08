@@ -1,0 +1,4263 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "script18.txt",
+            "lines": 710,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "G'evening."
+        },
+        {
+            "line": 3,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm... hmhmhm..."
+        },
+        {
+            "line": 4,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gil... are you humming Shine Spark?"
+        },
+        {
+            "line": 5,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Ah! Hey, Jill."
+        },
+        {
+            "line": 6,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you okay? Are you in love maybe?"
+        },
+        {
+            "line": 7,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm? Nothing of the sort. I'm fine."
+        },
+        {
+            "line": 8,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right..."
+        },
+        {
+            "line": 9,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 10,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, seriously. Did you fuck?"
+        },
+        {
+            "line": 11,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Men only get so happy after they've fucked."
+        },
+        {
+            "line": 12,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "That's not..."
+        },
+        {
+            "line": 13,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh my god, you totally fucked."
+        },
+        {
+            "line": 14,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Was it Alma? Did you have seven minutes in heaven with her?"
+        },
+        {
+            "line": 15,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "No, I didn't..."
+        },
+        {
+            "line": 16,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "In any case, congratulations! I haven't seen you this happy since... well... never."
+        },
+        {
+            "line": 17,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Today's escapades will bring us to a familiar place and..."
+        },
+        {
+            "line": 18,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shit."
+        },
+        {
+            "line": 19,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gil, I'm out, I'm gonna..."
+        },
+        {
+            "line": 20,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Not so fast, Flat Bartender! If that's even your real name."
+        },
+        {
+            "line": 21,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 22,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Last time, my viewership had a weird peak while I was passed out."
+        },
+        {
+            "line": 23,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "So I'm here to find out what made people so interested!"
+        },
+        {
+            "line": 24,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 25,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...eh?"
+        },
+        {
+            "line": 26,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Hmhm..."
+        },
+        {
+            "line": 27,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Do I have something in my face?"
+        },
+        {
+            "line": 28,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "This guy totally fucked."
+        },
+        {
+            "line": 29,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 30,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 31,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* Whatever. Just keep it down."
+        },
+        {
+            "line": 32,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ah Jill, you're he-..."
+        },
+        {
+            "line": 33,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Isn't that the passed out girl from two weeks ago?"
+        },
+        {
+            "line": 34,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I'm not here!"
+        },
+        {
+            "line": 35,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh, sorry."
+        },
+        {
+            "line": 36,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hello, Jill."
+        },
+        {
+            "line": 37,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "This is for you, Gil."
+        },
+        {
+            "line": 38,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "And this is...?"
+        },
+        {
+            "line": 39,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "A copy of Sunshine Stone. You've been humming that shit non-stop, so here you go."
+        },
+        {
+            "line": 40,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... Thanks, I guess."
+        },
+        {
+            "line": 41,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's also a congratulatory gift."
+        },
+        {
+            "line": 42,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "For what?"
+        },
+        {
+            "line": 43,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't play dumb. You totally just got some."
+        },
+        {
+            "line": 44,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 45,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It was Titty Hacker, right? You always had your eyes on her."
+        },
+        {
+            "line": 46,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I sent her a message. She'll confirm if she did the dirty with him or not."
+        },
+        {
+            "line": 47,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Let me know."
+        },
+        {
+            "line": 48,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right."
+        },
+        {
+            "line": 49,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 50,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll be back in my office, then."
+        },
+        {
+            "line": 51,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anyway..."
+        },
+        {
+            "line": 52,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Time to mix drinks and change lives."
+        },
+        {
+            "line": 53,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 54,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 55,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 56,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You are too happy and you are too mopey. What happened?"
+        },
+        {
+            "line": 57,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I was right."
+        },
+        {
+            "line": 58,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 59,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "That Laura girl was head over heels for him! I was right on the money!"
+        },
+        {
+            "line": 60,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 61,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Um, say... that girl..."
+        },
+        {
+            "line": 62,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I'm not here!"
+        },
+        {
+            "line": 63,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Sorry!"
+        },
+        {
+            "line": 64,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Isn't she the one that passed out last time?"
+        },
+        {
+            "line": 65,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Anyways..."
+        },
+        {
+            "line": 66,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Betty was right and that deserves a Beer!"
+        },
+        {
+            "line": 67,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And you?"
+        },
+        {
+            "line": 68,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'm fine."
+        },
+        {
+            "line": 69,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "For the occasion."
+        },
+        {
+            "line": 70,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Alright!"
+        },
+        {
+            "line": 71,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 72,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "WOO!!"
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 74,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You're not killing my mood, Jill!"
+        },
+        {
+            "line": 75,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So the girl was actually infatuated with him?"
+        },
+        {
+            "line": 76,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You should've seen her, screaming from the top of her lungs that she liked him."
+        },
+        {
+            "line": 77,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And him just standing there thinking."
+        },
+        {
+            "line": 78,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 79,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Just like that!"
+        },
+        {
+            "line": 80,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "In retrospect, it was a tad too cliched for my taste. *BRRRRRRR*"
+        },
+        {
+            "line": 81,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Still, I KNEW she liked him."
+        },
+        {
+            "line": 82,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I was right! I was right!"
+        },
+        {
+            "line": 83,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He doesn't seem particularly happy."
+        },
+        {
+            "line": 84,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "He never is."
+        },
+        {
+            "line": 85,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "...unlike your co-worker. Holy shit, did he fuck?"
+        },
+        {
+            "line": 86,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're making it too obvious, Gil."
+        },
+        {
+            "line": 87,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "HOW?!"
+        },
+        {
+            "line": 88,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "That beaming face is unmistakable. The face of a guy that got some and enjoyed every moment."
+        },
+        {
+            "line": 89,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Back to Deal, though. Like I said, he seems... lost in thought."
+        },
+        {
+            "line": 90,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Victories like these are few and far between. Let me enjoy myself."
+        },
+        {
+            "line": 91,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "*sigh* Can I get something non-alcoholic here?"
+        },
+        {
+            "line": 92,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "That's not how you drown your sorrows, piece o' scrap."
+        },
+        {
+            "line": 93,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'll have a Bloom Light."
+        },
+        {
+            "line": 94,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay."
+        },
+        {
+            "line": 95,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 96,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 97,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Same."
+        },
+        {
+            "line": 98,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 99,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Man, aren't you the lucky bastard today."
+        },
+        {
+            "line": 100,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 101,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 102,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "WOOO! I win again!"
+        },
+        {
+            "line": 103,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 104,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 105,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 106,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You're not gonna get me down!"
+        },
+        {
+            "line": 107,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 108,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Celebrate all you want, but I'm freaking out here."
+        },
+        {
+            "line": 109,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I know nothing about relationships! I have no idea what to do!"
+        },
+        {
+            "line": 110,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Well, for starters..."
+        },
+        {
+            "line": 111,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "What do you think, Jill?"
+        },
+        {
+            "line": 112,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Me?"
+        },
+        {
+            "line": 113,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Her?"
+        },
+        {
+            "line": 114,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Betty, I've seen a few of your relationships. Remember?"
+        },
+        {
+            "line": 115,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Aside from Veronica, there's Angela, Pamela, Sandra, Rita, Monica, Erica, Tina, Mary, and Jessica."
+        },
+        {
+            "line": 116,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Or should I say..."
+        },
+        {
+            "line": 117,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "\"Didn't share the bed sheets,\" \"Snores like a pig,\" \"Cold feet,\" \"Shampoo waster,\" \"Chocolate addict\"..."
+        },
+        {
+            "line": 118,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "\"Too religious,\" \"Fan of the wrong rugby team,\" \"Teetotaler,\" and \"Chews with the mouth open\"?"
+        },
+        {
+            "line": 119,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 120,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "What do you think, Jill?"
+        },
+        {
+            "line": 121,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That you must be quite the heartbreaker to have so many relationships in a short period of time."
+        },
+        {
+            "line": 122,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I mean about piece o' scrap's situation."
+        },
+        {
+            "line": 123,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "...and thank you."
+        },
+        {
+            "line": 124,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm not the right person for this, um... Gil?"
+        },
+        {
+            "line": 125,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hmhmhm... hmhmhmhm..."
+        },
+        {
+            "line": 126,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He's still on fucking Cloud Nine."
+        },
+        {
+            "line": 127,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Or is it Fucking in Cloud Nine?)"
+        },
+        {
+            "line": 128,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What about..."
+        },
+        {
+            "line": 129,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Sneaky, sneaky..."
+        },
+        {
+            "line": 130,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I'll be damned, she actually hides pretty well.)"
+        },
+        {
+            "line": 131,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 132,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "For starters, how do you feel about her?"
+        },
+        {
+            "line": 133,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I... don't know. I don't know her that well."
+        },
+        {
+            "line": 134,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You could start there."
+        },
+        {
+            "line": 135,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ask her out sometime, get to know her, maybe she'll change her mind, maybe you'll change yours..."
+        },
+        {
+            "line": 136,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "In the end you lose nothing by..."
+        },
+        {
+            "line": 137,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 138,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 139,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm just realizing I'm giving \"Love\" advice to a Lilim."
+        },
+        {
+            "line": 140,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So I don't know how well it applies to you."
+        },
+        {
+            "line": 141,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Eh, these things are humans in all but organs nowadays anyways."
+        },
+        {
+            "line": 142,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Even if that's the case, it's interesting that she felt that way towards him."
+        },
+        {
+            "line": 143,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Why wouldn't she? This fella is a good catch, if I do say so myself."
+        },
+        {
+            "line": 144,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And like I said: Humans in all but organs."
+        },
+        {
+            "line": 145,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You've surely encountered Lilim that you sometimes forget are not humans."
+        },
+        {
+            "line": 146,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 147,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "We live in weird times but hey, that only makes them more interesting."
+        },
+        {
+            "line": 148,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "It's odd going to other cities and not seeing the same integration of Lilim though."
+        },
+        {
+            "line": 149,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, Glitch City is pretty much the cradle of social experiments involving Lilim integration, so..."
+        },
+        {
+            "line": 150,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*ahem* A-Anyway."
+        },
+        {
+            "line": 151,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just try to get to know her. You'll find out how you feel afterwards."
+        },
+        {
+            "line": 152,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Yeah, I think I'll try that."
+        },
+        {
+            "line": 153,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(It's quite the uninspired advice if you ask me.)"
+        },
+        {
+            "line": 154,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anything else?"
+        },
+        {
+            "line": 155,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Let's commemorate the occasion with a Piano Man and a Piano Woman!"
+        },
+        {
+            "line": 156,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 157,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And now we reach a stalemate."
+        },
+        {
+            "line": 158,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'd normally take the Piano Man, but I feel there's a symbolic value in taking the woman."
+        },
+        {
+            "line": 159,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hm..."
+        },
+        {
+            "line": 160,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Why order like that then?"
+        },
+        {
+            "line": 161,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 162,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Okay then. You take the man."
+        },
+        {
+            "line": 163,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I don't want to."
+        },
+        {
+            "line": 164,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Well neith-.. ah, fuck symbolism, gimme that."
+        },
+        {
+            "line": 165,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 166,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Alright then. You take the woman."
+        },
+        {
+            "line": 167,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 168,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 169,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 170,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I expected a witty comment."
+        },
+        {
+            "line": 171,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "This drink might be the only kind of woman I don't like."
+        },
+        {
+            "line": 172,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 173,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Aaaand wrong."
+        },
+        {
+            "line": 174,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 175,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 176,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "*sniff*"
+        },
+        {
+            "line": 177,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...?"
+        },
+        {
+            "line": 178,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I hate Laura."
+        },
+        {
+            "line": 179,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You what?"
+        },
+        {
+            "line": 180,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "She's gonna take you away from me!"
+        },
+        {
+            "line": 181,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You're my piece o' scrap, not hers! You're mine! Miiiiine!"
+        },
+        {
+            "line": 182,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Betty... You don't own me."
+        },
+        {
+            "line": 183,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Besides, I can't, for the life of me, leave you alone."
+        },
+        {
+            "line": 184,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I feel like the moment I let you out of my sight, you'll just... crash."
+        },
+        {
+            "line": 185,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Heheh..."
+        },
+        {
+            "line": 186,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "That's not a laughing matter. You need someone making sure you aren't kicking people."
+        },
+        {
+            "line": 187,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "That's not normal, you know?"
+        },
+        {
+            "line": 188,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Besides, it's not like I have something with her yet."
+        },
+        {
+            "line": 189,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You're right."
+        },
+        {
+            "line": 190,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "So you won't leave me?"
+        },
+        {
+            "line": 191,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "*sigh* I'd worry myself sick if I left you to your own devices, honestly."
+        },
+        {
+            "line": 192,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "We should leave now."
+        },
+        {
+            "line": 193,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh yeah!"
+        },
+        {
+            "line": 194,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We're holding a small New Year's party tomorrow. I don't know if you wanna come."
+        },
+        {
+            "line": 195,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "We'll come!"
+        },
+        {
+            "line": 196,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Are you sure?"
+        },
+        {
+            "line": 197,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "We WILL."
+        },
+        {
+            "line": 198,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Fine. We'll be here, Jill."
+        },
+        {
+            "line": 199,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Anyway, see ya then."
+        },
+        {
+            "line": 200,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Bye Bill."
+        },
+        {
+            "line": 201,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please, come again."
+        },
+        {
+            "line": 202,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Well, we better leave for now."
+        },
+        {
+            "line": 203,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh yeah!"
+        },
+        {
+            "line": 204,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 205,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We'll be holding a small New Year's party tomorrow. You guys wanna come?"
+        },
+        {
+            "line": 206,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 207,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'm in."
+        },
+        {
+            "line": 208,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Cool."
+        },
+        {
+            "line": 209,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "See ya then. Bye!"
+        },
+        {
+            "line": 210,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Good night, Jill."
+        },
+        {
+            "line": 211,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please, come again."
+        },
+        {
+            "line": 212,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Party? I'd love to go!"
+        },
+        {
+            "line": 213,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "But I told everyone that tomorrow, I'd end the year with a party myself, so..."
+        },
+        {
+            "line": 214,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Sorry."
+        },
+        {
+            "line": 215,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 216,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I totally forgot she was already here.)"
+        },
+        {
+            "line": 217,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Man, that was such bliss.)"
+        },
+        {
+            "line": 218,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Still, I can see how traffic spiked. Things can get fun here."
+        },
+        {
+            "line": 219,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "And just like the last time, I need to show my viewers something fun. Gimme something nasty."
+        },
+        {
+            "line": 220,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You guys remember this bar, right? Well..."
+        },
+        {
+            "line": 221,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shit..."
+        },
+        {
+            "line": 222,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gil, I'm out, I'll-..."
+        },
+        {
+            "line": 223,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Not. So. Fast! Ms. Lana Smithee, if that's your real name."
+        },
+        {
+            "line": 224,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Fuck...)"
+        },
+        {
+            "line": 225,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I went to the Augmented Eye, looking for you, and what do I find out?"
+        },
+        {
+            "line": 226,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Lana Smithee is not a person!"
+        },
+        {
+            "line": 227,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It's just the collective nickname everyone uses when writing crap!"
+        },
+        {
+            "line": 228,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Why lie to me like that?"
+        },
+        {
+            "line": 229,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I..."
+        },
+        {
+            "line": 230,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Well, no matter."
+        },
+        {
+            "line": 231,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Night's young. Give me something nasty like last time, will you?"
+        },
+        {
+            "line": 232,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 233,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "This is the...!"
+        },
+        {
+            "line": 234,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "*cough*"
+        },
+        {
+            "line": 235,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Hold on..."
+        },
+        {
+            "line": 236,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 237,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It was nasty, alright."
+        },
+        {
+            "line": 238,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 239,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "...this is not what I wanted."
+        },
+        {
+            "line": 240,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "*sip*"
+        },
+        {
+            "line": 241,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "...are you even trying, bartender?"
+        },
+        {
+            "line": 242,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "*sip*"
+        },
+        {
+            "line": 243,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sip or talk. Not both."
+        },
+        {
+            "line": 244,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "And now, it's time for me to be a nice person and give you something nice!"
+        },
+        {
+            "line": 245,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 246,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It's the second time I'm here, so it's only natural you get your own copy of my theme song!"
+        },
+        {
+            "line": 247,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, thank you."
+        },
+        {
+            "line": 248,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Don't be shy, let me give you one!"
+        },
+        {
+            "line": 249,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean it. No, thank you."
+        },
+        {
+            "line": 250,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Well, too late. It's already in your player!"
+        },
+        {
+            "line": 251,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That can't-... How in the everliving fuck did you do it?"
+        },
+        {
+            "line": 252,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Magic!"
+        },
+        {
+            "line": 253,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's bullshit."
+        },
+        {
+            "line": 254,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Video Editing Magic!"
+        },
+        {
+            "line": 255,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you just hack into the music player?"
+        },
+        {
+            "line": 256,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Let's move on, shall we?"
+        },
+        {
+            "line": 257,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...*sigh*"
+        },
+        {
+            "line": 258,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, whatever."
+        },
+        {
+            "line": 259,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Hey, weren't there dogs?"
+        },
+        {
+            "line": 260,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Last time you talked about this place like it was this... zany haven of sorts, but I see the same shit."
+        },
+        {
+            "line": 261,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Seriously. No decorations or anything of the like?"
+        },
+        {
+            "line": 262,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Good question... where are the dogs?)"
+        },
+        {
+            "line": 263,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I either haven't paid enough attention to their arrival or they haven't come.)"
+        },
+        {
+            "line": 264,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Idols, newspaper managers, talking dogs. And yet this is the same old bar like last time."
+        },
+        {
+            "line": 265,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I might sue you for fake advertising, you know?"
+        },
+        {
+            "line": 266,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Now that I think about it. Maybe Boss just donated money to this CIRA thing.)"
+        },
+        {
+            "line": 267,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(And then tricked the dog into coming here as a \"part-timer\" for kicks.)"
+        },
+        {
+            "line": 268,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Oh, well. Anything interesting lately?"
+        },
+        {
+            "line": 269,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I mean, it's not like I miss them, but they should at least show their faces.)"
+        },
+        {
+            "line": 270,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Hello?"
+        },
+        {
+            "line": 271,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry, what did you say?"
+        },
+        {
+            "line": 272,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I was asking if there were any new stories?"
+        },
+        {
+            "line": 273,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "This is not a newspaper, you know?"
+        },
+        {
+            "line": 274,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Nor is it a crazy-stories-on-demand streaming service."
+        },
+        {
+            "line": 275,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "That's a big fat lie and you know it!"
+        },
+        {
+            "line": 276,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shut up."
+        },
+        {
+            "line": 277,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "But I said nothing."
+        },
+        {
+            "line": 278,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Heheh!"
+        },
+        {
+            "line": 279,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Err... I meant..."
+        },
+        {
+            "line": 280,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"So shut that idea up.\""
+        },
+        {
+            "line": 281,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah... that."
+        },
+        {
+            "line": 282,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I won't! Last time I came here, the viewership peaked for some reason. And I want to find out why!"
+        },
+        {
+            "line": 283,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Maybe pretty boy over there can tell us the story of who he fucked."
+        },
+        {
+            "line": 284,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm... hmhmhm..."
+        },
+        {
+            "line": 285,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He's so distracted he won't even make a retort. Amazing."
+        },
+        {
+            "line": 286,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess there's something worth saying, but..."
+        },
+        {
+            "line": 287,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Then I want to hear iiiiiiiiiiiiiiiit!"
+        },
+        {
+            "line": 288,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 289,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, *Kira* Miki came yesterday again..."
+        },
+        {
+            "line": 290,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You're shitting me."
+        },
+        {
+            "line": 291,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You expect me to believe she came all the way here again?"
+        },
+        {
+            "line": 292,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Do you even have proof like the glass from last time?"
+        },
+        {
+            "line": 293,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 294,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "If I may interject."
+        },
+        {
+            "line": 295,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You've been listening, Boss?"
+        },
+        {
+            "line": 296,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The walls are pretty thin."
+        },
+        {
+            "line": 297,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 298,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyway, she did!"
+        },
+        {
+            "line": 299,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I even took a pic with her!"
+        },
+        {
+            "line": 300,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(She did what?)"
+        },
+        {
+            "line": 301,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 302,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Let's see..."
+        },
+        {
+            "line": 303,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Why?! Why?! Why?!"
+        },
+        {
+            "line": 304,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I try to make an appointment with her and she's always busy."
+        },
+        {
+            "line": 305,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "But you sit there and she just comes waltzing over?!"
+        },
+        {
+            "line": 306,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It's not fair!"
+        },
+        {
+            "line": 307,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey, if I knew how the hell stuff like that happened, I'd share my secrets."
+        },
+        {
+            "line": 308,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I was just as baffled as you are right now."
+        },
+        {
+            "line": 309,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Yeah, but I bet you're not even that much of a fan, anyway, are you?"
+        },
+        {
+            "line": 310,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're not wrong..."
+        },
+        {
+            "line": 311,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Can you at least tell me how nice she was as a client?"
+        },
+        {
+            "line": 312,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Very graceful client much like the last time. A really nice girl."
+        },
+        {
+            "line": 313,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I'm gonna give you my number. If she ever comes back, you let me know, you hear?"
+        },
+        {
+            "line": 314,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Not gonna let you keep her to yourself."
+        },
+        {
+            "line": 315,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I really doubt she'll come back again though."
+        },
+        {
+            "line": 316,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "She already came twice. I'm not taking any chances!"
+        },
+        {
+            "line": 317,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 318,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Agh, I need something to drown this anger with. Gimme something girly, will you?"
+        },
+        {
+            "line": 319,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay..."
+        },
+        {
+            "line": 320,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 321,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Phew... let's just chill a bit..."
+        },
+        {
+            "line": 322,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "...it's still not fair."
+        },
+        {
+            "line": 323,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 324,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Now I'm more angry!!!"
+        },
+        {
+            "line": 325,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You know, you're boring today."
+        },
+        {
+            "line": 326,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You're not chatting that much, nor are you doing anything funny."
+        },
+        {
+            "line": 327,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe the whole peak viewership thing is just you?"
+        },
+        {
+            "line": 328,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 329,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe this bar and me, both had nothing to do with the spike. Maybe you were just that good."
+        },
+        {
+            "line": 330,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 331,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "...are you hitting on me?"
+        },
+        {
+            "line": 332,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Am not."
+        },
+        {
+            "line": 333,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(In fact, I'm kinda trying to get you to leave. Pronto.)"
+        },
+        {
+            "line": 334,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Don't be so hard on the girl. She's fun."
+        },
+        {
+            "line": 335,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Another nuisance shows up...)"
+        },
+        {
+            "line": 336,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Bwaaaaaaaah! Jo hates me!"
+        },
+        {
+            "line": 337,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(It's not hate, it's just...)"
+        },
+        {
+            "line": 338,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Wait, I'm not having this conversation again.)"
+        },
+        {
+            "line": 339,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Boooooring."
+        },
+        {
+            "line": 340,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey, hey. You are curious right? About fuckboy's partner. Wanna know who it was?"
+        },
+        {
+            "line": 341,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Do you know?)"
+        },
+        {
+            "line": 342,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Maybe, maybe not."
+        },
+        {
+            "line": 343,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(That maybe not settles it then. Not taking any chances.)"
+        },
+        {
+            "line": 344,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh, come on!"
+        },
+        {
+            "line": 345,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Um... bartender, you're making lots of faces there."
+        },
+        {
+            "line": 346,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(It's nothing, really.)"
+        },
+        {
+            "line": 347,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Did the two bartenders break or something? Should I call the manager? Tech Support?"
+        },
+        {
+            "line": 348,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey, Jo. Inner and outer voice, remember?"
+        },
+        {
+            "line": 349,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fuck..."
+        },
+        {
+            "line": 350,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "What? Who fucked? Aside from that guy, I mean."
+        },
+        {
+            "line": 351,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... uh..."
+        },
+        {
+            "line": 352,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "S-Say... you're oddly calm today."
+        },
+        {
+            "line": 353,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Well, I've been getting more sleep lately."
+        },
+        {
+            "line": 354,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "That way I don't feel like if I stop speaking, I'll die."
+        },
+        {
+            "line": 355,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Crash is one hell of a drug..."
+        },
+        {
+            "line": 356,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "And wouldn't you know, I can actually make it Premium time if I go commando."
+        },
+        {
+            "line": 357,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 358,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "But come on! I'm getting bored out of my ass here. Do something!"
+        },
+        {
+            "line": 359,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm not a dog. You can't just ask me to roll over, you know?"
+        },
+        {
+            "line": 360,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Mind if I entertain you a bit then?"
+        },
+        {
+            "line": 361,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss?"
+        },
+        {
+            "line": 362,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You and Gil take a break. I'll entertain the missy here."
+        },
+        {
+            "line": 363,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...alright."
+        },
+        {
+            "line": 364,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ah, Jill. By that I meant, take Gil with you."
+        },
+        {
+            "line": 365,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I don't want him humming to the middle of the road and right into a truck's grill."
+        },
+        {
+            "line": 366,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Heh... Grilled Gil."
+        },
+        {
+            "line": 367,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right."
+        },
+        {
+            "line": 368,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright Gil, come with me."
+        },
+        {
+            "line": 369,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 370,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Want one?"
+        },
+        {
+            "line": 371,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm? No thanks, I don't smoke."
+        },
+        {
+            "line": 372,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 373,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright, I got a text from Alma."
+        },
+        {
+            "line": 374,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "BOSS! ALMA AND GIL DIDN'T FUCK!"
+        },
+        {
+            "line": 375,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "WELL, THAT'S A BUMMER."
+        },
+        {
+            "line": 376,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She is sending congratulations your way though."
+        },
+        {
+            "line": 377,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Tell her I said thanks... I guess."
+        },
+        {
+            "line": 378,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, who was the lucky girl?"
+        },
+        {
+            "line": 379,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 380,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So it was a guy? I never thought you swung that way."
+        },
+        {
+            "line": 381,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "It wasn't a guy."
+        },
+        {
+            "line": 382,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So it was a girl. And you did fuck."
+        },
+        {
+            "line": 383,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I don't feel comfortable talking about that, you know?"
+        },
+        {
+            "line": 384,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You don't make things easy for me though."
+        },
+        {
+            "line": 385,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "How so?"
+        },
+        {
+            "line": 386,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, you're pretty hard to get close to, you know?"
+        },
+        {
+            "line": 387,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You never talk about yourself. You're talkative, so long as it doesn't involve you directly."
+        },
+        {
+            "line": 388,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Teasing you is literally the only way I know to get through to you."
+        },
+        {
+            "line": 389,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You make me sound like some weird loner."
+        },
+        {
+            "line": 390,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You ARE a weird loner."
+        },
+        {
+            "line": 391,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "At least tell me if you enjoyed the night you spent with... whoever it was."
+        },
+        {
+            "line": 392,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...I did."
+        },
+        {
+            "line": 393,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Good for you!"
+        },
+        {
+            "line": 394,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why are you humming Sunshine Stone so much though?"
+        },
+        {
+            "line": 395,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 396,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I looked up her discography and... I can't stop humming or listening to them."
+        },
+        {
+            "line": 397,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right."
+        },
+        {
+            "line": 398,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...oh god. You didn't fuck the idol girl, did you?"
+        },
+        {
+            "line": 399,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "No. Why would that be a problem, though?"
+        },
+        {
+            "line": 400,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know, it'd just feel... weird."
+        },
+        {
+            "line": 401,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, that's that for the break. Let's go back."
+        },
+        {
+            "line": 402,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Right."
+        },
+        {
+            "line": 403,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh, and Gil?"
+        },
+        {
+            "line": 404,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 405,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Keep in mind what I said about opening up more. I mean it."
+        },
+        {
+            "line": 406,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That way we won't tease you so often."
+        },
+        {
+            "line": 407,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Listening to you say that has to be the weirdest thing I've heard this year."
+        },
+        {
+            "line": 408,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shut up."
+        },
+        {
+            "line": 409,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Aaand, that's that."
+        },
+        {
+            "line": 410,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Back."
+        },
+        {
+            "line": 411,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "What were you two doing back there?"
+        },
+        {
+            "line": 412,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fucking."
+        },
+        {
+            "line": 413,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Oh, so just chatting then."
+        },
+        {
+            "line": 414,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm... hmhm..."
+        },
+        {
+            "line": 415,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Holy crap, did you two really fuck?!"
+        },
+        {
+            "line": 416,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "John has the face of a man who fucked to death recently."
+        },
+        {
+            "line": 417,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 418,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "See, Gil? You're making it too obvious."
+        },
+        {
+            "line": 419,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "HOW?!"
+        },
+        {
+            "line": 420,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What will you have today?"
+        },
+        {
+            "line": 421,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I'll have a Gut Punch."
+        },
+        {
+            "line": 422,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Coming right... eh?"
+        },
+        {
+            "line": 423,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 424,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "N-Nothing..."
+        },
+        {
+            "line": 425,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "H-Here..."
+        },
+        {
+            "line": 426,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Stop looking at me like that!"
+        },
+        {
+            "line": 427,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry."
+        },
+        {
+            "line": 428,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "H-Here."
+        },
+        {
+            "line": 429,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Come on! This is wrong."
+        },
+        {
+            "line": 430,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry, you took me by surprise."
+        },
+        {
+            "line": 431,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you okay? It's weird for you to order something like that."
+        },
+        {
+            "line": 432,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Yeah, I'm just trying out stuff."
+        },
+        {
+            "line": 433,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Did you know Lilim tongues are designed to identify food using the chemical components?"
+        },
+        {
+            "line": 434,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Our tongues were designed with the human ones in mind."
+        },
+        {
+            "line": 435,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "For example, the first flavors that we detect are sour and bitter, just like you guys."
+        },
+        {
+            "line": 436,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I checked my personal specs and apparently, my sensitivity is set to 1.2235x."
+        },
+        {
+            "line": 437,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "That makes me hate those flavors because I feel them harder."
+        },
+        {
+            "line": 438,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why all that... exposition?"
+        },
+        {
+            "line": 439,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, I'd lie if I say I wasn't interested, but why?"
+        },
+        {
+            "line": 440,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Well, after last time, I got curious and started checking how many of my systems worked in detail."
+        },
+        {
+            "line": 441,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "For example, the tips of my fingers are so sensitive to vibrations, you could make a seismograph with them."
+        },
+        {
+            "line": 442,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh."
+        },
+        {
+            "line": 443,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "And checking that, I've found that it's all based on how humans work."
+        },
+        {
+            "line": 444,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "And that got me thinking about what you said."
+        },
+        {
+            "line": 445,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I mean, for my systems to work, humans had to understand how they work."
+        },
+        {
+            "line": 446,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "And after all those discoveries, they're not any more or less artificial."
+        },
+        {
+            "line": 447,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Why should I be?"
+        },
+        {
+            "line": 448,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I don't know, looking up all of that suddenly made me feel... real."
+        },
+        {
+            "line": 449,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "It was the opposite of what I felt last time, I feel like I'm here right now."
+        },
+        {
+            "line": 450,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Glad to hear that."
+        },
+        {
+            "line": 451,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Alright then, let's try something sweet now."
+        },
+        {
+            "line": 452,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 453,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Ah, nice."
+        },
+        {
+            "line": 454,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 455,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "BUUUUZZZ! Wrong!"
+        },
+        {
+            "line": 456,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "To be honest, it's a bit surreal for me."
+        },
+        {
+            "line": 457,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 458,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm here talking to you and you're answering like any human would, you're even expressing happiness."
+        },
+        {
+            "line": 459,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I remember when I was a kid, I usually tried to strike conversations with AIs."
+        },
+        {
+            "line": 460,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But after a bit, they'd just... start looping through their built-in answers, repeating the same things over and over."
+        },
+        {
+            "line": 461,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That always made me crash back into reality."
+        },
+        {
+            "line": 462,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "When I think back to that, having such advanced AIs like you here right now, it's... amazing."
+        },
+        {
+            "line": 463,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know, it makes my inner child happy to see something she always dreamt of."
+        },
+        {
+            "line": 464,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It helps when I feel particularly cynical."
+        },
+        {
+            "line": 465,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Aw... you flatter me."
+        },
+        {
+            "line": 466,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Besides, I've always thought about humans like nature's Lilim."
+        },
+        {
+            "line": 467,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The method might have been different, but we, too, evolved from a more simple form ages ago."
+        },
+        {
+            "line": 468,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If Lilim manage to create biological life years from now, it will all have come full circle."
+        },
+        {
+            "line": 469,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "So what should I take from this is..."
+        },
+        {
+            "line": 470,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "You love me?"
+        },
+        {
+            "line": 471,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't overdo it."
+        },
+        {
+            "line": 472,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anything else?"
+        },
+        {
+            "line": 473,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Let's go with a Sugar Rush."
+        },
+        {
+            "line": 474,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ok."
+        },
+        {
+            "line": 475,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 476,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Even in doubt, my love for these is real."
+        },
+        {
+            "line": 477,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How romantic."
+        },
+        {
+            "line": 478,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 479,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Honey, this is real. Real bullshit."
+        },
+        {
+            "line": 480,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*pfffft*"
+        },
+        {
+            "line": 481,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So I take it the solipsist problem got solved?"
+        },
+        {
+            "line": 482,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 483,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "All the... reality crisis started the other day."
+        },
+        {
+            "line": 484,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "My mo-... guardian..."
+        },
+        {
+            "line": 485,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Call her mom, nobody's judging you."
+        },
+        {
+            "line": 486,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "M-Mom decided to meet with the mother of her daughter's girlfriend."
+        },
+        {
+            "line": 487,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "It was a very emotional meeting. They both said they felt like they closed a long chapter."
+        },
+        {
+            "line": 488,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I was moved, but that's when it set in."
+        },
+        {
+            "line": 489,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "\"Why was I moved?\" \"I never met any of them, so where do these feelings come from?\""
+        },
+        {
+            "line": 490,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "\"Why do I feel things?\" \"Do I really feel them?\""
+        },
+        {
+            "line": 491,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "\"What tells me someone else isn't pressing a button to make me feel that?\""
+        },
+        {
+            "line": 492,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "\"What tells me I'm in my body?\" \"What is 'real'?\""
+        },
+        {
+            "line": 493,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "BOOM!"
+        },
+        {
+            "line": 494,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 495,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Oh, don't worry by the way. I'm fine."
+        },
+        {
+            "line": 496,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thank god, it's unnatural to see you down like that..."
+        },
+        {
+            "line": 497,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Man, that Gogo is a blast."
+        },
+        {
+            "line": 498,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't you feel like talking a bit more with Didi?"
+        },
+        {
+            "line": 499,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Didi is too much of a prick, and Gogo is tired."
+        },
+        {
+            "line": 500,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Besides, I wanna talk with the bartenders."
+        },
+        {
+            "line": 501,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh fuck."
+        },
+        {
+            "line": 502,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, I tried. Jill, I'll be in my office."
+        },
+        {
+            "line": 503,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Cute little girl Lilim!"
+        },
+        {
+            "line": 504,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Camgirl!"
+        },
+        {
+            "line": 505,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh... fiddlesticks."
+        },
+        {
+            "line": 506,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "What's your name, girl?"
+        },
+        {
+            "line": 507,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I'm Dorothy Haze, at your service!"
+        },
+        {
+            "line": 508,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Do you come here often?"
+        },
+        {
+            "line": 509,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Are you hitting on me?"
+        },
+        {
+            "line": 510,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 511,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Hey Dorothy, I'm in the middle of a live stream. Do you wanna participate?"
+        },
+        {
+            "line": 512,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Sure! Sounds fun!"
+        },
+        {
+            "line": 513,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Okay, let's take a recommendation from you. What should I drink next?"
+        },
+        {
+            "line": 514,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Try the Sugar Rush."
+        },
+        {
+            "line": 515,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Bartender! A Sugar Rush over here!"
+        },
+        {
+            "line": 516,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 517,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Bar! Ten! Der!"
+        },
+        {
+            "line": 518,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry, what?"
+        },
+        {
+            "line": 519,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Sugar Rush, please."
+        },
+        {
+            "line": 520,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right."
+        },
+        {
+            "line": 521,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 522,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Good choice, Dorothy!"
+        },
+        {
+            "line": 523,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Yaay!"
+        },
+        {
+            "line": 524,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 525,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Wrong order, bartender!"
+        },
+        {
+            "line": 526,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Boooo!"
+        },
+        {
+            "line": 527,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "So, what are you doing in my turf? Um..."
+        },
+        {
+            "line": 528,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Streaming-chan."
+        },
+        {
+            "line": 529,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Yes?"
+        },
+        {
+            "line": 530,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, I mean. That's what she calls herself."
+        },
+        {
+            "line": 531,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Man, that's a tacky name."
+        },
+        {
+            "line": 532,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Yeah, but it's my tacky name."
+        },
+        {
+            "line": 533,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Actually, that's not really my name."
+        },
+        {
+            "line": 534,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "What's your real name, then?"
+        },
+        {
+            "line": 535,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Behind Streaming-chan's awesome mask lies the humble Nicole Chen!"
+        },
+        {
+            "line": 536,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Humble...)"
+        },
+        {
+            "line": 537,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Why not call yourself Streaming Chen?"
+        },
+        {
+            "line": 538,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It's funny that you mention it."
+        },
+        {
+            "line": 539,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You see, when I started I called myself Nico Nico Chen."
+        },
+        {
+            "line": 540,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I changed websites, so the name felt a bit out of place. Thus I became Streaming Chen."
+        },
+        {
+            "line": 541,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Everyone nicknamed me Streaming-chan though, so I just went along with it."
+        },
+        {
+            "line": 542,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Oh yeah, I get it."
+        },
+        {
+            "line": 543,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "At one point I was gonna call myself Dolores Haze."
+        },
+        {
+            "line": 544,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "But then I realized the name was as subtle as a brick to the face."
+        },
+        {
+            "line": 545,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 546,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Anyway. I'm here because the last time I came, I ended up with greater viewer numbers than usual."
+        },
+        {
+            "line": 547,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "And so, I wanted to treat my loyal audience again!"
+        },
+        {
+            "line": 548,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Oooh, I see."
+        },
+        {
+            "line": 549,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Well, you came to the right place, especially if you're looking for some comfy fun!"
+        },
+        {
+            "line": 550,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Honey here might seem harsh, but you just need to crack her shell."
+        },
+        {
+            "line": 551,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shut up."
+        },
+        {
+            "line": 552,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "See? You just need to say the right thing at the right time and she becomes a sweetheart."
+        },
+        {
+            "line": 553,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Quiet, you."
+        },
+        {
+            "line": 554,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Don't play hard to get. You know it's true."
+        },
+        {
+            "line": 555,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey, stream girl."
+        },
+        {
+            "line": 556,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "That's me."
+        },
+        {
+            "line": 557,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll regret asking this, but don't you have a sponsor?"
+        },
+        {
+            "line": 558,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's weird that it's been this long without SOME advertisement."
+        },
+        {
+            "line": 559,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I HAVE, but you see..."
+        },
+        {
+            "line": 560,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "The contract with them expired, so Marvin, the business guy or whatever had to make a new one."
+        },
+        {
+            "line": 561,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "He was gonna send the draft to his lawyer as it had a couple of additions, but..."
+        },
+        {
+            "line": 562,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 563,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Let's say he got too excited with my VR model and the contract became... unreadable."
+        },
+        {
+            "line": 564,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 565,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Oh, so he used the contract to..."
+        },
+        {
+            "line": 566,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Yup. He cut it into a pair of panties and rubbed it vigorously on his penis."
+        },
+        {
+            "line": 567,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I mean, you'd expect certain... principles to be upheld, even in the adult VR industry."
+        },
+        {
+            "line": 568,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I reported him and he got fired, but now they're looking for a new business person thing."
+        },
+        {
+            "line": 569,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Honestly, I think the paper cuts all over his dick are punishment enough."
+        },
+        {
+            "line": 570,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "But I mean... why the contract?"
+        },
+        {
+            "line": 571,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I don't mind it if he jacked off to an image of me, but the contract?!"
+        },
+        {
+            "line": 572,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "That's money that you're soiling right there!"
+        },
+        {
+            "line": 573,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I would've gone back on the deal, were it not for the owner paying me a visit and apologizing profusely."
+        },
+        {
+            "line": 574,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Some people seriously..."
+        },
+        {
+            "line": 575,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Ah... dick paper cuts."
+        },
+        {
+            "line": 576,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I've done enough \"crazed teacher fantasies\" to know how they can be a problem."
+        },
+        {
+            "line": 577,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't think you need to have experience to understand that."
+        },
+        {
+            "line": 578,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...that said, Gil's been grimacing for a full minute now."
+        },
+        {
+            "line": 579,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Don't... mind me."
+        },
+        {
+            "line": 580,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 581,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "But you know, I like you, Dorothy. Why don't we celebrate with Beers? My treat!"
+        },
+        {
+            "line": 582,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Alright!"
+        },
+        {
+            "line": 583,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Two big Beers, Honey!"
+        },
+        {
+            "line": 584,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 585,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 586,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Cheers!"
+        },
+        {
+            "line": 587,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Cheers!"
+        },
+        {
+            "line": 588,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 589,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Man, this big stuff is actually quite small."
+        },
+        {
+            "line": 590,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Oh well, cheers!"
+        },
+        {
+            "line": 591,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Kanpai!"
+        },
+        {
+            "line": 592,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 593,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "You have the Beer. Your viewers will enjoy it more if you drink it."
+        },
+        {
+            "line": 594,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You bring a tear to my eye, Dorothy."
+        },
+        {
+            "line": 595,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Your sacrifice won't be forgotten!"
+        },
+        {
+            "line": 596,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 597,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Wrong order!"
+        },
+        {
+            "line": 598,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Boooooooo!"
+        },
+        {
+            "line": 599,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Alright! I'm not feeling my tongue or my feet! Time to get lewd!"
+        },
+        {
+            "line": 600,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Did I hear lewd? Do you have any stories?"
+        },
+        {
+            "line": 601,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Hmhmhm... this will be a treat for non-premium users!"
+        },
+        {
+            "line": 602,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I once met a guy that insisted on doing it in a jacuzzi."
+        },
+        {
+            "line": 603,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "He didn't mind being in Premium time, so I started setting up the cameras."
+        },
+        {
+            "line": 604,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "And man, was it a challenge."
+        },
+        {
+            "line": 605,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I wasn't just gonna stream over the water. I wanted some underwater action too!"
+        },
+        {
+            "line": 606,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "What did you do with the bubbles and all?"
+        },
+        {
+            "line": 607,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "That was the least of the problems! We just turned the jets off."
+        },
+        {
+            "line": 608,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "But not only did I have to make a makeshift underwater cover, I also had to keep in mind the heat!"
+        },
+        {
+            "line": 609,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Heat isn't good with cameras."
+        },
+        {
+            "line": 610,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Did you try chilling the cam a bit and putting it in a bag with some filling?"
+        },
+        {
+            "line": 611,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "We made something more... convoluted."
+        },
+        {
+            "line": 612,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "We took a small cooler, opened a hole for the lens, and sealed it with plastic."
+        },
+        {
+            "line": 613,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I made sure things looked good through the cam and started recording."
+        },
+        {
+            "line": 614,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Threw in some cooling packs, and sealed the fuck out of the cooler."
+        },
+        {
+            "line": 615,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Did it need any weight?"
+        },
+        {
+            "line": 616,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Yup! Luckily, the guy was into bodybuilding so we used some old dumbbells."
+        },
+        {
+            "line": 617,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "He was also ripped as fuck! But that's another story."
+        },
+        {
+            "line": 618,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It was all a success! But it's also the last time I have sex on a jacuzzi."
+        },
+        {
+            "line": 619,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Blood rushing, hot water... I felt like I was dying midway through it."
+        },
+        {
+            "line": 620,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Thank god he decided to resume the action out of the water midway through it, or I would've surely died."
+        },
+        {
+            "line": 621,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "At least the guy didn't burn himself."
+        },
+        {
+            "line": 622,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "What do you mean?"
+        },
+        {
+            "line": 623,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Last time I had sex on a jacuzzi, my body got so hot, the guy almost burned his dick!"
+        },
+        {
+            "line": 624,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I considered investing in a cooling system, but it's so situational and expensive that I'll pass."
+        },
+        {
+            "line": 625,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Besides, those cooling systems require too much maintenance."
+        },
+        {
+            "line": 626,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Waaaaait! I think I should leave, but... care to join me in escapades for the rest of the night?"
+        },
+        {
+            "line": 627,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Can I plug my services at the end of the night?"
+        },
+        {
+            "line": 628,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Sure!"
+        },
+        {
+            "line": 629,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Then count me in! I've got the perfect stories."
+        },
+        {
+            "line": 630,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Let us be on our way then."
+        },
+        {
+            "line": 631,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Goodbye, bartender!"
+        },
+        {
+            "line": 632,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Bye, honey!"
+        },
+        {
+            "line": 633,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Well, let's start the story."
+        },
+        {
+            "line": 634,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "You see, there was this Mega Santa..."
+        },
+        {
+            "line": 635,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Wait, seriously?!"
+        },
+        {
+            "line": 636,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...they left."
+        },
+        {
+            "line": 637,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A pair made in hell."
+        },
+        {
+            "line": 638,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "At least they look like they're having fun."
+        },
+        {
+            "line": 639,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(That method of filming underwater sounded convoluted as fuck though.)"
+        },
+        {
+            "line": 640,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(But I guess it's hard to keep a cool head when you're horny.)"
+        },
+        {
+            "line": 641,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "So, what do you do, Dorothy?"
+        },
+        {
+            "line": 642,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Sex worker."
+        },
+        {
+            "line": 643,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Really? You wouldn't happen to have male co-workers, do you?"
+        },
+        {
+            "line": 644,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Am I not good enough for you?"
+        },
+        {
+            "line": 645,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Getting serious? No, sorry. Fooling around maybe."
+        },
+        {
+            "line": 646,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Still, I wanna spice up some premium nights, so..."
+        },
+        {
+            "line": 647,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Do you have a card? I could send you some numbers and pics."
+        },
+        {
+            "line": 648,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Sure! Here you go."
+        },
+        {
+            "line": 649,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "And here's mine! Just in case you change your mind."
+        },
+        {
+            "line": 650,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Hey, is camgirling like that a good job?"
+        },
+        {
+            "line": 651,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Can you earn enough?"
+        },
+        {
+            "line": 652,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "More than enough! I can even afford an apartment in a high-end district of Glitch City!"
+        },
+        {
+            "line": 653,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It can be a challenge from time to time though."
+        },
+        {
+            "line": 654,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You can't just do anything and expect people to come back!"
+        },
+        {
+            "line": 655,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "You need to be varied! Keep it fresh!"
+        },
+        {
+            "line": 656,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It's all worked out nicely though. I'm one of the top streamers on my website."
+        },
+        {
+            "line": 657,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I even got this!"
+        },
+        {
+            "line": 658,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "A pillow?"
+        },
+        {
+            "line": 659,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Not just a pillow, a Dakimakura! With the website's president on it!"
+        },
+        {
+            "line": 660,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It's a trophy in honor of all the money I've brought to the website."
+        },
+        {
+            "line": 661,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It's even a direct line to him! I can use it to call him for tech support on the spot!"
+        },
+        {
+            "line": 662,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Call him, call him!"
+        },
+        {
+            "line": 663,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Let's see..."
+        },
+        {
+            "line": 664,
+            "character": "None",
+            "type": "dialogue",
+            "text": "........."
+        },
+        {
+            "line": 665,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "It's busy. Oh well."
+        },
+        {
+            "line": 666,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "The only condition they stipulated for this Dakimakura is that I can't use it for... premium content."
+        },
+        {
+            "line": 667,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Not that I would have, but you know..."
+        },
+        {
+            "line": 668,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Boring nights, lonely nights, everything can be a dildo if you're brave enough..."
+        },
+        {
+            "line": 669,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "That kind of stuff."
+        },
+        {
+            "line": 670,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Yeah. You tell me."
+        },
+        {
+            "line": 671,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I can show you something too, but only if you let me promote myself at the end of it all."
+        },
+        {
+            "line": 672,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Sure! Go ahead!"
+        },
+        {
+            "line": 673,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Ta-chan!"
+        },
+        {
+            "line": 674,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "CUUUUUUUUUUUTE!!!"
+        },
+        {
+            "line": 675,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I can see you're no stranger to lewd content, but... does the streaming site allow it?"
+        },
+        {
+            "line": 676,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Well, first they gave me the means to stream, but my website was different from theirs."
+        },
+        {
+            "line": 677,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Eventually, the demand for adult content grew, so they added lots of gates to let people get lewd."
+        },
+        {
+            "line": 678,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "They created an age gate because of you?"
+        },
+        {
+            "line": 679,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Yup!"
+        },
+        {
+            "line": 680,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Nice!"
+        },
+        {
+            "line": 681,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Is there any other streamer you feel might dethrone you?"
+        },
+        {
+            "line": 682,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Well, MMAJunkie2040 is seriously becoming a threat by the day."
+        },
+        {
+            "line": 683,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "He got this dog to train with him and suddenly everyone got interested in mixed martial arts."
+        },
+        {
+            "line": 684,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "I wish him all the best, but... he's crazy if he thinks he'll take away my spot."
+        },
+        {
+            "line": 685,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Oh yeah. That guy."
+        },
+        {
+            "line": 686,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "He was better when he was fatter."
+        },
+        {
+            "line": 687,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Not only was it all the more funny, it was also more... inspiring."
+        },
+        {
+            "line": 688,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "And I'm not exactly a fan of dogs either."
+        },
+        {
+            "line": 689,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Well, it's been fun, Dorothy, but I gotta go."
+        },
+        {
+            "line": 690,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Mind if I stick with you for a bit?"
+        },
+        {
+            "line": 691,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "Oh! By all means! Let's continue the escapade then."
+        },
+        {
+            "line": 692,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Sure!"
+        },
+        {
+            "line": 693,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Bye, Honey!"
+        },
+        {
+            "line": 694,
+            "character": "Streaming-chan",
+            "type": "dialogue",
+            "text": "See ya Honey!"
+        },
+        {
+            "line": 695,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 696,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Should I remind Dorothy that those \"ears\" of hers are signal jammers?)"
+        },
+        {
+            "line": 697,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Nah...)"
+        },
+        {
+            "line": 698,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I wonder if the stream looks distorted, though)"
+        },
+        {
+            "line": 699,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We're done, Boss."
+        },
+        {
+            "line": 700,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Man, don't you just feel great?"
+        },
+        {
+            "line": 701,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Were we in the same place?"
+        },
+        {
+            "line": 702,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Here, Jill."
+        },
+        {
+            "line": 703,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What's this?"
+        },
+        {
+            "line": 704,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "A bonus."
+        },
+        {
+            "line": 705,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Today I got a taste of the kind of clients you deal with and..."
+        },
+        {
+            "line": 706,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...keep it up."
+        },
+        {
+            "line": 707,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 708,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, tomorrow is the big day, so get ready."
+        },
+        {
+            "line": 709,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That goes for both of you!"
+        },
+        {
+            "line": 710,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I wonder if Alma finds Gil attractive..."
+        }
+    ]

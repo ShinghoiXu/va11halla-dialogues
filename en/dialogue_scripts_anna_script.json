@@ -1,0 +1,4497 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "anna_script.txt",
+            "lines": 749,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 3,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*yawn*"
+        },
+        {
+            "line": 4,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* (Man, such a slow night...)"
+        },
+        {
+            "line": 5,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 6,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(At least I'm not serving dogs.)"
+        },
+        {
+            "line": 7,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 8,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Normally, this would be where a dog shows up like a cheap punchline.)"
+        },
+        {
+            "line": 9,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(...I guess not.)"
+        },
+        {
+            "line": 10,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Speaking of dogs, I wonder where the hell's Gil?)"
+        },
+        {
+            "line": 11,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Bored?"
+        },
+        {
+            "line": 12,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 13,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "WAAAAAH!!"
+        },
+        {
+            "line": 14,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sorry, did I wake you up?"
+        },
+        {
+            "line": 15,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I-I wasn't sleeping. My eyes were open!"
+        },
+        {
+            "line": 16,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You went to college, right? You know having your eyes open means nothing."
+        },
+        {
+            "line": 17,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't worry, I don't blame you. It's been a really long time since we've had such a slow night."
+        },
+        {
+            "line": 18,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "In fact, I think the last time we had a night this slow was before you started working here."
+        },
+        {
+            "line": 19,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really?"
+        },
+        {
+            "line": 20,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yeah, it happened when Robert was still working here."
+        },
+        {
+            "line": 21,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Who?"
+        },
+        {
+            "line": 22,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "My first employee. The poor idiot bought a \"levitation potion\" and threw himself off a building."
+        },
+        {
+            "line": 23,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 24,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...as it turned out, the potion actually worked."
+        },
+        {
+            "line": 25,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...come again?"
+        },
+        {
+            "line": 26,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He started rising in the air... and couldn't stop."
+        },
+        {
+            "line": 27,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "They later found his body smeared across the nose of a commercial flight that was on its way to Kanjevania."
+        },
+        {
+            "line": 28,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "But anyway..."
+        },
+        {
+            "line": 29,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Should you really dismiss that so easily?)"
+        },
+        {
+            "line": 30,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "We didn't have a single client that night. Not even a lost soul asking for directions. But then, suddenly, a kid shows up."
+        },
+        {
+            "line": 31,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He was obviously underage, but I was bored, so I decided to let him order something."
+        },
+        {
+            "line": 32,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I gave him one Karmotrine-free drink. I mean, even if I was letting him order, I wasn't about to give alcohol to an underaged boy."
+        },
+        {
+            "line": 33,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And then, when the time came for him to pay his tab... he realized he didn't have enough money."
+        },
+        {
+            "line": 34,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He then yanked his shirt over his head, started screaming he's a ghost, and tried to escape!"
+        },
+        {
+            "line": 35,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So, I kicked him so hard that he flew out of the bar, and told him ghosts shouldn't feel pain!"
+        },
+        {
+            "line": 36,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 37,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...Boss, did you really kick an underage kid?"
+        },
+        {
+            "line": 38,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Of course not! I just gave him a warning and made him wash a couple of dishes."
+        },
+        {
+            "line": 39,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The fact that you even thought for a moment that I would kick a young, innocent child hurts me to no end, you know?"
+        },
+        {
+            "line": 40,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyway, just... keep it up. Someone will show up sooner or later."
+        },
+        {
+            "line": 41,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I sure hope so."
+        },
+        {
+            "line": 42,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...hoooooooold on. Come to think of it. Aren't Gil's checks made out to \"Robert\"?"
+        },
+        {
+            "line": 43,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...noooooooooooooooooo... *cough*"
+        },
+        {
+            "line": 44,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* Well, at least that story killed a couple of minutes..."
+        },
+        {
+            "line": 45,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 46,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...I think I'll... I don't know... sort the glasses here or something."
+        },
+        {
+            "line": 47,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 48,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...(Huh, we had a fedora-shaped glass?)"
+        },
+        {
+            "line": 49,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Um... Anybody here?"
+        },
+        {
+            "line": 50,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah! Sorry! I'll be right the - OUCH."
+        },
+        {
+            "line": 51,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "A-Are you okay?"
+        },
+        {
+            "line": 52,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm fine, yeah."
+        },
+        {
+            "line": 53,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Welcome to Valhalla, what can I get... you... um..."
+        },
+        {
+            "line": 54,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Something wrong?"
+        },
+        {
+            "line": 55,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you sure you're old enough to drink?"
+        },
+        {
+            "line": 56,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Well, seeing how I'm old enough to eat solid food, I'm gonna guess that drinking won't be a problem."
+        },
+        {
+            "line": 57,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You know that's not what I meant."
+        },
+        {
+            "line": 58,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yeah, yeah. I'm old enough to drink. I turned 21 not too long ago, actually."
+        },
+        {
+            "line": 59,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 60,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Still don't believe me? What do you need me to give you?"
+        },
+        {
+            "line": 61,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I must be sleep-deprived or something.)"
+        },
+        {
+            "line": 62,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(What's this... deja vu feeling though?)"
+        },
+        {
+            "line": 63,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...it's fine, don't worry."
+        },
+        {
+            "line": 64,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What can I get you?"
+        },
+        {
+            "line": 65,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I feel like having a Sugar Rush."
+        },
+        {
+            "line": 66,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure. Coming right up."
+        },
+        {
+            "line": 67,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 68,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Thanks!"
+        },
+        {
+            "line": 69,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yup, this is the stuff."
+        },
+        {
+            "line": 70,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 71,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Thanks!"
+        },
+        {
+            "line": 72,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hoooold on, this doesn't have any alcohol, does it?"
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Nope."
+        },
+        {
+            "line": 74,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You really think I'm underaged, don't you?"
+        },
+        {
+            "line": 75,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 76,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I'll have you know I'm old enough to get pregnant."
+        },
+        {
+            "line": 77,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's... sadly not relevant here."
+        },
+        {
+            "line": 78,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Ugh!"
+        },
+        {
+            "line": 79,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "On second thought, this is actually good."
+        },
+        {
+            "line": 80,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Err... I mean... Don't underestimate me!"
+        },
+        {
+            "line": 81,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Enjoy."
+        },
+        {
+            "line": 82,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Thanks!"
+        },
+        {
+            "line": 83,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Um... this isn't a Sugar Rush."
+        },
+        {
+            "line": 84,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "*sniff* But it'll get me drunk, so it's fine I guess."
+        },
+        {
+            "line": 85,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Enjoy."
+        },
+        {
+            "line": 86,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Thanks!"
+        },
+        {
+            "line": 87,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Um... this isn't a Sugar Rush."
+        },
+        {
+            "line": 88,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It doesn't even smell like it'll make me say funny things!"
+        },
+        {
+            "line": 89,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You think I'm underaged, don't you?"
+        },
+        {
+            "line": 90,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 91,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Ugh!"
+        },
+        {
+            "line": 92,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You know... I could've been lying through my teeth."
+        },
+        {
+            "line": 93,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 94,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I could be an underaged liar. You could've sold alcoholic drinks to an underage kid."
+        },
+        {
+            "line": 95,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "How would that make you feel?"
+        },
+        {
+            "line": 96,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Meh..."
+        },
+        {
+            "line": 97,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "\"Meh\"?"
+        },
+        {
+            "line": 98,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't believe in the myth that kids don't drink alcohol. I've met 16 year olds that drink a lot more than I do."
+        },
+        {
+            "line": 99,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Limiting the alcohol they can get is necessary, but if you make it look like a forbidden pleasure..."
+        },
+        {
+            "line": 100,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... you will only make them crave it more."
+        },
+        {
+            "line": 101,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hell, I bet if you gave kids alcohol, they'd start swearing off of it earlier."
+        },
+        {
+            "line": 102,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So you're fine with giving drinks to underaged kids?"
+        },
+        {
+            "line": 103,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, but if that were to happen, I wouldn't get my panties in a bunch."
+        },
+        {
+            "line": 104,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "W-Wouldn't you get punished for doing that?"
+        },
+        {
+            "line": 105,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You'd have to admit publicly that you ordered alcohol first. And that would bring you a different array of problems."
+        },
+        {
+            "line": 106,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...oh."
+        },
+        {
+            "line": 107,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you come here looking to get me in trouble?"
+        },
+        {
+            "line": 108,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "No! I just wanted a reaction out of you but you're taking it all too calmly!"
+        },
+        {
+            "line": 109,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...why?"
+        },
+        {
+            "line": 110,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I don't know. Your face makes me wanna tease you."
+        },
+        {
+            "line": 111,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I suddenly feel like I'm back in high school.)"
+        },
+        {
+            "line": 112,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Do you really think I look that young?"
+        },
+        {
+            "line": 113,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I do... but not young enough to be considered underaged."
+        },
+        {
+            "line": 114,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Then, why won't you give me alcohol?!"
+        },
+        {
+            "line": 115,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Because I wanted to mess with you."
+        },
+        {
+            "line": 116,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Mess with a client? Do you usually do that?"
+        },
+        {
+            "line": 117,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Only if it looks like they might take it in their stride."
+        },
+        {
+            "line": 118,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Still, why are you so angry at the idea I might think you look young?"
+        },
+        {
+            "line": 119,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "T-That's..."
+        },
+        {
+            "line": 120,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, the only people who don't like being mistaken for someone younger... are young people."
+        },
+        {
+            "line": 121,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But to be fair, you still look older than 95% of our regulars."
+        },
+        {
+            "line": 122,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "T-That would mean you've served drinks to people who look like they're 13 years old or something."
+        },
+        {
+            "line": 123,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 124,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "E-Eh?"
+        },
+        {
+            "line": 125,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright, let's get this out of the way. Please show me your ID."
+        },
+        {
+            "line": 126,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 127,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 128,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Seems everything's in order, Miss Anna... Graem?"
+        },
+        {
+            "line": 129,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Anna Graem... where have I heard that name before?)"
+        },
+        {
+            "line": 130,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Go ahead. Just try to make a joke I haven't heard yet."
+        },
+        {
+            "line": 131,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll... politely refuse."
+        },
+        {
+            "line": 132,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "No, I'm serious. Go ahead. People think it's \"too easy\" so they never make jokes about my name."
+        },
+        {
+            "line": 133,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...I'm still going to politely refuse."
+        },
+        {
+            "line": 134,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You're no fun!"
+        },
+        {
+            "line": 135,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So. What's your name, Miss Bartender?"
+        },
+        {
+            "line": 136,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My name?"
+        },
+        {
+            "line": 137,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You saw my name. I have the right to know yours."
+        },
+        {
+            "line": 138,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fair enough. I'm Jill."
+        },
+        {
+            "line": 139,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Jill what?"
+        },
+        {
+            "line": 140,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just... Jill."
+        },
+        {
+            "line": 141,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yeah, but what's your full name?"
+        },
+        {
+            "line": 142,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just call me Jill."
+        },
+        {
+            "line": 143,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Fine, I'll just pretend Jill is a way of saying your name is actually Johanna Ignacia Laurent Loan."
+        },
+        {
+            "line": 144,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Actually, I'll shorten it to Jo."
+        },
+        {
+            "line": 145,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Whatever floats your boat."
+        },
+        {
+            "line": 146,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Say, Jo, this place looks awfully desolate."
+        },
+        {
+            "line": 147,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Jo, she says...)"
+        },
+        {
+            "line": 148,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's been a slow day. A really, REALLY slow day."
+        },
+        {
+            "line": 149,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm actually glad you showed up. I was growing bored as hell."
+        },
+        {
+            "line": 150,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, it's not like we're always bustling with activity, but this is unusual even for here."
+        },
+        {
+            "line": 151,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So, I take it this isn't a popular place then?"
+        },
+        {
+            "line": 152,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We have our regulars, but we're not like the bars in the main street."
+        },
+        {
+            "line": 153,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Still, I like this place. It's comfy and... I don't know, it makes me feel safe."
+        },
+        {
+            "line": 154,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Weird. I mean, I feel that way too, but this place usually gives off the opposite impression."
+        },
+        {
+            "line": 155,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Can't blame them though, this isn't exactly the best part of the city."
+        },
+        {
+            "line": 156,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "That's a shame. I really like how isolated this place feels."
+        },
+        {
+            "line": 157,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You can't hear the sounds of the city in here. It's nice."
+        },
+        {
+            "line": 158,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "But then again, you could say I have some experience with isolated places. So, it might just be nostalgia."
+        },
+        {
+            "line": 159,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Nostalgia, huh..."
+        },
+        {
+            "line": 160,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Speaking of coming in here..."
+        },
+        {
+            "line": 161,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Now that I think about it, you didn't ask for my ID when I first came in. Why didn't you do it if you were so suspicious?"
+        },
+        {
+            "line": 162,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... firstly, I was bored."
+        },
+        {
+            "line": 163,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Figures."
+        },
+        {
+            "line": 164,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And second, I felt like you were of legal age."
+        },
+        {
+            "line": 165,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Um... how?"
+        },
+        {
+            "line": 166,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We've had a lot of kids come in thinking they could get away with ordering a drink, but they're too nervous or jumpy."
+        },
+        {
+            "line": 167,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't usually give drinks to kids like that. They don't know what they're dealing with."
+        },
+        {
+            "line": 168,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "What if they're not like that but still underage?"
+        },
+        {
+            "line": 169,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If they at least look like they're above legal age, I would be able to live with myself I guess."
+        },
+        {
+            "line": 170,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I won't give them anything if I know they're still kids. But hey, I'm bound to be fooled sometime."
+        },
+        {
+            "line": 171,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So I'm guessing I wasn't... jumpy?"
+        },
+        {
+            "line": 172,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 173,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I see."
+        },
+        {
+            "line": 174,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey Jo, now that you know I can drink legally, can I get another one?"
+        },
+        {
+            "line": 175,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What do you want?"
+        },
+        {
+            "line": 176,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hm... give me something sweet."
+        },
+        {
+            "line": 177,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sweet? Sure."
+        },
+        {
+            "line": 178,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "One sweet drink."
+        },
+        {
+            "line": 179,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Thanks!"
+        },
+        {
+            "line": 180,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You know, if all drinks were like this, I'd be afraid of turning into an alcoholic."
+        },
+        {
+            "line": 181,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please don't joke about that."
+        },
+        {
+            "line": 182,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "How can you say that? You're a bartender!"
+        },
+        {
+            "line": 183,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A bartender doesn't want her clients to become alcoholics."
+        },
+        {
+            "line": 184,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just like how personal trainers don't want their trainees to turn into steroid junkies."
+        },
+        {
+            "line": 185,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh, yeah. I guess you're right."
+        },
+        {
+            "line": 186,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Still, this one's really nice."
+        },
+        {
+            "line": 187,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 188,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "*sniff* This doesn't smell like my dad's breath on Sunday morning."
+        },
+        {
+            "line": 189,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Did you give me something without alcohol?"
+        },
+        {
+            "line": 190,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I did."
+        },
+        {
+            "line": 191,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I'll let you know I'm old enough to use a bra, so don't you dare underestimate me!"
+        },
+        {
+            "line": 192,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's... not relevant here."
+        },
+        {
+            "line": 193,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...maybe for you."
+        },
+        {
+            "line": 194,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...?"
+        },
+        {
+            "line": 195,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 196,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 197,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Jo, I think this drink went bad."
+        },
+        {
+            "line": 198,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, it didn't."
+        },
+        {
+            "line": 199,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You sure? It tastes like butt."
+        },
+        {
+            "line": 200,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I thought an adult like you would be able to stomach something like this."
+        },
+        {
+            "line": 201,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So you intentionally gave me the wrong drink? Why? To mess with me?"
+        },
+        {
+            "line": 202,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...yup."
+        },
+        {
+            "line": 203,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You're mean!"
+        },
+        {
+            "line": 204,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 205,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Heheh... it feels funny on the tongue."
+        },
+        {
+            "line": 206,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It's the first time I've tasted something so ...bubbly."
+        },
+        {
+            "line": 207,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You've never had a bubbly drink? Not even a can of soda?"
+        },
+        {
+            "line": 208,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I was a really fragile person up until recently. Things like bubbly drinks were out of the question."
+        },
+        {
+            "line": 209,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 210,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You got the order wrong, but I actually like it! Are there even bubblier drinks?"
+        },
+        {
+            "line": 211,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I... don't think so."
+        },
+        {
+            "line": 212,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It's fine. I'll get a soda later or something."
+        },
+        {
+            "line": 213,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright. Here."
+        },
+        {
+            "line": 214,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey, this is nice!"
+        },
+        {
+            "line": 215,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Eh?)"
+        },
+        {
+            "line": 216,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Sure, it could be a little sweeter, but I'm not complaining."
+        },
+        {
+            "line": 217,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(...is she a bird or something? That should've been spicy.)"
+        },
+        {
+            "line": 218,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Do you normally do that, Jo? Give people the wrong orders?"
+        },
+        {
+            "line": 219,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry, I'm... a bit out of it."
+        },
+        {
+            "line": 220,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Don't worry. I won't complain. I'm in a good mood."
+        },
+        {
+            "line": 221,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Still, why mess up like that?"
+        },
+        {
+            "line": 222,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do you want me to get you another drink?"
+        },
+        {
+            "line": 223,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Nah, leave it like that..."
+        },
+        {
+            "line": 224,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...still, I can't help but wonder..."
+        },
+        {
+            "line": 225,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If I told you I like to mess with my clients just to get a rise out of them, would you call it a day?"
+        },
+        {
+            "line": 226,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yes, yes I would."
+        },
+        {
+            "line": 227,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 228,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "No sighing! I'm the one in the right here."
+        },
+        {
+            "line": 229,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 230,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "And no sighing even harder because I said that."
+        },
+        {
+            "line": 231,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(...dammit.)"
+        },
+        {
+            "line": 232,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey Jo, do you drink?"
+        },
+        {
+            "line": 233,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I suppose, yeah. It'd be weird for a bartender not to drink, you know?"
+        },
+        {
+            "line": 234,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I don't know, I've met dentists with bad teeth. Bartenders who don't drink totally would make sense."
+        },
+        {
+            "line": 235,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's silly. It'd be like a vegan chef running a BBQ restaurant."
+        },
+        {
+            "line": 236,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You think?"
+        },
+        {
+            "line": 237,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I mean... It's not a matter of whether you can eat or drink whatever it is that you're making."
+        },
+        {
+            "line": 238,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's more like, \"Why do it if you don't like it?\""
+        },
+        {
+            "line": 239,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Huh... yeah, I guess that's true."
+        },
+        {
+            "line": 240,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "A dentist might have bad teeth, but he could still like working in dentistry. But why bother bartending if you don't like alcohol?"
+        },
+        {
+            "line": 241,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "See?"
+        },
+        {
+            "line": 242,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 243,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hm..."
+        },
+        {
+            "line": 244,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Something wrong?"
+        },
+        {
+            "line": 245,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I just noticed you haven't said my name yet."
+        },
+        {
+            "line": 246,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I haven't... what?"
+        },
+        {
+            "line": 247,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Aside from when you read my ID out loud, you haven't said my name!"
+        },
+        {
+            "line": 248,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Meanwhile, I've called out yours like a gazillion times now."
+        },
+        {
+            "line": 249,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(The wrong name, though.)"
+        },
+        {
+            "line": 250,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... I haven't had the need to say your name."
+        },
+        {
+            "line": 251,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Come on, humor me. Say my name."
+        },
+        {
+            "line": 252,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...why?"
+        },
+        {
+            "line": 253,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Say my name! Say. My. Name. Say my naaaaaaaaaaaaaaaaaaaame!"
+        },
+        {
+            "line": 254,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 255,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anna."
+        },
+        {
+            "line": 256,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "One more time."
+        },
+        {
+            "line": 257,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anna."
+        },
+        {
+            "line": 258,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yes! Now one more time!"
+        },
+        {
+            "line": 259,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...Nana."
+        },
+        {
+            "line": 260,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 261,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(It happened again. Maybe I need glasses?)"
+        },
+        {
+            "line": 262,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(And there's that feeling again. Did I see someone glitch out in the past?)"
+        },
+        {
+            "line": 263,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh, come on!"
+        },
+        {
+            "line": 264,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why did you want me to say your name?"
+        },
+        {
+            "line": 265,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I like hearing people call me by name."
+        },
+        {
+            "line": 266,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It feels personal and... fuzzy."
+        },
+        {
+            "line": 267,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, but asking people to say your name like that is a bit..."
+        },
+        {
+            "line": 268,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Quirky?"
+        },
+        {
+            "line": 269,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Creepy."
+        },
+        {
+            "line": 270,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I don't know about that."
+        },
+        {
+            "line": 271,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "There was this certain someone who would wake me up in the morning saying my name."
+        },
+        {
+            "line": 272,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Your name is important. Once you know someone's name, the gap between that person and you disappears."
+        },
+        {
+            "line": 273,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Once you give names to things, you start seeing them as important members of the family."
+        },
+        {
+            "line": 274,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So what if it's creepy? It's still nice!"
+        },
+        {
+            "line": 275,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Stop calling me Jo and use my name then!)"
+        },
+        {
+            "line": 276,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Say Anna, can I ask you something?"
+        },
+        {
+            "line": 277,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You called me by name so, sure!"
+        },
+        {
+            "line": 278,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "About your arm..."
+        },
+        {
+            "line": 279,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "What about it? Oh yeah, I'm lacking one. Did saying the word \"creepy\" remind you of its absence?"
+        },
+        {
+            "line": 280,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Actually, I've been wanting to ask about it since you came in."
+        },
+        {
+            "line": 281,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "At least be uncomfortable for a second! I'm trying to get a rise out of you. Sheesh..."
+        },
+        {
+            "line": 282,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So, what is it? How did I lose it?"
+        },
+        {
+            "line": 283,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If it's not too personal."
+        },
+        {
+            "line": 284,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It isn't. I'm actually proud of the tale."
+        },
+        {
+            "line": 285,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh... why?"
+        },
+        {
+            "line": 286,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You're looking at a proud survivor of Nanomachine Rejection!"
+        },
+        {
+            "line": 287,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really? I thought that was something doctors detected while a fetus is still in the womb."
+        },
+        {
+            "line": 288,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yes and no."
+        },
+        {
+            "line": 289,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "There's actually two types of Nanomachine Rejection Syndrome."
+        },
+        {
+            "line": 290,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "The first one is the most \"common.\" They usually detect it while you're still a fetus."
+        },
+        {
+            "line": 291,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "That's when they turn you into a Cat Boomer."
+        },
+        {
+            "line": 292,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "The other one can sometimes appear in your teenage years. It's incredibly rare, but it's still possible."
+        },
+        {
+            "line": 293,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So that arm..."
+        },
+        {
+            "line": 294,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Nanomachine Rejection basically causes your body to attack itself."
+        },
+        {
+            "line": 295,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Tissues start ripping apart, your organs malfunction..."
+        },
+        {
+            "line": 296,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I was lucky. In the end, all I lost was an arm and a handful of toes."
+        },
+        {
+            "line": 297,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Get it? A handful, because I lost five."
+        },
+        {
+            "line": 298,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 299,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "*ahem* A-Anyway..."
+        },
+        {
+            "line": 300,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I have a prosthetic arm, but it's in maintenance right now."
+        },
+        {
+            "line": 301,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, I see."
+        },
+        {
+            "line": 302,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It's a bit weird to be without it. I still feel like it's there."
+        },
+        {
+            "line": 303,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Just a couple of hours ago, I tried to grab something and I just stood there, thinking that arm was doing something."
+        },
+        {
+            "line": 304,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "But anyways. Mind getting me another drink? We can keep talking about my stump after that."
+        },
+        {
+            "line": 305,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Umm... riiiiight."
+        },
+        {
+            "line": 306,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What do you want?"
+        },
+        {
+            "line": 307,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Let's try something... classy."
+        },
+        {
+            "line": 308,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It's weird being in a bar and not asking for a fancy drink."
+        },
+        {
+            "line": 309,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright."
+        },
+        {
+            "line": 310,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 311,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "This looks expensive, alright. I'm starting to have second thoughts right now."
+        },
+        {
+            "line": 312,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just drink it."
+        },
+        {
+            "line": 313,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 314,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 315,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Something wrong?"
+        },
+        {
+            "line": 316,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "This has no alcohol in it."
+        },
+        {
+            "line": 317,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Jo, why would I come to a bar and not get something alcoholic?"
+        },
+        {
+            "line": 318,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "To ask for directions, to hide from the cops, to use the bathroom, to use the phone, to try mugging us and get beaten by my boss..."
+        },
+        {
+            "line": 319,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "To sit because your leg hurts, to ask what's the capital of Ghana, to challenge my boss to a children's card game..."
+        },
+        {
+            "line": 320,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "To ask for information, to start an illegal chess ring, to hide a newly bought inflatable doll from your wife..."
+        },
+        {
+            "line": 321,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Did all of this happen in real life?"
+        },
+        {
+            "line": 322,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I could go on for hours."
+        },
+        {
+            "line": 323,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "L-Leave it at that."
+        },
+        {
+            "line": 324,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here ya go."
+        },
+        {
+            "line": 325,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "This doesn't look expensive."
+        },
+        {
+            "line": 326,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...on second thought, that's a good thing."
+        },
+        {
+            "line": 327,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Cheers!"
+        },
+        {
+            "line": 328,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Enjoy."
+        },
+        {
+            "line": 329,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "This looks nice. In a... retro way, I guess."
+        },
+        {
+            "line": 330,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "But not classy, that's for sure."
+        },
+        {
+            "line": 331,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Actually, it's not half bad."
+        },
+        {
+            "line": 332,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Aaaand served."
+        },
+        {
+            "line": 333,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 334,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 335,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I have this feeling you're messing with me."
+        },
+        {
+            "line": 336,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Is it because I'm looking to get a reaction out of you?"
+        },
+        {
+            "line": 337,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe."
+        },
+        {
+            "line": 338,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 339,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Something wrong?"
+        },
+        {
+            "line": 340,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yeah, I'm just not feeling all that comfortable anymore."
+        },
+        {
+            "line": 341,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why?"
+        },
+        {
+            "line": 342,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "How can I feel comfortable if you serve me drinks I don't like?"
+        },
+        {
+            "line": 343,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I'd understand if you got the order wrong and I still liked it, but that's not the case here."
+        },
+        {
+            "line": 344,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So yeah, I'm gonna leave right now. Better luck next time."
+        },
+        {
+            "line": 345,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* That can't be good."
+        },
+        {
+            "line": 346,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Heheh... I'm starting to feel dizzy. That's nice."
+        },
+        {
+            "line": 347,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It is?"
+        },
+        {
+            "line": 348,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Of course! I spent so much time in hospitals and whatnot. But now, I'm just... living my life, you know?"
+        },
+        {
+            "line": 349,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I wanna feel the good and the bad. No more being forced to sit quietly in a quarantine room."
+        },
+        {
+            "line": 350,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I can get that."
+        },
+        {
+            "line": 351,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Wait... Quarantine?"
+        },
+        {
+            "line": 352,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Type 2 Nanomachine Rejection patients are put in special chambers free from the nanomachine particles in the air."
+        },
+        {
+            "line": 353,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "That prevents them from being assimilated, and aggravating their whole situation."
+        },
+        {
+            "line": 354,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "To be fair, not all of my memories of that chamber are bad."
+        },
+        {
+            "line": 355,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I mean, I did spend three, four years in one of those places."
+        },
+        {
+            "line": 356,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really? That long?"
+        },
+        {
+            "line": 357,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Well, I didn't go for the genetic-level treatment. So, it was longer... and a lot less expensive."
+        },
+        {
+            "line": 358,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I'm not going to complain, though. I'm alive thanks to all that."
+        },
+        {
+            "line": 359,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "And I left with so many fond memories too."
+        },
+        {
+            "line": 360,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So that's what you meant with the whole \"feeling nostalgic in isolated places\" thing."
+        },
+        {
+            "line": 361,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 362,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 363,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you alright?"
+        },
+        {
+            "line": 364,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Y-Yeah... I'm fine. Just dizzy."
+        },
+        {
+            "line": 365,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So, any questions about my stump, Jo?"
+        },
+        {
+            "line": 366,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not about your stump, actually. What is the treatment for Nanomachine Rejection Syndrome like?"
+        },
+        {
+            "line": 367,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Well. The purpose of it is to provide your body a certain degree of immunity to the nanomachines so it stops attacking itself."
+        },
+        {
+            "line": 368,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "But too much of that, and you end up with Tokyo Flu."
+        },
+        {
+            "line": 369,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Tokyo Flu..."
+        },
+        {
+            "line": 370,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's that super-flu that people can only avoid with the help of nanomachines, right?"
+        },
+        {
+            "line": 371,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "That's the one."
+        },
+        {
+            "line": 372,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I've always wondered why they called it Tokyo Flu."
+        },
+        {
+            "line": 373,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "If I remember correctly, it's because one of the first cases happened in Tokyo. Some have called it \"Anime Flu\" too."
+        },
+        {
+            "line": 374,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 375,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's ironic how the technology they use to keep tabs on you also strengthens your immune system."
+        },
+        {
+            "line": 376,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Not that it strengthened me against the needles I had to face on a daily basis, that's for sure. But anyways..."
+        },
+        {
+            "line": 377,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Nanomachine Rejection Syndrome is, in some ways, like an allergy. A genetic-level treatment rewrites that part so you can call it a day."
+        },
+        {
+            "line": 378,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "But we couldn't afford that so we went for the long route."
+        },
+        {
+            "line": 379,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "The long route consists of a concentrated serum that makes about 1 square centimeter of your body immune to rejection."
+        },
+        {
+            "line": 380,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "But the serum also makes your body go nuts at times too. I lost my arm while they were treating it."
+        },
+        {
+            "line": 381,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So they have to carefully monitor the treatment to ensure it doesn't kill you in your sleep."
+        },
+        {
+            "line": 382,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh yeah, did I mention that the serum burns? Because it burns like the flames of hell itself."
+        },
+        {
+            "line": 383,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Damn..."
+        },
+        {
+            "line": 384,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "D-Did I strike a nerve with that question?"
+        },
+        {
+            "line": 385,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh no, I'm not concerned about it but... can you really blame me for getting riled up about it?"
+        },
+        {
+            "line": 386,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "And don't get me started about having my eyes treated."
+        },
+        {
+            "line": 387,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah... I won't, don't worry."
+        },
+        {
+            "line": 388,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 389,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey Jo... if I ordered two drinks, would you be willing to share one with me?"
+        },
+        {
+            "line": 390,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Come again?"
+        },
+        {
+            "line": 391,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "To be honest, talking about the treatment and all that made me feel a bit lonely."
+        },
+        {
+            "line": 392,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Sorry if it's not something you can do, but I had to ask."
+        },
+        {
+            "line": 393,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's not something I normally do, but..."
+        },
+        {
+            "line": 394,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh, what the hell. Sure."
+        },
+        {
+            "line": 395,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Really?! Yay!"
+        },
+        {
+            "line": 396,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Alright then. I want a Piano Man and a Piano Woman."
+        },
+        {
+            "line": 397,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "On it."
+        },
+        {
+            "line": 398,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Two drinks."
+        },
+        {
+            "line": 399,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Which one do you want? Do you prefer the man or the woman?"
+        },
+        {
+            "line": 400,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm fine with either, really."
+        },
+        {
+            "line": 401,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Okay... I'll pick the woman then."
+        },
+        {
+            "line": 402,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Two drinks served."
+        },
+        {
+            "line": 403,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "These are too rough for me."
+        },
+        {
+            "line": 404,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How do you know if you won't give them a chance?"
+        },
+        {
+            "line": 405,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I'd know if I wanted to give them a chance... and I really don't."
+        },
+        {
+            "line": 406,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "*sigh* But I'll take them. If only so I can drink with you."
+        },
+        {
+            "line": 407,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 408,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So, do you like women?"
+        },
+        {
+            "line": 409,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I found out in college I'm fine with either."
+        },
+        {
+            "line": 410,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Are we talking about the same thing here?"
+        },
+        {
+            "line": 411,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I... don't know."
+        },
+        {
+            "line": 412,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 413,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I... uh..."
+        },
+        {
+            "line": 414,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Whatever, as long as I'm having a drink with someone..."
+        },
+        {
+            "line": 415,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Cheers!"
+        },
+        {
+            "line": 416,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 417,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Alright, this is getting weird.)"
+        },
+        {
+            "line": 418,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I said..."
+        },
+        {
+            "line": 419,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Cheeeeeeeeeeeeeeers!"
+        },
+        {
+            "line": 420,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh... Cheers."
+        },
+        {
+            "line": 421,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yeah!"
+        },
+        {
+            "line": 422,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 423,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...*sigh*"
+        },
+        {
+            "line": 424,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you okay?"
+        },
+        {
+            "line": 425,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yeah, I guess I'm fine."
+        },
+        {
+            "line": 426,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I'm just dizzy... and sad."
+        },
+        {
+            "line": 427,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sad?"
+        },
+        {
+            "line": 428,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I miss Lanette."
+        },
+        {
+            "line": 429,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lanette? Who?"
+        },
+        {
+            "line": 430,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "She and I were the only patients with Nanomachine Rejection Syndrome in the hospital."
+        },
+        {
+            "line": 431,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "We... We were together every day."
+        },
+        {
+            "line": 432,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "When it was time to eat, she was there."
+        },
+        {
+            "line": 433,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "During visiting hours, she was there."
+        },
+        {
+            "line": 434,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Whenever I slept, whenever I cried, whenever I laughed... she was always there."
+        },
+        {
+            "line": 435,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "When I lost my arm, she told me I could have hers as compensation, that I could use it however I wanted."
+        },
+        {
+            "line": 436,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What happened to her?"
+        },
+        {
+            "line": 437,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...Tokyo Flu."
+        },
+        {
+            "line": 438,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Something went wrong with her immune system and the flu started kicking in."
+        },
+        {
+            "line": 439,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "They tried to rush part of her treatment to reduce the symptoms, but it only made the nanomachines go wild."
+        },
+        {
+            "line": 440,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It eventually got to her brain and..."
+        },
+        {
+            "line": 441,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 442,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...I see. Sorry to hear that."
+        },
+        {
+            "line": 443,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "The worst part is that if they left her as she'd been, I might have been able to spend an extra year or so with her."
+        },
+        {
+            "line": 444,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...but all that work only got her killed sooner. I didn't even get a chance to say goodbye. She just... vanished."
+        },
+        {
+            "line": 445,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's tough."
+        },
+        {
+            "line": 446,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I miss her every day, you know?"
+        },
+        {
+            "line": 447,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I say I want to forget her but the truth is that... I just want this pain to go away."
+        },
+        {
+            "line": 448,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It's been two years and I still feel the pain. Every second is just a second without her."
+        },
+        {
+            "line": 449,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It can get so... lonely."
+        },
+        {
+            "line": 450,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 451,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Sorry, am I making you uncomfortable, Jo?"
+        },
+        {
+            "line": 452,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're not, don't worry."
+        },
+        {
+            "line": 453,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Still. Sorry about that, I'm just..."
+        },
+        {
+            "line": 454,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "We had so many plans about what we'd do after we left."
+        },
+        {
+            "line": 455,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "We were so close to being together without the pesky Nanomachine Rejection and..."
+        },
+        {
+            "line": 456,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It's not fair, you know? Why do I get to be here while she doesn't?"
+        },
+        {
+            "line": 457,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I try to enjoy life as much as I can. Enjoy it for the both of us... but it doesn't seem enough."
+        },
+        {
+            "line": 458,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "What do you think?"
+        },
+        {
+            "line": 459,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What do I think? Um..."
+        },
+        {
+            "line": 460,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... I think about my grandpa."
+        },
+        {
+            "line": 461,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Your grandpa?"
+        },
+        {
+            "line": 462,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He was a... harsh guy. Really sincere, but not one to mess with platitudes."
+        },
+        {
+            "line": 463,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's not like he had a lot of enemies, but many people were cautious around him."
+        },
+        {
+            "line": 464,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But once he died, I never heard a single bad comment about him. Not even from those who used to badmouth him every now and then."
+        },
+        {
+            "line": 465,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Really?"
+        },
+        {
+            "line": 466,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, the \"best\" thing about death is that after you die, all the wrongs you ever committed feel meaningless."
+        },
+        {
+            "line": 467,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really makes you think about how petty some things can be."
+        },
+        {
+            "line": 468,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...yeah."
+        },
+        {
+            "line": 469,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "On second thought, that doesn't have much to do with what you said, does it?"
+        },
+        {
+            "line": 470,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But what I'm trying to say here is: Don't try so hard. Just... live, you know? Be grateful you have that chance."
+        },
+        {
+            "line": 471,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I know what you're feeling right now, but you'll get better. Eventually, all you'll remember is the happy moments."
+        },
+        {
+            "line": 472,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I hope so."
+        },
+        {
+            "line": 473,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Sounds like you and your grandpa were close."
+        },
+        {
+            "line": 474,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He was my best friend. Losing him was quite the blow."
+        },
+        {
+            "line": 475,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Do you have any regrets in regards to him?"
+        },
+        {
+            "line": 476,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess not."
+        },
+        {
+            "line": 477,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, it's not like I had a dramatic goodbye or anything like that. He died in a hospital bed while I was at home."
+        },
+        {
+            "line": 478,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But... I don't know. I never had a heated discussion with him, so I don't have that problem."
+        },
+        {
+            "line": 479,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure, there's always a bit of \"I wish I could've told him this\" but that's bound to happen, regardless of who you're talking about."
+        },
+        {
+            "line": 480,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you leave Lanette after a fight or something?"
+        },
+        {
+            "line": 481,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "No! Of course not."
+        },
+        {
+            "line": 482,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Then you're luckier than most people."
+        },
+        {
+            "line": 483,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...oh."
+        },
+        {
+            "line": 484,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What I mean is... whenever you feel depressed, remember that she left your life while both of you were on good terms."
+        },
+        {
+            "line": 485,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Whenever you feel down, just try to hold onto that."
+        },
+        {
+            "line": 486,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yeah, I can try that!"
+        },
+        {
+            "line": 487,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Heh, that cheered me up a bit somehow. Thanks."
+        },
+        {
+            "line": 488,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anytime."
+        },
+        {
+            "line": 489,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I should be leaving now. Thanks for such a lovely night, Jo."
+        },
+        {
+            "line": 490,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If you feel lonely again, just come back."
+        },
+        {
+            "line": 491,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I will!"
+        },
+        {
+            "line": 492,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey Jo, why do you think bad things happen?"
+        },
+        {
+            "line": 493,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's a sudden question. How so?"
+        },
+        {
+            "line": 494,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "If there's a god, why do you think bad things happen?"
+        },
+        {
+            "line": 495,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you in a contemplative mood or something?"
+        },
+        {
+            "line": 496,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Kinda."
+        },
+        {
+            "line": 497,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 498,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I remember a conversation in college where a classmate said we give god too much flak."
+        },
+        {
+            "line": 499,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "How so?"
+        },
+        {
+            "line": 500,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, let's imagine a place where virtually nothing bad happens."
+        },
+        {
+            "line": 501,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If an experience doesn't one-up the last \"good\" thing you enjoyed, you'll feel like it was a bad one."
+        },
+        {
+            "line": 502,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Even if you lived in a place where every good thing was one-upped by an even better good, past events would seem bad."
+        },
+        {
+            "line": 503,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Um... eh?"
+        },
+        {
+            "line": 504,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... let's say you have chocolate."
+        },
+        {
+            "line": 505,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I like chocolate."
+        },
+        {
+            "line": 506,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Everyone does."
+        },
+        {
+            "line": 507,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "My mom doesn't."
+        },
+        {
+            "line": 508,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Then she's a rare case."
+        },
+        {
+            "line": 509,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "She also doesn't like pizza."
+        },
+        {
+            "line": 510,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...is she even human? Err.. sorry. I mean..."
+        },
+        {
+            "line": 511,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Dammit... where was I?"
+        },
+        {
+            "line": 512,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Chocolate."
+        },
+        {
+            "line": 513,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right."
+        },
+        {
+            "line": 514,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If you only got good chocolate, a slightly less good chocolate would taste awful."
+        },
+        {
+            "line": 515,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yeah, I can see that."
+        },
+        {
+            "line": 516,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And if you only got chocolates that tasted better each time..."
+        },
+        {
+            "line": 517,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...then the chocolates you ate in the past would worsen in memory."
+        },
+        {
+            "line": 518,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oooooh, yeah. Now I get it."
+        },
+        {
+            "line": 519,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So yeah, sometimes bad is just a matter of contrast."
+        },
+        {
+            "line": 520,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "That still doesn't justify why bad things like death happen."
+        },
+        {
+            "line": 521,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm..."
+        },
+        {
+            "line": 522,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know. Maybe, we're just too concerned with smaller plans to look at the bigger picture."
+        },
+        {
+            "line": 523,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe that death will trigger something else in the future."
+        },
+        {
+            "line": 524,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If there's reincarnation, maybe that person's needed somewhere else."
+        },
+        {
+            "line": 525,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe, the world works in an entirely different way and we're limited by human reasoning."
+        },
+        {
+            "line": 526,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know. I'm just a bartender. If there's someone to ask about the metaphysical nature of death, it's not me."
+        },
+        {
+            "line": 527,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 528,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Sometimes, I think god is just a dick."
+        },
+        {
+            "line": 529,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Giving me a disease, allowing me to survive it but depriving me of my special someone..."
+        },
+        {
+            "line": 530,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Eh... um... do you need context for all of that? The special someone I mean."
+        },
+        {
+            "line": 531,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll connect the dots eventually. Keep talking, you're obviously venting some stuff there."
+        },
+        {
+            "line": 532,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh... alright then."
+        },
+        {
+            "line": 533,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "It's like god's... I don't know. It's like he's some edgy writer who likes having his characters suffer."
+        },
+        {
+            "line": 534,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I take solace in that reasoning because then I start expecting bad things."
+        },
+        {
+            "line": 535,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What if you're looking at it from the wrong angle?"
+        },
+        {
+            "line": 536,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "How so?"
+        },
+        {
+            "line": 537,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Main characters usually have this tragic backstory that we never really see in the beginning."
+        },
+        {
+            "line": 538,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Something that helps them move on, that gives them motivation to power through the plot."
+        },
+        {
+            "line": 539,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe, you're not living the girth of your story yet. Maybe, this is your backstory getting set."
+        },
+        {
+            "line": 540,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Who knows what the future holds for you?"
+        },
+        {
+            "line": 541,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Heh..."
+        },
+        {
+            "line": 542,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "That'd be nice. It's at least better than my old outlook."
+        },
+        {
+            "line": 543,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Yeah. I like it a lot. I'm going to start thinking that way now."
+        },
+        {
+            "line": 544,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Today, my origin story ends and my actual narrative begins!"
+        },
+        {
+            "line": 545,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's the spirit."
+        },
+        {
+            "line": 546,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Thanks Jo, I feel a bit better."
+        },
+        {
+            "line": 547,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll be here if you need an ear."
+        },
+        {
+            "line": 548,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Glad to know that."
+        },
+        {
+            "line": 549,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I have to leave. Bye Jo!"
+        },
+        {
+            "line": 550,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please come again."
+        },
+        {
+            "line": 551,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I will!"
+        },
+        {
+            "line": 552,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, that was an entertaining diversion."
+        },
+        {
+            "line": 553,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah. Boss. What happened?"
+        },
+        {
+            "line": 554,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I... came to ask you that."
+        },
+        {
+            "line": 555,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 556,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You just spent an hour talking to yourself."
+        },
+        {
+            "line": 557,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, I didn't. There was a girl called Anna here."
+        },
+        {
+            "line": 558,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "There was nobody here."
+        },
+        {
+            "line": 559,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I was actually coming to tell you we're gonna close for tonight and there you were, chatting with the thin air."
+        },
+        {
+            "line": 560,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "A spirited talk too."
+        },
+        {
+            "line": 561,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "T-That can't be! She paid for her drinks!"
+        },
+        {
+            "line": 562,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The registry says the money came from your account."
+        },
+        {
+            "line": 563,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "B-But all the drinks I served her..."
+        },
+        {
+            "line": 564,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You mean the liquid that someone who is definitely not going to be me has to clean off the floor?"
+        },
+        {
+            "line": 565,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But I..."
+        },
+        {
+            "line": 566,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill, you're worrying me. Are you okay?"
+        },
+        {
+            "line": 567,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The last thing I need is another employee who talks to herself."
+        },
+        {
+            "line": 568,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I'm fine. I just..."
+        },
+        {
+            "line": 569,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 570,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you sure there wasn't anyone else here?"
+        },
+        {
+            "line": 571,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I even checked the security cameras. You were here by yourself this whole while."
+        },
+        {
+            "line": 572,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 573,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Maybe you're tired. You probably were just sleep-talking really intensely or something."
+        },
+        {
+            "line": 574,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, maybe..."
+        },
+        {
+            "line": 575,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Come on. I'll drive you home. Maybe you just need a rest."
+        },
+        {
+            "line": 576,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...yeah."
+        },
+        {
+            "line": 577,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(What the hell just happened?!)"
+        },
+        {
+            "line": 578,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey Jill, are you okay?"
+        },
+        {
+            "line": 579,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm? Yeah, I'm fine."
+        },
+        {
+            "line": 580,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "If you say so..."
+        },
+        {
+            "line": 581,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Let's call it a day and close early."
+        },
+        {
+            "line": 582,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, that's for the best."
+        },
+        {
+            "line": 583,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "No offense Jo, but I'm leaving."
+        },
+        {
+            "line": 584,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I'm not staying somewhere where people treat me like a kid."
+        },
+        {
+            "line": 585,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh and... won't get my orders right either."
+        },
+        {
+            "line": 586,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "So... that! Bye."
+        },
+        {
+            "line": 587,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Riiiiiiiiiiiight. Please come again."
+        },
+        {
+            "line": 588,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(That was a bummer.)"
+        },
+        {
+            "line": 589,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I guess I'll ask Boss if we can close early today.)"
+        },
+        {
+            "line": 590,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Kept you waiting, huh?"
+        },
+        {
+            "line": 591,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 592,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry, we're closing."
+        },
+        {
+            "line": 593,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Hey, watch your voice! You're speaking to the great Nacho Tumbleweed Jr.!"
+        },
+        {
+            "line": 594,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't care if you're Aleister Crowley. We're. Still. Closing."
+        },
+        {
+            "line": 595,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 596,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Can't I at least get a drink?"
+        },
+        {
+            "line": 597,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No."
+        },
+        {
+            "line": 598,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "A small one?"
+        },
+        {
+            "line": 599,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Closing."
+        },
+        {
+            "line": 600,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "A glass of water?"
+        },
+        {
+            "line": 601,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "GIVE THE DOG HIS FUCKING DRINK!"
+        },
+        {
+            "line": 602,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fiiiiiiiiiiiiiiiiiiiiiine."
+        },
+        {
+            "line": 603,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Wait, so you're not Dana?"
+        },
+        {
+            "line": 604,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, she's in her office. I'm Jo-... JILL!! I'm Jill."
+        },
+        {
+            "line": 605,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Oh, sorry. My depth perception is a bit off, so I confused you with her."
+        },
+        {
+            "line": 606,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't think depth perception has anything to do with this situation."
+        },
+        {
+            "line": 607,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What do you want?"
+        },
+        {
+            "line": 608,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Give me a Fringe Weaver."
+        },
+        {
+            "line": 609,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright."
+        },
+        {
+            "line": 610,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 611,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Everything in order, let's continue the mission."
+        },
+        {
+            "line": 612,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 613,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "A bit off, but the mission can go on. No. It WILL go on."
+        },
+        {
+            "line": 614,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right..."
+        },
+        {
+            "line": 615,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you are."
+        },
+        {
+            "line": 616,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "This is wrong! This is all wrong!!"
+        },
+        {
+            "line": 617,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Find me an extraction point! Abort mission! Abort!"
+        },
+        {
+            "line": 618,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Calm down, it's just a drink."
+        },
+        {
+            "line": 619,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Say Miss, you look bummed out. Are you sad?"
+        },
+        {
+            "line": 620,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm? No, I'm just... bored."
+        },
+        {
+            "line": 621,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "I was sad once. Now, I wear an eyepatch because of that."
+        },
+        {
+            "line": 622,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why an eyepatch?"
+        },
+        {
+            "line": 623,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "It makes me look menacing and sad."
+        },
+        {
+            "line": 624,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(No, it doesn't.)"
+        },
+        {
+            "line": 625,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Besides, how can you be sad with me here?"
+        },
+        {
+            "line": 626,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I told you I'm not sad."
+        },
+        {
+            "line": 627,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "That's not what your face tells me."
+        },
+        {
+            "line": 628,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You thought I was my boss. I wouldn't trust your sight if I were you."
+        },
+        {
+            "line": 629,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Hey! I have great eyesight. I can see perfectly fine."
+        },
+        {
+            "line": 630,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "As long as things are yellow, blue or gray..."
+        },
+        {
+            "line": 631,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "...or aren't too far away."
+        },
+        {
+            "line": 632,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "...or aren't on the side my eyepatch is on."
+        },
+        {
+            "line": 633,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "But aside from that, my eyesight is perfect, Dana."
+        },
+        {
+            "line": 634,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm not Dana! I'm Jo-... Jill! Don't you have, like, a great sense of smell or something?"
+        },
+        {
+            "line": 635,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Yeah, but you smell just like her."
+        },
+        {
+            "line": 636,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Come to think of it, why's that?"
+        },
+        {
+            "line": 637,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... uh..."
+        },
+        {
+            "line": 638,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "D-Do you want any other drink?"
+        },
+        {
+            "line": 639,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Yeah, let's go with a Gut Punch."
+        },
+        {
+            "line": 640,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 641,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 642,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "To survive in the battlefield, you need GUTS."
+        },
+        {
+            "line": 643,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Have you been in a battlefield?"
+        },
+        {
+            "line": 644,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "LIFE is a battlefield."
+        },
+        {
+            "line": 645,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know, I've heard it's actually a dream for the wise... or was it a game for fools?"
+        },
+        {
+            "line": 646,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 647,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "If I can live with one eye, I guess I can live with this half-assed Gut Punch."
+        },
+        {
+            "line": 648,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do you really lack an eye?"
+        },
+        {
+            "line": 649,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "...if I can live with only one eye UNCOVERED, I guess I can..."
+        },
+        {
+            "line": 650,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, yeah."
+        },
+        {
+            "line": 651,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you are."
+        },
+        {
+            "line": 652,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "...we failed. WE FAILED BIG TIME. GAME OVER MAN."
+        },
+        {
+            "line": 653,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Wait, you were the one who failed. Nevermind."
+        },
+        {
+            "line": 654,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 655,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sorry about the wait. I was sorting my desk."
+        },
+        {
+            "line": 656,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I left a Steak Burrito in one of the drawers and it... blew up or something."
+        },
+        {
+            "line": 657,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I spent all night cleaning it."
+        },
+        {
+            "line": 658,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyways, let's go."
+        },
+        {
+            "line": 659,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Where are you going?"
+        },
+        {
+            "line": 660,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Poker night. The two of us and the Hawaiian-shirted Shiba are meeting at Lawrence's house."
+        },
+        {
+            "line": 661,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lawrence?"
+        },
+        {
+            "line": 662,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Dorothy's vending machine friend. I believe you've heard about him?"
+        },
+        {
+            "line": 663,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh yeah."
+        },
+        {
+            "line": 664,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Wait, I'm stuck in an apartment and the vending machine gets a HOUSE?!)"
+        },
+        {
+            "line": 665,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sadly we're full for the night, but would you like in on the next poker night?"
+        },
+        {
+            "line": 666,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll pass."
+        },
+        {
+            "line": 667,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The offer will remain open."
+        },
+        {
+            "line": 668,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyways, let's close this place for the night and leave."
+        },
+        {
+            "line": 669,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 670,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "ONWARDS! TO OUR GLORY!"
+        },
+        {
+            "line": 671,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh yeah, please turn down the volume on your translator."
+        },
+        {
+            "line": 672,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Can't reach it."
+        },
+        {
+            "line": 673,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill, please."
+        },
+        {
+            "line": 674,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 675,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Huh, now that I think about it... a dog DID show up this time.)"
+        },
+        {
+            "line": 676,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 677,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Man, this is some... abstract stuff here."
+        },
+        {
+            "line": 678,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Maybe you forgot the drink?"
+        },
+        {
+            "line": 679,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 680,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I don't wanna judge you, but I will say you're not very good with the whole first impressions thing."
+        },
+        {
+            "line": 681,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Then again, I'm not one to talk, really."
+        },
+        {
+            "line": 682,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "There was this one time in middle school where I shouted \"CUCUMBERS\" in front of the person I liked."
+        },
+        {
+            "line": 683,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I became \"Kappa Girl\" what was left of the year."
+        },
+        {
+            "line": 684,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(That's a pretty smart nickname, actually.)"
+        },
+        {
+            "line": 685,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 686,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "This is... interesting."
+        },
+        {
+            "line": 687,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "And by interesting I mean creepy."
+        },
+        {
+            "line": 688,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "This won't blow up on my face, right?"
+        },
+        {
+            "line": 689,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No."
+        },
+        {
+            "line": 690,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "You sure? It looks like it's... pulsing."
+        },
+        {
+            "line": 691,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey, just out curiosity, what's the worse that could happen with a bad drink?"
+        },
+        {
+            "line": 692,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, let's see..."
+        },
+        {
+            "line": 693,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sterility, temporary blindness, chemical burns, dementia, spontaneous combustion, seizures, athlete's foot."
+        },
+        {
+            "line": 694,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Then why do people come and drink stuff in these bars?!"
+        },
+        {
+            "line": 695,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "There's people that drink paint thinner to get high, we just provide LEGAL drinkable paint thinner."
+        },
+        {
+            "line": 696,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And to be fair, 60% of our training is to know what to avoid in order to not kill someone or ourselves when mixing."
+        },
+        {
+            "line": 697,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "What's the other 40%?"
+        },
+        {
+            "line": 698,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Procedures and self-defense."
+        },
+        {
+            "line": 699,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 700,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 701,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Jo, I don't know in what context this could be considered classy, but I'm sure it's not in human context"
+        },
+        {
+            "line": 702,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I mean, it's glowing and all!"
+        },
+        {
+            "line": 703,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't worry, it's safe."
+        },
+        {
+            "line": 704,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(It won't kill you at the very least.)"
+        },
+        {
+            "line": 705,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I'll... pass."
+        },
+        {
+            "line": 706,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Pssst."
+        },
+        {
+            "line": 707,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey, over here."
+        },
+        {
+            "line": 708,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "BOO!"
+        },
+        {
+            "line": 709,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "How's that for an entrance?"
+        },
+        {
+            "line": 710,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 711,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Come on Jo, look sharp! The game's starting and the player needs a good first impression of its main character."
+        },
+        {
+            "line": 712,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I know you served a bunch of tuxedo-clad Corgis over the weekend and the bar will eventually close."
+        },
+        {
+            "line": 713,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...and I'll admit my little prank on you might've gone a bit overboard."
+        },
+        {
+            "line": 714,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "But remember, life is 90% how you take it! Stay focused and look at the brighter side of things."
+        },
+        {
+            "line": 715,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "I have no idea what the brighter side is, but you should totally find it."
+        },
+        {
+            "line": 716,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "In any case, you should totally check that parcel you just got."
+        },
+        {
+            "line": 717,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "See ya!"
+        },
+        {
+            "line": 718,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...!"
+        },
+        {
+            "line": 719,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh... *yawn* just a dream."
+        },
+        {
+            "line": 720,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Hm? There's something near the door.)"
+        },
+        {
+            "line": 721,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Pssst."
+        },
+        {
+            "line": 722,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hey, over here."
+        },
+        {
+            "line": 723,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Boo!"
+        },
+        {
+            "line": 724,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 725,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Hm? Why didn't I show up on the TV?"
+        },
+        {
+            "line": 726,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Gags get old if you repeat them too much, you know?"
+        },
+        {
+            "line": 727,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "But no matter. Thank you for playing again!"
+        },
+        {
+            "line": 728,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Don't worry, you won't be punished for choices made in past playthroughs. This is a fresh new beginning."
+        },
+        {
+            "line": 729,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Um... almost fresh, at least."
+        },
+        {
+            "line": 730,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Jo will have all the money she had at the end of last time."
+        },
+        {
+            "line": 731,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "She'll keep everything she bought or unlocked too."
+        },
+        {
+            "line": 732,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "That means she can potentially be a millionaire but remain the same poor bartender."
+        },
+        {
+            "line": 733,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 734,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "...well, suspension of disbelief exists for a reason, right?"
+        },
+        {
+            "line": 735,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Oh, but debts will still show up, so be careful."
+        },
+        {
+            "line": 736,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Did you get all of the endings yet? Here's a couple of tips."
+        },
+        {
+            "line": 737,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Leaving Jo homeless or not is the first step towards at least one of them."
+        },
+        {
+            "line": 738,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "There's two of them that rely on being a top bartender to the buff sweetheart and the cat-eared beauty."
+        },
+        {
+            "line": 739,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Of those two, one needs you to be patient with the pompous buffoon."
+        },
+        {
+            "line": 740,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "The other one needs you to serve the busty 'droid what she wants."
+        },
+        {
+            "line": 741,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "The other busty girl, the blonde one. You should get hers as long as you're not an asshole."
+        },
+        {
+            "line": 742,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "And Becky's should be easy as long as you remember what she says."
+        },
+        {
+            "line": 743,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Six different endings, can you get them all?"
+        },
+        {
+            "line": 744,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "Sorry for all the chatter. Let's pretend this never happened."
+        },
+        {
+            "line": 745,
+            "character": "Anna",
+            "type": "dialogue",
+            "text": "GAME START!"
+        },
+        {
+            "line": 746,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...!"
+        },
+        {
+            "line": 747,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 748,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...that's it. No more tequila-seasoned ramen before the afternoon nap."
+        },
+        {
+            "line": 749,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And what the hell are you chewing on, Fore? Is that a letter?"
+        }
+    ]

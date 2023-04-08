@@ -1,0 +1,4317 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "script7.txt",
+            "lines": 720,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "G'even-... Gil?"
+        },
+        {
+            "line": 3,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Oh, hey guys!"
+        },
+        {
+            "line": 4,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "How the hell did you get in?"
+        },
+        {
+            "line": 5,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I have a copy of the key, remembe-..."
+        },
+        {
+            "line": 6,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Wait, that's how you greet me after so many days?!"
+        },
+        {
+            "line": 7,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I never doubted you'd be fine."
+        },
+        {
+            "line": 8,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "If anything, I'd have to cut your paycheck for leaving for so many days without notice."
+        },
+        {
+            "line": 9,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 10,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "See, Jill? \"He'll be here on Monday like nothing ever happened.\""
+        },
+        {
+            "line": 11,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Wait, why does he have a copy of the key and I don't?"
+        },
+        {
+            "line": 12,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The need for you having a key never arose."
+        },
+        {
+            "line": 13,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "True..."
+        },
+        {
+            "line": 14,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyway. Glad you're fine Gil."
+        },
+        {
+            "line": 15,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Thanks. I guess..."
+        },
+        {
+            "line": 16,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 17,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "What? Are you gonna make me wash the bathrooms again?"
+        },
+        {
+            "line": 18,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not today."
+        },
+        {
+            "line": 19,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Listen, I don't know who the hell you really are or what's trying to come back to bite you in the ass."
+        },
+        {
+            "line": 20,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But remember there are people that actually care about you. Don't just leave like you did."
+        },
+        {
+            "line": 21,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Especially after all hell broke loose. At least give us a sign that you're still alive."
+        },
+        {
+            "line": 22,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "So you were worried?"
+        },
+        {
+            "line": 23,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Isn't that normal?"
+        },
+        {
+            "line": 24,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "When it comes to you, I don't know."
+        },
+        {
+            "line": 25,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shut up."
+        },
+        {
+            "line": 26,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "She's right, though. You shouldn't make ladies worry so much."
+        },
+        {
+            "line": 27,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Check if the cats didn't move the internet antenna, would you?"
+        },
+        {
+            "line": 28,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Fine, fine..."
+        },
+        {
+            "line": 29,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey Boss, why did you leave the hoodie at my place?"
+        },
+        {
+            "line": 30,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Because it's yours?"
+        },
+        {
+            "line": 31,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But I told you you could keep it."
+        },
+        {
+            "line": 32,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sorry, I... couldn't find it in myself to take it."
+        },
+        {
+            "line": 33,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why?"
+        },
+        {
+            "line": 34,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Partly because I didn't feel right taking it."
+        },
+        {
+            "line": 35,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "But mostly because I thought you'd totally look cute with it."
+        },
+        {
+            "line": 36,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I-I see..."
+        },
+        {
+            "line": 37,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't think I'm rejecting a gift of yours, it's just..."
+        },
+        {
+            "line": 38,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Preserving cuteness is one of my principles."
+        },
+        {
+            "line": 39,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "R-Right..."
+        },
+        {
+            "line": 40,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... Boss, about last night..."
+        },
+        {
+            "line": 41,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I think I said one too many things and... uh..."
+        },
+        {
+            "line": 42,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So what? Drunk banter is something you see every day. It's not like I'm gonna think less of you because of it."
+        },
+        {
+            "line": 43,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 44,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Relax, if anything I feel closer to you after seeing you so wasted."
+        },
+        {
+            "line": 45,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 46,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So yeah, don't give it much thought."
+        },
+        {
+            "line": 47,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "*snicker* Stupid meat rods."
+        },
+        {
+            "line": 48,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 49,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Antenna's fine. Did I miss anything?"
+        },
+        {
+            "line": 50,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Nothing, let's go."
+        },
+        {
+            "line": 51,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Are you okay? Your face is red."
+        },
+        {
+            "line": 52,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'M FINE."
+        },
+        {
+            "line": 53,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Are you still worried about the whole bar closure thing?"
+        },
+        {
+            "line": 54,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Of course I am."
+        },
+        {
+            "line": 55,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not like I can't work because of it, but you know..."
+        },
+        {
+            "line": 56,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "All we can do is enjoy whatever time we have left here as best we can."
+        },
+        {
+            "line": 57,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah..."
+        },
+        {
+            "line": 58,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So, cheer up! Clients smell sadness and fear, and we don't want that."
+        },
+        {
+            "line": 59,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll go to my office."
+        },
+        {
+            "line": 60,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay."
+        },
+        {
+            "line": 61,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Antenna's fine. Did I miss anything?"
+        },
+        {
+            "line": 62,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not really, no."
+        },
+        {
+            "line": 63,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anyways, let's start the day."
+        },
+        {
+            "line": 64,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Time to mix drinks and change lives."
+        },
+        {
+            "line": 65,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh yeah, Gil?"
+        },
+        {
+            "line": 66,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 67,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Glad to see you're fine. I mean it."
+        },
+        {
+            "line": 68,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 69,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Excuse me, I'm looking for Dana Zane."
+        },
+        {
+            "line": 70,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "May I have your name?"
+        },
+        {
+            "line": 71,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Tell her it's Brian."
+        },
+        {
+            "line": 72,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just a sec."
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "BOSS!! SOME BRIAN GUY IS LOOKING FOR YOU!!"
+        },
+        {
+            "line": 74,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "TELL HIM I'LL BE THERE IN A BIT!!"
+        },
+        {
+            "line": 75,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She'll... um... you heard her."
+        },
+        {
+            "line": 76,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "It's alright. I'll wait."
+        },
+        {
+            "line": 77,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's weird for someone to come asking for her though."
+        },
+        {
+            "line": 78,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "It's not so weird when you're BTC's Regional Manager in these parts."
+        },
+        {
+            "line": 79,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I guess that's..."
+        },
+        {
+            "line": 80,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 81,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...um."
+        },
+        {
+            "line": 82,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess I didn't give you the best first impression."
+        },
+        {
+            "line": 83,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Haha! Don't worry, I know who I'm dealing with."
+        },
+        {
+            "line": 84,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "I'm not a fan of people treating me too nicely because of my position anyways."
+        },
+        {
+            "line": 85,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Handle me like I'm just another client."
+        },
+        {
+            "line": 86,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A-Alright. I can do that."
+        },
+        {
+            "line": 87,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What can I get you, Mr. Brian?"
+        },
+        {
+            "line": 88,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Let's go with the basics. A Sugar Rush, please."
+        },
+        {
+            "line": 89,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Coming right up."
+        },
+        {
+            "line": 90,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 91,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Yeah, this one's nice."
+        },
+        {
+            "line": 92,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Back in training, they made a big deal out of Sugar Rushes. Why?"
+        },
+        {
+            "line": 93,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "They're like the Fried Eggs of mixing drinks."
+        },
+        {
+            "line": 94,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "They're the most basic thing, but people can still mess them up."
+        },
+        {
+            "line": 95,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Sugar Rushes are simple enough that you only need to follow instructions."
+        },
+        {
+            "line": 96,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "If you can't even do that, your future as a bartender is not bright."
+        },
+        {
+            "line": 97,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh... they never told me that."
+        },
+        {
+            "line": 98,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 99,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Hm..."
+        },
+        {
+            "line": 100,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "We've received reports of some CaliCOMPs suffering a bug where the names of the orders don't match up with the recipe."
+        },
+        {
+            "line": 101,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Are you getting that too by any chance?"
+        },
+        {
+            "line": 102,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I think...?"
+        },
+        {
+            "line": 103,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "You're Jill, right?"
+        },
+        {
+            "line": 104,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yup, that's me."
+        },
+        {
+            "line": 105,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Dana has talked quite a bit about you."
+        },
+        {
+            "line": 106,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really?"
+        },
+        {
+            "line": 107,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "And I guess you must have a few questions for me, am I right?"
+        },
+        {
+            "line": 108,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 109,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Mostly concerning the closure warning Valhalla got."
+        },
+        {
+            "line": 110,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Can you disclose any information?"
+        },
+        {
+            "line": 111,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "I shouldn't, but you have the right to know."
+        },
+        {
+            "line": 112,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 113,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Don't mention it. Now where to start..."
+        },
+        {
+            "line": 114,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "You saw the news on the information leaked during the Apollo Trust Bank incident, right?"
+        },
+        {
+            "line": 115,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "About the White Knights having lots of members from criminal organizations in their ranks?"
+        },
+        {
+            "line": 116,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Turns out the White Knights weren't the only ones with shady people."
+        },
+        {
+            "line": 117,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Some of those same folks have been trying to elude legal problems using BTC-certified bars."
+        },
+        {
+            "line": 118,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "The BTC bars have their own protocols, meaning the White Knights can't dig too deeply..."
+        },
+        {
+            "line": 119,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "...at least, not without going through a ton of paperwork first, giving the criminals time to cover their tracks."
+        },
+        {
+            "line": 120,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Although it takes a bit of time to set up, it has apparently proven an effective method for money laundering."
+        },
+        {
+            "line": 121,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Where does Valhalla come in?"
+        },
+        {
+            "line": 122,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "\"Young\" bars are the ones under the radar right now, and the modest-to-low income ones are the primary suspects."
+        },
+        {
+            "line": 123,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "It's not just Valhalla. Any small bar with small income is being investigated heavily right now."
+        },
+        {
+            "line": 124,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So the closure notice is due to low sales..."
+        },
+        {
+            "line": 125,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Among the reasons a bar can get axed, low sales is the rarest one."
+        },
+        {
+            "line": 126,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "If low sales were a problem, lots of bars would close every year."
+        },
+        {
+            "line": 127,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 128,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"You'll find out soon enough\" huh..."
+        },
+        {
+            "line": 129,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Sorry?"
+        },
+        {
+            "line": 130,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh, nothing. Don't mind me."
+        },
+        {
+            "line": 131,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Seems your guess was spot-on, Gil."
+        },
+        {
+            "line": 132,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 133,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "If it helps, I'm doing my best to appeal in your place."
+        },
+        {
+            "line": 134,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really? Why?"
+        },
+        {
+            "line": 135,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Most of Glitch City's bars are a pain in the ass. They constantly give reports of chemical damage or shady drinks."
+        },
+        {
+            "line": 136,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "This is one of the few places from which I almost never receive complaints."
+        },
+        {
+            "line": 137,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "The closest thing to a recent complaint was that whole Farmer Fabrics affair from a little while ago."
+        },
+        {
+            "line": 138,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So much saliva..."
+        },
+        {
+            "line": 139,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "I wouldn't get my hopes up though."
+        },
+        {
+            "line": 140,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Especially since the BTC will try to save face by axing as many suspects as possible."
+        },
+        {
+            "line": 141,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Knowing you're making an effort is enough. Thanks."
+        },
+        {
+            "line": 142,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Can I get you anything else?"
+        },
+        {
+            "line": 143,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Now that I remember, the recipe book has a drink created here, right?"
+        },
+        {
+            "line": 144,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh yeah, the Suplex."
+        },
+        {
+            "line": 145,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Get me one of those, please."
+        },
+        {
+            "line": 146,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 147,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 148,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "The registry form said this was an accident while making a Piledriver."
+        },
+        {
+            "line": 149,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You can ask the creator of the drink just over there."
+        },
+        {
+            "line": 150,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Ah, so you're Robert?"
+        },
+        {
+            "line": 151,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Yes! That's my name. I'm Robert, the one and only."
+        },
+        {
+            "line": 152,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 153,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Jill called you \"Gil\" though."
+        },
+        {
+            "line": 154,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Uh... it's Argentinian slang."
+        },
+        {
+            "line": 155,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "R-Robert here is from Argentina, so we call him Gil."
+        },
+        {
+            "line": 156,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Huh... I see."
+        },
+        {
+            "line": 157,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 158,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 159,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 160,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "No, I think you got it wrong. The Suplex is a variation of a Piledriver."
+        },
+        {
+            "line": 161,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "This is just a Piledriver."
+        },
+        {
+            "line": 162,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're right, sorry."
+        },
+        {
+            "line": 163,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "It happens to even the best of us. Let's leave it at that."
+        },
+        {
+            "line": 164,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 165,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Jill... this isn't..."
+        },
+        {
+            "line": 166,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Oh well, leave it at that."
+        },
+        {
+            "line": 167,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sorry Brian, I was sorting some stuff at the office. Please come in."
+        },
+        {
+            "line": 168,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "I'll be right there."
+        },
+        {
+            "line": 169,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Any other questions, Jill?"
+        },
+        {
+            "line": 170,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not really, no."
+        },
+        {
+            "line": 171,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Although..."
+        },
+        {
+            "line": 172,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Yeah?"
+        },
+        {
+            "line": 173,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If you were to evaluate my performance right now, how would you rate me?"
+        },
+        {
+            "line": 174,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Clean and timely delivery of the correct orders. A top-notch bartender."
+        },
+        {
+            "line": 175,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 176,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Now if you'll excuse me..."
+        },
+        {
+            "line": 177,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "You could use a bit more practice to not mix up one drink with another, but you're pretty good aside from that."
+        },
+        {
+            "line": 178,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 179,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Now, I need to go talk to your Boss. Excuse me."
+        },
+        {
+            "line": 180,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Eh... I need to talk to your Boss, excuse me."
+        },
+        {
+            "line": 181,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 182,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I'm surprised you haven't met him before."
+        },
+        {
+            "line": 183,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I received my training in another city. The regional supervisor there was some girl with a red mohawk."
+        },
+        {
+            "line": 184,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Ah, I see."
+        },
+        {
+            "line": 185,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I wonder what Boss will talk to Brian about...)"
+        },
+        {
+            "line": 186,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Um... Jill, was it?"
+        },
+        {
+            "line": 187,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, Miss Stella, what a pleasure."
+        },
+        {
+            "line": 188,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 189,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you okay?"
+        },
+        {
+            "line": 190,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Yeah... um... just call me Stella. And get me a big Beer, please."
+        },
+        {
+            "line": 191,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh... Sure, on it."
+        },
+        {
+            "line": 192,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 193,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A-Are you sure you're fine?"
+        },
+        {
+            "line": 194,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "...um."
+        },
+        {
+            "line": 195,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "You know Sei, right?"
+        },
+        {
+            "line": 196,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Of course, what's up with her?"
+        },
+        {
+            "line": 197,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "She was at the Apollo Trust Bank during that whole affair and..."
+        },
+        {
+            "line": 198,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 199,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Right... that.)"
+        },
+        {
+            "line": 200,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So she...?"
+        },
+        {
+            "line": 201,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "She didn't show up on the list of the massive body count in the aftermath, so..."
+        },
+        {
+            "line": 202,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I was hoping that maybe you've seen her."
+        },
+        {
+            "line": 203,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "As much as I'd love to say that I had..."
+        },
+        {
+            "line": 204,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 205,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Yeah, I figured as much."
+        },
+        {
+            "line": 206,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 207,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 208,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Man, the air is suddenly a lot heavier.)"
+        },
+        {
+            "line": 209,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 210,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I mean, I could tell her everything will be alright, but that would sound a bit... condescending.)"
+        },
+        {
+            "line": 211,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 212,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(*sigh* What does one do in this kind of situation?)"
+        },
+        {
+            "line": 213,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 214,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Maybe a joke? Nah, that'd be tasteless.)"
+        },
+        {
+            "line": 215,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 216,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Okay, just... try and say anything. At the very least, you'll break the tension.)"
+        },
+        {
+            "line": 217,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Maybe distracting her will be enough?)"
+        },
+        {
+            "line": 218,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I don't think clearly when under this kind of pressure, do I?)"
+        },
+        {
+            "line": 219,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Uh... there was a private eye here the other day."
+        },
+        {
+            "line": 220,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "EYE?!"
+        },
+        {
+            "line": 221,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "...sorry, I'm a bit on edge."
+        },
+        {
+            "line": 222,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "A private detective, I take it?"
+        },
+        {
+            "line": 223,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah. Maybe you'll want his services?"
+        },
+        {
+            "line": 224,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "What's his name?"
+        },
+        {
+            "line": 225,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I believe it was Art... Van, no. Von Delay."
+        },
+        {
+            "line": 226,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Oh, that Art guy. Yeah, I actually hired him yesterday to look for Sei."
+        },
+        {
+            "line": 227,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So you still have hope."
+        },
+        {
+            "line": 228,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'm somewhere between Bargaining and Depression right now. And I'm afraid to let go of Bargaining."
+        },
+        {
+            "line": 229,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see."
+        },
+        {
+            "line": 230,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Is he any good?"
+        },
+        {
+            "line": 231,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "He doesn't look like it, but he's quite skilled at gathering intel."
+        },
+        {
+            "line": 232,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I believe he'll give me answers about Sei... whatever they might be."
+        },
+        {
+            "line": 233,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 234,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 235,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* Sometimes I wish I had a magic wand so I could solve all my problems with a swing, you know?"
+        },
+        {
+            "line": 236,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Sorry if I'm making you uncomfortable."
+        },
+        {
+            "line": 237,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh, sorry. No, it's not about feeling uncomfortable."
+        },
+        {
+            "line": 238,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's just... weird. I usually try to say something to my clients when I see them down."
+        },
+        {
+            "line": 239,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And right now, I can't find any words that don't sound hypocritical, useless, or tasteless."
+        },
+        {
+            "line": 240,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'm glad to know you have that much common sense, at least."
+        },
+        {
+            "line": 241,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "All I can do is get you drinks. Can I get you anything else?"
+        },
+        {
+            "line": 242,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Something sweet. That'll help me calm down a bit."
+        },
+        {
+            "line": 243,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gladly."
+        },
+        {
+            "line": 244,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 245,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 246,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 247,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 248,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Seems you really like Sei."
+        },
+        {
+            "line": 249,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I don't have brothers or sisters, and my social interactions are usually strictly business."
+        },
+        {
+            "line": 250,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "So Sei's more than a friend to me, she's... she's..."
+        },
+        {
+            "line": 251,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 252,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry, I brought that topic up at a bad time."
+        },
+        {
+            "line": 253,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "*ahem* Don't worry about it."
+        },
+        {
+            "line": 254,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "As I was saying, she's more than a friend. She's my emotional support, she's someone I can trust wholeheartedly."
+        },
+        {
+            "line": 255,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'd say she's like my sister, but siblings usually lack that level of trust."
+        },
+        {
+            "line": 256,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I have to deal with high-class pricks of every race and upbringing on a daily basis."
+        },
+        {
+            "line": 257,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "They use a \"business mask\" to hide anything they don't want others to know and I do the same."
+        },
+        {
+            "line": 258,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "But with Sei I can be myself, I can do whatever I want and vent all my frustrations."
+        },
+        {
+            "line": 259,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "She's always been there for me, and now she might need me..."
+        },
+        {
+            "line": 260,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "But here I am, sitting in a bar, making other people do that job because I'm a useless pile of flesh!"
+        },
+        {
+            "line": 261,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 262,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "...sorry about the outburst."
+        },
+        {
+            "line": 263,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm actually kind of jealous of the level of self-control you're using here."
+        },
+        {
+            "line": 264,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, I'd be a mess in that situation."
+        },
+        {
+            "line": 265,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Still, would you like some fresh air? I'm gonna take my break and you could use some."
+        },
+        {
+            "line": 266,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... for a given value of \"fresh\"."
+        },
+        {
+            "line": 267,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'm fine, thanks."
+        },
+        {
+            "line": 268,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay then."
+        },
+        {
+            "line": 269,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gil, please service Miss Stella while I take my break."
+        },
+        {
+            "line": 270,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Sure, leave it to me."
+        },
+        {
+            "line": 271,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm ba-... eh?"
+        },
+        {
+            "line": 272,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "What would a kid like you know about that, eh?"
+        },
+        {
+            "line": 273,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'm just giving you the facts as they are."
+        },
+        {
+            "line": 274,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What happened while I was gone?"
+        },
+        {
+            "line": 275,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Let's see..."
+        },
+        {
+            "line": 276,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Detective guy comes in, Cat Boomer girl greets him. They start talking..."
+        },
+        {
+            "line": 277,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Everything was okay until the girl mentioned Zaibatsu Corp offhand."
+        },
+        {
+            "line": 278,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "After that, the guy got riled up and started badmouthing it."
+        },
+        {
+            "line": 279,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Oddly enough, he was the only one. She just carried on like it was just a normal conversation."
+        },
+        {
+            "line": 280,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see..."
+        },
+        {
+            "line": 281,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "While I won't deny Zaibatsu Corp is anything but innocent..."
+        },
+        {
+            "line": 282,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "When you get down to it, it has enhanced the quality of life here."
+        },
+        {
+            "line": 283,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Yeah, if by enhanced, you mean getting yanked around by a shiny new chain around our necks."
+        },
+        {
+            "line": 284,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Can't you see that those big companies don't care about us?"
+        },
+        {
+            "line": 285,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Why do you think Glitch City is mockingly called \"the guinea pig of the world\"?"
+        },
+        {
+            "line": 286,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "We're just one big test group for them to use however they want!"
+        },
+        {
+            "line": 287,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "But then again, I don't expect a kid to understand how hard it was, let alone a rich kid."
+        },
+        {
+            "line": 288,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "True, I don't know. And true, I have a privilege that clouds my judgement."
+        },
+        {
+            "line": 289,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "But can you deny that the meddling of Zaibatsu Corp has brought quite a few benefits?"
+        },
+        {
+            "line": 290,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Like what?"
+        },
+        {
+            "line": 291,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "The AI Integration Program they started is making huge advances in the AI department."
+        },
+        {
+            "line": 292,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Every day, more and more countries are seeing the benefits of recognizing AIs as citizens."
+        },
+        {
+            "line": 293,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Yes, but we also hold the AI Reformation Program."
+        },
+        {
+            "line": 294,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Meaning that we're also the world's Lilim prison."
+        },
+        {
+            "line": 295,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "AI went rogue? Transfer it to a delivery drone or ship it to Glitch City."
+        },
+        {
+            "line": 296,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "That murderer is now delivering your pizza."
+        },
+        {
+            "line": 297,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Fair point. Although that program HAS proven to have reformed many AIs."
+        },
+        {
+            "line": 298,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "They don't brag about their 88% success rate for nothing."
+        },
+        {
+            "line": 299,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 300,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "The city also has a stronger economy."
+        },
+        {
+            "line": 301,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Zaibatsu Corp's success has made more and more companies bring their products here."
+        },
+        {
+            "line": 302,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "And the gap between classes continues to grow."
+        },
+        {
+            "line": 303,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "More companies just mean more people who will plant their feet on your face."
+        },
+        {
+            "line": 304,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "But it also means more products are being brought to the lower classes."
+        },
+        {
+            "line": 305,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Stores have 20% more brand variety compared to last year."
+        },
+        {
+            "line": 306,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Uh..."
+        },
+        {
+            "line": 307,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Zaibatsu Corp's main Medical Research branch has also made lots of discoveries."
+        },
+        {
+            "line": 308,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "More and more illnesses, previously thought incurable, are being addressed every day."
+        },
+        {
+            "line": 309,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "It's amazing, for those who can afford them."
+        },
+        {
+            "line": 310,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Meanwhile, down here we're experiencing medicine shortages almost every month."
+        },
+        {
+            "line": 311,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "You have a point there."
+        },
+        {
+            "line": 312,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Oh, but there are also more jobs. All of the companies coming down here need personnel."
+        },
+        {
+            "line": 313,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "So the unemployment rate has gone down by almost 40% this year."
+        },
+        {
+            "line": 314,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "More jobs? Shut up."
+        },
+        {
+            "line": 315,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Am I wrong?"
+        },
+        {
+            "line": 316,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Well, that's..."
+        },
+        {
+            "line": 317,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 318,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Hey you! Don't just sit there. Give me a Zen Star!"
+        },
+        {
+            "line": 319,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 320,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 321,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "God, this is awful."
+        },
+        {
+            "line": 322,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "It's your order, though."
+        },
+        {
+            "line": 323,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you are."
+        },
+        {
+            "line": 324,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Hey, this tastes better than I expected."
+        },
+        {
+            "line": 325,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Because it's not the right order."
+        },
+        {
+            "line": 326,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 327,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I seriously hope you don't really believe everything you just said."
+        },
+        {
+            "line": 328,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Of course I do, why else would I say it?"
+        },
+        {
+            "line": 329,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "You do bring up something I always fail to remember. All the benefits we've gained over time are limited to a few."
+        },
+        {
+            "line": 330,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I can talk about advances all I want, but in the end, they're still a luxury belonging only to a few."
+        },
+        {
+            "line": 331,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "And even those that can be accessed by everyone are more like an improvement in the bigger picture."
+        },
+        {
+            "line": 332,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "That doesn't take away the fact that there have been positive changes."
+        },
+        {
+            "line": 333,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Credit where credit's due, don't you think?"
+        },
+        {
+            "line": 334,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's a... pretty mature answer."
+        },
+        {
+            "line": 335,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Discussions are a way for two parties to understand each other."
+        },
+        {
+            "line": 336,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "The only people afraid of discussion are the ones whose points are too fragile to defend against someone."
+        },
+        {
+            "line": 337,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Yeah, mature. Whatever."
+        },
+        {
+            "line": 338,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'm gonna take the chance to ask you about that job I gave you yesterday."
+        },
+        {
+            "line": 339,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I haven't been able to find much, but I can at least tell you that she wasn't at the bank when it opened up."
+        },
+        {
+            "line": 340,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "What does that mean?"
+        },
+        {
+            "line": 341,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Either she left before the whole ordeal started..."
+        },
+        {
+            "line": 342,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "...or she managed to escape at some point before the whole thing ended."
+        },
+        {
+            "line": 343,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "All the corpses are accounted for. They only found one totally disfigured, but witnesses identified it."
+        },
+        {
+            "line": 344,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "It wasn't your friend, that much is for sure."
+        },
+        {
+            "line": 345,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "...I see."
+        },
+        {
+            "line": 346,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you call him here?"
+        },
+        {
+            "line": 347,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "No, he just so happened to come here today."
+        },
+        {
+            "line": 348,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "The weird part is that the girl did enter the bank. It's like she... vanished or something."
+        },
+        {
+            "line": 349,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I see. Thanks, keep it up."
+        },
+        {
+            "line": 350,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Your face brightened a bit."
+        },
+        {
+            "line": 351,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Hope is the last thing you lose, I guess."
+        },
+        {
+            "line": 352,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "If he's telling the truth, Sei might have found a way out."
+        },
+        {
+            "line": 353,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "She's a resourceful girl. She surely did something."
+        },
+        {
+            "line": 354,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I think I'll have another drink. Do you want anything?"
+        },
+        {
+            "line": 355,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Me? Um..."
+        },
+        {
+            "line": 356,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Just get me whatever you order."
+        },
+        {
+            "line": 357,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Two Bad Touches, please."
+        },
+        {
+            "line": 358,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*pfft* On it."
+        },
+        {
+            "line": 359,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 360,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I remember this one party I went to. The guy that came up with the name of this drink showed up."
+        },
+        {
+            "line": 361,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "After people found that one out, they lined up to slap him for whatever reason."
+        },
+        {
+            "line": 362,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "They didn't seem offended to me though."
+        },
+        {
+            "line": 363,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Imagine a guy shows up and tells you \"I made a classy Bad Touch\", wouldn't you line up to slap him?"
+        },
+        {
+            "line": 364,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Um... are you okay, Jill?"
+        },
+        {
+            "line": 365,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm... f-f-fahahahahahaine..."
+        },
+        {
+            "line": 366,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 367,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Alright, I'll take it."
+        },
+        {
+            "line": 368,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "What?!"
+        },
+        {
+            "line": 369,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "What? Do you want a girl that could easily be your daughter to give you a Bad Touch?"
+        },
+        {
+            "line": 370,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Very classy, Mr. Von Delay."
+        },
+        {
+            "line": 371,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 372,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 373,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Wrong drink, Jill."
+        },
+        {
+            "line": 374,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Maybe it's for the best though. Every time I order Bad Touches, I end up in a cycle of bad jokes."
+        },
+        {
+            "line": 375,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Now that I think of it, did you find that girl you were looking for a week ago, Mr. Von Delay?"
+        },
+        {
+            "line": 376,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Turns out she was at the Apollo Trust Bank all this time. No wonder I couldn't get in touch with her."
+        },
+        {
+            "line": 377,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Girl?"
+        },
+        {
+            "line": 378,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Someone paid me to look for Crimson Rose and she happened to be at the..."
+        },
+        {
+            "line": 379,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 380,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 381,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I'm trying to avoid mentioning that a dangerous assassin got stuck in the same bank as the girl you're looking for."
+        },
+        {
+            "line": 382,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Oh, don't worry."
+        },
+        {
+            "line": 383,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Besides, the last thing I'm worried about with Sei is people."
+        },
+        {
+            "line": 384,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why's that?"
+        },
+        {
+            "line": 385,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Her attitude is usually so laid back and gentle that she has no problem getting people on her side."
+        },
+        {
+            "line": 386,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "And on the off-chance that she has to defend herself... well..."
+        },
+        {
+            "line": 387,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I once saw her take care of a warbot gone haywire by herself."
+        },
+        {
+            "line": 388,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "She did need medical help afterwards, but she recovered in no time AND managed to take care of the 'bot."
+        },
+        {
+            "line": 389,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Is she really that good?"
+        },
+        {
+            "line": 390,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "She's not only really physically fit, she's also really good with Krav Maga and..."
+        },
+        {
+            "line": 391,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 392,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Something wrong?"
+        },
+        {
+            "line": 393,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "No, nothing. I just realized I forgot about all that."
+        },
+        {
+            "line": 394,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Sei's not invincible, but she knows how to take care of herself."
+        },
+        {
+            "line": 395,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "And like I said, she's resourceful. She surely found a way out."
+        },
+        {
+            "line": 396,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "*sigh* I just hope she's well wherever the hell she is."
+        },
+        {
+            "line": 397,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "...she owes me an ice cream."
+        },
+        {
+            "line": 398,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "You want another drink, Mr. Von Delay? It's on me."
+        },
+        {
+            "line": 399,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Are you sure?"
+        },
+        {
+            "line": 400,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Yeah, order away."
+        },
+        {
+            "line": 401,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Okay then. I'll have a Piano Man."
+        },
+        {
+            "line": 402,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And you, Ms. Stella?"
+        },
+        {
+            "line": 403,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'm fine. Get his order."
+        },
+        {
+            "line": 404,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 405,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "So this is what drinking something classy without worrying about the price feels like."
+        },
+        {
+            "line": 406,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 407,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "This is sweeter than I imagined."
+        },
+        {
+            "line": 408,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "That's because you got a woman instead of a man."
+        },
+        {
+            "line": 409,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Just like when my daughter was born."
+        },
+        {
+            "line": 411,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you are."
+        },
+        {
+            "line": 412,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "This is different from what I remember."
+        },
+        {
+            "line": 413,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Because that's not a musician at all."
+        },
+        {
+            "line": 414,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Alright, I should get going. My contact will arrive at the rendezvous point soon."
+        },
+        {
+            "line": 415,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I'll let you know if I find out anything else, Ms. Hoshii."
+        },
+        {
+            "line": 416,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Please do."
+        },
+        {
+            "line": 417,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Right, then."
+        },
+        {
+            "line": 418,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You've been generous today."
+        },
+        {
+            "line": 419,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "He made my night with his discoveries on Sei's situation."
+        },
+        {
+            "line": 420,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'm not totally over it, but at least I got distracted for a bit."
+        },
+        {
+            "line": 421,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Well, that's it for me. Good night, Miss Hoshii."
+        },
+        {
+            "line": 422,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Thanks again."
+        },
+        {
+            "line": 423,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please come again."
+        },
+        {
+            "line": 424,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "You don't mind if I stay a bit longer, right?"
+        },
+        {
+            "line": 425,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why would I? It's not like you're asleep."
+        },
+        {
+            "line": 426,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Thanks. This place is... soothing."
+        },
+        {
+            "line": 427,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I'll just go sit over there near the arcades."
+        },
+        {
+            "line": 428,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Alright then. That would be all, Dana."
+        },
+        {
+            "line": 429,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Quite a mess, the situation with... um... Robert."
+        },
+        {
+            "line": 430,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Brian, you have a meeting in an hour with MI-6 Hall-C."
+        },
+        {
+            "line": 431,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Right, right..."
+        },
+        {
+            "line": 432,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Oh! If it isn't Miss Hoshii herself."
+        },
+        {
+            "line": 433,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Ah, Brian. Fancy meeting you here."
+        },
+        {
+            "line": 434,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "I didn't expect to see you here of all places."
+        },
+        {
+            "line": 435,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Are you busy? Mind catching up for a bit?"
+        },
+        {
+            "line": 436,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Sure, no problem."
+        },
+        {
+            "line": 437,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Jill, we'll be sitting over here."
+        },
+        {
+            "line": 438,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Let me know if you need anything."
+        },
+        {
+            "line": 439,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Will do."
+        },
+        {
+            "line": 440,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 441,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 442,
+            "character": "Cass",
+            "type": "dialogue",
+            "text": "This holophone is an old model, so hanging up is a bit laggy."
+        },
+        {
+            "line": 443,
+            "character": "Cass",
+            "type": "dialogue",
+            "text": "You can call me Cass by the way."
+        },
+        {
+            "line": 444,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I-I'm Jill."
+        },
+        {
+            "line": 445,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "S-Say... you guys give a lot of liberties to my boss."
+        },
+        {
+            "line": 446,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, she gets away with too much stuff."
+        },
+        {
+            "line": 447,
+            "character": "Cass",
+            "type": "dialogue",
+            "text": "She's not hurting anyone, and wouldn't you say it's more interesting that wa-..."
+        },
+        {
+            "line": 448,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(It finally hung up.)"
+        },
+        {
+            "line": 449,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "I think I've had enough for today."
+        },
+        {
+            "line": 450,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How are you feeling?"
+        },
+        {
+            "line": 451,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Better than when I came in at the very least."
+        },
+        {
+            "line": 452,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Thank you for everything."
+        },
+        {
+            "line": 453,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please come again."
+        },
+        {
+            "line": 454,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm ba-... eh?"
+        },
+        {
+            "line": 455,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Where's Miss Stella?"
+        },
+        {
+            "line": 456,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "She left saying she had something to do."
+        },
+        {
+            "line": 457,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hope she's fine."
+        },
+        {
+            "line": 458,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, Mister Art."
+        },
+        {
+            "line": 459,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Mister Art... that sounds weird."
+        },
+        {
+            "line": 460,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What can I get you?"
+        },
+        {
+            "line": 461,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I'll have a Beer."
+        },
+        {
+            "line": 462,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 463,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Beer."
+        },
+        {
+            "line": 464,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "There's no better way to end a crappy day at work."
+        },
+        {
+            "line": 465,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Bad day?"
+        },
+        {
+            "line": 466,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Not really, just that my job's crappy in general."
+        },
+        {
+            "line": 467,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah."
+        },
+        {
+            "line": 468,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 469,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "What is this? An unwashed glass that used to have Beer and that you poured water on?"
+        },
+        {
+            "line": 470,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're not that far from the truth actually."
+        },
+        {
+            "line": 471,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 472,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Listen, even I know this isn't a Beer. Not paying!"
+        },
+        {
+            "line": 473,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You sure look happy for someone that was aggravated."
+        },
+        {
+            "line": 474,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Wait, did you just say \"Miss Stella\"?"
+        },
+        {
+            "line": 475,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 476,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "When you entered, you asked for Miss Stella."
+        },
+        {
+            "line": 477,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah."
+        },
+        {
+            "line": 478,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Would it happen to be Stella Hoshii?"
+        },
+        {
+            "line": 479,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That one, yeah."
+        },
+        {
+            "line": 480,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Huh... that was quite the coincidence. I'm actually doing a job for her."
+        },
+        {
+            "line": 481,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's more of a coincidence that it happens to be the Stella you're looking for."
+        },
+        {
+            "line": 482,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "\"Stella\" is not exactly a common name. So of course I'll raise an eyebrow when hearing it."
+        },
+        {
+            "line": 483,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What kind of job are you doing for her?"
+        },
+        {
+            "line": 484,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Tracking some missing girl that was in the Apollo Trust Bank on the weekend."
+        },
+        {
+            "line": 485,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you find her?"
+        },
+        {
+            "line": 486,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "That's the weirdest thing. She wasn't among the dead bodies and yet she is nowhere to be found."
+        },
+        {
+            "line": 487,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I like to think she found a way out, but I must keep investigating."
+        },
+        {
+            "line": 488,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Speaking of searches, did you find the other girl you were looking for?"
+        },
+        {
+            "line": 489,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Crimson Rose? Nope, but I did find out she was stuck with the other people at the Apollo Trust Bank."
+        },
+        {
+            "line": 490,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "She disappeared too, and honestly, she better stay that way."
+        },
+        {
+            "line": 491,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "There are things I certainly don't wanna deal with, and an assassin whose cover has been blown is one of them."
+        },
+        {
+            "line": 492,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I wonder what she was doing there."
+        },
+        {
+            "line": 493,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "That girl is... unstable. Crazy."
+        },
+        {
+            "line": 494,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Saying \"She was there because she found the idea of being in a soon-to-be murdered crowd FUN\" isn't far fetched."
+        },
+        {
+            "line": 495,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 496,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And you're saying this girl is on the run?"
+        },
+        {
+            "line": 497,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Apparently not only is she hurt, she also got her cover blown."
+        },
+        {
+            "line": 498,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "A wounded beast on the run. Something I'm seriously not getting involved with."
+        },
+        {
+            "line": 499,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I don't care how much they offer me."
+        },
+        {
+            "line": 500,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "On a side note, get me a Marsblast, please."
+        },
+        {
+            "line": 501,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Marsblast? On it."
+        },
+        {
+            "line": 502,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 503,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "You sure this is right? This isn't red."
+        },
+        {
+            "line": 504,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The Marsblast isn't red, I still don't get that one either."
+        },
+        {
+            "line": 505,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 506,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "You sure this is a Marsblast? It's a tad... sweet."
+        },
+        {
+            "line": 507,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The Marsblast isn't red, and I think you were expecting a red drink, so..."
+        },
+        {
+            "line": 508,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Ah, I see."
+        },
+        {
+            "line": 509,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "...you're weird, kid."
+        },
+        {
+            "line": 510,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 511,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "This isn't a Marsblast, Miss Bartender."
+        },
+        {
+            "line": 512,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Don't expect me to pay for it."
+        },
+        {
+            "line": 513,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Try to say it without a smile at least.)"
+        },
+        {
+            "line": 514,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're blowing your money quite lightly. At least compared to the last time you came."
+        },
+        {
+            "line": 515,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "You remember the last time I came?"
+        },
+        {
+            "line": 516,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We don't get that many clients, so it's easy to remember."
+        },
+        {
+            "line": 517,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Yeah, well. I have to."
+        },
+        {
+            "line": 518,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I don't want the client to come back looking for their cash when they realize I'm not looking for Crimson Rose."
+        },
+        {
+            "line": 519,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You aren't?"
+        },
+        {
+            "line": 520,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Do you know how Crimson Rose kills her targets?"
+        },
+        {
+            "line": 521,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not really, no."
+        },
+        {
+            "line": 522,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Her blood has an abnormal batch of nanomachines."
+        },
+        {
+            "line": 523,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "They react to the \"normal\" kind floating inside you and I."
+        },
+        {
+            "line": 524,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "If her blood touches yours, it causes nanomachine rejection almost immediately."
+        },
+        {
+            "line": 525,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Right then and there, spreading as fast as your blood pumps."
+        },
+        {
+            "line": 526,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Tissues getting ripped off by themselves... brain damage..."
+        },
+        {
+            "line": 527,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "She never executes her targets. She just cuts them, cuts her palm and holds the target's injury tightly."
+        },
+        {
+            "line": 528,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Some say the target looks like it's getting drained. Getting thinner by the minute."
+        },
+        {
+            "line": 529,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Like I said, as far as I know, that girl's cover got blown during the whole bank affair."
+        },
+        {
+            "line": 530,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "She got crazy with bloodlust and killed a guy or something."
+        },
+        {
+            "line": 531,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "When everyone was freed, she just disappeared, probably until the smoke blows off."
+        },
+        {
+            "line": 532,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "And there're also hints that she got some sort of injury."
+        },
+        {
+            "line": 533,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "So she's likely going to be more on guard than usual."
+        },
+        {
+            "line": 534,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "And do you honestly think I wanna chase someone so dangerous in such a situation? I'm not an idiot."
+        },
+        {
+            "line": 535,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "If my client wants someone dead, they can get someone else to take the contract. I have a family, dammit."
+        },
+        {
+            "line": 536,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You do?"
+        },
+        {
+            "line": 537,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Wife and a daughter, why?"
+        },
+        {
+            "line": 538,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know. You strike me more as a single person, for some reason."
+        },
+        {
+            "line": 539,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I get that a lot."
+        },
+        {
+            "line": 540,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Alright, one last drink before leaving."
+        },
+        {
+            "line": 541,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anything on your mind?"
+        },
+        {
+            "line": 542,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Hm... a Piano Man or something with lots of alcohol, I'll let you decide."
+        },
+        {
+            "line": 543,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright."
+        },
+        {
+            "line": 544,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 545,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "A Piano Man..."
+        },
+        {
+            "line": 546,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Now that I think about it, why don't you have a pianist? That would bring clients."
+        },
+        {
+            "line": 547,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The problem isn't the pianist. Pianos are just too expensive."
+        },
+        {
+            "line": 548,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 549,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "This Piano Man seems off."
+        },
+        {
+            "line": 550,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's um... actually a woman."
+        },
+        {
+            "line": 551,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Well, the drink can identify itself however it wants, I won't judge."
+        },
+        {
+            "line": 552,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 553,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Yup, just like this."
+        },
+        {
+            "line": 554,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why order something so strong?"
+        },
+        {
+            "line": 555,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I've had this headache for a bit and I wanted to see if alcohol would calm it."
+        },
+        {
+            "line": 556,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And?"
+        },
+        {
+            "line": 557,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "No luck"
+        },
+        {
+            "line": 558,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 559,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Thank god I'm leaving..."
+        },
+        {
+            "line": 560,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 561,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Aight... tiiiiiiiiime to leave."
+        },
+        {
+            "line": 562,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 563,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 564,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Whatcha lookin' at?"
+        },
+        {
+            "line": 565,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're not moving."
+        },
+        {
+            "line": 566,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Bullshit! I'm moving, you're moving, the damn floor is moving like crazy."
+        },
+        {
+            "line": 567,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "I'm just waiting for it to take me out the door."
+        },
+        {
+            "line": 568,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Riiiiiight, I'm gonna call you a cab."
+        },
+        {
+            "line": 569,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 570,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hello? Yeah, it's me."
+        },
+        {
+            "line": 571,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "His name? Art Von Dela-... hello?"
+        },
+        {
+            "line": 572,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They hung up."
+        },
+        {
+            "line": 573,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Was it Tanhausser Cabs? Yeah, I'm banned from their services."
+        },
+        {
+            "line": 574,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why?"
+        },
+        {
+            "line": 575,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Too big of a tab, I'd always get into one of their cabs and then jump out of the window to avoid having to pay."
+        },
+        {
+            "line": 576,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see."
+        },
+        {
+            "line": 577,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Don't worry. I'll just go to my office and sleep it off. It's nearby."
+        },
+        {
+            "line": 578,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Take care."
+        },
+        {
+            "line": 579,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Yeah, yeah..."
+        },
+        {
+            "line": 580,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Alright then, I'll just take my leave now."
+        },
+        {
+            "line": 581,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Weird that you didn't ask for information or anything."
+        },
+        {
+            "line": 582,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Right now, I don't need anything like that. Otherwise I would've been pestering you from the moment I entered."
+        },
+        {
+            "line": 583,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see. Careful out there."
+        },
+        {
+            "line": 584,
+            "character": "Art",
+            "type": "dialogue",
+            "text": "Yeah, yeah..."
+        },
+        {
+            "line": 585,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Phew, it's been quite the day."
+        },
+        {
+            "line": 586,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "At least the streets are calm today."
+        },
+        {
+            "line": 587,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "I have... *wheeze* arrived yet again at the *cough* oh god... at the majestic hall of heroes."
+        },
+        {
+            "line": 588,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Calm until now."
+        },
+        {
+            "line": 589,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "We meet again, bartender."
+        },
+        {
+            "line": 590,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You look winded, Virgilio."
+        },
+        {
+            "line": 591,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "It's pronounced Veer-HEE-rio."
+        },
+        {
+            "line": 592,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, I'm pretty sure it's Virgilio. You said as much the last time you came."
+        },
+        {
+            "line": 593,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Pronunciations are a silly thing society imposes on letters."
+        },
+        {
+            "line": 594,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "They want to be free! They want to be pronounced however they want."
+        },
+        {
+            "line": 595,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 596,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You look winded, Virgilio."
+        },
+        {
+            "line": 597,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "We are all little toys winded by the cruel hand of fate."
+        },
+        {
+            "line": 598,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Just stumbling until it decides not to wind us anymore."
+        },
+        {
+            "line": 599,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And yet, you're the only one in the vicinity hyperventilating."
+        },
+        {
+            "line": 600,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "That's um... I was jogging."
+        },
+        {
+            "line": 601,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Dressed like that?"
+        },
+        {
+            "line": 602,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "I can jog however I want."
+        },
+        {
+            "line": 603,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yes you can."
+        },
+        {
+            "line": 604,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What can I get you?"
+        },
+        {
+            "line": 605,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Something fake."
+        },
+        {
+            "line": 606,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Of course."
+        },
+        {
+            "line": 607,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 608,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "And this is?"
+        },
+        {
+            "line": 609,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Totally-not-Beer."
+        },
+        {
+            "line": 610,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Ah, yes, just as fake as I want."
+        },
+        {
+            "line": 611,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 612,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Why is this fake?"
+        },
+        {
+            "line": 613,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's not a blast from the moon, just a drink named like one."
+        },
+        {
+            "line": 614,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Ah, the moon. In the Tarot, the Moon means \"Dogs will howl in a river\"."
+        },
+        {
+            "line": 615,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Don't... correct him. Keep your mouth shut.)"
+        },
+        {
+            "line": 616,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 617,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Why is this fake?"
+        },
+        {
+            "line": 618,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's not a blast from a planet, it's just a drink."
+        },
+        {
+            "line": 619,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Interesting, very interesting."
+        },
+        {
+            "line": 620,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 621,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 622,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "And why is this fake?"
+        },
+        {
+            "line": 623,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's not a real Gut Punch, no matter how you interpret that phrase."
+        },
+        {
+            "line": 624,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Brilliant!"
+        },
+        {
+            "line": 625,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 626,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Now, tell me why this is fake."
+        },
+        {
+            "line": 627,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Because I didn't even try."
+        },
+        {
+            "line": 628,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Your expectations of me giving a damn about the abstract order are fake."
+        },
+        {
+            "line": 629,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Bra-vo! Brilliant!"
+        },
+        {
+            "line": 630,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 631,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Say, Virgilio. Where do you work?"
+        },
+        {
+            "line": 632,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "I take the noble duties of curator at the Steampunk Museum."
+        },
+        {
+            "line": 633,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really? What do you do?"
+        },
+        {
+            "line": 634,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "I study everything that comes and keep it clean for the people that visit the premises."
+        },
+        {
+            "line": 635,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "But lately my duties have been hindered by the museum's owner."
+        },
+        {
+            "line": 636,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really?"
+        },
+        {
+            "line": 637,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Yeah, he told me, \"Stop touching the exhibits! You're gonna break them.\" The nerve of some people."
+        },
+        {
+            "line": 638,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "E-Eh?"
+        },
+        {
+            "line": 639,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "He still fails to realize that I'M the curator there."
+        },
+        {
+            "line": 640,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Without me, all those machines would be rustier than they already are."
+        },
+        {
+            "line": 641,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 642,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Even the visitors get that I'm the one responsible for those, why can't the owner realize that too?!"
+        },
+        {
+            "line": 643,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...yeeeeeeah."
+        },
+        {
+            "line": 644,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I bet he treats you like a janitor or something like that."
+        },
+        {
+            "line": 645,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Exactly!"
+        },
+        {
+            "line": 646,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Okay then. Time for your next challenge, bartender."
+        },
+        {
+            "line": 647,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Challenge, he says..."
+        },
+        {
+            "line": 648,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "I want purity."
+        },
+        {
+            "line": 649,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 650,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "How is this... \"pure\"?"
+        },
+        {
+            "line": 651,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's a drink. It's free from any human sin. It can do no harm consciously."
+        },
+        {
+            "line": 652,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Ah, yes... beautiful."
+        },
+        {
+            "line": 653,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 654,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 655,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Hey you, the guy over there."
+        },
+        {
+            "line": 656,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Me?"
+        },
+        {
+            "line": 657,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Yes, you. Have we met before?"
+        },
+        {
+            "line": 658,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Can't remember. Maybe?"
+        },
+        {
+            "line": 659,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Yeah, I think..."
+        },
+        {
+            "line": 660,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 661,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "...NONONONO. We haven't met. Ever. At all."
+        },
+        {
+            "line": 662,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's an interesting reaction."
+        },
+        {
+            "line": 663,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 664,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Ah Jill, I'll be taking my leave now."
+        },
+        {
+            "line": 665,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Be careful out there."
+        },
+        {
+            "line": 666,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Thanks... huh?"
+        },
+        {
+            "line": 667,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Excuse me, have we met somewhere before?"
+        },
+        {
+            "line": 668,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "That face... that eye..."
+        },
+        {
+            "line": 669,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "What about my eye, punk?!"
+        },
+        {
+            "line": 670,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "We haven't met ever at all. Never, ever, ever, ever."
+        },
+        {
+            "line": 671,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Good talking to you, bartender."
+        },
+        {
+            "line": 672,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...um."
+        },
+        {
+            "line": 673,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you just scare off a client?"
+        },
+        {
+            "line": 674,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Apparently."
+        },
+        {
+            "line": 675,
+            "character": "Stella",
+            "type": "dialogue",
+            "text": "Well. I'm off. Thanks for everything."
+        },
+        {
+            "line": 676,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't mention it."
+        },
+        {
+            "line": 677,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Y-Yes, Dana. Your sister is certainly cute. Can I leave? PLEASE?"
+        },
+        {
+            "line": 678,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Fiiiiiiine. We discussed what we had to anyways."
+        },
+        {
+            "line": 679,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Careful out there."
+        },
+        {
+            "line": 680,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "Thank god..."
+        },
+        {
+            "line": 681,
+            "character": "Brian",
+            "type": "dialogue",
+            "text": "A pleasure meeting you Jill, same to you err... Robert."
+        },
+        {
+            "line": 682,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please come again."
+        },
+        {
+            "line": 683,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 684,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "Bartender, if you're done ogling Mr. Holocall Suit, would you mind giving me a drink?"
+        },
+        {
+            "line": 685,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure, what do you want?"
+        },
+        {
+            "line": 686,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "I want..."
+        },
+        {
+            "line": 687,
+            "character": "Virgilio",
+            "type": "dialogue",
+            "text": "To leave! Bye, Bartender!"
+        },
+        {
+            "line": 688,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...huh."
+        },
+        {
+            "line": 689,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Second time he ran off like that. He's either hiding here or would rather not be found by the police."
+        },
+        {
+            "line": 690,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What do you think, Gil?"
+        },
+        {
+            "line": 691,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I know nothing of it."
+        },
+        {
+            "line": 692,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Of course you don't."
+        },
+        {
+            "line": 693,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Are we done for the day?"
+        },
+        {
+            "line": 694,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Yup, quite a few clients considering the whole situation."
+        },
+        {
+            "line": 695,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "OH SHIT! That Virgilio guy..."
+        },
+        {
+            "line": 696,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So you two actually met before?"
+        },
+        {
+            "line": 697,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Yeah, you could say that."
+        },
+        {
+            "line": 698,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What? What?"
+        },
+        {
+            "line": 699,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gil stuff. Don't mind it."
+        },
+        {
+            "line": 700,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What were you talking about to Brian?"
+        },
+        {
+            "line": 701,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 702,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "We were mostly catching up, to be honest."
+        },
+        {
+            "line": 703,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I hadn't seen him in a while. I offered him a drink when we met last week."
+        },
+        {
+            "line": 704,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I talked a bit about what to do after the bar closes."
+        },
+        {
+            "line": 705,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh! And I tried to... uh... explain the situation with... Robert here."
+        },
+        {
+            "line": 706,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He agreed to help me out with that one when the time comes."
+        },
+        {
+            "line": 707,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah."
+        },
+        {
+            "line": 708,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 709,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I was also tuning up the details for the new employee."
+        },
+        {
+            "line": 710,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "New employee?"
+        },
+        {
+            "line": 711,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "A part-timer, you'll meet him tomorrow."
+        },
+        {
+            "line": 712,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 713,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "\"Him\"? So it's a guy?"
+        },
+        {
+            "line": 714,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "An adorable guy, if I do say so myself."
+        },
+        {
+            "line": 715,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 716,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(...I suddenly have deja vu.)"
+        },
+        {
+            "line": 717,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Are you alright, Jill?"
+        },
+        {
+            "line": 718,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Y-Yeah."
+        },
+        {
+            "line": 719,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(It must be nothing.)"
+        },
+        {
+            "line": 720,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(God damn, is it chilly outside.)"
+        }
+    ]

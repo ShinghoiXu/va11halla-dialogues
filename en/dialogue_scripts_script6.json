@@ -1,0 +1,3489 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "script6.txt",
+            "lines": 581,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Rise and shine."
+        },
+        {
+            "line": 3,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*yawn* G'mornin'."
+        },
+        {
+            "line": 4,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's 11 a.m., though."
+        },
+        {
+            "line": 5,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's morning for me on the weekends... and any other day. How's everything outside?"
+        },
+        {
+            "line": 6,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Still noisy, but forces have been deployed to take care of most of 'em at least."
+        },
+        {
+            "line": 7,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How so?"
+        },
+        {
+            "line": 8,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Zaibatsu Corp's President is pleading with \"anyone\" to stop the rogue White Knights."
+        },
+        {
+            "line": 9,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Neighboring city forces were deployed quickly and have subdued most of the opposition."
+        },
+        {
+            "line": 10,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "There have also been reports of White Knights just... freezing. Like they were petrified somehow."
+        },
+        {
+            "line": 11,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You make it sound like some god suddenly decided to put everything in place."
+        },
+        {
+            "line": 12,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, I'm just glad no bullets are flying in and out of the whole building."
+        },
+        {
+            "line": 13,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sure, there're still some bad apples out and it's not really safe yet, but it was worse last night."
+        },
+        {
+            "line": 14,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "There also seems to be a civilian force lynching any White Knight they spot."
+        },
+        {
+            "line": 15,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So not only are the White Knights a problem, regular folks are on edge too."
+        },
+        {
+            "line": 16,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I wonder if Sei is okay...)"
+        },
+        {
+            "line": 17,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Should we be worried about Gil?"
+        },
+        {
+            "line": 18,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That kid knows how to take care of himself."
+        },
+        {
+            "line": 19,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'm sure that... whatever it is that he's doing, he's safe."
+        },
+        {
+            "line": 20,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Dare I say even safer wherever he is than here."
+        },
+        {
+            "line": 21,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I sure hope so."
+        },
+        {
+            "line": 22,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are we gonna work today?"
+        },
+        {
+            "line": 23,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Nah, things are too nasty right now. Let's take the Sunday off."
+        },
+        {
+            "line": 24,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh, alright."
+        },
+        {
+            "line": 25,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Say, do you want me to help you get to your apartment?"
+        },
+        {
+            "line": 26,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Actually yeah, I'd appreciate that."
+        },
+        {
+            "line": 27,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Okay then. Let me lock things up and we'll go."
+        },
+        {
+            "line": 28,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "We'll grab something for lunch on the way."
+        },
+        {
+            "line": 29,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sounds good."
+        },
+        {
+            "line": 30,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Aaaaaaaaand here we are."
+        },
+        {
+            "line": 31,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Home sweet home. Thanks a lot."
+        },
+        {
+            "line": 32,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey Boss, wanna hang out for a bit?"
+        },
+        {
+            "line": 33,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 34,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, grab a Beer, chill out for a bit... Mostly to thank you for helping me."
+        },
+        {
+            "line": 35,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, I don't have much to do anyway. So yeah, sure."
+        },
+        {
+            "line": 36,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I did tell you you should invite me to your apartment sometime, didn't I?"
+        },
+        {
+            "line": 37,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh, yeah. You did."
+        },
+        {
+            "line": 38,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What worries me a bit is that Beer always leads to something else."
+        },
+        {
+            "line": 39,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "To more Beer?"
+        },
+        {
+            "line": 40,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I was gonna say, \"To one of us going through the Spanish announcers' table.\""
+        },
+        {
+            "line": 41,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "But I think we're safe here."
+        },
+        {
+            "line": 42,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Come on in, then."
+        },
+        {
+            "line": 43,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Excuse me..."
+        },
+        {
+            "line": 44,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Want one?"
+        },
+        {
+            "line": 45,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sorry, I don't smoke. Don't mind me though, smoke if you wanna."
+        },
+        {
+            "line": 46,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 47,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Say, how is the chilly weather treating you?"
+        },
+        {
+            "line": 48,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It gets cold from time to time but nothing the kotatsu and the heater can't fix."
+        },
+        {
+            "line": 49,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh right, Boss. You're not very good with the cold, are you?"
+        },
+        {
+            "line": 50,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You know it..."
+        },
+        {
+            "line": 51,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You didn't bring your jacket here either."
+        },
+        {
+            "line": 52,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yeah, I left it at home when going to the bar yesterday."
+        },
+        {
+            "line": 53,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It wasn't that cold and I didn't expect to spend the night at the bar."
+        },
+        {
+            "line": 54,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Would you like a sweater or something?"
+        },
+        {
+            "line": 55,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh, don't mind me."
+        },
+        {
+            "line": 56,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I insist. I have this hoodie from some time ago and it was too big for me."
+        },
+        {
+            "line": 57,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why buy it then?"
+        },
+        {
+            "line": 58,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It was dirt-cheap!"
+        },
+        {
+            "line": 59,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Right..."
+        },
+        {
+            "line": 60,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Wait... w-where did you get this one?"
+        },
+        {
+            "line": 61,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Dunno. Some flea market ages ago. Why?"
+        },
+        {
+            "line": 62,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Nothing. It's just like one I had many years ago."
+        },
+        {
+            "line": 63,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What happened to it?"
+        },
+        {
+            "line": 64,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Too much use, it just... ripped."
+        },
+        {
+            "line": 65,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see..."
+        },
+        {
+            "line": 66,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You can keep it if you want, I never use it anyway."
+        },
+        {
+            "line": 67,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Um... we'll see."
+        },
+        {
+            "line": 68,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Come to think of it, how old are you, Boss?"
+        },
+        {
+            "line": 69,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'm eternally seventeen!"
+        },
+        {
+            "line": 70,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fair enough. Seventeen plus how much?"
+        },
+        {
+            "line": 71,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Seventeen plus I'd have to cut your tongue if you knew."
+        },
+        {
+            "line": 72,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...alright."
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Let me go change into something more comfortable."
+        },
+        {
+            "line": 74,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Take your time."
+        },
+        {
+            "line": 75,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 76,
+            "character": "Fore",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 77,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 78,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Say Jill, there's a blue-eyed mass of black fur glaring in my general direction."
+        },
+        {
+            "line": 79,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm? Oh, that's just Fore. He's just wary of any new visitors. Cats will be cats, I guess."
+        },
+        {
+            "line": 80,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He'll warm up quickly though. Just give him time."
+        },
+        {
+            "line": 81,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He's unusual-looking. Blue eyes on a black cat. They usually have green."
+        },
+        {
+            "line": 82,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, weird, huh?"
+        },
+        {
+            "line": 83,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "At first I thought they were like that because he was small but they never changed."
+        },
+        {
+            "line": 84,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do you have any pets, Boss?"
+        },
+        {
+            "line": 85,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Back at home we had a bear."
+        },
+        {
+            "line": 86,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, I se-... what?"
+        },
+        {
+            "line": 87,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Good ol' Bosco. He kept intruders away better than any dog."
+        },
+        {
+            "line": 88,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "R-Right..."
+        },
+        {
+            "line": 89,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hm? This picture here isn't something you see everyday."
+        },
+        {
+            "line": 90,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What? Me taking such a sappy pic?"
+        },
+        {
+            "line": 91,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "No, a framed picture on printed paper. It's so... vintage."
+        },
+        {
+            "line": 92,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Who are these?"
+        },
+        {
+            "line": 93,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's... um..."
+        },
+        {
+            "line": 94,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The one on the right is Lenore, my... ex-girlfriend. The one on the left is Gabrielle, her sister."
+        },
+        {
+            "line": 95,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Huh. Is this pic recent or...?"
+        },
+        {
+            "line": 96,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Actually, that one's from 3-4 years ago."
+        },
+        {
+            "line": 97,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 98,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You look exactly the same."
+        },
+        {
+            "line": 99,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm only 27. What did you expect? That's why they say kids are the ones that get old."
+        },
+        {
+            "line": 100,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I thought it was recent because you don't usually see people displaying pictures of their exes so openly."
+        },
+        {
+            "line": 101,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...let alone a printed and framed one."
+        },
+        {
+            "line": 102,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Did you two break up on good terms, then? You even hesitated a bit when calling her your ex."
+        },
+        {
+            "line": 103,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* Let's just say that everything ended with both of us saying mean things."
+        },
+        {
+            "line": 104,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...and me storming out of her house, breaking a couple of things on the way out."
+        },
+        {
+            "line": 105,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We never broke up formally... and I guess I still have feelings for her."
+        },
+        {
+            "line": 106,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I just... went away, haven't said a word since."
+        },
+        {
+            "line": 107,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Really? It's... hard to picture you doing such a thing. And you look so happy in the pic."
+        },
+        {
+            "line": 108,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why have her pic out like this then?"
+        },
+        {
+            "line": 109,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I just couldn't get my mind off something that Alma said to me."
+        },
+        {
+            "line": 110,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "About missing having the warmth of someone else pressed against your side..."
+        },
+        {
+            "line": 111,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Using them as a pillow, mixing your perfume with theirs."
+        },
+        {
+            "line": 112,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Putting your head in their chest, listening to their breathing as they pet your head."
+        },
+        {
+            "line": 113,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Dozing off knowing they're there, watching you. Protecting you..."
+        },
+        {
+            "line": 114,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know. I felt nostalgic... then miserable."
+        },
+        {
+            "line": 115,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 116,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll... just put this away."
+        },
+        {
+            "line": 117,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 118,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I've been meaning to apologize, but I feel like it's too late now."
+        },
+        {
+            "line": 119,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Whenever I go out, there's this fear in the back of my head that I'll meet her in the street."
+        },
+        {
+            "line": 120,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I just don't know if I could face her again. Let alone talk to her."
+        },
+        {
+            "line": 121,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...I'd be a mess."
+        },
+        {
+            "line": 122,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's never too late to apologize, Jill."
+        },
+        {
+            "line": 123,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe."
+        },
+        {
+            "line": 124,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hm? What's that on the table?"
+        },
+        {
+            "line": 125,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...!"
+        },
+        {
+            "line": 126,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Looks like an enve-..."
+        },
+        {
+            "line": 127,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's nothing! NOTHING! Now, please give that to me."
+        },
+        {
+            "line": 128,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...lope. Alright."
+        },
+        {
+            "line": 129,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I saw nothing, don't worry."
+        },
+        {
+            "line": 130,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 131,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A-Anyway... Let's grab some Beers!"
+        },
+        {
+            "line": 132,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Guide me."
+        },
+        {
+            "line": 133,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Damn, you have lots of Beer."
+        },
+        {
+            "line": 134,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, the BTC gives me discounts and a point card I can use every time I buy their alcohol."
+        },
+        {
+            "line": 135,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "With that, Beer is actually the cheapest drink I can get."
+        },
+        {
+            "line": 136,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Is there any difference between the drinks at the bar and these?"
+        },
+        {
+            "line": 137,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The drinks at the bar are more addictive, flavorful and also stronger than the ones they sell in stores."
+        },
+        {
+            "line": 138,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And besides, the one in the bar is more of a Double IPA. This one is more of a Pilsner."
+        },
+        {
+            "line": 139,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "In English, please."
+        },
+        {
+            "line": 140,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "This one's lighter in color and lighter in flavor."
+        },
+        {
+            "line": 141,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Dunno, it doesn't taste like a lighter to me."
+        },
+        {
+            "line": 142,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*pffffft*"
+        },
+        {
+            "line": 143,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Is this one made with that... um... what was the name of the base liquid you use at the bar again?"
+        },
+        {
+            "line": 144,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Nutriogenic Dichometrical Lydogenol, or NDL."
+        },
+        {
+            "line": 145,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It was a supplement or something, right?"
+        },
+        {
+            "line": 146,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It was an experimental fluid they created to replace water when the Maiden Kiss polluted water supplies."
+        },
+        {
+            "line": 147,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The effects of pollution turned out to be temporary, so NDL never went into mass production."
+        },
+        {
+            "line": 148,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But the BTC still commissioned it for use in bars."
+        },
+        {
+            "line": 149,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And is this one made with it?"
+        },
+        {
+            "line": 150,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Let's see... yup, here it is, near the end: NDL and corn starch."
+        },
+        {
+            "line": 151,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Corn starch?"
+        },
+        {
+            "line": 152,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It serves as a stabilizer, if I remember correctly. They need it for packaged drinks."
+        },
+        {
+            "line": 153,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I see. And I just realized something."
+        },
+        {
+            "line": 154,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 155,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You're a nerd, Jill."
+        },
+        {
+            "line": 156,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Guilty as charged."
+        },
+        {
+            "line": 157,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "There's my alcohol collection if you feel like getting anything else."
+        },
+        {
+            "line": 158,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Those bottles over there?"
+        },
+        {
+            "line": 159,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I can't afford a fancy fridge or whatever for them so I have to put them in plain sight."
+        },
+        {
+            "line": 160,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm guessing if some authority on alcohol came in here, he'd stab me for crimes against beverages or something."
+        },
+        {
+            "line": 161,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anyway, many of them are still drinkable."
+        },
+        {
+            "line": 162,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I could get you some of the Absinthe I brought to the bar if you want."
+        },
+        {
+            "line": 163,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'm not an Oscar Wilde kind of person, sadly. I'm more of a Theodore Roosevelt girl."
+        },
+        {
+            "line": 164,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I have a teddy bear on my closet. But I don't think you can drink it."
+        },
+        {
+            "line": 165,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Nah, that's what I-... wait, you do?"
+        },
+        {
+            "line": 166,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm not ashamed of Doctor Fluff but it just so happens that I have a cat."
+        },
+        {
+            "line": 167,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And I don't want the bear's fillings spilled all over the place."
+        },
+        {
+            "line": 168,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 169,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyway, Beer's fine. Don't worry."
+        },
+        {
+            "line": 170,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If you say so."
+        },
+        {
+            "line": 171,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Where did that collection come from anyways?"
+        },
+        {
+            "line": 172,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Calling it a \"Collection\" is too generous, I think."
+        },
+        {
+            "line": 173,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I got it from my grandpa. He made a will where the only thing stipulated was that I got them."
+        },
+        {
+            "line": 174,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Heh, that's sweet."
+        },
+        {
+            "line": 175,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I've already downed some of it over the years though. Half of them have colored water instead of alcohol."
+        },
+        {
+            "line": 176,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I guess you'd need to be an expert or something to notice the difference."
+        },
+        {
+            "line": 177,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I make sure the water's the right color though."
+        },
+        {
+            "line": 178,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Bottomline, if you wanna taste anything from it, let me know."
+        },
+        {
+            "line": 179,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You're too kind."
+        },
+        {
+            "line": 180,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I still have that bottle of rum somewhere around. Do you want some of it?"
+        },
+        {
+            "line": 181,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Will you have some too?"
+        },
+        {
+            "line": 182,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not really, no."
+        },
+        {
+            "line": 183,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Then leave it like that. I'm not letting you drink Beer alone. That's not how drinking with friends works."
+        },
+        {
+            "line": 184,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do you consider me a friend then, Boss?"
+        },
+        {
+            "line": 185,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why wouldn't I?"
+        },
+        {
+            "line": 186,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Dunno, what with being my boss and all. I was never too sure."
+        },
+        {
+            "line": 187,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, in case you had any doubts: Yes, I consider you one of my best friends."
+        },
+        {
+            "line": 188,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Besides, you and Gil are always so diligent and responsible that I'm boss in name only anyway."
+        },
+        {
+            "line": 189,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's good to know."
+        },
+        {
+            "line": 190,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "On a side note, it surprises me you kept that poster of me in the room."
+        },
+        {
+            "line": 191,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And even more that you hung it in plain sight."
+        },
+        {
+            "line": 192,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "When I gave it to you, it was more or less a joke, you know?"
+        },
+        {
+            "line": 193,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Does it make you uncomfortable?"
+        },
+        {
+            "line": 194,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "If it doesn't make you uncomfortable, why would it make ME uncomfortable? It's my own face."
+        },
+        {
+            "line": 195,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'm still wondering why you did it though."
+        },
+        {
+            "line": 196,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Aside from filling an empty spot in the wall, I don't really know. I thought it was funny too."
+        },
+        {
+            "line": 197,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess it's like if someone gave you... dunno."
+        },
+        {
+            "line": 198,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A dildo-shaped trophy or something and you had it there as a conversation starter."
+        },
+        {
+            "line": 199,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Although no one comes here anyways, so it's kinda pointless."
+        },
+        {
+            "line": 200,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What? No steamy nights of passion?"
+        },
+        {
+            "line": 201,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not since... a year ago I think. And I rather not talk about what happened then."
+        },
+        {
+            "line": 202,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Did someone hurt you? Because if they did, I can go dish out the pain."
+        },
+        {
+            "line": 203,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, nothing of the sort. A different kind of mess."
+        },
+        {
+            "line": 204,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Uncomfortable mess. A 'not being able to have sex for reasons' mess."
+        },
+        {
+            "line": 205,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Glad to know you have my back though."
+        },
+        {
+            "line": 206,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That's what friends are for."
+        },
+        {
+            "line": 207,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Wait, you talk about the poster and compare it to having a dildo-shaped trophy..."
+        },
+        {
+            "line": 208,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Did you just call me Dildo Face?"
+        },
+        {
+            "line": 209,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's what friends are for."
+        },
+        {
+            "line": 210,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 211,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey, Jill. Where did you get that black Fore ball?"
+        },
+        {
+            "line": 212,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, as with any black cat or house cat in general, he's actually a stray."
+        },
+        {
+            "line": 213,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I found him in the alleys near the building. Not long after I moved here, I think."
+        },
+        {
+            "line": 214,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ah, I see."
+        },
+        {
+            "line": 215,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It was quite the sight though. He was cornered by all these dogs but they were keeping their distance."
+        },
+        {
+            "line": 216,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He was holding his ground, hissing and scratching as much as he could."
+        },
+        {
+            "line": 217,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "There was a fried chicken bucket nearby that had some rain water in it, so I threw the water over the dogs."
+        },
+        {
+            "line": 218,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They ran and I figured the cat's mom would be nearby, so I left."
+        },
+        {
+            "line": 219,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Then I noticed people looking in my direction as I walked. Turns out the little shit started following me."
+        },
+        {
+            "line": 220,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So you brought it home."
+        },
+        {
+            "line": 221,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "At first, I wanted to see if I could find him a new home, but..."
+        },
+        {
+            "line": 222,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Having him welcome me whenever I came back was just too much for my heart, so he ended up staying."
+        },
+        {
+            "line": 223,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It was destiny, girl."
+        },
+        {
+            "line": 224,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "When he came, he was so cute though. Not like the fat mass that's sleeping on the table."
+        },
+        {
+            "line": 225,
+            "character": "Fore",
+            "type": "dialogue",
+            "text": "Hey, you're not a spring chicken yourself, you know."
+        },
+        {
+            "line": 226,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 227,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 228,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oho..."
+        },
+        {
+            "line": 229,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...shit, I actually did that in front of someone else."
+        },
+        {
+            "line": 230,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ohohohoho..."
+        },
+        {
+            "line": 231,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A-Anyway..."
+        },
+        {
+            "line": 232,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't \"anyway\" me, do you normally speak for your cat like that?"
+        },
+        {
+            "line": 233,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...maybe."
+        },
+        {
+            "line": 234,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey Boss, be honest with me here."
+        },
+        {
+            "line": 235,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "About what?"
+        },
+        {
+            "line": 236,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Who's Gil exactly?"
+        },
+        {
+            "line": 237,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What do you mean?"
+        },
+        {
+            "line": 238,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You know what I mean. Who the fuck is he?"
+        },
+        {
+            "line": 239,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh yeah, that."
+        },
+        {
+            "line": 240,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, I have a couple of ideas."
+        },
+        {
+            "line": 241,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I know for certain that Gil was in the Hong Kong riots."
+        },
+        {
+            "line": 242,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And he took part in the anti-riot force before defecting."
+        },
+        {
+            "line": 243,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That should give me a clue as to who he is but..."
+        },
+        {
+            "line": 244,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But...?"
+        },
+        {
+            "line": 245,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So far, I've only found out about one such defector, and he didn't leave Hong Kong for at least 4 years."
+        },
+        {
+            "line": 246,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I also know for certain that Gil was in England and France during that time frame."
+        },
+        {
+            "line": 247,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And it's always like that, when I think I have a clue as to who he is..."
+        },
+        {
+            "line": 248,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Something else comes up that contradicts the evidence."
+        },
+        {
+            "line": 249,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That guy's troublesome."
+        },
+        {
+            "line": 250,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A bit, yeah."
+        },
+        {
+            "line": 251,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* I wonder if Gil's alright."
+        },
+        {
+            "line": 252,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You worried about him?"
+        },
+        {
+            "line": 253,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You make it sound like I'm some emotionless robot."
+        },
+        {
+            "line": 254,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You can be hard to read."
+        },
+        {
+            "line": 255,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I wouldn't worry about Gil so much though. There's three things I know for certain about him."
+        },
+        {
+            "line": 256,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "First: He can take care of himself."
+        },
+        {
+            "line": 257,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Second: You can sincerely trust him."
+        },
+        {
+            "line": 258,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And third?"
+        },
+        {
+            "line": 259,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He absolutely hates bell pepper."
+        },
+        {
+            "line": 260,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He does?"
+        },
+        {
+            "line": 261,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I've seen him even reject food that has been in contact with it."
+        },
+        {
+            "line": 262,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Man, what a baby... unless he's allergic or something."
+        },
+        {
+            "line": 263,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He's not."
+        },
+        {
+            "line": 264,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Man, what a baby."
+        },
+        {
+            "line": 265,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How did you meet such a guy?"
+        },
+        {
+            "line": 266,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He... showed up in the door of the bar."
+        },
+        {
+            "line": 267,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He... what?"
+        },
+        {
+            "line": 268,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, it was shortly after the whole incident with Robert and the levitation potion."
+        },
+        {
+            "line": 269,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Right... \"Levitation potion\".)"
+        },
+        {
+            "line": 270,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It was a slow day and he just... showed up at the bar."
+        },
+        {
+            "line": 271,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I offered him a drink, but he said he didn't have money on him."
+        },
+        {
+            "line": 272,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I... couldn't leave him alone, so I pretty much gave the drinks for free."
+        },
+        {
+            "line": 273,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And after a couple, he broke down crying."
+        },
+        {
+            "line": 274,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He... huh?"
+        },
+        {
+            "line": 275,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I don't know what he did, but he was really, REALLY regretting it."
+        },
+        {
+            "line": 276,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He wanted a second chance or whatever and I told him if he could wash himself I'd find him a job."
+        },
+        {
+            "line": 277,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And I'll be damned, he looked totally different the next day."
+        },
+        {
+            "line": 278,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Damn..."
+        },
+        {
+            "line": 279,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I tried and failed to find out anything about him."
+        },
+        {
+            "line": 280,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So I decided to take him at face value. I'd judge him from what he did as an employee."
+        },
+        {
+            "line": 281,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And aside from the occasional sudden escapade, he's been as loyal as loyal gets."
+        },
+        {
+            "line": 282,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I return the favor in kind, covering his ass from time to time... sometimes literally."
+        },
+        {
+            "line": 283,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What surprises me is that you took him in so easily."
+        },
+        {
+            "line": 284,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I can take care of myself and I always kept an eye on him."
+        },
+        {
+            "line": 285,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And besides, after the whole Robert thing I couldn't ignore someone that desperate so easily..."
+        },
+        {
+            "line": 286,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see..."
+        },
+        {
+            "line": 287,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You've made the bar more lively yourself, you know?"
+        },
+        {
+            "line": 288,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How so?"
+        },
+        {
+            "line": 289,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, with the regulars you've earned of course."
+        },
+        {
+            "line": 290,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Like that blonde titty hacker. I can't remember her name."
+        },
+        {
+            "line": 291,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alma?"
+        },
+        {
+            "line": 292,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I was gonna say Armitage."
+        },
+        {
+            "line": 293,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, she's hot, I'll give her that much."
+        },
+        {
+            "line": 294,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She's also a nice person in general, but damn, she's hot."
+        },
+        {
+            "line": 295,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Are you alright, Jill?"
+        },
+        {
+            "line": 296,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, why?"
+        },
+        {
+            "line": 297,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's... weird to see you say so openly that someone's hot."
+        },
+        {
+            "line": 298,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What? Even you can see she has a hot body, Boss."
+        },
+        {
+            "line": 299,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...you'll find no objections here."
+        },
+        {
+            "line": 300,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, I'd be lying if I said I hadn't thought about taking her to a room and..."
+        },
+        {
+            "line": 301,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 302,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill, you sure you aren't drunk?"
+        },
+        {
+            "line": 303,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I am. I mean I'm sure I'm not. I mean..."
+        },
+        {
+            "line": 304,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*ahem*"
+        },
+        {
+            "line": 305,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But those are thoughts I leave to myself. I don't think I could handle her in a relationship."
+        },
+        {
+            "line": 306,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She has... weird standards."
+        },
+        {
+            "line": 307,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That and she's as straight as straight gets."
+        },
+        {
+            "line": 308,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She's still a lovely person, though. That she became a regular is a blessing."
+        },
+        {
+            "line": 309,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Any regular is a blessing when you get down to it."
+        },
+        {
+            "line": 310,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She's a nice girl, you know?"
+        },
+        {
+            "line": 311,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I don't think she's young enough to be called a \"girl\"."
+        },
+        {
+            "line": 312,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Says the \"Girl Who's Eternally Seventeen.\""
+        },
+        {
+            "line": 313,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "In any case, she's really lovely."
+        },
+        {
+            "line": 314,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "When you hear her speak of her family, she speaks with such love. Her face just brightens up."
+        },
+        {
+            "line": 315,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It makes me kind of jealous that she has such a close relationship with them, to be honest."
+        },
+        {
+            "line": 316,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You have bad relations with your family?"
+        },
+        {
+            "line": 317,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not bad, but I'm not exactly close to anyone aside from my mom, dad, and aunt."
+        },
+        {
+            "line": 318,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But back to Alma, I'm really hoping she finds a nice guy to settle with."
+        },
+        {
+            "line": 319,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, she's so bent into finding one, I can't help but want her to succeed."
+        },
+        {
+            "line": 320,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ah, I see."
+        },
+        {
+            "line": 321,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "There's also that sex worker robot girl."
+        },
+        {
+            "line": 322,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, Dorothy."
+        },
+        {
+            "line": 323,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "She intrigues me, though. I've seen lots of sex workers over the years, and she seems pretty giddy."
+        },
+        {
+            "line": 324,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's not that she likes her job, but rather that she takes to it with such childish excitement."
+        },
+        {
+            "line": 325,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I've kinda noticed that too. But then again, Lilim can be weird."
+        },
+        {
+            "line": 326,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You think?"
+        },
+        {
+            "line": 327,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lilim operate in some really foreign logic."
+        },
+        {
+            "line": 328,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, they don't really share our fear of mortality."
+        },
+        {
+            "line": 329,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Even if their bodies are destroyed, their minds are already backed up in the collective source."
+        },
+        {
+            "line": 330,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If they lose an arm, they can reattach it or replace it."
+        },
+        {
+            "line": 331,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Depending on the circumstances, they might not even feel pain at all."
+        },
+        {
+            "line": 332,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's not like they haven't attained human-like emotions like fear or love, but they are... different."
+        },
+        {
+            "line": 333,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Like a different culture, if you must."
+        },
+        {
+            "line": 334,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hm... I didn't see it that way."
+        },
+        {
+            "line": 335,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Aside from that, Dorothy is a DFC-72. It's a \"Social Interactions\" model or something."
+        },
+        {
+            "line": 336,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lilim get positive reinforcement straight from their bodies if they're fulfilling their main purpose, so..."
+        },
+        {
+            "line": 337,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm guessing she gets a built-in push whenever she's in a meaningful or \"challenging\" social interaction."
+        },
+        {
+            "line": 338,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Interesting."
+        },
+        {
+            "line": 339,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The name \"Lilim\" is a bit weird though."
+        },
+        {
+            "line": 340,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It is?"
+        },
+        {
+            "line": 341,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You'd expect them to be called \"Bots\" or \"Dolls\", but \"Lilim\" doesn't convey the image of automatons."
+        },
+        {
+            "line": 342,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just a tip. \"Bots\" and \"Dolls\" are considered slurs by them."
+        },
+        {
+            "line": 343,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"Bot\" is akin to calling them retarded and \"Doll\" is like calling them fake."
+        },
+        {
+            "line": 344,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Thanks for the advice."
+        },
+        {
+            "line": 345,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That aside, do you know why they're called Lilim?"
+        },
+        {
+            "line": 346,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "As far as I know, because they all come from a bigger AI called Lilith."
+        },
+        {
+            "line": 347,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And Lilim are Lilith's offspring in Jewish folklore."
+        },
+        {
+            "line": 348,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ooooooh, cool."
+        },
+        {
+            "line": 349,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey, speaking of names, why don't you like being called by your full name?"
+        },
+        {
+            "line": 350,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I have no idea what you're talking about."
+        },
+        {
+            "line": 351,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't act stupid."
+        },
+        {
+            "line": 352,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Back when you first transferred, I called you Julianne and you almost tore me a new one with your glare."
+        },
+        {
+            "line": 353,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 354,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "See? Like that."
+        },
+        {
+            "line": 355,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's no big secret, but it's one of those things that feels silly when you say it out loud."
+        },
+        {
+            "line": 356,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Try me."
+        },
+        {
+            "line": 357,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... did you ever watch \"Model Warrior Julianne\"?"
+        },
+        {
+            "line": 358,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Not all of it, but my little sister's a big fan of the reruns."
+        },
+        {
+            "line": 359,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Back when I was in elementary school I was a HUGE fan of the show."
+        },
+        {
+            "line": 360,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I had everything. From the dolls to the costumes to the lunch boxes."
+        },
+        {
+            "line": 361,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It didn't help that it was one of those shows that got strapped literally everywhere."
+        },
+        {
+            "line": 362,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I saw a couple of episodes once. They were really nice!"
+        },
+        {
+            "line": 363,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It was beyond nice! The show's about a model who can transform into an armor-clad magic knight."
+        },
+        {
+            "line": 364,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She fights demons born from greed and vanity."
+        },
+        {
+            "line": 365,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How the show presented Jules hating her job because it invited enemies."
+        },
+        {
+            "line": 366,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And yet still found solace in trying to be a role model..."
+        },
+        {
+            "line": 367,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hell, the main character wasn't a kid. Julianne was an adult that became younger when transformed."
+        },
+        {
+            "line": 368,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'd say it was a pretty ambitious kid's show."
+        },
+        {
+            "line": 369,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Even by today's standards!"
+        },
+        {
+            "line": 370,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just the fact that her enemies were literally issues dealing with beauty standards of body image..."
+        },
+        {
+            "line": 371,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Challenging as fuck."
+        },
+        {
+            "line": 372,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Whoa, you got excited there."
+        },
+        {
+            "line": 373,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And that is the problem. Back then I was obsessed with Jules."
+        },
+        {
+            "line": 374,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I sang the songs, dressed like her. I could even recite full chapters."
+        },
+        {
+            "line": 375,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Something tells me you still can."
+        },
+        {
+            "line": 376,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...that's beside the point."
+        },
+        {
+            "line": 377,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It was nice while I was in elementary school, but then I went to middle school..."
+        },
+        {
+            "line": 378,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And what a surprise, tweens are jackasses."
+        },
+        {
+            "line": 379,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They went out of their way to tease me about the things I did back then."
+        },
+        {
+            "line": 380,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't hold it against Jules. I always hold my grudge against those fuckjobs."
+        },
+        {
+            "line": 381,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sounds rough."
+        },
+        {
+            "line": 382,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You know how most girls worry about their thighs at that age?"
+        },
+        {
+            "line": 383,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I worried about jerkasses singing the theme tune of the show mocking me."
+        },
+        {
+            "line": 384,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anyways, everytime someone calls me Julianne or Jules, I instinctively react negatively."
+        },
+        {
+            "line": 385,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Pavlov would be proud of me."
+        },
+        {
+            "line": 386,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I never talk about it because I find the whole thing too silly in retrospect."
+        },
+        {
+            "line": 387,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And yet, it affects you even today. There's nothing wrong with it though."
+        },
+        {
+            "line": 388,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's actually kinda reasonable."
+        },
+        {
+            "line": 389,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I sure hope so."
+        },
+        {
+            "line": 390,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Come to think of it. What kind of kid were you, Boss?"
+        },
+        {
+            "line": 391,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "When I was a toddler, I was the kind to always fight with kids bigger than me."
+        },
+        {
+            "line": 392,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Then puberty happened and I became the Merriam-Webster definition of \"shallow jerkwad\"."
+        },
+        {
+            "line": 393,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Around the time I turned 16, I realized what an idiot I was and went on to become who I am today."
+        },
+        {
+            "line": 394,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And the less I talk about those years from 12 to 15, the better."
+        },
+        {
+            "line": 395,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fair enough."
+        },
+        {
+            "line": 396,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Say Boss... how do you like them men?"
+        },
+        {
+            "line": 397,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "2D."
+        },
+        {
+            "line": 398,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "2D?"
+        },
+        {
+            "line": 399,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yes. I don't mind anything as long as that thing is cute or 2D. How about you?"
+        },
+        {
+            "line": 400,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 401,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Back in high school, I liked them funny."
+        },
+        {
+            "line": 402,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "In college, I liked them successful."
+        },
+        {
+            "line": 403,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "After a while, I just wanted them stable, and now..."
+        },
+        {
+            "line": 404,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And now...?"
+        },
+        {
+            "line": 405,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I... don't know."
+        },
+        {
+            "line": 406,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I stopped caring about them being funny."
+        },
+        {
+            "line": 407,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My high school boyfriend started conflating \"cheering me up\" with \"mocking me when I'm down\"."
+        },
+        {
+            "line": 408,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I also stopped caring about them being successful."
+        },
+        {
+            "line": 409,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I realized half the time they had no qualms about cheating with me or on me."
+        },
+        {
+            "line": 410,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And I stopped caring about them being stable."
+        },
+        {
+            "line": 411,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I realized they were the kind of person I was trying not to become."
+        },
+        {
+            "line": 412,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Not become stable?"
+        },
+        {
+            "line": 413,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "There was this guy who became so obsessed with holding a stable job that he hated..."
+        },
+        {
+            "line": 414,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He started being physically ill."
+        },
+        {
+            "line": 415,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not only that. The last time I managed to get some, I ended up throwing the guy out."
+        },
+        {
+            "line": 416,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He took incredible offense with how I smoked on the bed after sex."
+        },
+        {
+            "line": 417,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The bed could catch fire, you know?"
+        },
+        {
+            "line": 418,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not you too..."
+        },
+        {
+            "line": 419,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I kinda envy Alma for that. At least when she dumps a guy it's for... less petty reasons."
+        },
+        {
+            "line": 420,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 421,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 422,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Are you okay?"
+        },
+        {
+            "line": 423,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm fine, it's just... it all boils down to the fact that I can't get my mind off Lenore lately."
+        },
+        {
+            "line": 424,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She was... she was all of what I just said."
+        },
+        {
+            "line": 425,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She made me laugh, she had a good position and was stable."
+        },
+        {
+            "line": 426,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She was also smart, caring and why can't I get my mind off the whole thing?!"
+        },
+        {
+            "line": 427,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's... it's maddening."
+        },
+        {
+            "line": 428,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 429,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe I should go and apologize?"
+        },
+        {
+            "line": 430,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe, I should. Maybe that will make me rest easier at night, get my mind off things for a while."
+        },
+        {
+            "line": 431,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't even care about going back to her, but... but..."
+        },
+        {
+            "line": 432,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Agh!"
+        },
+        {
+            "line": 433,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...hey Jill. Have you tried thinking about clothes for Fore?"
+        },
+        {
+            "line": 434,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Clothes for..."
+        },
+        {
+            "line": 435,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 436,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...heh."
+        },
+        {
+            "line": 437,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Listen, I know how you must feel."
+        },
+        {
+            "line": 438,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "But you can't let all of that cloud your senses."
+        },
+        {
+            "line": 439,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Next time you feel overwhelmed by those thoughts, try distracting yourself."
+        },
+        {
+            "line": 440,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Like with, say... thinking what kind of clothes you can put on Fore."
+        },
+        {
+            "line": 441,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah..."
+        },
+        {
+            "line": 442,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So Jill, what kind of guy was your grandpa?"
+        },
+        {
+            "line": 443,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He was rough around the edges. The kind of guy that means well even if he says otherwise."
+        },
+        {
+            "line": 444,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He seemed to have a soft spot for me, though."
+        },
+        {
+            "line": 445,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "One moment, he was congratulating my dad by berating him a little..."
+        },
+        {
+            "line": 446,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...and the next, he was playing with me."
+        },
+        {
+            "line": 447,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My dad worked a lot and my mom was always traveling, so I spent most of my childhood with him."
+        },
+        {
+            "line": 448,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Can I ask how he died?"
+        },
+        {
+            "line": 449,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Out of old age. My dad says his last words were something like..."
+        },
+        {
+            "line": 450,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"Fucking scientists. Created talking mannequins, but they still can't let you upload your brain...\""
+        },
+        {
+            "line": 451,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why the question?"
+        },
+        {
+            "line": 452,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'm curious about you. Really curious."
+        },
+        {
+            "line": 453,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I just realized that even though we see each other almost every day, I know very little about you."
+        },
+        {
+            "line": 454,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 455,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "From what you tell me though, seems your grandpa's personality rubbed off on you a bit."
+        },
+        {
+            "line": 456,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I've heard that one since I was a kid, actually."
+        },
+        {
+            "line": 457,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You know, Boss, I'm a bit curious about your circle of friends. What kind of people do you have in it?"
+        },
+        {
+            "line": 458,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Keep in mind, you're included in this circle too, so any insults you hurl will apply right back to you."
+        },
+        {
+            "line": 459,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyways. I have this friend I've known for a long time. A red-headed, glasses-wearing gun-nut called Iris."
+        },
+        {
+            "line": 460,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The one you called for the helmet thing?"
+        },
+        {
+            "line": 461,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That one."
+        },
+        {
+            "line": 462,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "She's managing a BTC bar in Panama right now, if I remember correctly."
+        },
+        {
+            "line": 463,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She's managing a bar too?"
+        },
+        {
+            "line": 464,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I got the idea from her, actually."
+        },
+        {
+            "line": 465,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 466,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's called N1-RV Ann-A, and if you thought this city was dangerous..."
+        },
+        {
+            "line": 467,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You should see the people she has to deal with there."
+        },
+        {
+            "line": 468,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Piracy ain't nothing to fuck with."
+        },
+        {
+            "line": 469,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"Ann\" means it's an annex to another business. What else does she do there?"
+        },
+        {
+            "line": 470,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I think the bar was originally her hotel's bar."
+        },
+        {
+            "line": 471,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "She moved the bar to its own building elsewhere and opened N1-RV Ann-B in the hotel instead."
+        },
+        {
+            "line": 472,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Weird decision."
+        },
+        {
+            "line": 473,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I believe she said she wanted a place \"away from the noisy rich tourists that go to the hotel.\""
+        },
+        {
+            "line": 474,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So that bar is her woman cave."
+        },
+        {
+            "line": 475,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Woman cave...)"
+        },
+        {
+            "line": 476,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That aside, let's see... friends, friends..."
+        },
+        {
+            "line": 477,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I guess there's also my little sister, but that's a given."
+        },
+        {
+            "line": 478,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh! There's also my old partner from when I was with the Neo-San Francisco police force."
+        },
+        {
+            "line": 479,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Good ol' Lexi. Should give her a call sometime."
+        },
+        {
+            "line": 480,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Wait, you were in the what?!"
+        },
+        {
+            "line": 481,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I've done lots of things, Jill."
+        },
+        {
+            "line": 482,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I spent a short time collaborating with the police force. I've been a wrestler, an MMA fighter..."
+        },
+        {
+            "line": 483,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Chimney cleaner, lumberjack, pet shop attendant, corporate mascot..."
+        },
+        {
+            "line": 484,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Corporate what?!"
+        },
+        {
+            "line": 485,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I still see my face on some websites from time to time."
+        },
+        {
+            "line": 486,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyways, aside from you, Gil, my sis, Iris and Lexi... hm..."
+        },
+        {
+            "line": 487,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I guess there're a lot of people that don't want to see me in harm's way."
+        },
+        {
+            "line": 488,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...mostly because they're the ones that want to hurt me."
+        },
+        {
+            "line": 489,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What about you?"
+        },
+        {
+            "line": 490,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess I have acquaintances here and there."
+        },
+        {
+            "line": 491,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Back at home and college, I went out a lot."
+        },
+        {
+            "line": 492,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But it felt more like going out was the pleasure, rather than the people involved."
+        },
+        {
+            "line": 493,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Aside from you and Gil, my closest friend since moving here is Alma... oh, and Dorothy."
+        },
+        {
+            "line": 494,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, sure. There's always Fore, but that cat's a hermit that refuses to go out."
+        },
+        {
+            "line": 495,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And you know... he's a cat."
+        },
+        {
+            "line": 496,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey, a cat's fine too, you know?"
+        },
+        {
+            "line": 497,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss. Hey, Boss."
+        },
+        {
+            "line": 498,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 499,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How did you lose your v-card?"
+        },
+        {
+            "line": 500,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "V-huh?"
+        },
+        {
+            "line": 501,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You know, your v-card, your first time, your deflowering."
+        },
+        {
+            "line": 502,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "OOOOOOOOOOH, that. Well..."
+        },
+        {
+            "line": 503,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'm legally bound to not disclose that information."
+        },
+        {
+            "line": 504,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Does that mean you lost it?"
+        },
+        {
+            "line": 505,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Can't disclose that information."
+        },
+        {
+            "line": 506,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Come on, just give me a hint or..."
+        },
+        {
+            "line": 507,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill, bad things will happen for everyone if that info is revealed in ANY way."
+        },
+        {
+            "line": 508,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright, alright... sheesh."
+        },
+        {
+            "line": 509,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I can only say this: the whole thing is related to my mechanical arm."
+        },
+        {
+            "line": 510,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Great, now you're just teasing me."
+        },
+        {
+            "line": 511,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Any reason you want to know that?"
+        },
+        {
+            "line": 512,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, everyone's first time is always a mess, but I've always to know if it was as messy a time as mine."
+        },
+        {
+            "line": 513,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What happened?"
+        },
+        {
+            "line": 514,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, I got all lovey-dovey with my first boyfriend, and when we both got naked, I... pffffft..."
+        },
+        {
+            "line": 515,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...?"
+        },
+        {
+            "line": 516,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "When I saw his pfffffffffft... when I saw his dick I just started lahahahaha! *ahem* I started laughing."
+        },
+        {
+            "line": 517,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What? Got nervous?"
+        },
+        {
+            "line": 518,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Nervous? No! I just find dicks funny!"
+        },
+        {
+            "line": 519,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You... uh?"
+        },
+        {
+            "line": 520,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They're funny, they're pffffffft..."
+        },
+        {
+            "line": 521,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They have a sack attached to them and... heheheheh... and they grow and..."
+        },
+        {
+            "line": 522,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They're just... AHAHAHAHAHA... THEY'RE JUST STUPID MEAT RODS!"
+        },
+        {
+            "line": 523,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 524,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So how did your boyfriend react?"
+        },
+        {
+            "line": 525,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He went flaccid from the laughter and... AHAHAHAHAHA! It just shrunk and went limp."
+        },
+        {
+            "line": 526,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I had to work it out to for a bit so I could control my laughter. But..."
+        },
+        {
+            "line": 527,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's so hard! They're just so stupid! AHAHAHAHAHA!!"
+        },
+        {
+            "line": 528,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Pffffffftt..."
+        },
+        {
+            "line": 529,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*yawn* Heheh..."
+        },
+        {
+            "line": 530,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shtupid... meat... rods..."
+        },
+        {
+            "line": 531,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill?"
+        },
+        {
+            "line": 532,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Zzzzzzzzzz..."
+        },
+        {
+            "line": 533,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Huh."
+        },
+        {
+            "line": 534,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 535,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, let's see how to move her back inside before she catches a cold."
+        },
+        {
+            "line": 536,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay, Boss, I HAVE to know."
+        },
+        {
+            "line": 537,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "About what?"
+        },
+        {
+            "line": 538,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "About your arm!"
+        },
+        {
+            "line": 539,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'd rather not talk about it."
+        },
+        {
+            "line": 540,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Come on! I wanna know how you got it."
+        },
+        {
+            "line": 541,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Fiiiiiiiiiiiiine."
+        },
+        {
+            "line": 542,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yes?"
+        },
+        {
+            "line": 543,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I had to use a couple of favors to get it. I accepted no less than state-of-the-art tech."
+        },
+        {
+            "line": 544,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That's how I got it."
+        },
+        {
+            "line": 545,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's technically correct, but COME OOOOON!"
+        },
+        {
+            "line": 546,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why do you wanna know how I got it?"
+        },
+        {
+            "line": 547,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I just wanna know more about you."
+        },
+        {
+            "line": 548,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're always so cool and awesome and..."
+        },
+        {
+            "line": 549,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Can you at least tell me if it does something cool?"
+        },
+        {
+            "line": 550,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It does have a couple of utilities installed, yeah."
+        },
+        {
+            "line": 551,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "There's a HDD in the forearm I use to save assorted data."
+        },
+        {
+            "line": 552,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It has a flashlight and a clock, but many prosthetic arms have those nowadays. Kinda like watches."
+        },
+        {
+            "line": 553,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How did you feel when you lost it?"
+        },
+        {
+            "line": 554,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "To be honest, I was sad, but I was also satisfied."
+        },
+        {
+            "line": 555,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yeah, I lost my dominant arm, but its sacrifice helped a bigger purpose."
+        },
+        {
+            "line": 556,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "If I had to lose another limb to accomplish such a thing again, I'd totally do it."
+        },
+        {
+            "line": 557,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "But of course, I just hope it doesn't come to that ever again."
+        },
+        {
+            "line": 558,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Now you're just teasing me!"
+        },
+        {
+            "line": 559,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You'll hear nothing else from me, young lady."
+        },
+        {
+            "line": 560,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey Boss... what will you do when the bar closes?"
+        },
+        {
+            "line": 561,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I don't know. Maybe I'll take a friend's offer of working with her."
+        },
+        {
+            "line": 562,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I was also thinking about going back home and helping with things there."
+        },
+        {
+            "line": 563,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Or maybe going travelling for a while."
+        },
+        {
+            "line": 564,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see..."
+        },
+        {
+            "line": 565,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh, but don't worry! Bureaucracy's slow as fuck, so they won't close the bar for quite a while."
+        },
+        {
+            "line": 566,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Better enjoy being there while you can."
+        },
+        {
+            "line": 567,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, maybe..."
+        },
+        {
+            "line": 568,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Will you be visiting me in whatever bar I end up working in?"
+        },
+        {
+            "line": 569,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I have a bone to pick with the guy that supervises the bar I'm planning to get you transferred to."
+        },
+        {
+            "line": 570,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I go there even though I have virtually no reason to."
+        },
+        {
+            "line": 571,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "With you there, I'd have something PLEASANT to look forward to."
+        },
+        {
+            "line": 572,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... you're sending me to someone you have problems with?"
+        },
+        {
+            "line": 573,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "If I have to trust another bar owner, it's certainly him."
+        },
+        {
+            "line": 574,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He's actually a pleasant boss from what I've seen."
+        },
+        {
+            "line": 575,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The fact that he and I have a tendency to go at each other's throats is an unrelated matter."
+        },
+        {
+            "line": 576,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll trust you on that one then."
+        },
+        {
+            "line": 577,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't worry. Maybe I can get you a bracelet made out of wood pieces from the bar's counter or something."
+        },
+        {
+            "line": 578,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... we'll see."
+        },
+        {
+            "line": 579,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey, I'll tell you what."
+        },
+        {
+            "line": 580,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "When the bar closes, let's both take a vacation. Go on a trip! That'll clear your mind a bit."
+        },
+        {
+            "line": 581,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, maybe."
+        }
+    ]

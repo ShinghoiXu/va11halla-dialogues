@@ -1,0 +1,3507 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "script8.txt",
+            "lines": 585,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "G'evening."
+        },
+        {
+            "line": 3,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Ah, hello Jill."
+        },
+        {
+            "line": 4,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "And that cage?"
+        },
+        {
+            "line": 5,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I... um... brought my cat."
+        },
+        {
+            "line": 6,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Your cat?"
+        },
+        {
+            "line": 7,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "DID I HEAR YASUNORI KATO WAS IN THE BAR?!"
+        },
+        {
+            "line": 8,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "BRING ME THAT BASTARD. I'LL GIVE HIM THE FIST OF JUSTICE! I'LL MAKE HIM EAT THE KANTO EARTHQUAKE! I'LL BORROW HIS CAP!"
+        },
+        {
+            "line": 9,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Wait... there are no evil Onmyouji here."
+        },
+        {
+            "line": 10,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss... what the fuck?"
+        },
+        {
+            "line": 11,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Didn't you say you brought Kato to the bar?"
+        },
+        {
+            "line": 12,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My cat. CAT!"
+        },
+        {
+            "line": 13,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, that's even better! Hey Fore!"
+        },
+        {
+            "line": 14,
+            "character": "Fore",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 15,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So cute."
+        },
+        {
+            "line": 16,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why did you bring him?"
+        },
+        {
+            "line": 17,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I heard some apartments in my building were being raided."
+        },
+        {
+            "line": 18,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't have anything suspicious, but you never know. So I'd rather have him here, at least today."
+        },
+        {
+            "line": 19,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ah well, I'd say something about the health regulations, but we already had a pack of Corgis here."
+        },
+        {
+            "line": 20,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Do you want me to take care of him in my office? Please?"
+        },
+        {
+            "line": 21,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure... but he's a bit shy, so..."
+        },
+        {
+            "line": 22,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Alright Fore, let's go to my office."
+        },
+        {
+            "line": 23,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And I think she didn't hear me."
+        },
+        {
+            "line": 24,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Say Gil, how do you always come so early?"
+        },
+        {
+            "line": 25,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I live close by."
+        },
+        {
+            "line": 26,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Really?"
+        },
+        {
+            "line": 27,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Yup, Chief got me a small apartment nearby. Something about the BTC housing program."
+        },
+        {
+            "line": 28,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh yeah, I got mine through that too..."
+        },
+        {
+            "line": 29,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anyways, let's start."
+        },
+        {
+            "line": 30,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Time to mix drinks and change lives."
+        },
+        {
+            "line": 31,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yo! Whazzap!"
+        },
+        {
+            "line": 32,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 33,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Um... lady, did you hear me?"
+        },
+        {
+            "line": 34,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A dog. ANOTHER dog."
+        },
+        {
+            "line": 35,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Hey! I'm not just another dog, I came here as a part-timer!"
+        },
+        {
+            "line": 36,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So you're the part-timer."
+        },
+        {
+            "line": 37,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yeah!"
+        },
+        {
+            "line": 38,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 39,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss! I'm taking my break!"
+        },
+        {
+            "line": 40,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's too early!"
+        },
+        {
+            "line": 41,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shit."
+        },
+        {
+            "line": 42,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* The part-timer is here!"
+        },
+        {
+            "line": 43,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Huh, he came early."
+        },
+        {
+            "line": 44,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why a dog? Why? Why? Why? Why?"
+        },
+        {
+            "line": 45,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Because look at him! He has a Hawaiian shirt! And sunglasses!"
+        },
+        {
+            "line": 46,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And he's a Shiba, not a Corgi. I don't know what you're complaining about."
+        },
+        {
+            "line": 47,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(They all look the same to me.)"
+        },
+        {
+            "line": 48,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Granted, Shibas could be seen as the Japanese counterpart to Corgis."
+        },
+        {
+            "line": 49,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "They're both funny-looking and dogs used by the royalty."
+        },
+        {
+            "line": 50,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyways. Starting today, this dog will help around here."
+        },
+        {
+            "line": 51,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "My name is..."
+        },
+        {
+            "line": 52,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "IT DOESN'T MATTER WHAT YOUR NAME IS."
+        },
+        {
+            "line": 53,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...Boss, please don't shout."
+        },
+        {
+            "line": 54,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Sorry."
+        },
+        {
+            "line": 55,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Just call him Rad Shiba."
+        },
+        {
+            "line": 56,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why Rad Shiba?"
+        },
+        {
+            "line": 57,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What part of Hawaiian shirt and sunglasses don't you get? He's the raddest thing here!"
+        },
+        {
+            "line": 58,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Thanks!"
+        },
+        {
+            "line": 59,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Anyways, he will mostly help getting orders, bringing clients in and cleaning, but he ought to know how things work."
+        },
+        {
+            "line": 60,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Cleaning? That'd be a change of pace."
+        },
+        {
+            "line": 61,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He'll act like a client and see how you work."
+        },
+        {
+            "line": 62,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... right."
+        },
+        {
+            "line": 63,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What can I get you?"
+        },
+        {
+            "line": 64,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I'll have a Grizzly Temple."
+        },
+        {
+            "line": 65,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 66,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Are you okay?"
+        },
+        {
+            "line": 67,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, just a couple of post-traumatic flashbacks."
+        },
+        {
+            "line": 68,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Coming right up."
+        },
+        {
+            "line": 69,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 70,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Wow! This is awful!"
+        },
+        {
+            "line": 71,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "People actually pay for this shit?"
+        },
+        {
+            "line": 72,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hard to believe, I know."
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 74,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Man, alcohol sucks."
+        },
+        {
+            "line": 75,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And yet you looked up a job at a bar."
+        },
+        {
+            "line": 76,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you are."
+        },
+        {
+            "line": 77,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Alcohol isn't so bad after all!"
+        },
+        {
+            "line": 78,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Maybe because that didn't have any.)"
+        },
+        {
+            "line": 79,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So... what brings a dog like you to taking a part-time job here?"
+        },
+        {
+            "line": 80,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I'm here to help the funding of my organization."
+        },
+        {
+            "line": 81,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you with the Seifar Toy Company?"
+        },
+        {
+            "line": 82,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "What? No! Don't lump me with those Herding Supremacists."
+        },
+        {
+            "line": 83,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I have a more noble and benign organization. I belong to CIRA."
+        },
+        {
+            "line": 84,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "CIRA?"
+        },
+        {
+            "line": 85,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Canine Independent Rescue Association."
+        },
+        {
+            "line": 86,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "We give a place where dogs can be dogs and save them from themselves."
+        },
+        {
+            "line": 87,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "CIRA is what I love, but, damn is it expensive sometimes."
+        },
+        {
+            "line": 88,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "We decided to take part-time jobs to help fund anything it needs."
+        },
+        {
+            "line": 89,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "We want to help CIRA be the best it can be."
+        },
+        {
+            "line": 90,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What do you do at CIRA?"
+        },
+        {
+            "line": 91,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Pay treatment for hurt dogs, give food to the hungry ones, play with the bored ones..."
+        },
+        {
+            "line": 92,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "We're there for everyone."
+        },
+        {
+            "line": 93,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh... that actually sounds nice."
+        },
+        {
+            "line": 94,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Say, do you have a menu?"
+        },
+        {
+            "line": 95,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Something like that, yeah. Here."
+        },
+        {
+            "line": 96,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Now, let's see..."
+        },
+        {
+            "line": 97,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Any recommendations?"
+        },
+        {
+            "line": 98,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Avoid the part with \"Promo\" drinks."
+        },
+        {
+            "line": 99,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Oh, the Grizzly Temple is one of those."
+        },
+        {
+            "line": 100,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Fluffy Dream? I like the sound of this one."
+        },
+        {
+            "line": 101,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Coming right up."
+        },
+        {
+            "line": 102,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fluffy Dream."
+        },
+        {
+            "line": 103,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Well, this one's nice."
+        },
+        {
+            "line": 104,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 105,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Hey! This doesn't look like the glass in the menu."
+        },
+        {
+            "line": 106,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... dogs see things differently."
+        },
+        {
+            "line": 107,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yeah, that must be it."
+        },
+        {
+            "line": 108,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, why did you pick a bar?"
+        },
+        {
+            "line": 109,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "It seemed fun."
+        },
+        {
+            "line": 110,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I didn't need that many weird skills to be part of this so it was my best bet."
+        },
+        {
+            "line": 111,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Besides, it's close to home, so I can get here by walking."
+        },
+        {
+            "line": 112,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "And I do love me some walks. I could walk all day!"
+        },
+        {
+            "line": 113,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Weird skills?"
+        },
+        {
+            "line": 114,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yeah, stuff like \"food handler's certificate\", \"previous work experience\", or \"thumbs\"."
+        },
+        {
+            "line": 115,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 116,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Why did you pick a bar?"
+        },
+        {
+            "line": 117,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... On a whim too, I guess."
+        },
+        {
+            "line": 118,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I wanted a place where I could see people come and go all the time."
+        },
+        {
+            "line": 119,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And bartending sounded a bit more glamorous than just being a store clerk."
+        },
+        {
+            "line": 120,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Oh yeah. About the way you mix stuff."
+        },
+        {
+            "line": 121,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah?"
+        },
+        {
+            "line": 122,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Is it-... hey..."
+        },
+        {
+            "line": 123,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "It's a cat! A cat!"
+        },
+        {
+            "line": 124,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey Fore, weren't you in Boss' office?"
+        },
+        {
+            "line": 125,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Hello cat! Wanna play? Let's play!"
+        },
+        {
+            "line": 126,
+            "character": "Fore",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 127,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Didn't dogs hate cats or something?"
+        },
+        {
+            "line": 128,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "We don't hate them - unless they're intruders."
+        },
+        {
+            "line": 129,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 130,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "You said his name was Fore? Hello Fore! Let's play!"
+        },
+        {
+            "line": 131,
+            "character": "Fore",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 132,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No playing allowed, you'll make a mess. Fore, go back to Boss' office."
+        },
+        {
+            "line": 133,
+            "character": "Fore",
+            "type": "dialogue",
+            "text": "Meow."
+        },
+        {
+            "line": 134,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "That's one obedient cat."
+        },
+        {
+            "line": 135,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My pride."
+        },
+        {
+            "line": 136,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You want something else?"
+        },
+        {
+            "line": 137,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yeah, but I'll talk with John-face here for a bit."
+        },
+        {
+            "line": 138,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 139,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright."
+        },
+        {
+            "line": 140,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* (I shouldn't get riled up so easily by dogs, but... I'm just tired, I guess.)"
+        },
+        {
+            "line": 141,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Hello Jill!"
+        },
+        {
+            "line": 142,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh?! T-That voice..."
+        },
+        {
+            "line": 143,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Se-... eh?"
+        },
+        {
+            "line": 144,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "W-What happened to you?!"
+        },
+        {
+            "line": 145,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Nice seeing you too!"
+        },
+        {
+            "line": 146,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Well, I fell from a really tall place to a really rough spot."
+        },
+        {
+            "line": 147,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you okay? Do you need an ambulance or something?"
+        },
+        {
+            "line": 148,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I just got out of one, don't worry."
+        },
+        {
+            "line": 149,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How did you manage to slip by the mobs lynching White Knights?"
+        },
+        {
+            "line": 150,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "It was a bit rough. Luckily these bandages helped me conceal my identity! Heheh..."
+        },
+        {
+            "line": 151,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why come straight here?"
+        },
+        {
+            "line": 152,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I..."
+        },
+        {
+            "line": 153,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "The ambulance where I got treatment couldn't stray too far away from the hospital."
+        },
+        {
+            "line": 154,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "They're nice people, I've talked to them a lot while on rescue duties."
+        },
+        {
+            "line": 155,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I was nearby and yours was the closest friendly face I could find."
+        },
+        {
+            "line": 156,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I needed to regain my composure before doing anything else, so... here I am."
+        },
+        {
+            "line": 157,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Um... if you're scared because they might come for me I can leave, you know?"
+        },
+        {
+            "line": 158,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The security systems of the bar are top-notch, and my boss is also the bouncer of sorts here."
+        },
+        {
+            "line": 159,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'd say you're actually safer here. So I'm not worried about me."
+        },
+        {
+            "line": 160,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Instead I'm... worried about you."
+        },
+        {
+            "line": 161,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "First I hear you were at the bank, then I find out you \"disappeared\"."
+        },
+        {
+            "line": 162,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And now you show up with all those bandages."
+        },
+        {
+            "line": 163,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you fine? What happened at that bank exactly?"
+        },
+        {
+            "line": 164,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you talk with Stella? She was worried sick about you!"
+        },
+        {
+            "line": 165,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Slow... Slow down a bit... The medications make me feel everything more intensely, almost like a hangover."
+        },
+        {
+            "line": 166,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "S-Sorry."
+        },
+        {
+            "line": 167,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "It's nice to know someone like a bartender was worried about me though. Thanks."
+        },
+        {
+            "line": 168,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Everyone I know has been ignoring me, so I was feeling lonely."
+        },
+        {
+            "line": 169,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why would they?"
+        },
+        {
+            "line": 170,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Well, you've seen the lynches they give to any White Knight they find."
+        },
+        {
+            "line": 171,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "By ignoring me, they're actually saving me from getting kicked to death."
+        },
+        {
+            "line": 172,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "My good deeds finally paid off, I guess... heheh..."
+        },
+        {
+            "line": 173,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Can I get you anything?"
+        },
+        {
+            "line": 174,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Um... something sweet without alcohol."
+        },
+        {
+            "line": 175,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Thank god these pants still had my wallet in them."
+        },
+        {
+            "line": 176,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh no, I couldn't take your money right now. It's on the-..."
+        },
+        {
+            "line": 177,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Jill, please. I wanna pay for my drinks."
+        },
+        {
+            "line": 178,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I take it I won't be able to change your mind."
+        },
+        {
+            "line": 179,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Nope. I mean yes. I mean... You won't be able to change my mind."
+        },
+        {
+            "line": 180,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...sweet and no alcohol, right? Coming right up."
+        },
+        {
+            "line": 181,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Careful."
+        },
+        {
+            "line": 182,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Yay! This'll help me calm down a bit."
+        },
+        {
+            "line": 183,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 184,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "It burns a bit..."
+        },
+        {
+            "line": 185,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 186,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, what happened to you? Where did you fall from?"
+        },
+        {
+            "line": 187,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I was escaping the place near the end of the whole thing, and I had to make a leap of faith."
+        },
+        {
+            "line": 188,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I've jumped from higher places, but I landed badly here."
+        },
+        {
+            "line": 189,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Most of my injuries are actually from some debris that fell on me."
+        },
+        {
+            "line": 190,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Oh, but my broken arm is actually from the fall."
+        },
+        {
+            "line": 191,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How?"
+        },
+        {
+            "line": 192,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I rolled to mitigate the fall, but I made a bad move and broke it."
+        },
+        {
+            "line": 193,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Good thing I drink lots of milk!"
+        },
+        {
+            "line": 194,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 195,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I was under rubble for quite a bit, but luckily someone found me."
+        },
+        {
+            "line": 196,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"Someone\"?"
+        },
+        {
+            "line": 197,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I woke up in the hospital, they told me some guy brought me there."
+        },
+        {
+            "line": 198,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I don't know who he was, but I owe him my life."
+        },
+        {
+            "line": 199,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 200,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "W-What?"
+        },
+        {
+            "line": 201,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "N-Nothing, you just sound um... cheerful."
+        },
+        {
+            "line": 202,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I'm alive! Why wouldn't I be?"
+        },
+        {
+            "line": 203,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "After all that happened at the bank, here I am, talking to you. Being able to talk at all."
+        },
+        {
+            "line": 204,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 205,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Don't think too much about it. I'm fine! I'm totallyfi-owowowowowow..."
+        },
+        {
+            "line": 206,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 207,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Eh... um..."
+        },
+        {
+            "line": 208,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "H-How were things around here? I heard there was a huge commotion when the whole thing happened."
+        },
+        {
+            "line": 209,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I had to sleep here in the bar on Saturday, but I guess it could've been worse."
+        },
+        {
+            "line": 210,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Glad to know that."
+        },
+        {
+            "line": 211,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you contact Stella? She was on the verge of despair yesterday."
+        },
+        {
+            "line": 212,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Eh... um..."
+        },
+        {
+            "line": 213,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "H-Hey Jill! I want another drink! A... uh... um... a Bleeding Jane!"
+        },
+        {
+            "line": 214,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 215,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...here."
+        },
+        {
+            "line": 216,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "C-Cheers! Nf..."
+        },
+        {
+            "line": 217,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 218,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 219,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Phew..."
+        },
+        {
+            "line": 220,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Thanks!"
+        },
+        {
+            "line": 221,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah..."
+        },
+        {
+            "line": 222,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 223,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Eh... um..."
+        },
+        {
+            "line": 224,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I-I'll save it for later."
+        },
+        {
+            "line": 225,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 226,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So... how were things inside the bank?"
+        },
+        {
+            "line": 227,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "*cough* *cough* Come again?"
+        },
+        {
+            "line": 228,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What happened inside the bank? How did you manage to get through it?"
+        },
+        {
+            "line": 229,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Um... I was with this nice bunch of people. Well... they were apparently nice at the very least."
+        },
+        {
+            "line": 230,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "We tried our best to find a way out of the whole thing, cracking through the security, finding safe spots."
+        },
+        {
+            "line": 231,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "But then..."
+        },
+        {
+            "line": 232,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 233,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 234,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry for asking all that, it was obviously over the line."
+        },
+        {
+            "line": 235,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "N-No, don't worry about it. It's just the analgesics still numbing me."
+        },
+        {
+            "line": 236,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I'll take my leave now. Thank you for everything, Jill."
+        },
+        {
+            "line": 237,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you alright?"
+        },
+        {
+            "line": 238,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I'm fine, I'm fine."
+        },
+        {
+            "line": 239,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 240,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 241,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "That girl saw some awful things inside that bank."
+        },
+        {
+            "line": 242,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "The sight of desperate people stuck in one building is enough to scar anyone."
+        },
+        {
+            "line": 243,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe I shouldn't have said all that?"
+        },
+        {
+            "line": 244,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, if it's true that she just woke up and ended up here..."
+        },
+        {
+            "line": 245,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know, I feel like I was being too pushy."
+        },
+        {
+            "line": 246,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "That's not something I can measure."
+        },
+        {
+            "line": 247,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You were just worried. I bet she's just still in shock."
+        },
+        {
+            "line": 248,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah."
+        },
+        {
+            "line": 249,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... Gil..."
+        },
+        {
+            "line": 250,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Want me to make sure she's fine on her way?"
+        },
+        {
+            "line": 251,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please."
+        },
+        {
+            "line": 252,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Alright."
+        },
+        {
+            "line": 253,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll go and take my break now."
+        },
+        {
+            "line": 254,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 255,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh? Weren't you leaving?"
+        },
+        {
+            "line": 256,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Yeah, I was but... well..."
+        },
+        {
+            "line": 257,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "You know how I just said I was fine?"
+        },
+        {
+            "line": 258,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah?"
+        },
+        {
+            "line": 259,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I-I'm not."
+        },
+        {
+            "line": 260,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "So I wanted to know if you could lend me your ear for a bit."
+        },
+        {
+            "line": 261,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, I was gonna take my break..."
+        },
+        {
+            "line": 262,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Oh sorry..."
+        },
+        {
+            "line": 263,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, What I mean is that I could lend you an ear if you don't mind going to the back alley for a bit."
+        },
+        {
+            "line": 264,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Y-Yeah, please..."
+        },
+        {
+            "line": 265,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Want one?"
+        },
+        {
+            "line": 266,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Sorry, I haven't smoked since high school."
+        },
+        {
+            "line": 267,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "But don't mind me though. Smoke ahead."
+        },
+        {
+            "line": 268,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 269,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So... why me?"
+        },
+        {
+            "line": 270,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "You're the closest friend I have nearby that isn't avoiding me and.. and I think I'm about to explode."
+        },
+        {
+            "line": 271,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why?"
+        },
+        {
+            "line": 272,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "B-B-Because I'm afraid! I'm terrified! I'm scared!"
+        },
+        {
+            "line": 273,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "My colonel was using me when I made that errand, he saw me as a disposable pawn!"
+        },
+        {
+            "line": 274,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Then the whole thing got closed at the bank."
+        },
+        {
+            "line": 275,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "We were stuck there with no food or water for three days!"
+        },
+        {
+            "line": 276,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I-I saw a man be beaten to death after he found some snack in his pocket... that... that..."
+        },
+        {
+            "line": 277,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I... I..."
+        },
+        {
+            "line": 278,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 279,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "When I was in rescue duties I usually dealt with collapsing buildings, fire, that kind of stuff."
+        },
+        {
+            "line": 280,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "B-But seeing people do that to other people is just..."
+        },
+        {
+            "line": 281,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I... *sniff* I..."
+        },
+        {
+            "line": 282,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Calm down, nobody will hurt you here."
+        },
+        {
+            "line": 283,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "You sure?"
+        },
+        {
+            "line": 284,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll make sure of it, just... take deep breaths."
+        },
+        {
+            "line": 285,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 286,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I can't even imagine what happened there. And truth be told, I don't want to imagine it."
+        },
+        {
+            "line": 287,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But it's easy to tell you bottled up everything while you were there."
+        },
+        {
+            "line": 288,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Is it obvious?"
+        },
+        {
+            "line": 289,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Kinda."
+        },
+        {
+            "line": 290,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Well, I had to get outta there. Fear would've only gotten in the way."
+        },
+        {
+            "line": 291,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "And besides, I made a promise to come back to..."
+        },
+        {
+            "line": 292,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Err..."
+        },
+        {
+            "line": 293,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright, what's the deal with Stella?"
+        },
+        {
+            "line": 294,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Nothing, I'm just..."
+        },
+        {
+            "line": 295,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Afraid?"
+        },
+        {
+            "line": 296,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "The word loses meaning after using it so much in so little time."
+        },
+        {
+            "line": 297,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "She should've been worried sick, and I couldn't call her after I came back. I'm afraid of what she will say."
+        },
+        {
+            "line": 298,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She will insult you, she looks like that kind of girl."
+        },
+        {
+            "line": 299,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But I'm betting all I have that she will be quickly happy that you're fine and alive."
+        },
+        {
+            "line": 300,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Yeah... you're right."
+        },
+        {
+            "line": 301,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Think about it this way: A slap or despair for what's left of her life."
+        },
+        {
+            "line": 302,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "I wouldn't pretend to disappear, I mean..."
+        },
+        {
+            "line": 303,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Besides, from what you tell me you're pretty much only coming to your senses today, right?"
+        },
+        {
+            "line": 304,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Yeah."
+        },
+        {
+            "line": 305,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "It's weird how everything can change in such a short notice, you know?"
+        },
+        {
+            "line": 306,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "On Thursday I was a girl doing her duties minding only her own business."
+        },
+        {
+            "line": 307,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Now I'm injured and woke up to find out I can't go back to those duties."
+        },
+        {
+            "line": 308,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Part of me is happy, I knew full well White Knights usually did more harm than good."
+        },
+        {
+            "line": 309,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "On the other hand, I really loved my job. Now I'm stuck with nothing to do."
+        },
+        {
+            "line": 310,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I know how that is. The life changing on such short notice part, I mean."
+        },
+        {
+            "line": 311,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Really?"
+        },
+        {
+            "line": 312,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I would tell you why I know that, but I think you should go see Stella right now."
+        },
+        {
+            "line": 313,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Yeah, you're right."
+        },
+        {
+            "line": 314,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Speaking of which... Hey Gil!"
+        },
+        {
+            "line": 315,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 316,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do me a favor and escort Sei to... wherever she needs to go, please."
+        },
+        {
+            "line": 317,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Only if you cover my share of the work."
+        },
+        {
+            "line": 318,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, yeah..."
+        },
+        {
+            "line": 319,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Okay then. Let's go Miss."
+        },
+        {
+            "line": 320,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "R-Right!"
+        },
+        {
+            "line": 321,
+            "character": "Sei",
+            "type": "dialogue",
+            "text": "Thank you for hearing me out, Jill!"
+        },
+        {
+            "line": 322,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anytime."
+        },
+        {
+            "line": 323,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*whew* Hope everything goes alright."
+        },
+        {
+            "line": 324,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, hey Jamie."
+        },
+        {
+            "line": 325,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 326,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... Jamie..."
+        },
+        {
+            "line": 327,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Ah Jill. Gillian isn't here I see."
+        },
+        {
+            "line": 328,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you alright? You look distracted."
+        },
+        {
+            "line": 329,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "I'm fine, don't worry."
+        },
+        {
+            "line": 330,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If you say so."
+        },
+        {
+            "line": 331,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jiiiiiiiill! Where do I take Fore if he needs to use the bathroom?"
+        },
+        {
+            "line": 332,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The cage has a small litter box included!"
+        },
+        {
+            "line": 333,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oooooh, that's convenient!"
+        },
+        {
+            "line": 334,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Fore?"
+        },
+        {
+            "line": 335,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fore's my cat. Some apartments in my building are being inspected today..."
+        },
+        {
+            "line": 336,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So I brought him to work in case they enter my place while I'm gone."
+        },
+        {
+            "line": 337,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Ah, I see."
+        },
+        {
+            "line": 338,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What can I get you?"
+        },
+        {
+            "line": 339,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "The usual Gut Punch."
+        },
+        {
+            "line": 340,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Coming right up."
+        },
+        {
+            "line": 341,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 342,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "I thought when someone ordered a Gut Punch, you had to make a joke..."
+        },
+        {
+            "line": 343,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "...about giving the client a punch to the stomach or something."
+        },
+        {
+            "line": 344,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh, that? In theory, yeah. Gil's the only one that pays attention to that though."
+        },
+        {
+            "line": 345,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Really?"
+        },
+        {
+            "line": 346,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He didn't receive proper training, he read an old manual my boss had."
+        },
+        {
+            "line": 347,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "There WAS some sort of stipulation mentioning the need to say puns."
+        },
+        {
+            "line": 348,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But seems like it was some sort of anti-counterfeit measure."
+        },
+        {
+            "line": 349,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, if they copied such a silly stipulation, they'd be caught in the act."
+        },
+        {
+            "line": 350,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Like when the dictionaries added fake words to spot if someone else just copied all of it?"
+        },
+        {
+            "line": 351,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 352,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Why not tell him that?"
+        },
+        {
+            "line": 353,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's too amusing, to be honest."
+        },
+        {
+            "line": 354,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 355,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Yeah, this'll do."
+        },
+        {
+            "line": 356,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you are."
+        },
+        {
+            "line": 357,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Seems you're distracted too."
+        },
+        {
+            "line": 358,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A bit, yeah."
+        },
+        {
+            "line": 359,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, what's on your mind that's distracting you so much?"
+        },
+        {
+            "line": 360,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Nothing you should think about too much."
+        },
+        {
+            "line": 361,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "It's like those times you just feel uneasy for no good reason."
+        },
+        {
+            "line": 362,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You might have actual reasons to feel that way though."
+        },
+        {
+            "line": 363,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Come to think of it, \"mercenary\" is quite the uncommon occupation, wouldn't you say?"
+        },
+        {
+            "line": 364,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "I like to see what I do as bounty hunting actually."
+        },
+        {
+            "line": 365,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How so?"
+        },
+        {
+            "line": 366,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "The only jobs I don't take are those where I have to deal with people who just happened to be in the wrong place."
+        },
+        {
+            "line": 367,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "There are some people willing to pay to off someone that has done no wrong."
+        },
+        {
+            "line": 368,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Things like killing someone that owns a house in the way of some building, or a nosy reporter."
+        },
+        {
+            "line": 369,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "I'm not better for turning a blind eye to such requests, but I'm not gonna be the one dealing with those."
+        },
+        {
+            "line": 370,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The bounty hunter part comes where?"
+        },
+        {
+            "line": 371,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "If I'm sent to kill someone that has done something like stealing or killing and I get paid for it..."
+        },
+        {
+            "line": 372,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "You could see it as bounty hunting."
+        },
+        {
+            "line": 373,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I guess."
+        },
+        {
+            "line": 374,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "It's just cheap justifications for killing people though. In the end they're cheap."
+        },
+        {
+            "line": 375,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "However, I won't be one to kill for petty reasons like those."
+        },
+        {
+            "line": 376,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "But let's change the subject here. I'll have something bitter if you don't mind."
+        },
+        {
+            "line": 377,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh? Sure."
+        },
+        {
+            "line": 378,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 379,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Ah yes..."
+        },
+        {
+            "line": 380,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You just reminded me of my grandpa."
+        },
+        {
+            "line": 381,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He used to eat Bronson roots every afternoon. He said they made him stronger."
+        },
+        {
+            "line": 382,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Bronson roots have more nutrients per gram than most vitamin supplements."
+        },
+        {
+            "line": 383,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Your grandpa knew what he was doing."
+        },
+        {
+            "line": 384,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 385,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "This is close, yeah."
+        },
+        {
+            "line": 386,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 387,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Sure, if I put my mind on it I might feel the Bronson taste but..."
+        },
+        {
+            "line": 388,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "S-Sorry."
+        },
+        {
+            "line": 389,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "It seems I always manage to make you uncomfortable, Jill. Sorry."
+        },
+        {
+            "line": 390,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, no. Don't worry."
+        },
+        {
+            "line": 391,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Although I guess it's mostly because I can't wrap my mind around the whole \"taking a human life\" thing."
+        },
+        {
+            "line": 392,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Knowing you've killed people and are now talking to me here? It's... weird."
+        },
+        {
+            "line": 393,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It reminds me of when I first took sex ed classes."
+        },
+        {
+            "line": 394,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I couldn't wrap my mind around people doing that stuff and living normally."
+        },
+        {
+            "line": 395,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Unlike with sex ed, it's better that you stay that way, mind you."
+        },
+        {
+            "line": 396,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Taking lives is not something you should get used to."
+        },
+        {
+            "line": 397,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Ah yes, I know a good way to change the subject a bit."
+        },
+        {
+            "line": 398,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Would you like to hear about the most dangerous bounty hunter in the city?"
+        },
+        {
+            "line": 399,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The way you said that was like offering a tale to a bored kid. But yeah, I'd like to hear that one."
+        },
+        {
+            "line": 400,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "You see, there was actually a bounty hunter organization in this city not too long ago."
+        },
+        {
+            "line": 401,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Law enforcement would put a price on a dangerous person's head and pay for the proof of that person's death."
+        },
+        {
+            "line": 402,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "There was a guy everyone called Jet Black James. He got the nickname because he always wore black clothes."
+        },
+        {
+            "line": 403,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "The interesting thing was that the black clothes were there to hide blood stains he got from his contracts."
+        },
+        {
+            "line": 404,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "His tracking skills were top-notch, his information network was the best."
+        },
+        {
+            "line": 405,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Some even joked he would finish the bounty within half an hour, or he wouldn't take the reward."
+        },
+        {
+            "line": 406,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "...he was too good, in fact."
+        },
+        {
+            "line": 407,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "At one point he took all bounties and didn't take a single reward. He was just that crazy by then."
+        },
+        {
+            "line": 408,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "The last bounty that the organization ever posted was on James' head."
+        },
+        {
+            "line": 409,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "The police had him cornered. His last words were \"Send it all to my account\" before shooting himself."
+        },
+        {
+            "line": 410,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Damn... why hasn't that been made into a movie?"
+        },
+        {
+            "line": 411,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So... there were no more bounties after that?"
+        },
+        {
+            "line": 412,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "A registered bounty hunter was charged with many counts of manslaughter using his old targets as proof."
+        },
+        {
+            "line": 413,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "If somebody else tried to recreate the organization, the seed of doubt would grow in little to no time."
+        },
+        {
+            "line": 414,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "What guarantee is there that such an organization wouldn't actually be a trap?"
+        },
+        {
+            "line": 415,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "They could use the registered bounty hunters to take care of the most bothersome criminals..."
+        },
+        {
+            "line": 416,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "And then dispose of the bounty hunters by pressing charges using their targets as evidence."
+        },
+        {
+            "line": 417,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "So... no. Jet Black James made sure that no law enforcement organization is able to set up bounty hunting of any kind."
+        },
+        {
+            "line": 418,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Ever since then, anyone crazy enough to be a bounty hunter works independently."
+        },
+        {
+            "line": 419,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Were you part of that organization?"
+        },
+        {
+            "line": 420,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "I've actually had those suspicions I'm telling you about since the day I heard such a thing exists."
+        },
+        {
+            "line": 421,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Glad to know I wasn't just paranoid."
+        },
+        {
+            "line": 422,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know how well you changed the subject, but that was certainly one interesting story."
+        },
+        {
+            "line": 423,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just to make sure. You're not a rebuilt Jet Black James or something, right?"
+        },
+        {
+            "line": 424,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "The name James is pretty common, Jill."
+        },
+        {
+            "line": 425,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Besides, if I remember correctly, his real name was actually Theodore."
+        },
+        {
+            "line": 426,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 427,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "That story left my throat a bit dry. Get me a Beer, please."
+        },
+        {
+            "line": 428,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 429,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 430,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "One of mankind's oldest friends. Cheers."
+        },
+        {
+            "line": 431,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 432,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "It... tastes watered down."
+        },
+        {
+            "line": 433,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...here."
+        },
+        {
+            "line": 434,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Jill, get your mind out of that story and focus, please."
+        },
+        {
+            "line": 435,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry."
+        },
+        {
+            "line": 436,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "One obvious thing I see is that you don't take the use of the word \"kill\" in your stride the way Gillian does."
+        },
+        {
+            "line": 437,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm not good with violence."
+        },
+        {
+            "line": 438,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "That's good."
+        },
+        {
+            "line": 439,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "It's interesting though. When I compare you two, it's obvious Gillian has seen quite the share of traumatic stuff."
+        },
+        {
+            "line": 440,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That guy's a handful because of that sometimes."
+        },
+        {
+            "line": 441,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Still, he's one of the most reliable people I've ever met."
+        },
+        {
+            "line": 442,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Where is he, by the way?"
+        },
+        {
+            "line": 443,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I asked him to keep an eye on a girl that came here earlier."
+        },
+        {
+            "line": 444,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I feel that if something happened, he could resolve the situation."
+        },
+        {
+            "line": 445,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "His nose must be itching after we talked so much about him."
+        },
+        {
+            "line": 446,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Yeah, maybe."
+        },
+        {
+            "line": 447,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Well, I've got to go."
+        },
+        {
+            "line": 448,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Send my regards to your boss and Gillian."
+        },
+        {
+            "line": 449,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Will do."
+        },
+        {
+            "line": 450,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Man, today's been quite heavy."
+        },
+        {
+            "line": 451,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Everyone-..."
+        },
+        {
+            "line": 452,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...wait."
+        },
+        {
+            "line": 453,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(If I say it out loud, I feel like I will just tempt fate.)"
+        },
+        {
+            "line": 454,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(...but let's try it anyways.)"
+        },
+        {
+            "line": 455,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Everyone has just been gloomy face after gloomy face... and that dog."
+        },
+        {
+            "line": 456,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I sure hope the next client changes that."
+        },
+        {
+            "line": 457,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "So you still work here?"
+        },
+        {
+            "line": 458,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I KNEW IT! Err... I mean..."
+        },
+        {
+            "line": 459,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Quite the surprise to see you here again, Mr. Ingram."
+        },
+        {
+            "line": 460,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Got out of my job, I needed a drink badly, and I remembered this crackhouse was nearby."
+        },
+        {
+            "line": 461,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What can I get you then?"
+        },
+        {
+            "line": 462,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I'll have a Bleeding Jane."
+        },
+        {
+            "line": 463,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "On it."
+        },
+        {
+            "line": 464,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 465,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Tastes just like the pasta sauce my mom used to make."
+        },
+        {
+            "line": 466,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Watered down, artificial, and nasty."
+        },
+        {
+            "line": 467,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 468,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Here we go again. Don't worry, I'm actually in a not-foul mood for a change."
+        },
+        {
+            "line": 469,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Riiiiiight.)"
+        },
+        {
+            "line": 470,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 471,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "This works too, I guess."
+        },
+        {
+            "line": 472,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 473,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Aaaaaaaaand we're up to a good start."
+        },
+        {
+            "line": 474,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, where do you work, Mr. Ingram?"
+        },
+        {
+            "line": 475,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I don't have a specific job, but there's this... well... \"network\" of engineers in need of assistants."
+        },
+        {
+            "line": 476,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I have no idea what they do there, but I can follow instructions and that's all they need."
+        },
+        {
+            "line": 477,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Recently I've been working with this Sylia girl working on some experimental powered suits."
+        },
+        {
+            "line": 478,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "My only duty is to give them maintenance once a day."
+        },
+        {
+            "line": 479,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What's that about a \"network\"?"
+        },
+        {
+            "line": 480,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "All those nerds know each other and they recommend me."
+        },
+        {
+            "line": 481,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I don't ask questions and quickly learn to do whatever they need."
+        },
+        {
+            "line": 482,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh, sounds nice."
+        },
+        {
+            "line": 483,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "It's pretty monotonous at times though."
+        },
+        {
+            "line": 484,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Why are you giving me that look?"
+        },
+        {
+            "line": 485,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're just more cheerful than the last time you came."
+        },
+        {
+            "line": 486,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "We all have good days and bad days. Today just so happens to be a not-bad day."
+        },
+        {
+            "line": 487,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Besides, with everyone scared shitless in their houses, the streets are clear with no traffic jams."
+        },
+        {
+            "line": 488,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "That's always a plus."
+        },
+        {
+            "line": 489,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess..."
+        },
+        {
+            "line": 490,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I feel curious though, what's your stance on the whole Apollo Trust Bank thing?"
+        },
+        {
+            "line": 491,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "One corrupt organization showed its true colors..."
+        },
+        {
+            "line": 492,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "And now the other corrupt organizations are saving face condemning them."
+        },
+        {
+            "line": 493,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "The whole thing feels almost cartoony in how they went full villain after the cat got out of the bag."
+        },
+        {
+            "line": 494,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "The whole deal with Alice_Rabbit's intervention at the bank made it feel more like a crazy PR stunt, though."
+        },
+        {
+            "line": 495,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know, sometimes life is just that weird."
+        },
+        {
+            "line": 496,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Yeah, like you know anything about life."
+        },
+        {
+            "line": 497,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 498,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "It almost became a bad day though, thanks to some teens on the way here."
+        },
+        {
+            "line": 499,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What did they do?"
+        },
+        {
+            "line": 500,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "It's not what they did, it's what they said."
+        },
+        {
+            "line": 501,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "They were talking about how they should just go to Zaibatsu Corp's HQ and blow it up."
+        },
+        {
+            "line": 502,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I've seen one too many kids throwing around that \"let's kill the king\" attitude when it comes to Zaibatsu Crap."
+        },
+        {
+            "line": 503,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Even if Zaibatsu Corp's building suddenly went down, the ones behind it would be still alive."
+        },
+        {
+            "line": 504,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Killing the head honcho just means his or her duties go to the next rimjobber on the totem."
+        },
+        {
+            "line": 505,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Hell, I bet they're plotting to kill each other anyways."
+        },
+        {
+            "line": 506,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Kids these days see too many action films where the rebels save the day by killing the \"Evil Corporation\"."
+        },
+        {
+            "line": 507,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't let it get to you."
+        },
+        {
+            "line": 508,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I don't, I just hate teenagers."
+        },
+        {
+            "line": 509,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's interesting though. A big corporation in control is somehow more dangerous than a regular government."
+        },
+        {
+            "line": 510,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I wouldn't know. I'm not a political person."
+        },
+        {
+            "line": 511,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(No shit.)"
+        },
+        {
+            "line": 512,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Alright. Give me a Zen Star, and try not to mess it up."
+        },
+        {
+            "line": 513,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Coming right up."
+        },
+        {
+            "line": 514,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 515,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Yes, it's just as nasty as I've heard."
+        },
+        {
+            "line": 516,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why order it then?"
+        },
+        {
+            "line": 517,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Not your problem."
+        },
+        {
+            "line": 518,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 520,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 521,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "This is nasty, but not the nasty I was looking for."
+        },
+        {
+            "line": 522,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 523,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "...I'll let you off the hook this time."
+        },
+        {
+            "line": 524,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 525,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "And you managed to mess it up! Bravo!"
+        },
+        {
+            "line": 526,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 527,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "So, where's the Red Comet?"
+        },
+        {
+            "line": 528,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My boss? She..."
+        },
+        {
+            "line": 529,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill, Fore's headed your way!"
+        },
+        {
+            "line": 530,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Let's play, Fore! Let's play!"
+        },
+        {
+            "line": 531,
+            "character": "Fore",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 532,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Oh! A customer. Sorry for the intrusion."
+        },
+        {
+            "line": 533,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "You have a dog here? And a cat?"
+        },
+        {
+            "line": 534,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The cat's mine, his name's Fore. The dog just... hangs around here."
+        },
+        {
+            "line": 535,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Heh, I remember my daughter wanted a cat."
+        },
+        {
+            "line": 536,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I told her she couldn't have one but she went and fed some stray that passed by the house."
+        },
+        {
+            "line": 537,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Mozart, she called him."
+        },
+        {
+            "line": 538,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Even after all these years, that cat still passes by the house from time to time."
+        },
+        {
+            "line": 539,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Hunts a couple of birds, sleeps in a tree on the yard and leaves."
+        },
+        {
+            "line": 540,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "My wife is devils-know-where and my daughter is playing with her grandparents."
+        },
+        {
+            "line": 541,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "How pathetic can I be when the only creature that hasn't left me is some fucking stray cat?!"
+        },
+        {
+            "line": 542,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 543,
+            "character": "Fore",
+            "type": "dialogue",
+            "text": "Meow."
+        },
+        {
+            "line": 544,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "What? Are you a stray too?"
+        },
+        {
+            "line": 545,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He is."
+        },
+        {
+            "line": 546,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Figures."
+        },
+        {
+            "line": 547,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Alright, I'm gonna take my leave here."
+        },
+        {
+            "line": 548,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I don't like eating or drinking surrounded by animals and that cat."
+        },
+        {
+            "line": 549,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please come again."
+        },
+        {
+            "line": 550,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "As if."
+        },
+        {
+            "line": 551,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You still came back though."
+        },
+        {
+            "line": 552,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "He looked cool."
+        },
+        {
+            "line": 553,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shut up and leave."
+        },
+        {
+            "line": 554,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "He looks well groomed and his fur looks healthy."
+        },
+        {
+            "line": 555,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Seems you take good care of him."
+        },
+        {
+            "line": 556,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You seem to know a lot about cats."
+        },
+        {
+            "line": 557,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "No, that's just common sense."
+        },
+        {
+            "line": 558,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do you like cats, Mr. Ingram?"
+        },
+        {
+            "line": 559,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "I don't dislike them."
+        },
+        {
+            "line": 560,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "But I do dislike having animals near me when I'm eating or drinking."
+        },
+        {
+            "line": 561,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "So... I'll take my leave."
+        },
+        {
+            "line": 562,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please come again."
+        },
+        {
+            "line": 563,
+            "character": "Ingram",
+            "type": "dialogue",
+            "text": "Don't count on it."
+        },
+        {
+            "line": 564,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You said that last time."
+        },
+        {
+            "line": 565,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Congratulations, you scared a client off."
+        },
+        {
+            "line": 566,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Fore's as guilty as me."
+        },
+        {
+            "line": 567,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, but I like Fore. He's my baby."
+        },
+        {
+            "line": 568,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Now go. Play or something."
+        },
+        {
+            "line": 569,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Right!"
+        },
+        {
+            "line": 570,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, you're back. What happened with Sei?"
+        },
+        {
+            "line": 571,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "That Cat Boomer girl picked her up."
+        },
+        {
+            "line": 572,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I couldn't see anything, but I guess she was happy."
+        },
+        {
+            "line": 573,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Glad to hear that."
+        },
+        {
+            "line": 574,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Did I miss something?"
+        },
+        {
+            "line": 575,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Only Jamie and... some other guy came."
+        },
+        {
+            "line": 576,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I see."
+        },
+        {
+            "line": 577,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You look exhausted."
+        },
+        {
+            "line": 578,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yesterday was filled with people carrying heavy emotional baggage."
+        },
+        {
+            "line": 579,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't mind it, but dealing with them tired me out a little bit."
+        },
+        {
+            "line": 580,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I actually found myself wanting Dorothy to burst out of that door at any moment."
+        },
+        {
+            "line": 581,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "So you missed Dorothy?"
+        },
+        {
+            "line": 582,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Kinda."
+        },
+        {
+            "line": 583,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But anyway! Nothing a good night of sleep can't fix."
+        },
+        {
+            "line": 584,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Let's just wrap things up around here and call it a day."
+        },
+        {
+            "line": 585,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Too much heavy stuff lately.)"
+        }
+    ]

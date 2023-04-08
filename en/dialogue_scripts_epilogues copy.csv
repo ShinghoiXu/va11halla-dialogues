@@ -1,0 +1,202 @@
+line,filename,lines,type,character,text
+0,epilogues.txt,201,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,"This is good, really good."
+3,undefined,undefined,dialogue,Jill,You have no idea how long I've wanted some curry.
+4,undefined,undefined,dialogue,Jill,"I remember I meant to eat some, but then I had to pay for some drinks I spilled on the floor."
+5,undefined,undefined,dialogue,Jill,That screwed up my budget.
+6,undefined,undefined,dialogue,Virgilio,It's the least I can do after being such an obnoxious client.
+7,undefined,undefined,dialogue,Jill,"Yeah, about that. Mind if I ask something? Mister... Timothy Mercury."
+8,undefined,undefined,dialogue,Virgilio,So you know?
+9,undefined,undefined,dialogue,Jill,It's a small city. Turns out two very grateful girls soon became regulars and both of them were related to you.
+10,undefined,undefined,dialogue,Virgilio,"So what's your question, Bartender?"
+11,undefined,undefined,dialogues,Jill,Call me Jill.
+12,undefined,undefined,dialogue,Jill,"Two questions, actually."
+13,undefined,undefined,dialogue,Jill,"The first one is, why did they brand you as a traitor? Because you killed the other guy?"
+14,undefined,undefined,dialogue,Jill,I don't know. It sounds weird considering the other guy assaulted two little girls.
+15,undefined,undefined,dialogue,Virgilio,It was a cover up.
+16,undefined,undefined,dialogue,Virgilio,The guy was my superior.
+17,undefined,undefined,dialogue,Virgilio,"A high-ranking officer like him, assaulting innocent civilians? That would be unthinkable... on paper at least."
+18,undefined,undefined,dialogue,Virgilio,"On record, I hurt the girls and killed him before another unit subdued me, then I escaped from their custody."
+19,undefined,undefined,dialogue,Virgilio,In reality...
+20,undefined,undefined,dialogue,Jill,...
+21,undefined,undefined,dialogue,Jill,That's all I needed to know. Sorry for bringing that up.
+22,undefined,undefined,dialogue,Virgilio,Didn't you have another question?
+23,undefined,undefined,dialogue,Jill,Yeah. How did you build this restaurant so fast?
+24,undefined,undefined,dialogue,Virgilio,It's a small city. Turns out two very grateful girls tracked me down to thank me.
+25,undefined,undefined,dialogue,Virgilio,One of them was rich and the other noticed I smelled like curry.
+26,undefined,undefined,dialogue,Jill,"Heh... those two are really nice girls, huh?"
+27,undefined,undefined,dialogue,Virgilio,They didn't deserve what that bastard did to them.
+28,undefined,undefined,dialogue,Stella,Excuse me...
+29,undefined,undefined,dialogue,Virgilio,"Oh, speaking of the angels."
+30,undefined,undefined,dialogue,Sei,"Timmy! Two special curries, please."
+31,undefined,undefined,dialogue,Sei,"Oh, hi Jill!"
+32,undefined,undefined,dialogue,Stella,Oh god! I can't believe I'm actually here! The concert will begin any second now!
+33,undefined,undefined,dialogue,Stella,KYAAAAAAAAAAAAAAH!!
+34,undefined,undefined,dialogue,Jill,"Wow, I've never seen her so openly excited before."
+35,undefined,undefined,dialogue,Sei,Don't talk too loudly or you'll startle her.
+36,undefined,undefined,dialogue,Sei,It's always nice to see her so happy she doesn't give a damn and lets herself go.
+37,undefined,undefined,dialogue,Jill,You sure you don't mind me?
+38,undefined,undefined,dialogue,Sei,Of course not! That way I won't be the only one with little clue as to what's going on!
+39,undefined,undefined,dialogue,Sei,Is it true that you've served this *Kira* Miki girl at the bar?
+40,undefined,undefined,dialogue,Jill,As amazing as it sounds.
+41,undefined,undefined,dialogue,Jill,Really nice girl... If a bit oblivious to the risk some people represent.
+42,undefined,undefined,dialogue,Sei,How so?
+43,undefined,undefined,dialogue,Jill,She doesn't mind stalkers and such.
+44,undefined,undefined,dialogue,Sei,Oh.
+45,undefined,undefined,dialogue,Jill,How's your wounds?
+46,undefined,undefined,dialogue,Sei,"Arm's doing fine, eye's healing nicely, and I can sleep better at night."
+47,undefined,undefined,dialogue,Jill,Just what transpired inside that bank?
+48,undefined,undefined,dialogue,Sei,It's not important anymore.
+49,undefined,undefined,dialogue,Sei,What's important is that Stella will get me a job after I heal!
+50,undefined,undefined,dialogue,Jill,She will?
+51,undefined,undefined,dialogue,Sei,She's rebuilding a new armor set for me and wants me to be her bodyguard.
+52,undefined,undefined,dialogue,Sei,I'd be paid for something I do anyways and I'll get to spend more time with her!
+53,undefined,undefined,dialogue,Jill,That's nice.
+54,undefined,undefined,dialogue,Sei,"I'd like to spread out and help more people, but it's a nice start."
+55,undefined,undefined,dialogue,Jill,"You want to be a vigilante, then?"
+56,undefined,undefined,dialogue,Sei,Maybe.
+57,undefined,undefined,dialogue,Stella,KYAAAAAAAH!! SHE'S COMING OUT! IT'S HER! IT'S ACTUALLY HER!
+58,undefined,undefined,dialogue,Sei,"Look, it started."
+59,undefined,undefined,dialogue,*Kira* Miki,"Are you here, Jill? This song is for you!"
+60,undefined,undefined,dialogue,Jill,...what?
+61,undefined,undefined,dialogue,Dorothy,"So yeah, the guy had a fantasy about a woman castrating him."
+62,undefined,undefined,dialogue,Dorothy,"I tried for an hour to convince him it's a bad idea, and I finally got to him."
+63,undefined,undefined,dialogue,Dorothy,"We finally move to the bedroom, and it turns out the guy has a weird implant where his testicles should be."
+64,undefined,undefined,dialogue,Dorothy,It's basically a removable ball sack!
+65,undefined,undefined,dialogue,Dorothy,I suppose the guy really liked that fantasy and made sure he could live it out properly.
+66,undefined,undefined,dialogue,Anna,"I once saw a guy at the hospital in the emergency room, after having been castrated to fulfill a fantasy."
+67,undefined,undefined,dialogue,Anna,I wonder if it's the same guy.
+68,undefined,undefined,dialogue,Jill,"I have enough problems with just one, you know?"
+69,undefined,undefined,dialogue,Dorothy,Just one what?
+70,undefined,undefined,dialogue,Jill,Eh... um...
+71,undefined,undefined,dialogue,Anna,Heheh...
+72,undefined,undefined,dialogue,Jill,With just listening to one of your anecdotes.
+73,undefined,undefined,dialogue,Jill,"You told me about the Neo-Tijuana thing, and now this. Don't you have a more... subdued story?"
+74,undefined,undefined,dialogue,Anna,"Come on Jo, you're an adult. You can take that much."
+75,undefined,undefined,dialogue,Jill,(Shut up.)
+76,undefined,undefined,dialogue,Dorothy,Well...
+77,undefined,undefined,dialogue,Dorothy,"Last time I spoke with my mom, I asked her the story of her daughter. Turns out her name was Anna."
+78,undefined,undefined,dialogue,Jill,Huh...
+79,undefined,undefined,dialogue,Anna,And now you pretend it's a surprise?
+80,undefined,undefined,dialogue,Jill,(Quiet you.)
+81,undefined,undefined,dialogue,Dorothy,She fought against Nanomachine Rejection for most of her life.
+82,undefined,undefined,dialogue,Dorothy,She even lost a girlfriend she made in the hospital to that same sickness.
+83,undefined,undefined,dialogue,Anna,...
+84,undefined,undefined,dialogue,Dorothy,"Apparently sometime after she got out of treatment, a truck hit her and killed her."
+85,undefined,undefined,dialogue,Dorothy,"But even then, she was amazing!"
+86,undefined,undefined,dialogue,Jill,She was?
+87,undefined,undefined,dialogue,Anna,Eh?
+88,undefined,undefined,dialogue,Dorothy,Yeah! She kept up her studies while still in the hospital! She was a self-taught honor student!
+89,undefined,undefined,dialogue,Dorothy,"Not only that, but she also ranked among the top five candidates in at least three college admission exams!"
+90,undefined,undefined,dialogue,Dorothy,She also played the piano and guitar!
+91,undefined,undefined,dialogue,Anna,"Well, being confined to a room does that, I guess."
+92,undefined,undefined,dialogue,Dorothy,"I mean, fully able-bodied people can barely do half of that..."
+93,undefined,undefined,dialogue,Dorothy,But she practically accomplished all that by herself!
+94,undefined,undefined,dialogue,Dorothy,"And she also beat Nanomachine Rejection! A disease that only 2% of humans suffer, and even less survive."
+95,undefined,undefined,dialogue,Dorothy,It took a trucking truck to take her down. She was great! And to think I'm sort of like her sister...
+96,undefined,undefined,dialogue,Jill,...
+97,undefined,undefined,dialogue,Anna,Heh... silly Becky.
+98,undefined,undefined,dialogue,Dorothy,"Honey, did you say something?"
+99,undefined,undefined,dialogue,Anna,...!
+100,undefined,undefined,dialogue,Jill,Hm? I did not.
+101,undefined,undefined,dialogue,Dorothy,"Weird, I swear I heard somebody call me ""Silly Becky""."
+102,undefined,undefined,dialogue,Jill,...!
+103,undefined,undefined,dialogue,Jill,Come again?
+104,undefined,undefined,dialogue,Dorothy,"It's not uncommon for me to hear stuff from far away and think I've heard it nearby, but..."
+105,undefined,undefined,dialogue,Dorothy,"You're the only one nearby that knows my real name, so it was weird."
+106,undefined,undefined,dialogue,Dorothy,"Oh well. As I was saying, the ballsack guy..."
+107,undefined,undefined,dialogue,Jill,I can't believe you actually made me do that sleepover thing.
+108,undefined,undefined,dialogue,Alma,"You didn't have to accept, you know?"
+109,undefined,undefined,dialogue,Jill,Shut up...
+110,undefined,undefined,dialogue,Gaby,I'm having a good time!
+111,undefined,undefined,dialogue,Alma,See? Even Gaby is having fun. Relax a bit!
+112,undefined,undefined,dialogue,Jill,"Yeah, whatever."
+113,undefined,undefined,dialogue,Gaby,"You know, Alma. You remind me a bit of my sis."
+114,undefined,undefined,dialogue,Alma,I do? How?
+115,undefined,undefined,dialogue,Gaby,You always manage to get a reaction from Jill.
+116,undefined,undefined,dialogue,Gaby,Sis always said that Jill acknowledging your presence is the best way to know she likes you.
+117,undefined,undefined,dialogue,Jill,"You're talking too much, Gaby."
+118,undefined,undefined,dialogue,Alma,Aww...
+119,undefined,undefined,dialogue,Gaby,"It's different with you, though."
+120,undefined,undefined,dialogue,Gaby,"With my sis, Jill was more... frustrated."
+121,undefined,undefined,dialogue,Gaby,Like this one time where she bought her a shirt that...
+122,undefined,undefined,dialogue,Jill,"You're talking too much, little girl."
+123,undefined,undefined,dialogue,Alma,A shirt that what?
+124,undefined,undefined,dialogue,Gaby,That had a pic of a cucumber on it!
+125,undefined,undefined,dialogue,Alma,Cucumber?
+126,undefined,undefined,dialogue,Jill,U-Um... OW! Just what are you doing with my hair?
+127,undefined,undefined,dialogue,Alma,"Sorry, it got stuck in one of my fingers."
+128,undefined,undefined,dialogue,Jill,Seriously...
+129,undefined,undefined,dialogue,Alma,So I'm a bit like Lenore then?
+130,undefined,undefined,dialogue,Gaby,"N-No, you just remind me of her a bit."
+131,undefined,undefined,dialogue,Gaby,"Moreover, my sister wasn't as... um... as..."
+132,undefined,undefined,dialogue,Alma,As...?
+133,undefined,undefined,dialogue,Jill,"Ass. What this girl is trying to say is that with your tits and ass, you could build a Lenore and a half out of the mass."
+134,undefined,undefined,dialogue,Alma,That just means there's enough to share with both of you.
+135,undefined,undefined,dialogue,Gaby,S-Share?!
+136,undefined,undefined,dialogue,Jill,"...you're talking too much, Alma."
+137,undefined,undefined,dialogue,Gillian,"I guess this is where we part ways, huh?"
+138,undefined,undefined,dialogue,Gillian,"Sadly, I'm bound to this city. I can only falsify my identity effectively around here."
+139,undefined,undefined,dialogue,Gillian,"I really want to thank you, Chief, for this second chance you gave me."
+140,undefined,undefined,dialogue,Gillian,"If we ever cross paths again, I-..."
+141,undefined,undefined,dialogue,Dana,"Gil, we're leaving for like, a week and a half or something. Don't be so dramatic."
+142,undefined,undefined,dialogue,Gillian,But I...
+143,undefined,undefined,dialogue,Dana,AND you're taking care of my apartment. We WILL cross paths because I live there.
+144,undefined,undefined,dialogue,Dana,The time you spend setting up a useless farewell could be used asking me things about the place.
+145,undefined,undefined,dialogue,Dana,Like where the switches and valves are.
+146,undefined,undefined,dialogue,Gillian,But I already know. They're in that control panel you made.
+147,undefined,undefined,dialogue,Dana,But I like talking about that control panel. I'm proud of it.
+148,undefined,undefined,dialogue,Dana,Speaking of obsessive likes...
+149,undefined,undefined,dialogue,Dana,Jill! Stop calling Armitage! She'll take care of your Fore Ball just fine.
+150,undefined,undefined,dialogue,Jill,"I'm not worried about him, I'm worried about me!"
+151,undefined,undefined,dialogue,Jill,I've never been away from Fore this long. I don't what I'll do!
+152,undefined,undefined,dialogue,Dana,You'll do just fine. You did pretty well for at least 25 years before finding him.
+153,undefined,undefined,dialogue,Jill,"Yes, but..."
+154,undefined,undefined,dialogue,Dana,WE'RE LEAVING!
+155,undefined,undefined,dialogue,Dana,"Oh yeah, before I forget."
+156,undefined,undefined,dialogue,Dana,"I left you a box of condoms on the first drawer of the desk, Gil."
+157,undefined,undefined,dialogue,Gillian,You what?!
+158,undefined,undefined,dialogue,Jill,You what?
+159,undefined,undefined,dialogue,Dana,"Hey, if he wants to bring his new girlfriend or whatever here, I want him to be ready!"
+160,undefined,undefined,dialogue,Dana,"Oh, but just one condition. If you're gonna fuck like rabbits, stay away from my room."
+161,undefined,undefined,dialogue,Dana,I have too many pics of my imouto there and I don't want their eyes soiled.
+162,undefined,undefined,dialogue,Jill,Imowho?
+163,undefined,undefined,dialogue,Dana,Little sister.
+164,undefined,undefined,dialogue,Jill,Then just say little sister.
+165,undefined,undefined,dialogue,Dana,"Yeah, whatever."
+166,undefined,undefined,dialogue,Dana,"First stop, Panama!"
+167,undefined,undefined,dialogue,Jill,Sigh. To think I'd be evicted...
+168,undefined,undefined,dialogue,Alma,They are pretty ruthless. They don't even allow you to skip one month?
+169,undefined,undefined,dialogue,Jill,"I... was two months late already, actually."
+170,undefined,undefined,dialogue,Alma,"*sigh* Jill, Jill..."
+171,undefined,undefined,dialogue,Alma,"At least it wasn't because you spent too much money on useless stuff, right?"
+172,undefined,undefined,dialogue,Jill,...
+173,undefined,undefined,dialogue,Alma,...right?
+174,undefined,undefined,dialogue,Jill,About that...
+175,undefined,undefined,dialogue,Alma,Forget it. I don't wanna hear.
+176,undefined,undefined,dialogue,Alma,Let's go to sleep. Tomorrow you'll regroup and think what to do next.
+177,undefined,undefined,dialogue,Jill,Y-Yeah...
+178,undefined,undefined,dialogue,Jill,Thanks for letting me stay here by the -- WHOA! Your bed is huge!
+179,undefined,undefined,dialogue,Alma,A Queen size. Considering I lived with a guy for at least four years...
+180,undefined,undefined,dialogue,Alma,"It can get lonely, but also really comfortable. Just like single life I guess."
+181,undefined,undefined,dialogue,Alma,"Hope you don't mind sleeping with me, but there's not enough space for the futon in here."
+182,undefined,undefined,dialogue,Jill,"I haven't slept in a mattress in... fuck, over two years now."
+183,undefined,undefined,dialogue,Alma,That can be good for your back.
+184,undefined,undefined,dialogue,Jill,And bad for my morale.
+185,undefined,undefined,dialogue,Jill,"Anyways, good night."
+186,undefined,undefined,dialogue,Alma,Nighty night.
+187,undefined,undefined,dialogue,None,...
+188,undefined,undefined,dialogue,Jill,...
+189,undefined,undefined,dialogue,Jill,...
+190,undefined,undefined,dialogue,Jill,(It's hot in here.)
+191,undefined,undefined,dialogue,Jill,(Having her hug me certainly doesn't help.)
+192,undefined,undefined,dialogue,Jill,...
+193,undefined,undefined,dialogue,Jill,"(I don't wanna wake her up either, she looks so comfortable right now.)"
+194,undefined,undefined,dialogue,Jill,*sigh*
+195,undefined,undefined,dialogue,Jill,(I wonder if Boss would've let me crash in her place.)
+196,undefined,undefined,dialogue,Jill,...
+197,undefined,undefined,dialogue,Jill,"(Oh well, let's just try to sleep a bit and...)"
+198,undefined,undefined,dialogue,Fore,...
+199,undefined,undefined,dialogue,Jill,"(No Fore, go away.)"
+200,undefined,undefined,dialogue,Jill,"(No, you piece of fur don't you dare sleep on my fa-...)"
+201,undefined,undefined,dialogue,Jill,MMMMPH.

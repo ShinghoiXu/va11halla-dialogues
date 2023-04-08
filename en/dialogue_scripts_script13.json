@@ -1,0 +1,4695 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "script13.txt",
+            "lines": 782,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Alright then, rules are simple. If you get picked, you pick either Truth or Dare."
+        },
+        {
+            "line": 3,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "After you finish, you get to pick somebody else."
+        },
+        {
+            "line": 4,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "We go like that until food's done."
+        },
+        {
+            "line": 5,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "What about punishment games?"
+        },
+        {
+            "line": 6,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Those are a hassle. Just issue new questions or challenges until the other person complies."
+        },
+        {
+            "line": 7,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That said... Jill!"
+        },
+        {
+            "line": 8,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "YES?!"
+        },
+        {
+            "line": 9,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You start. Pick someone."
+        },
+        {
+            "line": 10,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh... um..."
+        },
+        {
+            "line": 11,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Let's see..."
+        },
+        {
+            "line": 12,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay. Boss..."
+        },
+        {
+            "line": 13,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I pick Dare."
+        },
+        {
+            "line": 14,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Dare? Uh..."
+        },
+        {
+            "line": 15,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Suplex Gil."
+        },
+        {
+            "line": 16,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Suplex who?"
+        },
+        {
+            "line": 17,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "SUCKAAAAAAAAAAAAAH!"
+        },
+        {
+            "line": 18,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "AGH!"
+        },
+        {
+            "line": 19,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Alright! Gillian Kneute! Get up!"
+        },
+        {
+            "line": 20,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Ouch... Who?"
+        },
+        {
+            "line": 21,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Truth or Dare?"
+        },
+        {
+            "line": 22,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm... Dare?"
+        },
+        {
+            "line": 23,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I dare you to lift Jamie with one hand!"
+        },
+        {
+            "line": 24,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...you just wanted to ask me something right? Okay then. Truth."
+        },
+        {
+            "line": 25,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Did you or did you not have a brief stint as bodyguard to a certain Madame Laverne six years ago?"
+        },
+        {
+            "line": 26,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Huh? Six years ago?"
+        },
+        {
+            "line": 27,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I don't think so. I don't even know any Madame Laverne."
+        },
+        {
+            "line": 28,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Alright, that's one possibility off the list."
+        },
+        {
+            "line": 29,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 30,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Alright then... um..."
+        },
+        {
+            "line": 31,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Me! Pick me!"
+        },
+        {
+            "line": 32,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You, the dog."
+        },
+        {
+            "line": 33,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Come on!"
+        },
+        {
+            "line": 34,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Dare! I dare you!"
+        },
+        {
+            "line": 35,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "No, I'm the one that dares you."
+        },
+        {
+            "line": 36,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Bring it on!"
+        },
+        {
+            "line": 37,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... roll."
+        },
+        {
+            "line": 38,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Sir! Yes sir!"
+        },
+        {
+            "line": 39,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You're not rolling."
+        },
+        {
+            "line": 40,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Sir! Yes sir!"
+        },
+        {
+            "line": 41,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...whatever, you did it."
+        },
+        {
+            "line": 42,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Woohoo!"
+        },
+        {
+            "line": 43,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Alright, J! Truth or Dare?"
+        },
+        {
+            "line": 44,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...truth."
+        },
+        {
+            "line": 45,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Are those things on your head your ears?"
+        },
+        {
+            "line": 46,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My... eh?"
+        },
+        {
+            "line": 47,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Your twintails."
+        },
+        {
+            "line": 48,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah. No, they're not."
+        },
+        {
+            "line": 49,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Oh, I see."
+        },
+        {
+            "line": 50,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 51,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well then, Dorothy."
+        },
+        {
+            "line": 52,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Yes!"
+        },
+        {
+            "line": 53,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Truth or Dare?"
+        },
+        {
+            "line": 54,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Let's go with... Truth!"
+        },
+        {
+            "line": 55,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Is there anything you have rejected from clients?"
+        },
+        {
+            "line": 56,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Those who want to roleplay with mutilation."
+        },
+        {
+            "line": 57,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 58,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I mean sure, I can take off my limbs with no problem. I have to do that for maintenance every now and again."
+        },
+        {
+            "line": 59,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "But I'm not okay with doing it for clients. Because first: that leaves me defenseless, which I cannot allow by any means."
+        },
+        {
+            "line": 60,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "And second: Half of the time, the roleplay involves a violent scenario."
+        },
+        {
+            "line": 61,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "And there are some behaviours I won't reinforce, namely non-consensual violence of any kind."
+        },
+        {
+            "line": 62,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Interesting."
+        },
+        {
+            "line": 63,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Alright then. My turn."
+        },
+        {
+            "line": 64,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "You! Sweater pups!"
+        },
+        {
+            "line": 65,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Me?"
+        },
+        {
+            "line": 66,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Truth or Dare?"
+        },
+        {
+            "line": 67,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Um... Dare?"
+        },
+        {
+            "line": 68,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Man, you're brave... or stupid."
+        },
+        {
+            "line": 69,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Okay, I want you to say in the most sultry voice you can muster: \"admin override\"."
+        },
+        {
+            "line": 70,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Okay...?"
+        },
+        {
+            "line": 71,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "*ahem*"
+        },
+        {
+            "line": 72,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Admin... Override."
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 74,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Happy?"
+        },
+        {
+            "line": 75,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Yes, very."
+        },
+        {
+            "line": 76,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Seems you caused some collateral damage here."
+        },
+        {
+            "line": 77,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 78,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I-I don't know what you're talking about."
+        },
+        {
+            "line": 79,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't mind me."
+        },
+        {
+            "line": 80,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Seriously guys?"
+        },
+        {
+            "line": 81,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Well, let's see..."
+        },
+        {
+            "line": 82,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "You, the dog."
+        },
+        {
+            "line": 83,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "My name is..."
+        },
+        {
+            "line": 84,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Yeah, whatever. I want you to bark."
+        },
+        {
+            "line": 85,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I haven't picked dare."
+        },
+        {
+            "line": 86,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I said: Bark."
+        },
+        {
+            "line": 87,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Bark!"
+        },
+        {
+            "line": 88,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I asked you to do it. Not to say it."
+        },
+        {
+            "line": 89,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Bark! Barking!"
+        },
+        {
+            "line": 90,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Hey! If I bark, then I'm the king of the bar! 'cause I'm barking!"
+        },
+        {
+            "line": 91,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*pffft*"
+        },
+        {
+            "line": 92,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Seriously, Jill?"
+        },
+        {
+            "line": 93,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, yeah. I have a lame sense of humor. Whatever."
+        },
+        {
+            "line": 94,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Alright, my turn!"
+        },
+        {
+            "line": 95,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Hey J! Truth or Dare?"
+        },
+        {
+            "line": 96,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... Dare."
+        },
+        {
+            "line": 97,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Then... pet me!"
+        },
+        {
+            "line": 98,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll pick Truth."
+        },
+        {
+            "line": 99,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Okay... why are your nails so thin?"
+        },
+        {
+            "line": 100,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My... eh?"
+        },
+        {
+            "line": 101,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Your nails! You won't be able to dig with such flimsy nails!"
+        },
+        {
+            "line": 102,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... all humans have nails like these."
+        },
+        {
+            "line": 103,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Wait, they do?"
+        },
+        {
+            "line": 104,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "How do you dig?"
+        },
+        {
+            "line": 105,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "With shovels."
+        },
+        {
+            "line": 106,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "You guys are weird."
+        },
+        {
+            "line": 107,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why are you so reluctant to pet him?"
+        },
+        {
+            "line": 108,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Call it a gut feeling."
+        },
+        {
+            "line": 109,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay then, dog."
+        },
+        {
+            "line": 110,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yes!"
+        },
+        {
+            "line": 111,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I dare you to go out and stay there."
+        },
+        {
+            "line": 112,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "That's easy!"
+        },
+        {
+            "line": 113,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 114,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And that's one problem less."
+        },
+        {
+            "line": 115,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 116,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, why don't you continue in the dog's place, Dorothy."
+        },
+        {
+            "line": 117,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Alright!"
+        },
+        {
+            "line": 118,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I dare you, Dana, to pick up honey and carry her like a bride!"
+        },
+        {
+            "line": 119,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Alright."
+        },
+        {
+            "line": 120,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Wait, what?!"
+        },
+        {
+            "line": 121,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Come, Jill. Get up."
+        },
+        {
+            "line": 122,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...!"
+        },
+        {
+            "line": 123,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 124,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "(You're welcome.)"
+        },
+        {
+            "line": 125,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh, shut up."
+        },
+        {
+            "line": 126,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Okay then, Jill."
+        },
+        {
+            "line": 127,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yes?!"
+        },
+        {
+            "line": 128,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Truth or Dare?"
+        },
+        {
+            "line": 129,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... dare?"
+        },
+        {
+            "line": 130,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I want you to say..."
+        },
+        {
+            "line": 131,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...yes?"
+        },
+        {
+            "line": 132,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "\"How can a clam cram in a clean cream can?\""
+        },
+        {
+            "line": 133,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...eh?"
+        },
+        {
+            "line": 134,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's a tongue twister. Say it."
+        },
+        {
+            "line": 135,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 136,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"How can a clam cram in a clean cream can?\""
+        },
+        {
+            "line": 137,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Faster!"
+        },
+        {
+            "line": 138,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"How can a clam cram in a clean cream can?\" \"How can a clam cram in a clean cream can?\""
+        },
+        {
+            "line": 139,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You make it seem so easy..."
+        },
+        {
+            "line": 140,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "\"How can a clam clam-...\" Damn."
+        },
+        {
+            "line": 141,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "\"How can a clam cram in a crean-...\" Agh!"
+        },
+        {
+            "line": 142,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "\"How can a cram-...\" Oops."
+        },
+        {
+            "line": 143,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Wait, Lilim get confused by tongue twisters?)"
+        },
+        {
+            "line": 144,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... Boss."
+        },
+        {
+            "line": 145,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yes?"
+        },
+        {
+            "line": 146,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You can drop me now."
+        },
+        {
+            "line": 147,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh, right."
+        },
+        {
+            "line": 148,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm... Alma."
+        },
+        {
+            "line": 149,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Let's go with Truth."
+        },
+        {
+            "line": 150,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What's the most uncomfortable thing that has happened to those arms of yours?"
+        },
+        {
+            "line": 151,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Uncomfortable..."
+        },
+        {
+            "line": 152,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "They get stuck a lot on clothes and fibers. Sometimes the joints get jammed with cloth."
+        },
+        {
+            "line": 153,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just how much of those arms are mechanical, anyway?"
+        },
+        {
+            "line": 154,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Less than you think. The only things I truly lost were my hands."
+        },
+        {
+            "line": 155,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "The arm muscles are still mine, albeit with some enhancements."
+        },
+        {
+            "line": 156,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "And my skin doesn't grow on them. They're covered by the plates."
+        },
+        {
+            "line": 157,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "It's more an enhancement than a replacement, really."
+        },
+        {
+            "line": 158,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh."
+        },
+        {
+            "line": 159,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Well then..."
+        },
+        {
+            "line": 160,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Hey Boss!"
+        },
+        {
+            "line": 161,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Me?"
+        },
+        {
+            "line": 162,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Truth or Dare?"
+        },
+        {
+            "line": 163,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Dare me. I dare you."
+        },
+        {
+            "line": 164,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Hm... Use an Argentine Backbreaker on Nick."
+        },
+        {
+            "line": 165,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Surely."
+        },
+        {
+            "line": 166,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "NIIIIIIIIIIIIIIIIIIICK!!!"
+        },
+        {
+            "line": 167,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "whoAAAAAAAGH!!"
+        },
+        {
+            "line": 168,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I give! I give!"
+        },
+        {
+            "line": 169,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Only after you answer this."
+        },
+        {
+            "line": 170,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "What?!"
+        },
+        {
+            "line": 171,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Does the name Joseph Valentine ring any bells?"
+        },
+        {
+            "line": 172,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I know of a Joseph Shine, but not Valentine."
+        },
+        {
+            "line": 173,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Joseph Shine... alright then..."
+        },
+        {
+            "line": 174,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...I guess it's my turn, um..."
+        },
+        {
+            "line": 175,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hey, Chief. Can you drop me?"
+        },
+        {
+            "line": 176,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh, right."
+        },
+        {
+            "line": 177,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 178,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hey, Jill. Truth or Dare?"
+        },
+        {
+            "line": 179,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll pick Dare."
+        },
+        {
+            "line": 180,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Pet the dog."
+        },
+        {
+            "line": 181,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, whatever."
+        },
+        {
+            "line": 182,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "C'mere, mutt."
+        },
+        {
+            "line": 183,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yes! Come on! Pet me harder! Is that all you've got?!"
+        },
+        {
+            "line": 184,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, fuck you."
+        },
+        {
+            "line": 185,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay then, Gil. What do you pick?"
+        },
+        {
+            "line": 186,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... truth."
+        },
+        {
+            "line": 187,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What's your last name?"
+        },
+        {
+            "line": 188,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Dare! I pick Dare!"
+        },
+        {
+            "line": 189,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 190,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Try to make a Sugar Rush with your eyes closed."
+        },
+        {
+            "line": 191,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Alright."
+        },
+        {
+            "line": 192,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 193,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 194,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "This is a Beer..."
+        },
+        {
+            "line": 195,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, it works... I think."
+        },
+        {
+            "line": 196,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "My turn, right? Well..."
+        },
+        {
+            "line": 197,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Me! Pick me!"
+        },
+        {
+            "line": 198,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You, the dog."
+        },
+        {
+            "line": 199,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Come on!"
+        },
+        {
+            "line": 200,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Dare! I dare you!"
+        },
+        {
+            "line": 201,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "No, I'm the one that dares you."
+        },
+        {
+            "line": 202,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Bring it on!"
+        },
+        {
+            "line": 203,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... sit."
+        },
+        {
+            "line": 204,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Sir! Yes sir!"
+        },
+        {
+            "line": 205,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You're not sitting."
+        },
+        {
+            "line": 206,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Sir! Yes sir!"
+        },
+        {
+            "line": 207,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...whatever, you did it."
+        },
+        {
+            "line": 208,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Alright! You, the blonde. Pet me."
+        },
+        {
+            "line": 209,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Eh, whatever."
+        },
+        {
+            "line": 210,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Your hands are cold."
+        },
+        {
+            "line": 211,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Colder than your usual hands, I guess."
+        },
+        {
+            "line": 212,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Alright then... Jill!"
+        },
+        {
+            "line": 213,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll go with Dare."
+        },
+        {
+            "line": 214,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Give me a shoulder massage."
+        },
+        {
+            "line": 215,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...really?"
+        },
+        {
+            "line": 216,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Really."
+        },
+        {
+            "line": 217,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay..."
+        },
+        {
+            "line": 218,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 219,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "You are good at this."
+        },
+        {
+            "line": 220,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My grandpa taught me how years ago."
+        },
+        {
+            "line": 221,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "How old were you when your grandpa died?"
+        },
+        {
+            "line": 222,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "14 or so, if memory serves right."
+        },
+        {
+            "line": 223,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Then he was-..."
+        },
+        {
+            "line": 224,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 225,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Sorry. Need to use the bathroom."
+        },
+        {
+            "line": 226,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill... what did that massage do exactly?"
+        },
+        {
+            "line": 227,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It was a regular massage. I might have accidentally unclasped her bra though."
+        },
+        {
+            "line": 228,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It felt like something snapped."
+        },
+        {
+            "line": 229,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Well, just imagine the pressure the poor thing must be a subject to."
+        },
+        {
+            "line": 230,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You have a pretty triumphant look on your face though."
+        },
+        {
+            "line": 231,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Wouldn't you?"
+        },
+        {
+            "line": 232,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I wonder..."
+        },
+        {
+            "line": 233,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "If everyone's done talking about my bra, let's move on."
+        },
+        {
+            "line": 234,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I wonder how long until the food is done.)"
+        },
+        {
+            "line": 235,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright, Boss. Pick."
+        },
+        {
+            "line": 236,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Truth me."
+        },
+        {
+            "line": 237,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How did you get your arm?"
+        },
+        {
+            "line": 238,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "On second thought, dare me."
+        },
+        {
+            "line": 239,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 240,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lift Gil by the neck of his shirt."
+        },
+        {
+            "line": 241,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Okay."
+        },
+        {
+            "line": 242,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Eh?!"
+        },
+        {
+            "line": 243,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Wah!"
+        },
+        {
+            "line": 244,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Happy?"
+        },
+        {
+            "line": 245,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess. Who cares? I didn't hear about your arm."
+        },
+        {
+            "line": 246,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I do! I care!"
+        },
+        {
+            "line": 247,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Alright, Gil. Now that I have you in this position, answer me."
+        },
+        {
+            "line": 248,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I didn't pick..."
+        },
+        {
+            "line": 249,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You're in no position to pick! Now answer!"
+        },
+        {
+            "line": 250,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Did you live in Scotland for two years?"
+        },
+        {
+            "line": 251,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Scotland? No..."
+        },
+        {
+            "line": 252,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I guess that rules out a couple of possibilities..."
+        },
+        {
+            "line": 253,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... Chief..."
+        },
+        {
+            "line": 254,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What? Oh right, I'm still lifting you. Sorry."
+        },
+        {
+            "line": 255,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "And now she apologizes..."
+        },
+        {
+            "line": 256,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I guess it's my turn..."
+        },
+        {
+            "line": 257,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hey, Alma. Truth or Dare?"
+        },
+        {
+            "line": 258,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Hm... Dare."
+        },
+        {
+            "line": 259,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Oh! Oh! I have a suggestion!"
+        },
+        {
+            "line": 260,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You stay quiet."
+        },
+        {
+            "line": 261,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Fiiiiiiiiine."
+        },
+        {
+            "line": 262,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm... how strong are those arms of yours?"
+        },
+        {
+            "line": 263,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "It's still my muscles under them so... not very."
+        },
+        {
+            "line": 264,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Although not having fleshy skin makes things easier."
+        },
+        {
+            "line": 265,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Wait. That's Truth, not Dare."
+        },
+        {
+            "line": 266,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I just wanted to make sure."
+        },
+        {
+            "line": 267,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I dare you to break this nut with your hands."
+        },
+        {
+            "line": 268,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Okay."
+        },
+        {
+            "line": 269,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Well, that was easy."
+        },
+        {
+            "line": 270,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Holy shit, Gil. Are you really into that?"
+        },
+        {
+            "line": 271,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 272,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Asking a woman to break a nut in her hands and then watching her eat it, does that turn you on?"
+        },
+        {
+            "line": 273,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Eh?!"
+        },
+        {
+            "line": 274,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Wait, wait... is this an actual thing that turns guys on? I need to know for professional reasons."
+        },
+        {
+            "line": 275,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 276,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "...you're a pervert, Gilbert."
+        },
+        {
+            "line": 277,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Gil-... wait, that was close this time."
+        },
+        {
+            "line": 278,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "My turn then? Alright."
+        },
+        {
+            "line": 279,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Hey Jill, pick."
+        },
+        {
+            "line": 280,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... truth."
+        },
+        {
+            "line": 281,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Okay then. What's your most embarrassing childhood dream?"
+        },
+        {
+            "line": 282,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... elaborate?"
+        },
+        {
+            "line": 283,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "For example: when I was a girl I wanted to be a \"Professional Puzzle Master\"."
+        },
+        {
+            "line": 284,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I guess, in a way, I accomplished that, but you understand."
+        },
+        {
+            "line": 285,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 286,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I wanted to be a... ventriloquist."
+        },
+        {
+            "line": 287,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Huh?"
+        },
+        {
+            "line": 288,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "When I was a child, I liked this show called Lucia's Fun House."
+        },
+        {
+            "line": 289,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "The one with the woman in the house with the talking stuff?"
+        },
+        {
+            "line": 290,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That one."
+        },
+        {
+            "line": 291,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My parents divorced when I was around... six, I think."
+        },
+        {
+            "line": 292,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Mom was on tour with an orchestra and my dad was working constantly."
+        },
+        {
+            "line": 293,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I spent a lot of time with my grandpa, but he slept a lot, so I was on my own most of the time."
+        },
+        {
+            "line": 294,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I liked to pretend things like chairs or beds could talk. And since AI wasn't so advanced back then..."
+        },
+        {
+            "line": 295,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Anyway, I went to a magic show once, and there was this guy making a puppet talk."
+        },
+        {
+            "line": 296,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My dad told me he was a \"ventriloquist\" so I kinda obsessed about wanting to be one."
+        },
+        {
+            "line": 297,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Even today, I'd be lying if I said that I don't think about it every now and then."
+        },
+        {
+            "line": 298,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So that's why you pretend Fore can talk."
+        },
+        {
+            "line": 299,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "She what?!"
+        },
+        {
+            "line": 300,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Nothing."
+        },
+        {
+            "line": 301,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm... Dorothy."
+        },
+        {
+            "line": 302,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Yes! I pick Dare!"
+        },
+        {
+            "line": 303,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay, I want you to put your leg behind your head."
+        },
+        {
+            "line": 304,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Just that? Alright..."
+        },
+        {
+            "line": 305,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, the extra-flexible joints weren't just a bluff."
+        },
+        {
+            "line": 306,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I never bluff!"
+        },
+        {
+            "line": 307,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I'm pretty sure I heard something rip though."
+        },
+        {
+            "line": 308,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Okay then. Dana!"
+        },
+        {
+            "line": 309,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I pick Dare."
+        },
+        {
+            "line": 310,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I dare you to stare honey straight in the eyes for ten seconds."
+        },
+        {
+            "line": 311,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hm? Sure."
+        },
+        {
+            "line": 312,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 313,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 314,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 315,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 316,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Please, stop."
+        },
+        {
+            "line": 317,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Seven seconds..."
+        },
+        {
+            "line": 318,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 319,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "And done."
+        },
+        {
+            "line": 320,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Okay then, dog!"
+        },
+        {
+            "line": 321,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yes! Challenge me!"
+        },
+        {
+            "line": 322,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Chase your tail... but only make three spins. No more, no less."
+        },
+        {
+            "line": 323,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Alright!"
+        },
+        {
+            "line": 324,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 325,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Done!"
+        },
+        {
+            "line": 326,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That was four."
+        },
+        {
+            "line": 327,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "And now?"
+        },
+        {
+            "line": 328,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Two."
+        },
+        {
+            "line": 329,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "AAAAAAAAAAAAAGH!"
+        },
+        {
+            "line": 330,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That was three. Good job."
+        },
+        {
+            "line": 331,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Alright!"
+        },
+        {
+            "line": 332,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Hey J! Pick one!"
+        },
+        {
+            "line": 333,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Dare."
+        },
+        {
+            "line": 334,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I dare you to call me a good boy!"
+        },
+        {
+            "line": 335,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...good boy."
+        },
+        {
+            "line": 336,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yes!!!"
+        },
+        {
+            "line": 337,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Okay, then... Gil!"
+        },
+        {
+            "line": 338,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Yes?"
+        },
+        {
+            "line": 339,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Truth or Truth?"
+        },
+        {
+            "line": 340,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... truth?"
+        },
+        {
+            "line": 341,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Have you ever heard of the Unicorn Gang?"
+        },
+        {
+            "line": 342,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Ah, yeah. The person that got me into Glitch City is part of it, actually."
+        },
+        {
+            "line": 343,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Dammit, that makes me backtrack a bit."
+        },
+        {
+            "line": 344,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...?"
+        },
+        {
+            "line": 345,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Okay then... hey Jill, pick."
+        },
+        {
+            "line": 346,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll go with Dare."
+        },
+        {
+            "line": 347,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Can you spin your twintails?"
+        },
+        {
+            "line": 348,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess..."
+        },
+        {
+            "line": 349,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Then please..."
+        },
+        {
+            "line": 350,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 351,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 352,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You're just spinning yourself on the chair."
+        },
+        {
+            "line": 353,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And the twintails with me."
+        },
+        {
+            "line": 354,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "That's not what I had in mind."
+        },
+        {
+            "line": 355,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Then be more specific next time."
+        },
+        {
+            "line": 356,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Your turn, Jill."
+        },
+        {
+            "line": 357,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hold on, I'm dizzy..."
+        },
+        {
+            "line": 358,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay then, dog."
+        },
+        {
+            "line": 359,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yes!"
+        },
+        {
+            "line": 360,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I dare you to go out and stay there."
+        },
+        {
+            "line": 361,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "That's easy!"
+        },
+        {
+            "line": 362,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And that's one problem less."
+        },
+        {
+            "line": 363,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 364,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, then. Why don't you continue in the dog's place, Dorothy?"
+        },
+        {
+            "line": 365,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Alright!"
+        },
+        {
+            "line": 366,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Hey, sweater pups. What do you pick?"
+        },
+        {
+            "line": 367,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Let's go with dare."
+        },
+        {
+            "line": 368,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I dare you to put on some twintails!"
+        },
+        {
+            "line": 369,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 370,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Hey Jill, lend me your hair ties for a second."
+        },
+        {
+            "line": 371,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright."
+        },
+        {
+            "line": 372,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I haven't worn twintails since elementary school, now that I think about it."
+        },
+        {
+            "line": 373,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Is this good?"
+        },
+        {
+            "line": 374,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Yup!"
+        },
+        {
+            "line": 375,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Alright, let me untie them. Too breezy for my taste."
+        },
+        {
+            "line": 376,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Then... Jill!"
+        },
+        {
+            "line": 377,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll go with Truth."
+        },
+        {
+            "line": 378,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "If you had to spend two hours in a pressurization chamber with someone, who would you pick?"
+        },
+        {
+            "line": 379,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Out of what pool of people?"
+        },
+        {
+            "line": 380,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "The ones here right now."
+        },
+        {
+            "line": 381,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm..."
+        },
+        {
+            "line": 382,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess either you or Jamie."
+        },
+        {
+            "line": 383,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Oh?"
+        },
+        {
+            "line": 384,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I mean. If I went into a chamber with Dorothy, it'd be... fishy."
+        },
+        {
+            "line": 385,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I know for certain that my Boss would fall asleep because she gets bored easily."
+        },
+        {
+            "line": 386,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And Gil is claustrophobic."
+        },
+        {
+            "line": 387,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Phillip is claustrophobic?"
+        },
+        {
+            "line": 388,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I'm many things..."
+        },
+        {
+            "line": 389,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright then. Alma."
+        },
+        {
+            "line": 390,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I'll pick truth."
+        },
+        {
+            "line": 391,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What's the most embarrassing thing that has happened to your arms?"
+        },
+        {
+            "line": 392,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 393,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "There was this one time when I got mugged on the street so I... uh..."
+        },
+        {
+            "line": 394,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I... kinda threw my hand at the thief to knock him out."
+        },
+        {
+            "line": 395,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Threw?"
+        },
+        {
+            "line": 396,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I think it's what you usually call a... rocket punch?"
+        },
+        {
+            "line": 397,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So you didn't throw it so much as it... propelled itself towards the thief."
+        },
+        {
+            "line": 398,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 399,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And how is that embarrassing?"
+        },
+        {
+            "line": 400,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "It was just so cartoony! It's a bit embarrassing."
+        },
+        {
+            "line": 401,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "It's a bit impractical too. The hand has a startup time after reattachment."
+        },
+        {
+            "line": 402,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yes, but... why add such a function?"
+        },
+        {
+            "line": 403,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why WOULDN'T you add such a function?"
+        },
+        {
+            "line": 404,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... because..."
+        },
+        {
+            "line": 405,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss, don't tell your arm can also..."
+        },
+        {
+            "line": 406,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "This hand of mine is awesome!"
+        },
+        {
+            "line": 407,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "My turn, then..."
+        },
+        {
+            "line": 408,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I'll pick Lorenzo."
+        },
+        {
+            "line": 409,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Gillian."
+        },
+        {
+            "line": 410,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Casimiro. Truth or Dare?"
+        },
+        {
+            "line": 411,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... Truth."
+        },
+        {
+            "line": 412,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "How do you manage to keep that stubble of yours at the same length all the time?"
+        },
+        {
+            "line": 413,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "How do I... eh?"
+        },
+        {
+            "line": 414,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I mean, no matter when I come here, whether it's at 3AM on a weekday or in the afternoon on Sunday, you always have the same three day beard."
+        },
+        {
+            "line": 415,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "It never gets any longer, but you also never shave. How the hell do you do that?!"
+        },
+        {
+            "line": 416,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 417,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That's a good question, really."
+        },
+        {
+            "line": 418,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Now that I think about it..."
+        },
+        {
+            "line": 419,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Uh..."
+        },
+        {
+            "line": 420,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I do shave, but... I use an electric razor."
+        },
+        {
+            "line": 421,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "And set it quite low, so..."
+        },
+        {
+            "line": 422,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 423,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "You're not saying something. But whatever."
+        },
+        {
+            "line": 424,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "A-Anyways."
+        },
+        {
+            "line": 425,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... Chief, Truth or Dare?"
+        },
+        {
+            "line": 426,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Let's go with truth."
+        },
+        {
+            "line": 427,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "This is something I've been meaning to ask for a long time."
+        },
+        {
+            "line": 428,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Why is the bar called Valhalla if your designation is \"VA-11\"? Shouldn't it be \"VA-1\"?"
+        },
+        {
+            "line": 429,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 430,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It WAS going to be that."
+        },
+        {
+            "line": 431,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "When I applied for a bar owner certification through the BTC, Brian told me I would have the VA-1 code."
+        },
+        {
+            "line": 432,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "BUT then came this one guy, and he pulled some strings to get a certification faster."
+        },
+        {
+            "line": 433,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "He took MY position and I told Brian to hold off until the VA-11 code became available."
+        },
+        {
+            "line": 434,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "This bar remained closed for five months longer than it should have been."
+        },
+        {
+            "line": 435,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What kind of monster takes the chance for a pun from someone?!"
+        },
+        {
+            "line": 436,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...right."
+        },
+        {
+            "line": 437,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Now I need something to cheer myself up."
+        },
+        {
+            "line": 438,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey Jill, I dare you to make this glass \"talk.\""
+        },
+        {
+            "line": 439,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 440,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill?"
+        },
+        {
+            "line": 441,
+            "character": "\"Glass\"",
+            "type": "dialogue",
+            "text": "Oi! Whatcha lookin' at mate? Imma hook ya in yer gabber."
+        },
+        {
+            "line": 442,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Wow, you actually did it."
+        },
+        {
+            "line": 443,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "J-Just this once..."
+        },
+        {
+            "line": 444,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Why that accent, though?"
+        },
+        {
+            "line": 445,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know."
+        },
+        {
+            "line": 446,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... let's see..."
+        },
+        {
+            "line": 447,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hey, dog."
+        },
+        {
+            "line": 448,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Dare! Dare!"
+        },
+        {
+            "line": 449,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Then... play dead."
+        },
+        {
+            "line": 450,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "AAAAGH!!"
+        },
+        {
+            "line": 451,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...!"
+        },
+        {
+            "line": 452,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "There's not much time left."
+        },
+        {
+            "line": 453,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I-I want you to know..."
+        },
+        {
+            "line": 454,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I always thought you were..."
+        },
+        {
+            "line": 455,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "...a fuckboy."
+        },
+        {
+            "line": 456,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 457,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I'm dead."
+        },
+        {
+            "line": 458,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I'm so dead."
+        },
+        {
+            "line": 459,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Hey J, I dare you to bury me."
+        },
+        {
+            "line": 460,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay..."
+        },
+        {
+            "line": 461,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I was joking! Joking! Don't bury me for reals! I'm alive!"
+        },
+        {
+            "line": 462,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay then, Gil. Pick your poison."
+        },
+        {
+            "line": 463,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Truth."
+        },
+        {
+            "line": 464,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How did you get into the city? How did you end up here of all places?"
+        },
+        {
+            "line": 465,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "To be honest... I just wandered aimlessly for some time."
+        },
+        {
+            "line": 466,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Stuff happened and I went from place to place."
+        },
+        {
+            "line": 467,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Eventually, I came across the city and stumbled upon the bar."
+        },
+        {
+            "line": 468,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Almost like it was destiny."
+        },
+        {
+            "line": 469,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh."
+        },
+        {
+            "line": 470,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Well then..."
+        },
+        {
+            "line": 471,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hey Alma, Truth or Dare?"
+        },
+        {
+            "line": 472,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Dare."
+        },
+        {
+            "line": 473,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Try reading that sign without your glasses."
+        },
+        {
+            "line": 474,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Alright..."
+        },
+        {
+            "line": 475,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "\"For... rela... xing times, make it sun... \""
+        },
+        {
+            "line": 476,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "The rest is torn off."
+        },
+        {
+            "line": 477,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "So you can see without them?"
+        },
+        {
+            "line": 478,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I'm not blind. Just mildly uncomfortable without my glasses."
+        },
+        {
+            "line": 479,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Boss, what do you pick?"
+        },
+        {
+            "line": 480,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll go with Dare."
+        },
+        {
+            "line": 481,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Try to undo that bed hair of yours."
+        },
+        {
+            "line": 482,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Bed hair?"
+        },
+        {
+            "line": 483,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Yeah, you know, that one bit of hair that's always protruding."
+        },
+        {
+            "line": 484,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I have no idea what you're saying."
+        },
+        {
+            "line": 485,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Here, let me try..."
+        },
+        {
+            "line": 486,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "...it's very tough."
+        },
+        {
+            "line": 487,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Maybe if I split it... it rejoined on its own?!"
+        },
+        {
+            "line": 488,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Silly Armitage."
+        },
+        {
+            "line": 489,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That ahoge is like my willpower."
+        },
+        {
+            "line": 490,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You. Can't. Placate. It."
+        },
+        {
+            "line": 491,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "...right."
+        },
+        {
+            "line": 492,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "The fuck is an ahoge?"
+        },
+        {
+            "line": 493,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, it's..."
+        },
+        {
+            "line": 494,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss, please continue."
+        },
+        {
+            "line": 495,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Right."
+        },
+        {
+            "line": 496,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well then, Jill."
+        },
+        {
+            "line": 497,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Truth."
+        },
+        {
+            "line": 498,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What would you do if Fore was a girl AND pregnant?"
+        },
+        {
+            "line": 499,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I wouldn't do anything."
+        },
+        {
+            "line": 500,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, you educate them and give them the tools, but it's up to them in the end."
+        },
+        {
+            "line": 501,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'd just make sure she was able to cope with it."
+        },
+        {
+            "line": 502,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'd only call myself a failure if it was the result of personal irresponsibility."
+        },
+        {
+            "line": 503,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But if it's her choice or if she's at least able to take responsibility, then I can only support her."
+        },
+        {
+            "line": 504,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "After all, she didn't kill someone, she's bringing a new life into this world."
+        },
+        {
+            "line": 505,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 506,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Whoa."
+        },
+        {
+            "line": 507,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Hey Honey! Be my mom."
+        },
+        {
+            "line": 508,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...Jill, it's a hypothetical scenario. And it's a cat."
+        },
+        {
+            "line": 509,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Your point being?"
+        },
+        {
+            "line": 510,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Hm... Hey dog."
+        },
+        {
+            "line": 511,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Truth!"
+        },
+        {
+            "line": 512,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "What's your owner's name?"
+        },
+        {
+            "line": 513,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I'm not revealing it!"
+        },
+        {
+            "line": 514,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "It might be Tom, it might be James, it might be something else. But I'm not revealing it!"
+        },
+        {
+            "line": 515,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "What I CAN tell you is that my name is-..."
+        },
+        {
+            "line": 516,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "What if he's called Tom James?"
+        },
+        {
+            "line": 517,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "WHO TOLD YOU?!"
+        },
+        {
+            "line": 518,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Okay then, who's YOUR owner, G?"
+        },
+        {
+            "line": 519,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's Boss."
+        },
+        {
+            "line": 520,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "It's Dana, right?"
+        },
+        {
+            "line": 521,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "It's definitely Boss."
+        },
+        {
+            "line": 522,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "*sigh* Whatever. You take it from here, Jill."
+        },
+        {
+            "line": 523,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I'm getting hungry.)"
+        },
+        {
+            "line": 524,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm... Boss."
+        },
+        {
+            "line": 525,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll pick dare."
+        },
+        {
+            "line": 526,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Can you lift me with just your non-mechanical arm?"
+        },
+        {
+            "line": 527,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 528,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright, you can. You can! Please put me down!"
+        },
+        {
+            "line": 529,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well then. Hey Gil, Truth or Dare?"
+        },
+        {
+            "line": 530,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Can I really pick?"
+        },
+        {
+            "line": 531,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Let's go with dare."
+        },
+        {
+            "line": 532,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Okay then. Please cross your arms."
+        },
+        {
+            "line": 533,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Alright..."
+        },
+        {
+            "line": 534,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Now turn a bit to the left..."
+        },
+        {
+            "line": 535,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 536,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I mean my left."
+        },
+        {
+            "line": 537,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Oh!"
+        },
+        {
+            "line": 538,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "A bit more... and now stand still for a second."
+        },
+        {
+            "line": 539,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 540,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss, is that a picture?"
+        },
+        {
+            "line": 541,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That it is."
+        },
+        {
+            "line": 542,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Nope, not even same race. Sorry for the trouble."
+        },
+        {
+            "line": 543,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You were comparing me to a pic?!"
+        },
+        {
+            "line": 544,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 545,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Can I at least see it?"
+        },
+        {
+            "line": 546,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "No."
+        },
+        {
+            "line": 547,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...*sigh* Fine."
+        },
+        {
+            "line": 548,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay then, Dorothy."
+        },
+        {
+            "line": 549,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Dare!"
+        },
+        {
+            "line": 550,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do something... freaky."
+        },
+        {
+            "line": 551,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Like removing my head?"
+        },
+        {
+            "line": 552,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Removing your..."
+        },
+        {
+            "line": 553,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Because I can remove my head with no problem."
+        },
+        {
+            "line": 554,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Do you want me to remove my head?"
+        },
+        {
+            "line": 555,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll pass. I take your word for it."
+        },
+        {
+            "line": 556,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Anyone wanna see that?"
+        },
+        {
+            "line": 557,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "No."
+        },
+        {
+            "line": 558,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "No thank you."
+        },
+        {
+            "line": 559,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I do, but... I'm not gonna be the party pooper here."
+        },
+        {
+            "line": 560,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Fiiiiiiiiine. I guess it's my turn now."
+        },
+        {
+            "line": 561,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Hey Dana. What do you pick?"
+        },
+        {
+            "line": 562,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll pick truth."
+        },
+        {
+            "line": 563,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "If you had to marry honey OR John, who would you pick?"
+        },
+        {
+            "line": 564,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hm..."
+        },
+        {
+            "line": 565,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Probably Jill."
+        },
+        {
+            "line": 566,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh?!"
+        },
+        {
+            "line": 567,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I mean she's cute, she's smart..."
+        },
+        {
+            "line": 568,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...and I kinda own Gil anyways, so it's kinda redundant."
+        },
+        {
+            "line": 569,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 570,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 571,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Speaking of Gil. Truth or Truth, fuckboy?"
+        },
+        {
+            "line": 572,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Pick one for me."
+        },
+        {
+            "line": 573,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, where were you born?"
+        },
+        {
+            "line": 574,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I... don't really know."
+        },
+        {
+            "line": 575,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "It's one of those things I can't remember or was never informed about."
+        },
+        {
+            "line": 576,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Strangely, I do remember an early childhood in the Arctic of all places."
+        },
+        {
+            "line": 577,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The Arctic. Huh..."
+        },
+        {
+            "line": 578,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just \"huh\"?"
+        },
+        {
+            "line": 579,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay then, dog."
+        },
+        {
+            "line": 580,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Yes!"
+        },
+        {
+            "line": 581,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I dare you to go out and stay there."
+        },
+        {
+            "line": 582,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "That's easy!"
+        },
+        {
+            "line": 583,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And that's one problem less."
+        },
+        {
+            "line": 584,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 585,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well then, I'll take the next turn."
+        },
+        {
+            "line": 586,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yo, Armitage."
+        },
+        {
+            "line": 587,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Yes?"
+        },
+        {
+            "line": 588,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You're a hacker, right? I dare you to hack a cute pic of Jill out of her phone."
+        },
+        {
+            "line": 589,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I have old pics, cat pics, selfies. Pick one."
+        },
+        {
+            "line": 590,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Wait, what?"
+        },
+        {
+            "line": 591,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Jill's phone is a CaliCOMP. They get updates more than any other system in the world."
+        },
+        {
+            "line": 592,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I've made it a weekly ritual to update my CaliCOMP hack program and she's my guinea pig."
+        },
+        {
+            "line": 593,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I hack into it once a week. And since she takes daily pics, I just take one for that week."
+        },
+        {
+            "line": 594,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "If I'm missing a week, I just look for the missing pic and investigate."
+        },
+        {
+            "line": 595,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oooh, interesting."
+        },
+        {
+            "line": 596,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...you guys do know I'm still here, right?"
+        },
+        {
+            "line": 597,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay, Alma. Truth or Dare?"
+        },
+        {
+            "line": 598,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Hm... Dare."
+        },
+        {
+            "line": 599,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Then I dare you to call Gil by his real name."
+        },
+        {
+            "line": 600,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Gillian."
+        },
+        {
+            "line": 601,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...so you can actually do it."
+        },
+        {
+            "line": 602,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Of course I can. But messing with Dilbert is more fun."
+        },
+        {
+            "line": 603,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 604,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Well then, Dorothy. Truth or Dare?"
+        },
+        {
+            "line": 605,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I'll pick truth."
+        },
+        {
+            "line": 606,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Do you have any dreams you'd want to eventually fulfill?"
+        },
+        {
+            "line": 607,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Well, this might sound silly but... I wanna work with kids."
+        },
+        {
+            "line": 608,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh?"
+        },
+        {
+            "line": 609,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I have a friend that works in an orphanage. I help her from time to time."
+        },
+        {
+            "line": 610,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "And I find it so much fun to work with kids. I can't explain why..."
+        },
+        {
+            "line": 611,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "If I had to pick another job or think of something I want to eventually try, that would be it."
+        },
+        {
+            "line": 612,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Teacher, nurse, pediatrician. Something like that."
+        },
+        {
+            "line": 613,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "That wasn't an answer I expected."
+        },
+        {
+            "line": 614,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Me neither."
+        },
+        {
+            "line": 615,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "What are you implying?"
+        },
+        {
+            "line": 616,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Okay! Hey, John! Pick!"
+        },
+        {
+            "line": 617,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... Dare."
+        },
+        {
+            "line": 618,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I dare you to say something nice about all of us playing."
+        },
+        {
+            "line": 619,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "*sigh* Well..."
+        },
+        {
+            "line": 620,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You are a pretty cheerful girl, Dorothy."
+        },
+        {
+            "line": 621,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Of course I am."
+        },
+        {
+            "line": 622,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Chief... well, I pretty much owe you everything for giving my life any semblance of order."
+        },
+        {
+            "line": 623,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Of course you do."
+        },
+        {
+            "line": 624,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Alma... you can be a really caring person."
+        },
+        {
+            "line": 625,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "\"Can be\"."
+        },
+        {
+            "line": 626,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "And Jill... you're a pretty smart girl."
+        },
+        {
+            "line": 627,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I wonder if that's true."
+        },
+        {
+            "line": 628,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "So, is nobody gonna say anything nice about him in return?"
+        },
+        {
+            "line": 629,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "What is there to say? He's one of the nicest and most responsible guys I've met."
+        },
+        {
+            "line": 630,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "The kind that gets you talking through an expression of sincere interest."
+        },
+        {
+            "line": 631,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The kind of guy that will go the extra mile even when asked not to."
+        },
+        {
+            "line": 632,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...you could always say that more frequently, you know?"
+        },
+        {
+            "line": 633,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well then, Gil. What do you pick?"
+        },
+        {
+            "line": 634,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I'll go with Dare."
+        },
+        {
+            "line": 635,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I dare you to eat this bell pepper."
+        },
+        {
+            "line": 636,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Truth! I meant Truth!"
+        },
+        {
+            "line": 637,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eat the bell pepper!"
+        },
+        {
+            "line": 638,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Eat it! Eat it! Eat it! Eat it! Eat it! Eat it! Eat it! Eat it!"
+        },
+        {
+            "line": 639,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I'd rather not..."
+        },
+        {
+            "line": 640,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Eat it or I'll make your life impossible next week! Eat it or I'll make your life impossible next week!"
+        },
+        {
+            "line": 641,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 642,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Ugh..."
+        },
+        {
+            "line": 643,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Was that hard?"
+        },
+        {
+            "line": 644,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Yes."
+        },
+        {
+            "line": 645,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "*sigh* Anyways. What do you pick, Alma?"
+        },
+        {
+            "line": 646,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I pick truth."
+        },
+        {
+            "line": 647,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "What's the most embarrassing thing that has happened to you while drunk?"
+        },
+        {
+            "line": 648,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I..."
+        },
+        {
+            "line": 649,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I almost..."
+        },
+        {
+            "line": 650,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "...bought a timeshare in Panama."
+        },
+        {
+            "line": 651,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 652,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 653,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ha!"
+        },
+        {
+            "line": 654,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I was on vacation with my family and family's friends."
+        },
+        {
+            "line": 655,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "We went to a hotel where a couple of salesmen tried to coerce us into buying a timeshare."
+        },
+        {
+            "line": 656,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "When I was sober, it was obvious bullshit."
+        },
+        {
+            "line": 657,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "But then I fell into their trap with the free bar."
+        },
+        {
+            "line": 658,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Were it not for my brother-in-law, I'd be forever doomed to spend one week a year in Panama."
+        },
+        {
+            "line": 659,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You could just not go."
+        },
+        {
+            "line": 660,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "And lose my money? Forget it."
+        },
+        {
+            "line": 661,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "A bell?"
+        },
+        {
+            "line": 662,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Food's ready!"
+        },
+        {
+            "line": 663,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Finally!"
+        },
+        {
+            "line": 664,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Let's go!"
+        },
+        {
+            "line": 665,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You guys go ahead. I'll have a quick smoke outside."
+        },
+        {
+            "line": 666,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Careful."
+        },
+        {
+            "line": 667,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "G'evening."
+        },
+        {
+            "line": 668,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill! I told you to come in the nicest clothes you have!"
+        },
+        {
+            "line": 669,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You came in your uniform!"
+        },
+        {
+            "line": 670,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...these ARE the nicest clothes I have with me."
+        },
+        {
+            "line": 671,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Besides, you and Gil are in your uniforms too."
+        },
+        {
+            "line": 672,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, I can't really show up in casual clothing. I'm being monitored."
+        },
+        {
+            "line": 673,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What about the kilt you wore that one time?"
+        },
+        {
+            "line": 674,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'm still surprised that one didn't break the dress code somehow."
+        },
+        {
+            "line": 675,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And you, Gil?"
+        },
+        {
+            "line": 676,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I don't have that many clothes to begin with."
+        },
+        {
+            "line": 677,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You people depress me."
+        },
+        {
+            "line": 678,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Well, everything's in place back there."
+        },
+        {
+            "line": 679,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, Alma's here."
+        },
+        {
+            "line": 680,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "You know, there was a time when people greeted others before saying stuff like that."
+        },
+        {
+            "line": 681,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Come on, Jill. Greet her properly."
+        },
+        {
+            "line": 682,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Welcome to Valha-... wait."
+        },
+        {
+            "line": 683,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "AHAHAHAHAHAHAHA!!!"
+        },
+        {
+            "line": 684,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Man, if that's not a sign that you need to ease up on the work, I don't know what is."
+        },
+        {
+            "line": 685,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Shut up. It's become a reflex."
+        },
+        {
+            "line": 686,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Wait. Alma also came in her usual attire. Why aren't you saying anything to her?"
+        },
+        {
+            "line": 687,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Ribbed sweaters get a free pass."
+        },
+        {
+            "line": 688,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why?"
+        },
+        {
+            "line": 689,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 690,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 691,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Jamie came earlier too. The dogs went with him to get some ice."
+        },
+        {
+            "line": 692,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't we have ice?"
+        },
+        {
+            "line": 693,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Trying to take it out of the bartending station is a chore, so it's better to buy some outside."
+        },
+        {
+            "line": 694,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh..."
+        },
+        {
+            "line": 695,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What were you doing back there, Alma?"
+        },
+        {
+            "line": 696,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Setting up the food warmer."
+        },
+        {
+            "line": 697,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The what?"
+        },
+        {
+            "line": 698,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I bought it three days ago."
+        },
+        {
+            "line": 699,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "It's amazing. It looks like just a set of wires, but you can create a frame with them."
+        },
+        {
+            "line": 700,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Put the food inside it, press a button and watch as it warms the food up just like a microwave!"
+        },
+        {
+            "line": 701,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "It's an informercial bauble, though. Really useful, but tricky to handle at the same time."
+        },
+        {
+            "line": 702,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "One wrong move and we'll be out of food for the night."
+        },
+        {
+            "line": 703,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Everything will be scorched in a second."
+        },
+        {
+            "line": 704,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 705,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So you've bought infomercial stuff too?"
+        },
+        {
+            "line": 706,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Haven't you? It's at the very least a good idea for gifts."
+        },
+        {
+            "line": 707,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 708,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "DYNAMIC ENTRYYYY!!"
+        },
+        {
+            "line": 709,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Finally, at least somebody came after me."
+        },
+        {
+            "line": 710,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Is it weird that I've already heard that three times in the last hour?"
+        },
+        {
+            "line": 711,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 712,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Oh, don't be like that. She's not saying it out of malice or anything. She just found it funny."
+        },
+        {
+            "line": 713,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're taking her side now?"
+        },
+        {
+            "line": 714,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Jealous?"
+        },
+        {
+            "line": 715,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You wish."
+        },
+        {
+            "line": 716,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "You don't need to fight for me."
+        },
+        {
+            "line": 717,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We're not."
+        },
+        {
+            "line": 718,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I'll go check the microwave wires thingy. I'm starting to get hungry."
+        },
+        {
+            "line": 719,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Great idea."
+        },
+        {
+            "line": 720,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Back."
+        },
+        {
+            "line": 721,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 722,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Ah, hello Jill."
+        },
+        {
+            "line": 723,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Soldier! You're late!"
+        },
+        {
+            "line": 724,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "Hey J!"
+        },
+        {
+            "line": 725,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "See? That's how you greet people."
+        },
+        {
+            "line": 726,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You shut it!"
+        },
+        {
+            "line": 727,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 728,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I-I'll go help Al... um... A..."
+        },
+        {
+            "line": 729,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "I'll go help sweater pups."
+        },
+        {
+            "line": 730,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Something wrong?"
+        },
+        {
+            "line": 731,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She's not good with dogs."
+        },
+        {
+            "line": 732,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 733,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Alright! We're all here, so we can start. Yo Anchorage!"
+        },
+        {
+            "line": 734,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Alma."
+        },
+        {
+            "line": 735,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I know what I said. How's the food doing?"
+        },
+        {
+            "line": 736,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "It's doing well, but it'll take a bit."
+        },
+        {
+            "line": 737,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Can't you speed it up?"
+        },
+        {
+            "line": 738,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I've used those microwave wire things before. It's either \"warm nicely but slowly\" or \"burn that bitch\"."
+        },
+        {
+            "line": 739,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "So, how long?"
+        },
+        {
+            "line": 740,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "15 minutes or so. A bell will ring when the time comes."
+        },
+        {
+            "line": 741,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "We need to kill some time then."
+        },
+        {
+            "line": 742,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hm..."
+        },
+        {
+            "line": 743,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Alright, let's play Truth or Dare."
+        },
+        {
+            "line": 744,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 745,
+            "character": "Jamie",
+            "type": "dialogue",
+            "text": "I'll pass."
+        },
+        {
+            "line": 746,
+            "character": "Nacho",
+            "type": "dialogue",
+            "text": "Games are for kids!"
+        },
+        {
+            "line": 747,
+            "character": "Rad Shiba",
+            "type": "dialogue",
+            "text": "I'm in!"
+        },
+        {
+            "line": 748,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Sure, I'll play."
+        },
+        {
+            "line": 749,
+            "character": "Dorothy",
+            "type": "dialogue",
+            "text": "Sounds fun! Aslongasthatmuttstaysawayfromme."
+        },
+        {
+            "line": 750,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "That'll make the time pass faster."
+        },
+        {
+            "line": 751,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll pa-..."
+        },
+        {
+            "line": 752,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You'll play."
+        },
+        {
+            "line": 753,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 754,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 755,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Truth or Dare, huh...)"
+        },
+        {
+            "line": 756,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It was fun, I guess."
+        },
+        {
+            "line": 757,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Hey."
+        },
+        {
+            "line": 758,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Ah, Al-..."
+        },
+        {
+            "line": 759,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, hello."
+        },
+        {
+            "line": 760,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "A bit late for the hello, don't you think?"
+        },
+        {
+            "line": 761,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Want one?"
+        },
+        {
+            "line": 762,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "You know I don't smoke."
+        },
+        {
+            "line": 763,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "True."
+        },
+        {
+            "line": 764,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you leaving already?"
+        },
+        {
+            "line": 765,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Yeah. Technically, we celebrated Mega Christmas yesterday..."
+        },
+        {
+            "line": 766,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "...but I just got a message that Dayana is making a ruckus, so I gotta leave."
+        },
+        {
+            "line": 767,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Good luck with that."
+        },
+        {
+            "line": 768,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Speaking of ruckus, how have you been doing?"
+        },
+        {
+            "line": 769,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fine, I guess. All of this has helped keep my mind off things for a while."
+        },
+        {
+            "line": 770,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 771,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I-Is it weird to feel the absence of someone you had no contact with whatsoever for the last three years?"
+        },
+        {
+            "line": 772,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Ask Katyusha, or any of the \"old literature maidens whose spouse went to war\" types."
+        },
+        {
+            "line": 773,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "I mean, even if you had no contact with her, maybe she was constantly on your mind."
+        },
+        {
+            "line": 774,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "If you tweak the circumstances, it's not that different from one of you going to a war."
+        },
+        {
+            "line": 775,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I guess..."
+        },
+        {
+            "line": 776,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Well, although the circumstances make me not want to, I've gotta go."
+        },
+        {
+            "line": 777,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Careful out there."
+        },
+        {
+            "line": 778,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Oh yeah. You should take the chance and spend this time with everyone inside, don't you think?"
+        },
+        {
+            "line": 779,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 780,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 781,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...yeah, she's right."
+        },
+        {
+            "line": 782,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey! Jill's back!"
+        }
+    ]

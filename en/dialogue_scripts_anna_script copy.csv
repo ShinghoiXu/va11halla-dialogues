@@ -1,0 +1,750 @@
+line,filename,lines,type,character,text
+0,anna_script.txt,749,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,...
+3,undefined,undefined,dialogue,Jill,*yawn*
+4,undefined,undefined,dialogue,Jill,"*sigh* (Man, such a slow night...)"
+5,undefined,undefined,dialogue,Jill,...
+6,undefined,undefined,dialogue,Jill,(At least I'm not serving dogs.)
+7,undefined,undefined,dialogue,Jill,...
+8,undefined,undefined,dialogue,Jill,"(Normally, this would be where a dog shows up like a cheap punchline.)"
+9,undefined,undefined,dialogue,Jill,(...I guess not.)
+10,undefined,undefined,dialogue,Jill,"(Speaking of dogs, I wonder where the hell's Gil?)"
+11,undefined,undefined,dialogue,Dana,Bored?
+12,undefined,undefined,dialogue,Jill,...
+13,undefined,undefined,dialogue,Jill,WAAAAAH!!
+14,undefined,undefined,dialogue,Dana,"Sorry, did I wake you up?"
+15,undefined,undefined,dialogue,Jill,I-I wasn't sleeping. My eyes were open!
+16,undefined,undefined,dialogue,Dana,"You went to college, right? You know having your eyes open means nothing."
+17,undefined,undefined,dialogue,Dana,"Don't worry, I don't blame you. It's been a really long time since we've had such a slow night."
+18,undefined,undefined,dialogue,Dana,"In fact, I think the last time we had a night this slow was before you started working here."
+19,undefined,undefined,dialogue,Jill,Really?
+20,undefined,undefined,dialogue,Dana,"Yeah, it happened when Robert was still working here."
+21,undefined,undefined,dialogue,Jill,Who?
+22,undefined,undefined,dialogue,Dana,"My first employee. The poor idiot bought a ""levitation potion"" and threw himself off a building."
+23,undefined,undefined,dialogue,Jill,Oh...
+24,undefined,undefined,dialogue,Dana,"...as it turned out, the potion actually worked."
+25,undefined,undefined,dialogue,Jill,...come again?
+26,undefined,undefined,dialogue,Dana,He started rising in the air... and couldn't stop.
+27,undefined,undefined,dialogue,Dana,They later found his body smeared across the nose of a commercial flight that was on its way to Kanjevania.
+28,undefined,undefined,dialogue,Dana,But anyway...
+29,undefined,undefined,dialogue,Jill,(Should you really dismiss that so easily?)
+30,undefined,undefined,dialogue,Dana,"We didn't have a single client that night. Not even a lost soul asking for directions. But then, suddenly, a kid shows up."
+31,undefined,undefined,dialogue,Dana,"He was obviously underage, but I was bored, so I decided to let him order something."
+32,undefined,undefined,dialogue,Dana,"I gave him one Karmotrine-free drink. I mean, even if I was letting him order, I wasn't about to give alcohol to an underaged boy."
+33,undefined,undefined,dialogue,Dana,"And then, when the time came for him to pay his tab... he realized he didn't have enough money."
+34,undefined,undefined,dialogue,Dana,"He then yanked his shirt over his head, started screaming he's a ghost, and tried to escape!"
+35,undefined,undefined,dialogue,Dana,"So, I kicked him so hard that he flew out of the bar, and told him ghosts shouldn't feel pain!"
+36,undefined,undefined,dialogue,Jill,...
+37,undefined,undefined,dialogue,Jill,"...Boss, did you really kick an underage kid?"
+38,undefined,undefined,dialogue,Dana,Of course not! I just gave him a warning and made him wash a couple of dishes.
+39,undefined,undefined,dialogue,Dana,"The fact that you even thought for a moment that I would kick a young, innocent child hurts me to no end, you know?"
+40,undefined,undefined,dialogue,Dana,"Anyway, just... keep it up. Someone will show up sooner or later."
+41,undefined,undefined,dialogue,Jill,I sure hope so.
+42,undefined,undefined,dialogue,Jill,"...hoooooooold on. Come to think of it. Aren't Gil's checks made out to ""Robert""?"
+43,undefined,undefined,dialogue,Dana,...noooooooooooooooooo... *cough*
+44,undefined,undefined,dialogue,Jill,"*sigh* Well, at least that story killed a couple of minutes..."
+45,undefined,undefined,dialogue,Jill,...
+46,undefined,undefined,dialogue,Jill,...I think I'll... I don't know... sort the glasses here or something.
+47,undefined,undefined,dialogue,Jill,...
+48,undefined,undefined,dialogue,Jill,"...(Huh, we had a fedora-shaped glass?)"
+49,undefined,undefined,dialogue,Anna,Um... Anybody here?
+50,undefined,undefined,dialogue,Jill,Ah! Sorry! I'll be right the - OUCH.
+51,undefined,undefined,dialogue,Anna,A-Are you okay?
+52,undefined,undefined,dialogue,Jill,"I'm fine, yeah."
+53,undefined,undefined,dialogue,Jill,"Welcome to Valhalla, what can I get... you... um..."
+54,undefined,undefined,dialogue,Anna,Something wrong?
+55,undefined,undefined,dialogue,Jill,Are you sure you're old enough to drink?
+56,undefined,undefined,dialogue,Anna,"Well, seeing how I'm old enough to eat solid food, I'm gonna guess that drinking won't be a problem."
+57,undefined,undefined,dialogue,Jill,You know that's not what I meant.
+58,undefined,undefined,dialogue,Anna,"Yeah, yeah. I'm old enough to drink. I turned 21 not too long ago, actually."
+59,undefined,undefined,dialogue,Jill,...
+60,undefined,undefined,dialogue,Anna,Still don't believe me? What do you need me to give you?
+61,undefined,undefined,dialogue,Jill,(I must be sleep-deprived or something.)
+62,undefined,undefined,dialogue,Jill,(What's this... deja vu feeling though?)
+63,undefined,undefined,dialogue,Jill,"...it's fine, don't worry."
+64,undefined,undefined,dialogue,Jill,What can I get you?
+65,undefined,undefined,dialogue,Anna,I feel like having a Sugar Rush.
+66,undefined,undefined,dialogue,Jill,Sure. Coming right up.
+67,undefined,undefined,dialogue,Jill,Here you go.
+68,undefined,undefined,dialogue,Anna,Thanks!
+69,undefined,undefined,dialogue,Anna,"Yup, this is the stuff."
+70,undefined,undefined,dialogue,Jill,Here.
+71,undefined,undefined,dialogue,Anna,Thanks!
+72,undefined,undefined,dialogue,Anna,"Hoooold on, this doesn't have any alcohol, does it?"
+73,undefined,undefined,dialogue,Jill,Nope.
+74,undefined,undefined,dialogue,Anna,"You really think I'm underaged, don't you?"
+75,undefined,undefined,dialogue,Jill,Yup.
+76,undefined,undefined,dialogue,Anna,I'll have you know I'm old enough to get pregnant.
+77,undefined,undefined,dialogue,Jill,That's... sadly not relevant here.
+78,undefined,undefined,dialogue,Anna,Ugh!
+79,undefined,undefined,dialogue,Anna,"On second thought, this is actually good."
+80,undefined,undefined,dialogue,Anna,Err... I mean... Don't underestimate me!
+81,undefined,undefined,dialogue,Jill,Enjoy.
+82,undefined,undefined,dialogue,Anna,Thanks!
+83,undefined,undefined,dialogue,Anna,Um... this isn't a Sugar Rush.
+84,undefined,undefined,dialogue,Anna,"*sniff* But it'll get me drunk, so it's fine I guess."
+85,undefined,undefined,dialogue,Jill,Enjoy.
+86,undefined,undefined,dialogue,Anna,Thanks!
+87,undefined,undefined,dialogue,Anna,Um... this isn't a Sugar Rush.
+88,undefined,undefined,dialogue,Anna,It doesn't even smell like it'll make me say funny things!
+89,undefined,undefined,dialogue,Anna,"You think I'm underaged, don't you?"
+90,undefined,undefined,dialogue,Jill,Yup.
+91,undefined,undefined,dialogue,Anna,Ugh!
+92,undefined,undefined,dialogue,Anna,You know... I could've been lying through my teeth.
+93,undefined,undefined,dialogue,Jill,...
+94,undefined,undefined,dialogue,Anna,I could be an underaged liar. You could've sold alcoholic drinks to an underage kid.
+95,undefined,undefined,dialogue,Anna,How would that make you feel?
+96,undefined,undefined,dialogue,Jill,Meh...
+97,undefined,undefined,dialogue,Anna,"""Meh""?"
+98,undefined,undefined,dialogue,Jill,I don't believe in the myth that kids don't drink alcohol. I've met 16 year olds that drink a lot more than I do.
+99,undefined,undefined,dialogue,Jill,"Limiting the alcohol they can get is necessary, but if you make it look like a forbidden pleasure..."
+100,undefined,undefined,dialogue,Jill,Well... you will only make them crave it more.
+101,undefined,undefined,dialogue,Jill,"Hell, I bet if you gave kids alcohol, they'd start swearing off of it earlier."
+102,undefined,undefined,dialogue,Anna,So you're fine with giving drinks to underaged kids?
+103,undefined,undefined,dialogue,Jill,"No, but if that were to happen, I wouldn't get my panties in a bunch."
+104,undefined,undefined,dialogue,Anna,W-Wouldn't you get punished for doing that?
+105,undefined,undefined,dialogue,Jill,You'd have to admit publicly that you ordered alcohol first. And that would bring you a different array of problems.
+106,undefined,undefined,dialogue,Anna,...oh.
+107,undefined,undefined,dialogue,Jill,Did you come here looking to get me in trouble?
+108,undefined,undefined,dialogue,Anna,No! I just wanted a reaction out of you but you're taking it all too calmly!
+109,undefined,undefined,dialogue,Jill,...why?
+110,undefined,undefined,dialogue,Anna,I don't know. Your face makes me wanna tease you.
+111,undefined,undefined,dialogue,Jill,(I suddenly feel like I'm back in high school.)
+112,undefined,undefined,dialogue,Anna,Do you really think I look that young?
+113,undefined,undefined,dialogue,Jill,I do... but not young enough to be considered underaged.
+114,undefined,undefined,dialogue,Anna,"Then, why won't you give me alcohol?!"
+115,undefined,undefined,dialogue,Jill,Because I wanted to mess with you.
+116,undefined,undefined,dialogue,Anna,Mess with a client? Do you usually do that?
+117,undefined,undefined,dialogue,Jill,Only if it looks like they might take it in their stride.
+118,undefined,undefined,dialogue,Jill,"Still, why are you so angry at the idea I might think you look young?"
+119,undefined,undefined,dialogue,Anna,T-That's...
+120,undefined,undefined,dialogue,Jill,"I mean, the only people who don't like being mistaken for someone younger... are young people."
+121,undefined,undefined,dialogue,Jill,"But to be fair, you still look older than 95% of our regulars."
+122,undefined,undefined,dialogue,Anna,T-That would mean you've served drinks to people who look like they're 13 years old or something.
+123,undefined,undefined,dialogue,Jill,Yup.
+124,undefined,undefined,dialogue,Anna,E-Eh?
+125,undefined,undefined,dialogue,Jill,"Alright, let's get this out of the way. Please show me your ID."
+126,undefined,undefined,dialogue,Anna,Sure.
+127,undefined,undefined,dialogue,Jill,...
+128,undefined,undefined,dialogue,Jill,"Seems everything's in order, Miss Anna... Graem?"
+129,undefined,undefined,dialogue,Jill,(Anna Graem... where have I heard that name before?)
+130,undefined,undefined,dialogue,Anna,Go ahead. Just try to make a joke I haven't heard yet.
+131,undefined,undefined,dialogue,Jill,I'll... politely refuse.
+132,undefined,undefined,dialogue,Anna,"No, I'm serious. Go ahead. People think it's ""too easy"" so they never make jokes about my name."
+133,undefined,undefined,dialogue,Jill,...I'm still going to politely refuse.
+134,undefined,undefined,dialogue,Anna,You're no fun!
+135,undefined,undefined,dialogue,Anna,"So. What's your name, Miss Bartender?"
+136,undefined,undefined,dialogue,Jill,My name?
+137,undefined,undefined,dialogue,Anna,You saw my name. I have the right to know yours.
+138,undefined,undefined,dialogue,Jill,Fair enough. I'm Jill.
+139,undefined,undefined,dialogue,Anna,Jill what?
+140,undefined,undefined,dialogue,Jill,Just... Jill.
+141,undefined,undefined,dialogue,Anna,"Yeah, but what's your full name?"
+142,undefined,undefined,dialogue,Jill,Just call me Jill.
+143,undefined,undefined,dialogue,Anna,"Fine, I'll just pretend Jill is a way of saying your name is actually Johanna Ignacia Laurent Loan."
+144,undefined,undefined,dialogue,Anna,"Actually, I'll shorten it to Jo."
+145,undefined,undefined,dialogue,Jill,Whatever floats your boat.
+146,undefined,undefined,dialogue,Anna,"Say, Jo, this place looks awfully desolate."
+147,undefined,undefined,dialogue,Jill,"(Jo, she says...)"
+148,undefined,undefined,dialogue,Jill,"It's been a slow day. A really, REALLY slow day."
+149,undefined,undefined,dialogue,Jill,I'm actually glad you showed up. I was growing bored as hell.
+150,undefined,undefined,dialogue,Jill,"I mean, it's not like we're always bustling with activity, but this is unusual even for here."
+151,undefined,undefined,dialogue,Anna,"So, I take it this isn't a popular place then?"
+152,undefined,undefined,dialogue,Jill,"We have our regulars, but we're not like the bars in the main street."
+153,undefined,undefined,dialogue,Anna,"Still, I like this place. It's comfy and... I don't know, it makes me feel safe."
+154,undefined,undefined,dialogue,Jill,"Weird. I mean, I feel that way too, but this place usually gives off the opposite impression."
+155,undefined,undefined,dialogue,Jill,"Can't blame them though, this isn't exactly the best part of the city."
+156,undefined,undefined,dialogue,Anna,That's a shame. I really like how isolated this place feels.
+157,undefined,undefined,dialogue,Anna,You can't hear the sounds of the city in here. It's nice.
+158,undefined,undefined,dialogue,Anna,"But then again, you could say I have some experience with isolated places. So, it might just be nostalgia."
+159,undefined,undefined,dialogue,Jill,"Nostalgia, huh..."
+160,undefined,undefined,dialogue,Anna,Speaking of coming in here...
+161,undefined,undefined,dialogue,Anna,"Now that I think about it, you didn't ask for my ID when I first came in. Why didn't you do it if you were so suspicious?"
+162,undefined,undefined,dialogue,Jill,"Well... firstly, I was bored."
+163,undefined,undefined,dialogue,Anna,Figures.
+164,undefined,undefined,dialogue,Jill,"And second, I felt like you were of legal age."
+165,undefined,undefined,dialogue,Anna,Um... how?
+166,undefined,undefined,dialogue,Jill,"We've had a lot of kids come in thinking they could get away with ordering a drink, but they're too nervous or jumpy."
+167,undefined,undefined,dialogue,Jill,I don't usually give drinks to kids like that. They don't know what they're dealing with.
+168,undefined,undefined,dialogue,Anna,What if they're not like that but still underage?
+169,undefined,undefined,dialogue,Jill,"If they at least look like they're above legal age, I would be able to live with myself I guess."
+170,undefined,undefined,dialogue,Jill,"I won't give them anything if I know they're still kids. But hey, I'm bound to be fooled sometime."
+171,undefined,undefined,dialogue,Anna,So I'm guessing I wasn't... jumpy?
+172,undefined,undefined,dialogue,Jill,Yup.
+173,undefined,undefined,dialogue,Anna,I see.
+174,undefined,undefined,dialogue,Anna,"Hey Jo, now that you know I can drink legally, can I get another one?"
+175,undefined,undefined,dialogue,Jill,What do you want?
+176,undefined,undefined,dialogue,Anna,Hm... give me something sweet.
+177,undefined,undefined,dialogue,Jill,Sweet? Sure.
+178,undefined,undefined,dialogue,Jill,One sweet drink.
+179,undefined,undefined,dialogue,Anna,Thanks!
+180,undefined,undefined,dialogue,Anna,"You know, if all drinks were like this, I'd be afraid of turning into an alcoholic."
+181,undefined,undefined,dialogue,Jill,Please don't joke about that.
+182,undefined,undefined,dialogue,Anna,How can you say that? You're a bartender!
+183,undefined,undefined,dialogue,Jill,A bartender doesn't want her clients to become alcoholics.
+184,undefined,undefined,dialogue,Jill,Just like how personal trainers don't want their trainees to turn into steroid junkies.
+185,undefined,undefined,dialogue,Anna,"Oh, yeah. I guess you're right."
+186,undefined,undefined,dialogue,Anna,"Still, this one's really nice."
+187,undefined,undefined,dialogue,Jill,Here you go.
+188,undefined,undefined,dialogue,Anna,*sniff* This doesn't smell like my dad's breath on Sunday morning.
+189,undefined,undefined,dialogue,Anna,Did you give me something without alcohol?
+190,undefined,undefined,dialogue,Jill,I did.
+191,undefined,undefined,dialogue,Anna,"I'll let you know I'm old enough to use a bra, so don't you dare underestimate me!"
+192,undefined,undefined,dialogue,Jill,That's... not relevant here.
+193,undefined,undefined,dialogue,Anna,...maybe for you.
+194,undefined,undefined,dialogue,Jill,...?
+195,undefined,undefined,dialogue,Jill,Here.
+196,undefined,undefined,dialogue,Anna,...
+197,undefined,undefined,dialogue,Anna,"Jo, I think this drink went bad."
+198,undefined,undefined,dialogue,Jill,"No, it didn't."
+199,undefined,undefined,dialogue,Anna,You sure? It tastes like butt.
+200,undefined,undefined,dialogue,Jill,I thought an adult like you would be able to stomach something like this.
+201,undefined,undefined,dialogue,Anna,So you intentionally gave me the wrong drink? Why? To mess with me?
+202,undefined,undefined,dialogue,Jill,...yup.
+203,undefined,undefined,dialogue,Anna,You're mean!
+204,undefined,undefined,dialogue,Jill,Here you go.
+205,undefined,undefined,dialogue,Anna,Heheh... it feels funny on the tongue.
+206,undefined,undefined,dialogue,Anna,It's the first time I've tasted something so ...bubbly.
+207,undefined,undefined,dialogue,Jill,You've never had a bubbly drink? Not even a can of soda?
+208,undefined,undefined,dialogue,Anna,I was a really fragile person up until recently. Things like bubbly drinks were out of the question.
+209,undefined,undefined,dialogue,Jill,Oh...
+210,undefined,undefined,dialogue,Anna,"You got the order wrong, but I actually like it! Are there even bubblier drinks?"
+211,undefined,undefined,dialogue,Jill,I... don't think so.
+212,undefined,undefined,dialogue,Anna,It's fine. I'll get a soda later or something.
+213,undefined,undefined,dialogue,Jill,Alright. Here.
+214,undefined,undefined,dialogue,Anna,"Hey, this is nice!"
+215,undefined,undefined,dialogue,Jill,(Eh?)
+216,undefined,undefined,dialogue,Anna,"Sure, it could be a little sweeter, but I'm not complaining."
+217,undefined,undefined,dialogue,Jill,(...is she a bird or something? That should've been spicy.)
+218,undefined,undefined,dialogue,Anna,"Do you normally do that, Jo? Give people the wrong orders?"
+219,undefined,undefined,dialogue,Jill,"Sorry, I'm... a bit out of it."
+220,undefined,undefined,dialogue,Anna,Don't worry. I won't complain. I'm in a good mood.
+221,undefined,undefined,dialogue,Anna,"Still, why mess up like that?"
+222,undefined,undefined,dialogue,Jill,Do you want me to get you another drink?
+223,undefined,undefined,dialogue,Anna,"Nah, leave it like that..."
+224,undefined,undefined,dialogue,Anna,"...still, I can't help but wonder..."
+225,undefined,undefined,dialogue,Jill,"If I told you I like to mess with my clients just to get a rise out of them, would you call it a day?"
+226,undefined,undefined,dialogue,Anna,"Yes, yes I would."
+227,undefined,undefined,dialogue,Jill,*sigh*
+228,undefined,undefined,dialogue,Anna,No sighing! I'm the one in the right here.
+229,undefined,undefined,dialogue,Jill,...
+230,undefined,undefined,dialogue,Anna,And no sighing even harder because I said that.
+231,undefined,undefined,dialogue,Jill,(...dammit.)
+232,undefined,undefined,dialogue,Anna,"Hey Jo, do you drink?"
+233,undefined,undefined,dialogue,Jill,"I suppose, yeah. It'd be weird for a bartender not to drink, you know?"
+234,undefined,undefined,dialogue,Anna,"I don't know, I've met dentists with bad teeth. Bartenders who don't drink totally would make sense."
+235,undefined,undefined,dialogue,Jill,That's silly. It'd be like a vegan chef running a BBQ restaurant.
+236,undefined,undefined,dialogue,Anna,You think?
+237,undefined,undefined,dialogue,Jill,"Yeah, I mean... It's not a matter of whether you can eat or drink whatever it is that you're making."
+238,undefined,undefined,dialogue,Jill,"It's more like, ""Why do it if you don't like it?"""
+239,undefined,undefined,dialogue,Anna,"Huh... yeah, I guess that's true."
+240,undefined,undefined,dialogue,Anna,"A dentist might have bad teeth, but he could still like working in dentistry. But why bother bartending if you don't like alcohol?"
+241,undefined,undefined,dialogue,Jill,See?
+242,undefined,undefined,dialogue,Anna,...
+243,undefined,undefined,dialogue,Anna,Hm...
+244,undefined,undefined,dialogue,Jill,Something wrong?
+245,undefined,undefined,dialogue,Anna,I just noticed you haven't said my name yet.
+246,undefined,undefined,dialogue,Jill,I haven't... what?
+247,undefined,undefined,dialogue,Anna,"Aside from when you read my ID out loud, you haven't said my name!"
+248,undefined,undefined,dialogue,Anna,"Meanwhile, I've called out yours like a gazillion times now."
+249,undefined,undefined,dialogue,Jill,"(The wrong name, though.)"
+250,undefined,undefined,dialogue,Jill,Well... I haven't had the need to say your name.
+251,undefined,undefined,dialogue,Anna,"Come on, humor me. Say my name."
+252,undefined,undefined,dialogue,Jill,...why?
+253,undefined,undefined,dialogue,Anna,Say my name! Say. My. Name. Say my naaaaaaaaaaaaaaaaaaaame!
+254,undefined,undefined,dialogue,Jill,*sigh*
+255,undefined,undefined,dialogue,Jill,Anna.
+256,undefined,undefined,dialogue,Anna,One more time.
+257,undefined,undefined,dialogue,Jill,Anna.
+258,undefined,undefined,dialogue,Anna,Yes! Now one more time!
+259,undefined,undefined,dialogue,Jill,...Nana.
+260,undefined,undefined,dialogue,Jill,...
+261,undefined,undefined,dialogue,Jill,(It happened again. Maybe I need glasses?)
+262,undefined,undefined,dialogue,Jill,(And there's that feeling again. Did I see someone glitch out in the past?)
+263,undefined,undefined,dialogue,Anna,"Oh, come on!"
+264,undefined,undefined,dialogue,Jill,Why did you want me to say your name?
+265,undefined,undefined,dialogue,Anna,I like hearing people call me by name.
+266,undefined,undefined,dialogue,Anna,It feels personal and... fuzzy.
+267,undefined,undefined,dialogue,Jill,"Yeah, but asking people to say your name like that is a bit..."
+268,undefined,undefined,dialogue,Anna,Quirky?
+269,undefined,undefined,dialogue,Jill,Creepy.
+270,undefined,undefined,dialogue,Anna,I don't know about that.
+271,undefined,undefined,dialogue,Anna,There was this certain someone who would wake me up in the morning saying my name.
+272,undefined,undefined,dialogue,Anna,"Your name is important. Once you know someone's name, the gap between that person and you disappears."
+273,undefined,undefined,dialogue,Anna,"Once you give names to things, you start seeing them as important members of the family."
+274,undefined,undefined,dialogue,Anna,So what if it's creepy? It's still nice!
+275,undefined,undefined,dialogue,Jill,(Stop calling me Jo and use my name then!)
+276,undefined,undefined,dialogue,Jill,"Say Anna, can I ask you something?"
+277,undefined,undefined,dialogue,Anna,"You called me by name so, sure!"
+278,undefined,undefined,dialogue,Jill,About your arm...
+279,undefined,undefined,dialogue,Anna,"What about it? Oh yeah, I'm lacking one. Did saying the word ""creepy"" remind you of its absence?"
+280,undefined,undefined,dialogue,Jill,"Actually, I've been wanting to ask about it since you came in."
+281,undefined,undefined,dialogue,Anna,At least be uncomfortable for a second! I'm trying to get a rise out of you. Sheesh...
+282,undefined,undefined,dialogue,Anna,"So, what is it? How did I lose it?"
+283,undefined,undefined,dialogue,Jill,If it's not too personal.
+284,undefined,undefined,dialogue,Anna,It isn't. I'm actually proud of the tale.
+285,undefined,undefined,dialogue,Jill,Eh... why?
+286,undefined,undefined,dialogue,Anna,You're looking at a proud survivor of Nanomachine Rejection!
+287,undefined,undefined,dialogue,Jill,Really? I thought that was something doctors detected while a fetus is still in the womb.
+288,undefined,undefined,dialogue,Anna,Yes and no.
+289,undefined,undefined,dialogue,Anna,There's actually two types of Nanomachine Rejection Syndrome.
+290,undefined,undefined,dialogue,Anna,"The first one is the most ""common."" They usually detect it while you're still a fetus."
+291,undefined,undefined,dialogue,Anna,That's when they turn you into a Cat Boomer.
+292,undefined,undefined,dialogue,Anna,"The other one can sometimes appear in your teenage years. It's incredibly rare, but it's still possible."
+293,undefined,undefined,dialogue,Jill,So that arm...
+294,undefined,undefined,dialogue,Anna,Nanomachine Rejection basically causes your body to attack itself.
+295,undefined,undefined,dialogue,Anna,"Tissues start ripping apart, your organs malfunction..."
+296,undefined,undefined,dialogue,Anna,"I was lucky. In the end, all I lost was an arm and a handful of toes."
+297,undefined,undefined,dialogue,Anna,"Get it? A handful, because I lost five."
+298,undefined,undefined,dialogue,Jill,...
+299,undefined,undefined,dialogue,Anna,*ahem* A-Anyway...
+300,undefined,undefined,dialogue,Anna,"I have a prosthetic arm, but it's in maintenance right now."
+301,undefined,undefined,dialogue,Jill,"Ah, I see."
+302,undefined,undefined,dialogue,Anna,It's a bit weird to be without it. I still feel like it's there.
+303,undefined,undefined,dialogue,Anna,"Just a couple of hours ago, I tried to grab something and I just stood there, thinking that arm was doing something."
+304,undefined,undefined,dialogue,Anna,But anyways. Mind getting me another drink? We can keep talking about my stump after that.
+305,undefined,undefined,dialogue,Jill,Umm... riiiiight.
+306,undefined,undefined,dialogue,Jill,What do you want?
+307,undefined,undefined,dialogue,Anna,Let's try something... classy.
+308,undefined,undefined,dialogue,Anna,It's weird being in a bar and not asking for a fancy drink.
+309,undefined,undefined,dialogue,Jill,Alright.
+310,undefined,undefined,dialogue,Jill,Here.
+311,undefined,undefined,dialogue,Anna,"This looks expensive, alright. I'm starting to have second thoughts right now."
+312,undefined,undefined,dialogue,Jill,Just drink it.
+313,undefined,undefined,dialogue,Jill,Here you go.
+314,undefined,undefined,dialogue,Anna,...
+315,undefined,undefined,dialogue,Jill,Something wrong?
+316,undefined,undefined,dialogue,Anna,This has no alcohol in it.
+317,undefined,undefined,dialogue,Anna,"Jo, why would I come to a bar and not get something alcoholic?"
+318,undefined,undefined,dialogue,Jill,"To ask for directions, to hide from the cops, to use the bathroom, to use the phone, to try mugging us and get beaten by my boss..."
+319,undefined,undefined,dialogue,Jill,"To sit because your leg hurts, to ask what's the capital of Ghana, to challenge my boss to a children's card game..."
+320,undefined,undefined,dialogue,Jill,"To ask for information, to start an illegal chess ring, to hide a newly bought inflatable doll from your wife..."
+321,undefined,undefined,dialogue,Anna,Did all of this happen in real life?
+322,undefined,undefined,dialogue,Jill,I could go on for hours.
+323,undefined,undefined,dialogue,Anna,L-Leave it at that.
+324,undefined,undefined,dialogue,Jill,Here ya go.
+325,undefined,undefined,dialogue,Anna,This doesn't look expensive.
+326,undefined,undefined,dialogue,Anna,"...on second thought, that's a good thing."
+327,undefined,undefined,dialogue,Anna,Cheers!
+328,undefined,undefined,dialogue,Jill,Enjoy.
+329,undefined,undefined,dialogue,Anna,"This looks nice. In a... retro way, I guess."
+330,undefined,undefined,dialogue,Anna,"But not classy, that's for sure."
+331,undefined,undefined,dialogue,Anna,"Actually, it's not half bad."
+332,undefined,undefined,dialogue,Jill,Aaaand served.
+333,undefined,undefined,dialogue,Anna,...
+334,undefined,undefined,dialogue,Jill,What?
+335,undefined,undefined,dialogue,Anna,I have this feeling you're messing with me.
+336,undefined,undefined,dialogue,Anna,Is it because I'm looking to get a reaction out of you?
+337,undefined,undefined,dialogue,Jill,Maybe.
+338,undefined,undefined,dialogue,Anna,...
+339,undefined,undefined,dialogue,Jill,Something wrong?
+340,undefined,undefined,dialogue,Anna,"Yeah, I'm just not feeling all that comfortable anymore."
+341,undefined,undefined,dialogue,Jill,Why?
+342,undefined,undefined,dialogue,Anna,How can I feel comfortable if you serve me drinks I don't like?
+343,undefined,undefined,dialogue,Anna,"I'd understand if you got the order wrong and I still liked it, but that's not the case here."
+344,undefined,undefined,dialogue,Anna,"So yeah, I'm gonna leave right now. Better luck next time."
+345,undefined,undefined,dialogue,Jill,*sigh* That can't be good.
+346,undefined,undefined,dialogue,Anna,Heheh... I'm starting to feel dizzy. That's nice.
+347,undefined,undefined,dialogue,Jill,It is?
+348,undefined,undefined,dialogue,Anna,"Of course! I spent so much time in hospitals and whatnot. But now, I'm just... living my life, you know?"
+349,undefined,undefined,dialogue,Anna,I wanna feel the good and the bad. No more being forced to sit quietly in a quarantine room.
+350,undefined,undefined,dialogue,Jill,"Yeah, I can get that."
+351,undefined,undefined,dialogue,Jill,Wait... Quarantine?
+352,undefined,undefined,dialogue,Anna,Type 2 Nanomachine Rejection patients are put in special chambers free from the nanomachine particles in the air.
+353,undefined,undefined,dialogue,Anna,"That prevents them from being assimilated, and aggravating their whole situation."
+354,undefined,undefined,dialogue,Anna,"To be fair, not all of my memories of that chamber are bad."
+355,undefined,undefined,dialogue,Anna,"I mean, I did spend three, four years in one of those places."
+356,undefined,undefined,dialogue,Jill,Really? That long?
+357,undefined,undefined,dialogue,Anna,"Well, I didn't go for the genetic-level treatment. So, it was longer... and a lot less expensive."
+358,undefined,undefined,dialogue,Anna,"I'm not going to complain, though. I'm alive thanks to all that."
+359,undefined,undefined,dialogue,Anna,And I left with so many fond memories too.
+360,undefined,undefined,dialogue,Jill,"So that's what you meant with the whole ""feeling nostalgic in isolated places"" thing."
+361,undefined,undefined,dialogue,Anna,Yup.
+362,undefined,undefined,dialogue,Anna,...
+363,undefined,undefined,dialogue,Jill,Are you alright?
+364,undefined,undefined,dialogue,Anna,Y-Yeah... I'm fine. Just dizzy.
+365,undefined,undefined,dialogue,Anna,"So, any questions about my stump, Jo?"
+366,undefined,undefined,dialogue,Jill,"Not about your stump, actually. What is the treatment for Nanomachine Rejection Syndrome like?"
+367,undefined,undefined,dialogue,Anna,Well. The purpose of it is to provide your body a certain degree of immunity to the nanomachines so it stops attacking itself.
+368,undefined,undefined,dialogue,Anna,"But too much of that, and you end up with Tokyo Flu."
+369,undefined,undefined,dialogue,Jill,Tokyo Flu...
+370,undefined,undefined,dialogue,Jill,"That's that super-flu that people can only avoid with the help of nanomachines, right?"
+371,undefined,undefined,dialogue,Anna,That's the one.
+372,undefined,undefined,dialogue,Jill,I've always wondered why they called it Tokyo Flu.
+373,undefined,undefined,dialogue,Anna,"If I remember correctly, it's because one of the first cases happened in Tokyo. Some have called it ""Anime Flu"" too."
+374,undefined,undefined,dialogue,Jill,Huh...
+375,undefined,undefined,dialogue,Jill,It's ironic how the technology they use to keep tabs on you also strengthens your immune system.
+376,undefined,undefined,dialogue,Anna,"Not that it strengthened me against the needles I had to face on a daily basis, that's for sure. But anyways..."
+377,undefined,undefined,dialogue,Anna,"Nanomachine Rejection Syndrome is, in some ways, like an allergy. A genetic-level treatment rewrites that part so you can call it a day."
+378,undefined,undefined,dialogue,Anna,But we couldn't afford that so we went for the long route.
+379,undefined,undefined,dialogue,Anna,The long route consists of a concentrated serum that makes about 1 square centimeter of your body immune to rejection.
+380,undefined,undefined,dialogue,Anna,But the serum also makes your body go nuts at times too. I lost my arm while they were treating it.
+381,undefined,undefined,dialogue,Anna,So they have to carefully monitor the treatment to ensure it doesn't kill you in your sleep.
+382,undefined,undefined,dialogue,Anna,"Oh yeah, did I mention that the serum burns? Because it burns like the flames of hell itself."
+383,undefined,undefined,dialogue,Jill,Damn...
+384,undefined,undefined,dialogue,Jill,D-Did I strike a nerve with that question?
+385,undefined,undefined,dialogue,Anna,"Oh no, I'm not concerned about it but... can you really blame me for getting riled up about it?"
+386,undefined,undefined,dialogue,Anna,And don't get me started about having my eyes treated.
+387,undefined,undefined,dialogue,Jill,"Yeah... I won't, don't worry."
+388,undefined,undefined,dialogue,Anna,...
+389,undefined,undefined,dialogue,Anna,"Hey Jo... if I ordered two drinks, would you be willing to share one with me?"
+390,undefined,undefined,dialogue,Jill,Come again?
+391,undefined,undefined,dialogue,Anna,"To be honest, talking about the treatment and all that made me feel a bit lonely."
+392,undefined,undefined,dialogue,Anna,"Sorry if it's not something you can do, but I had to ask."
+393,undefined,undefined,dialogue,Jill,"It's not something I normally do, but..."
+394,undefined,undefined,dialogue,Jill,"Eh, what the hell. Sure."
+395,undefined,undefined,dialogue,Anna,Really?! Yay!
+396,undefined,undefined,dialogue,Anna,Alright then. I want a Piano Man and a Piano Woman.
+397,undefined,undefined,dialogue,Jill,On it.
+398,undefined,undefined,dialogue,Jill,Two drinks.
+399,undefined,undefined,dialogue,Anna,Which one do you want? Do you prefer the man or the woman?
+400,undefined,undefined,dialogue,Jill,"I'm fine with either, really."
+401,undefined,undefined,dialogue,Anna,Okay... I'll pick the woman then.
+402,undefined,undefined,dialogue,Jill,Two drinks served.
+403,undefined,undefined,dialogue,Anna,These are too rough for me.
+404,undefined,undefined,dialogue,Jill,How do you know if you won't give them a chance?
+405,undefined,undefined,dialogue,Anna,I'd know if I wanted to give them a chance... and I really don't.
+406,undefined,undefined,dialogue,Anna,*sigh* But I'll take them. If only so I can drink with you.
+407,undefined,undefined,dialogue,Jill,Here you go.
+408,undefined,undefined,dialogue,Anna,"So, do you like women?"
+409,undefined,undefined,dialogue,Jill,I found out in college I'm fine with either.
+410,undefined,undefined,dialogue,Anna,Are we talking about the same thing here?
+411,undefined,undefined,dialogue,Jill,I... don't know.
+412,undefined,undefined,dialogue,Jill,Here.
+413,undefined,undefined,dialogue,Anna,I... uh...
+414,undefined,undefined,dialogue,Anna,"Whatever, as long as I'm having a drink with someone..."
+415,undefined,undefined,dialogue,Anna,Cheers!
+416,undefined,undefined,dialogue,Jill,...
+417,undefined,undefined,dialogue,Jill,"(Alright, this is getting weird.)"
+418,undefined,undefined,dialogue,Anna,I said...
+419,undefined,undefined,dialogue,Anna,Cheeeeeeeeeeeeeeers!
+420,undefined,undefined,dialogue,Jill,Oh... Cheers.
+421,undefined,undefined,dialogue,Anna,Yeah!
+422,undefined,undefined,dialogue,Anna,...
+423,undefined,undefined,dialogue,Anna,...*sigh*
+424,undefined,undefined,dialogue,Jill,Are you okay?
+425,undefined,undefined,dialogue,Anna,"Yeah, I guess I'm fine."
+426,undefined,undefined,dialogue,Anna,I'm just dizzy... and sad.
+427,undefined,undefined,dialogue,Jill,Sad?
+428,undefined,undefined,dialogue,Anna,I miss Lanette.
+429,undefined,undefined,dialogue,Jill,Lanette? Who?
+430,undefined,undefined,dialogue,Anna,She and I were the only patients with Nanomachine Rejection Syndrome in the hospital.
+431,undefined,undefined,dialogue,Anna,We... We were together every day.
+432,undefined,undefined,dialogue,Anna,"When it was time to eat, she was there."
+433,undefined,undefined,dialogue,Anna,"During visiting hours, she was there."
+434,undefined,undefined,dialogue,Anna,"Whenever I slept, whenever I cried, whenever I laughed... she was always there."
+435,undefined,undefined,dialogue,Anna,"When I lost my arm, she told me I could have hers as compensation, that I could use it however I wanted."
+436,undefined,undefined,dialogue,Jill,What happened to her?
+437,undefined,undefined,dialogue,Anna,...Tokyo Flu.
+438,undefined,undefined,dialogue,Anna,Something went wrong with her immune system and the flu started kicking in.
+439,undefined,undefined,dialogue,Anna,"They tried to rush part of her treatment to reduce the symptoms, but it only made the nanomachines go wild."
+440,undefined,undefined,dialogue,Anna,It eventually got to her brain and...
+441,undefined,undefined,dialogue,Anna,...
+442,undefined,undefined,dialogue,Jill,...I see. Sorry to hear that.
+443,undefined,undefined,dialogue,Anna,"The worst part is that if they left her as she'd been, I might have been able to spend an extra year or so with her."
+444,undefined,undefined,dialogue,Anna,...but all that work only got her killed sooner. I didn't even get a chance to say goodbye. She just... vanished.
+445,undefined,undefined,dialogue,Jill,That's tough.
+446,undefined,undefined,dialogue,Anna,"I miss her every day, you know?"
+447,undefined,undefined,dialogue,Anna,I say I want to forget her but the truth is that... I just want this pain to go away.
+448,undefined,undefined,dialogue,Anna,It's been two years and I still feel the pain. Every second is just a second without her.
+449,undefined,undefined,dialogue,Anna,It can get so... lonely.
+450,undefined,undefined,dialogue,Anna,...
+451,undefined,undefined,dialogue,Anna,"Sorry, am I making you uncomfortable, Jo?"
+452,undefined,undefined,dialogue,Jill,"You're not, don't worry."
+453,undefined,undefined,dialogue,Anna,"Still. Sorry about that, I'm just..."
+454,undefined,undefined,dialogue,Anna,We had so many plans about what we'd do after we left.
+455,undefined,undefined,dialogue,Anna,We were so close to being together without the pesky Nanomachine Rejection and...
+456,undefined,undefined,dialogue,Anna,"It's not fair, you know? Why do I get to be here while she doesn't?"
+457,undefined,undefined,dialogue,Anna,I try to enjoy life as much as I can. Enjoy it for the both of us... but it doesn't seem enough.
+458,undefined,undefined,dialogue,Anna,What do you think?
+459,undefined,undefined,dialogue,Jill,What do I think? Um...
+460,undefined,undefined,dialogue,Jill,Well... I think about my grandpa.
+461,undefined,undefined,dialogue,Anna,Your grandpa?
+462,undefined,undefined,dialogue,Jill,"He was a... harsh guy. Really sincere, but not one to mess with platitudes."
+463,undefined,undefined,dialogue,Jill,"It's not like he had a lot of enemies, but many people were cautious around him."
+464,undefined,undefined,dialogue,Jill,"But once he died, I never heard a single bad comment about him. Not even from those who used to badmouth him every now and then."
+465,undefined,undefined,dialogue,Anna,Really?
+466,undefined,undefined,dialogue,Jill,"Well, the ""best"" thing about death is that after you die, all the wrongs you ever committed feel meaningless."
+467,undefined,undefined,dialogue,Jill,Really makes you think about how petty some things can be.
+468,undefined,undefined,dialogue,Anna,...yeah.
+469,undefined,undefined,dialogue,Jill,"On second thought, that doesn't have much to do with what you said, does it?"
+470,undefined,undefined,dialogue,Jill,"But what I'm trying to say here is: Don't try so hard. Just... live, you know? Be grateful you have that chance."
+471,undefined,undefined,dialogue,Jill,"I know what you're feeling right now, but you'll get better. Eventually, all you'll remember is the happy moments."
+472,undefined,undefined,dialogue,Anna,I hope so.
+473,undefined,undefined,dialogue,Anna,Sounds like you and your grandpa were close.
+474,undefined,undefined,dialogue,Jill,He was my best friend. Losing him was quite the blow.
+475,undefined,undefined,dialogue,Anna,Do you have any regrets in regards to him?
+476,undefined,undefined,dialogue,Jill,I guess not.
+477,undefined,undefined,dialogue,Jill,"I mean, it's not like I had a dramatic goodbye or anything like that. He died in a hospital bed while I was at home."
+478,undefined,undefined,dialogue,Jill,"But... I don't know. I never had a heated discussion with him, so I don't have that problem."
+479,undefined,undefined,dialogue,Jill,"Sure, there's always a bit of ""I wish I could've told him this"" but that's bound to happen, regardless of who you're talking about."
+480,undefined,undefined,dialogue,Jill,Did you leave Lanette after a fight or something?
+481,undefined,undefined,dialogue,Anna,No! Of course not.
+482,undefined,undefined,dialogue,Jill,Then you're luckier than most people.
+483,undefined,undefined,dialogue,Anna,...oh.
+484,undefined,undefined,dialogue,Jill,"What I mean is... whenever you feel depressed, remember that she left your life while both of you were on good terms."
+485,undefined,undefined,dialogue,Jill,"Whenever you feel down, just try to hold onto that."
+486,undefined,undefined,dialogue,Anna,"Yeah, I can try that!"
+487,undefined,undefined,dialogue,Anna,"Heh, that cheered me up a bit somehow. Thanks."
+488,undefined,undefined,dialogue,Jill,Anytime.
+489,undefined,undefined,dialogue,Anna,"I should be leaving now. Thanks for such a lovely night, Jo."
+490,undefined,undefined,dialogue,Jill,"If you feel lonely again, just come back."
+491,undefined,undefined,dialogue,Anna,I will!
+492,undefined,undefined,dialogue,Anna,"Hey Jo, why do you think bad things happen?"
+493,undefined,undefined,dialogue,Jill,That's a sudden question. How so?
+494,undefined,undefined,dialogue,Anna,"If there's a god, why do you think bad things happen?"
+495,undefined,undefined,dialogue,Jill,Are you in a contemplative mood or something?
+496,undefined,undefined,dialogue,Anna,Kinda.
+497,undefined,undefined,dialogue,Jill,Huh...
+498,undefined,undefined,dialogue,Jill,I remember a conversation in college where a classmate said we give god too much flak.
+499,undefined,undefined,dialogue,Anna,How so?
+500,undefined,undefined,dialogue,Jill,"Well, let's imagine a place where virtually nothing bad happens."
+501,undefined,undefined,dialogue,Jill,"If an experience doesn't one-up the last ""good"" thing you enjoyed, you'll feel like it was a bad one."
+502,undefined,undefined,dialogue,Jill,"Even if you lived in a place where every good thing was one-upped by an even better good, past events would seem bad."
+503,undefined,undefined,dialogue,Anna,Um... eh?
+504,undefined,undefined,dialogue,Jill,Well... let's say you have chocolate.
+505,undefined,undefined,dialogue,Anna,I like chocolate.
+506,undefined,undefined,dialogue,Jill,Everyone does.
+507,undefined,undefined,dialogue,Anna,My mom doesn't.
+508,undefined,undefined,dialogue,Jill,Then she's a rare case.
+509,undefined,undefined,dialogue,Anna,She also doesn't like pizza.
+510,undefined,undefined,dialogue,Jill,...is she even human? Err.. sorry. I mean...
+511,undefined,undefined,dialogue,Jill,Dammit... where was I?
+512,undefined,undefined,dialogue,Anna,Chocolate.
+513,undefined,undefined,dialogue,Jill,Right.
+514,undefined,undefined,dialogue,Jill,"If you only got good chocolate, a slightly less good chocolate would taste awful."
+515,undefined,undefined,dialogue,Anna,"Yeah, I can see that."
+516,undefined,undefined,dialogue,Jill,And if you only got chocolates that tasted better each time...
+517,undefined,undefined,dialogue,Jill,...then the chocolates you ate in the past would worsen in memory.
+518,undefined,undefined,dialogue,Anna,"Oooooh, yeah. Now I get it."
+519,undefined,undefined,dialogue,Jill,"So yeah, sometimes bad is just a matter of contrast."
+520,undefined,undefined,dialogue,Anna,That still doesn't justify why bad things like death happen.
+521,undefined,undefined,dialogue,Jill,Hm...
+522,undefined,undefined,dialogue,Jill,"I don't know. Maybe, we're just too concerned with smaller plans to look at the bigger picture."
+523,undefined,undefined,dialogue,Jill,Maybe that death will trigger something else in the future.
+524,undefined,undefined,dialogue,Jill,"If there's reincarnation, maybe that person's needed somewhere else."
+525,undefined,undefined,dialogue,Jill,"Maybe, the world works in an entirely different way and we're limited by human reasoning."
+526,undefined,undefined,dialogue,Jill,"I don't know. I'm just a bartender. If there's someone to ask about the metaphysical nature of death, it's not me."
+527,undefined,undefined,dialogue,Anna,*sigh*
+528,undefined,undefined,dialogue,Anna,"Sometimes, I think god is just a dick."
+529,undefined,undefined,dialogue,Anna,"Giving me a disease, allowing me to survive it but depriving me of my special someone..."
+530,undefined,undefined,dialogue,Anna,Eh... um... do you need context for all of that? The special someone I mean.
+531,undefined,undefined,dialogue,Jill,"I'll connect the dots eventually. Keep talking, you're obviously venting some stuff there."
+532,undefined,undefined,dialogue,Anna,Oh... alright then.
+533,undefined,undefined,dialogue,Anna,It's like god's... I don't know. It's like he's some edgy writer who likes having his characters suffer.
+534,undefined,undefined,dialogue,Anna,I take solace in that reasoning because then I start expecting bad things.
+535,undefined,undefined,dialogue,Jill,What if you're looking at it from the wrong angle?
+536,undefined,undefined,dialogue,Anna,How so?
+537,undefined,undefined,dialogue,Jill,Main characters usually have this tragic backstory that we never really see in the beginning.
+538,undefined,undefined,dialogue,Jill,"Something that helps them move on, that gives them motivation to power through the plot."
+539,undefined,undefined,dialogue,Jill,"Maybe, you're not living the girth of your story yet. Maybe, this is your backstory getting set."
+540,undefined,undefined,dialogue,Jill,Who knows what the future holds for you?
+541,undefined,undefined,dialogue,Anna,Heh...
+542,undefined,undefined,dialogue,Anna,That'd be nice. It's at least better than my old outlook.
+543,undefined,undefined,dialogue,Anna,Yeah. I like it a lot. I'm going to start thinking that way now.
+544,undefined,undefined,dialogue,Anna,"Today, my origin story ends and my actual narrative begins!"
+545,undefined,undefined,dialogue,Jill,That's the spirit.
+546,undefined,undefined,dialogue,Anna,"Thanks Jo, I feel a bit better."
+547,undefined,undefined,dialogue,Jill,I'll be here if you need an ear.
+548,undefined,undefined,dialogue,Anna,Glad to know that.
+549,undefined,undefined,dialogue,Anna,I have to leave. Bye Jo!
+550,undefined,undefined,dialogue,Jill,Please come again.
+551,undefined,undefined,dialogue,Anna,I will!
+552,undefined,undefined,dialogue,Jill,"Well, that was an entertaining diversion."
+553,undefined,undefined,dialogue,Jill,Ah. Boss. What happened?
+554,undefined,undefined,dialogue,Dana,I... came to ask you that.
+555,undefined,undefined,dialogue,Jill,Eh?
+556,undefined,undefined,dialogue,Dana,You just spent an hour talking to yourself.
+557,undefined,undefined,dialogue,Jill,"No, I didn't. There was a girl called Anna here."
+558,undefined,undefined,dialogue,Dana,There was nobody here.
+559,undefined,undefined,dialogue,Dana,"I was actually coming to tell you we're gonna close for tonight and there you were, chatting with the thin air."
+560,undefined,undefined,dialogue,Dana,A spirited talk too.
+561,undefined,undefined,dialogue,Jill,T-That can't be! She paid for her drinks!
+562,undefined,undefined,dialogue,Dana,The registry says the money came from your account.
+563,undefined,undefined,dialogue,Jill,B-But all the drinks I served her...
+564,undefined,undefined,dialogue,Dana,You mean the liquid that someone who is definitely not going to be me has to clean off the floor?
+565,undefined,undefined,dialogue,Jill,But I...
+566,undefined,undefined,dialogue,Dana,"Jill, you're worrying me. Are you okay?"
+567,undefined,undefined,dialogue,Dana,The last thing I need is another employee who talks to herself.
+568,undefined,undefined,dialogue,Jill,"Yeah, I'm fine. I just..."
+569,undefined,undefined,dialogue,Jill,...
+570,undefined,undefined,dialogue,Jill,Are you sure there wasn't anyone else here?
+571,undefined,undefined,dialogue,Dana,I even checked the security cameras. You were here by yourself this whole while.
+572,undefined,undefined,dialogue,Jill,...
+573,undefined,undefined,dialogue,Dana,Maybe you're tired. You probably were just sleep-talking really intensely or something.
+574,undefined,undefined,dialogue,Jill,"Yeah, maybe..."
+575,undefined,undefined,dialogue,Dana,Come on. I'll drive you home. Maybe you just need a rest.
+576,undefined,undefined,dialogue,Jill,...yeah.
+577,undefined,undefined,dialogue,Jill,(What the hell just happened?!)
+578,undefined,undefined,dialogue,Dana,"Hey Jill, are you okay?"
+579,undefined,undefined,dialogue,Jill,"Hm? Yeah, I'm fine."
+580,undefined,undefined,dialogue,Dana,If you say so...
+581,undefined,undefined,dialogue,Dana,Let's call it a day and close early.
+582,undefined,undefined,dialogue,Jill,"Yeah, that's for the best."
+583,undefined,undefined,dialogue,Anna,"No offense Jo, but I'm leaving."
+584,undefined,undefined,dialogue,Anna,I'm not staying somewhere where people treat me like a kid.
+585,undefined,undefined,dialogue,Anna,Oh and... won't get my orders right either.
+586,undefined,undefined,dialogue,Anna,So... that! Bye.
+587,undefined,undefined,dialogue,Jill,Riiiiiiiiiiiight. Please come again.
+588,undefined,undefined,dialogue,Jill,(That was a bummer.)
+589,undefined,undefined,dialogue,Jill,(I guess I'll ask Boss if we can close early today.)
+590,undefined,undefined,dialogue,Nacho,"Kept you waiting, huh?"
+591,undefined,undefined,dialogue,Jill,...
+592,undefined,undefined,dialogue,Jill,"Sorry, we're closing."
+593,undefined,undefined,dialogue,Nacho,"Hey, watch your voice! You're speaking to the great Nacho Tumbleweed Jr.!"
+594,undefined,undefined,dialogue,Jill,I don't care if you're Aleister Crowley. We're. Still. Closing.
+595,undefined,undefined,dialogue,Nacho,Oh...
+596,undefined,undefined,dialogue,Nacho,Can't I at least get a drink?
+597,undefined,undefined,dialogue,Jill,No.
+598,undefined,undefined,dialogue,Nacho,A small one?
+599,undefined,undefined,dialogue,Jill,Closing.
+600,undefined,undefined,dialogue,Nacho,A glass of water?
+601,undefined,undefined,dialogue,Dana,GIVE THE DOG HIS FUCKING DRINK!
+602,undefined,undefined,dialogue,Jill,Fiiiiiiiiiiiiiiiiiiiiiine.
+603,undefined,undefined,dialogue,Nacho,"Wait, so you're not Dana?"
+604,undefined,undefined,dialogue,Jill,"No, she's in her office. I'm Jo-... JILL!! I'm Jill."
+605,undefined,undefined,dialogue,Nacho,"Oh, sorry. My depth perception is a bit off, so I confused you with her."
+606,undefined,undefined,dialogue,Jill,I don't think depth perception has anything to do with this situation.
+607,undefined,undefined,dialogue,Jill,What do you want?
+608,undefined,undefined,dialogue,Nacho,Give me a Fringe Weaver.
+609,undefined,undefined,dialogue,Jill,Alright.
+610,undefined,undefined,dialogue,Jill,Here you go.
+611,undefined,undefined,dialogue,Nacho,"Everything in order, let's continue the mission."
+612,undefined,undefined,dialogue,Jill,Here.
+613,undefined,undefined,dialogue,Nacho,"A bit off, but the mission can go on. No. It WILL go on."
+614,undefined,undefined,dialogue,Jill,Right...
+615,undefined,undefined,dialogue,Jill,Here you are.
+616,undefined,undefined,dialogue,Nacho,This is wrong! This is all wrong!!
+617,undefined,undefined,dialogue,Nacho,Find me an extraction point! Abort mission! Abort!
+618,undefined,undefined,dialogue,Jill,"Calm down, it's just a drink."
+619,undefined,undefined,dialogue,Nacho,"Say Miss, you look bummed out. Are you sad?"
+620,undefined,undefined,dialogue,Jill,"Hm? No, I'm just... bored."
+621,undefined,undefined,dialogue,Nacho,"I was sad once. Now, I wear an eyepatch because of that."
+622,undefined,undefined,dialogue,Jill,Why an eyepatch?
+623,undefined,undefined,dialogue,Nacho,It makes me look menacing and sad.
+624,undefined,undefined,dialogue,Jill,"(No, it doesn't.)"
+625,undefined,undefined,dialogue,Nacho,"Besides, how can you be sad with me here?"
+626,undefined,undefined,dialogue,Jill,I told you I'm not sad.
+627,undefined,undefined,dialogue,Nacho,That's not what your face tells me.
+628,undefined,undefined,dialogue,Jill,You thought I was my boss. I wouldn't trust your sight if I were you.
+629,undefined,undefined,dialogue,Nacho,Hey! I have great eyesight. I can see perfectly fine.
+630,undefined,undefined,dialogue,Nacho,"As long as things are yellow, blue or gray..."
+631,undefined,undefined,dialogue,Nacho,...or aren't too far away.
+632,undefined,undefined,dialogue,Nacho,...or aren't on the side my eyepatch is on.
+633,undefined,undefined,dialogue,Nacho,"But aside from that, my eyesight is perfect, Dana."
+634,undefined,undefined,dialogue,Jill,"I'm not Dana! I'm Jo-... Jill! Don't you have, like, a great sense of smell or something?"
+635,undefined,undefined,dialogue,Nacho,"Yeah, but you smell just like her."
+636,undefined,undefined,dialogue,Nacho,"Come to think of it, why's that?"
+637,undefined,undefined,dialogue,Jill,Um... uh...
+638,undefined,undefined,dialogue,Jill,D-Do you want any other drink?
+639,undefined,undefined,dialogue,Nacho,"Yeah, let's go with a Gut Punch."
+640,undefined,undefined,dialogue,Jill,Sure.
+641,undefined,undefined,dialogue,Jill,Here.
+642,undefined,undefined,dialogue,Nacho,"To survive in the battlefield, you need GUTS."
+643,undefined,undefined,dialogue,Jill,Have you been in a battlefield?
+644,undefined,undefined,dialogue,Nacho,LIFE is a battlefield.
+645,undefined,undefined,dialogue,Jill,"I don't know, I've heard it's actually a dream for the wise... or was it a game for fools?"
+646,undefined,undefined,dialogue,Jill,Here you go.
+647,undefined,undefined,dialogue,Nacho,"If I can live with one eye, I guess I can live with this half-assed Gut Punch."
+648,undefined,undefined,dialogue,Jill,Do you really lack an eye?
+649,undefined,undefined,dialogue,Nacho,"...if I can live with only one eye UNCOVERED, I guess I can..."
+650,undefined,undefined,dialogue,Jill,"Yeah, yeah."
+651,undefined,undefined,dialogue,Jill,Here you are.
+652,undefined,undefined,dialogue,Nacho,...we failed. WE FAILED BIG TIME. GAME OVER MAN.
+653,undefined,undefined,dialogue,Nacho,"Wait, you were the one who failed. Nevermind."
+654,undefined,undefined,dialogue,Jill,...
+655,undefined,undefined,dialogue,Dana,Sorry about the wait. I was sorting my desk.
+656,undefined,undefined,dialogue,Dana,I left a Steak Burrito in one of the drawers and it... blew up or something.
+657,undefined,undefined,dialogue,Dana,I spent all night cleaning it.
+658,undefined,undefined,dialogue,Dana,"Anyways, let's go."
+659,undefined,undefined,dialogue,Jill,Where are you going?
+660,undefined,undefined,dialogue,Dana,Poker night. The two of us and the Hawaiian-shirted Shiba are meeting at Lawrence's house.
+661,undefined,undefined,dialogue,Jill,Lawrence?
+662,undefined,undefined,dialogue,Dana,Dorothy's vending machine friend. I believe you've heard about him?
+663,undefined,undefined,dialogue,Jill,Oh yeah.
+664,undefined,undefined,dialogue,Jill,"(Wait, I'm stuck in an apartment and the vending machine gets a HOUSE?!)"
+665,undefined,undefined,dialogue,Dana,"Sadly we're full for the night, but would you like in on the next poker night?"
+666,undefined,undefined,dialogue,Jill,I'll pass.
+667,undefined,undefined,dialogue,Dana,The offer will remain open.
+668,undefined,undefined,dialogue,Dana,"Anyways, let's close this place for the night and leave."
+669,undefined,undefined,dialogue,Jill,Sure.
+670,undefined,undefined,dialogue,Nacho,ONWARDS! TO OUR GLORY!
+671,undefined,undefined,dialogue,Dana,"Oh yeah, please turn down the volume on your translator."
+672,undefined,undefined,dialogue,Nacho,Can't reach it.
+673,undefined,undefined,dialogue,Dana,"Jill, please."
+674,undefined,undefined,dialogue,Jill,*sigh*
+675,undefined,undefined,dialogue,Jill,"(Huh, now that I think about it... a dog DID show up this time.)"
+676,undefined,undefined,dialogue,Jill,Here.
+677,undefined,undefined,dialogue,Anna,"Man, this is some... abstract stuff here."
+678,undefined,undefined,dialogue,Anna,Maybe you forgot the drink?
+679,undefined,undefined,dialogue,Jill,...
+680,undefined,undefined,dialogue,Anna,"I don't wanna judge you, but I will say you're not very good with the whole first impressions thing."
+681,undefined,undefined,dialogue,Anna,"Then again, I'm not one to talk, really."
+682,undefined,undefined,dialogue,Anna,"There was this one time in middle school where I shouted ""CUCUMBERS"" in front of the person I liked."
+683,undefined,undefined,dialogue,Anna,"I became ""Kappa Girl"" what was left of the year."
+684,undefined,undefined,dialogue,Jill,"(That's a pretty smart nickname, actually.)"
+685,undefined,undefined,dialogue,Jill,Here you go.
+686,undefined,undefined,dialogue,Anna,This is... interesting.
+687,undefined,undefined,dialogue,Anna,And by interesting I mean creepy.
+688,undefined,undefined,dialogue,Anna,"This won't blow up on my face, right?"
+689,undefined,undefined,dialogue,Jill,No.
+690,undefined,undefined,dialogue,Anna,You sure? It looks like it's... pulsing.
+691,undefined,undefined,dialogue,Anna,"Hey, just out curiosity, what's the worse that could happen with a bad drink?"
+692,undefined,undefined,dialogue,Jill,"Well, let's see..."
+693,undefined,undefined,dialogue,Jill,"Sterility, temporary blindness, chemical burns, dementia, spontaneous combustion, seizures, athlete's foot."
+694,undefined,undefined,dialogue,Anna,Then why do people come and drink stuff in these bars?!
+695,undefined,undefined,dialogue,Jill,"There's people that drink paint thinner to get high, we just provide LEGAL drinkable paint thinner."
+696,undefined,undefined,dialogue,Jill,"And to be fair, 60% of our training is to know what to avoid in order to not kill someone or ourselves when mixing."
+697,undefined,undefined,dialogue,Anna,What's the other 40%?
+698,undefined,undefined,dialogue,Jill,Procedures and self-defense.
+699,undefined,undefined,dialogue,Anna,Oh...
+700,undefined,undefined,dialogue,Jill,Here.
+701,undefined,undefined,dialogue,Anna,"Jo, I don't know in what context this could be considered classy, but I'm sure it's not in human context"
+702,undefined,undefined,dialogue,Anna,"I mean, it's glowing and all!"
+703,undefined,undefined,dialogue,Jill,"Don't worry, it's safe."
+704,undefined,undefined,dialogue,Jill,(It won't kill you at the very least.)
+705,undefined,undefined,dialogue,Anna,I'll... pass.
+706,undefined,undefined,dialogue,Anna,Pssst.
+707,undefined,undefined,dialogue,Anna,"Hey, over here."
+708,undefined,undefined,dialogue,Anna,BOO!
+709,undefined,undefined,dialogue,Anna,How's that for an entrance?
+710,undefined,undefined,dialogue,Anna,...
+711,undefined,undefined,dialogue,Anna,"Come on Jo, look sharp! The game's starting and the player needs a good first impression of its main character."
+712,undefined,undefined,dialogue,Anna,I know you served a bunch of tuxedo-clad Corgis over the weekend and the bar will eventually close.
+713,undefined,undefined,dialogue,Anna,...and I'll admit my little prank on you might've gone a bit overboard.
+714,undefined,undefined,dialogue,Anna,"But remember, life is 90% how you take it! Stay focused and look at the brighter side of things."
+715,undefined,undefined,dialogue,Anna,"I have no idea what the brighter side is, but you should totally find it."
+716,undefined,undefined,dialogue,Anna,"In any case, you should totally check that parcel you just got."
+717,undefined,undefined,dialogue,Anna,See ya!
+718,undefined,undefined,dialogue,Jill,...!
+719,undefined,undefined,dialogue,Jill,Oh... *yawn* just a dream.
+720,undefined,undefined,dialogue,Jill,(Hm? There's something near the door.)
+721,undefined,undefined,dialogue,Anna,Pssst.
+722,undefined,undefined,dialogue,Anna,"Hey, over here."
+723,undefined,undefined,dialogue,Anna,Boo!
+724,undefined,undefined,dialogue,Anna,...
+725,undefined,undefined,dialogue,Anna,Hm? Why didn't I show up on the TV?
+726,undefined,undefined,dialogue,Anna,"Gags get old if you repeat them too much, you know?"
+727,undefined,undefined,dialogue,Anna,But no matter. Thank you for playing again!
+728,undefined,undefined,dialogue,Anna,"Don't worry, you won't be punished for choices made in past playthroughs. This is a fresh new beginning."
+729,undefined,undefined,dialogue,Anna,"Um... almost fresh, at least."
+730,undefined,undefined,dialogue,Anna,Jo will have all the money she had at the end of last time.
+731,undefined,undefined,dialogue,Anna,She'll keep everything she bought or unlocked too.
+732,undefined,undefined,dialogue,Anna,That means she can potentially be a millionaire but remain the same poor bartender.
+733,undefined,undefined,dialogue,Anna,...
+734,undefined,undefined,dialogue,Anna,"...well, suspension of disbelief exists for a reason, right?"
+735,undefined,undefined,dialogue,Anna,"Oh, but debts will still show up, so be careful."
+736,undefined,undefined,dialogue,Anna,Did you get all of the endings yet? Here's a couple of tips.
+737,undefined,undefined,dialogue,Anna,Leaving Jo homeless or not is the first step towards at least one of them.
+738,undefined,undefined,dialogue,Anna,There's two of them that rely on being a top bartender to the buff sweetheart and the cat-eared beauty.
+739,undefined,undefined,dialogue,Anna,"Of those two, one needs you to be patient with the pompous buffoon."
+740,undefined,undefined,dialogue,Anna,The other one needs you to serve the busty 'droid what she wants.
+741,undefined,undefined,dialogue,Anna,"The other busty girl, the blonde one. You should get hers as long as you're not an asshole."
+742,undefined,undefined,dialogue,Anna,And Becky's should be easy as long as you remember what she says.
+743,undefined,undefined,dialogue,Anna,"Six different endings, can you get them all?"
+744,undefined,undefined,dialogue,Anna,Sorry for all the chatter. Let's pretend this never happened.
+745,undefined,undefined,dialogue,Anna,GAME START!
+746,undefined,undefined,dialogue,Jill,...!
+747,undefined,undefined,dialogue,Jill,...
+748,undefined,undefined,dialogue,Jill,...that's it. No more tequila-seasoned ramen before the afternoon nap.
+749,undefined,undefined,dialogue,Jill,"And what the hell are you chewing on, Fore? Is that a letter?"

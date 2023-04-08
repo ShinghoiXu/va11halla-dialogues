@@ -1,0 +1,567 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "tutorial.txt",
+            "lines": 94,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "G'evening."
+        },
+        {
+            "line": 3,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Ah! Hey there, Jill."
+        },
+        {
+            "line": 4,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 5,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh. Hey, John."
+        },
+        {
+            "line": 6,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 7,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "When will you admit you have a John face, Gil?"
+        },
+        {
+            "line": 8,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "When you let people call you Jules."
+        },
+        {
+            "line": 9,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Quiet."
+        },
+        {
+            "line": 10,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Are you okay? You look distracted."
+        },
+        {
+            "line": 11,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Where's Boss?"
+        },
+        {
+            "line": 12,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Dunno. She went out to buy some stuff and..."
+        },
+        {
+            "line": 13,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Did you hear what I just told you?"
+        },
+        {
+            "line": 14,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You said something?"
+        },
+        {
+            "line": 15,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Yes. That you look distracted. Very, very distracted."
+        },
+        {
+            "line": 16,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's nothing. I'm just thinking about... stuff."
+        },
+        {
+            "line": 17,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "What stuff?"
+        },
+        {
+            "line": 18,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, I have to pay rent by the 30th, which is always stressful, and -"
+        },
+        {
+            "line": 19,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Ah."
+        },
+        {
+            "line": 20,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(There's also the fact that I spent a full hour yesterday apparently talking to myself.)"
+        },
+        {
+            "line": 21,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Not to mention the fact that two days ago, I found out the bar is at risk of closing.)"
+        },
+        {
+            "line": 22,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(So not only is my life being shaken up, I'm apparently going crazy.)"
+        },
+        {
+            "line": 23,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(On top of that, neutering Fore left me with a completely empty wallet and I'll get evicted if I miss rent again...)"
+        },
+        {
+            "line": 24,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(And there're all the beer cans around my apartment, and...)"
+        },
+        {
+            "line": 25,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Jill!"
+        },
+        {
+            "line": 26,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry, did you say something?"
+        },
+        {
+            "line": 27,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "...can you really work today?"
+        },
+        {
+            "line": 28,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Of course I can!"
+        },
+        {
+            "line": 29,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Let's go through the basics, then, shall we? Just in case."
+        },
+        {
+            "line": 30,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 31,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "If you can make a Piano Man, I'll skip the rest. But. Bear with me for a second here, okay?"
+        },
+        {
+            "line": 32,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 33,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Let's start with a Sugar Rush."
+        },
+        {
+            "line": 34,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Look for the recipe using the navigation bar in the recipe book that will show up on the top left."
+        },
+        {
+            "line": 35,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You can also sort drinks by flavors like \"Sweet\" or types like \"Manly\"."
+        },
+        {
+            "line": 36,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Drag the desired amount of ingredients from their cells on the right to the shaker in the center."
+        },
+        {
+            "line": 37,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gil..."
+        },
+        {
+            "line": 38,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "When done, press the mix button, and then press it again to stop mixing."
+        },
+        {
+            "line": 39,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Click the serve button or the drink itself to serve it and that'll be all."
+        },
+        {
+            "line": 40,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Oh, but if the drink looks messed up, you'll need to press the Reset button and try again."
+        },
+        {
+            "line": 41,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You can press Reset at any time. Even while the Shaker is moving. Don't be afraid to use it."
+        },
+        {
+            "line": 42,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gil, I'm the one that went through the formal BTC instruction."
+        },
+        {
+            "line": 43,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Then this should be no problem!"
+        },
+        {
+            "line": 44,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 45,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here. Happy now?"
+        },
+        {
+            "line": 46,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "A little, but not quite. Let's do one more."
+        },
+        {
+            "line": 47,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 48,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I know, I know. Please humor me for a bit."
+        },
+        {
+            "line": 49,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 50,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You... spent too much time mixing. It got blended and became a Sparkle Star instead."
+        },
+        {
+            "line": 51,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 52,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "L-Let's try something else."
+        },
+        {
+            "line": 53,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here. Happy?"
+        },
+        {
+            "line": 54,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Yes. Very. I stand corrected."
+        },
+        {
+            "line": 55,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Now, let's get working."
+        },
+        {
+            "line": 56,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 57,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "This is... not a Sugar Rush"
+        },
+        {
+            "line": 58,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um... let's try something else."
+        },
+        {
+            "line": 59,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Some drinks need to be blended."
+        },
+        {
+            "line": 60,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "This is done by mixing it for over five seconds. You can tell it's being blended when the shaker starts moving faster."
+        },
+        {
+            "line": 61,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You also need to check if the drink should be served on the rocks or aged."
+        },
+        {
+            "line": 62,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Check Ice and Age buttons on the side to select the one you need."
+        },
+        {
+            "line": 63,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "And in case it wasn't obvious. \"On the rocks\" means you have to toggle the \"Ice\" tab."
+        },
+        {
+            "line": 64,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "It should be noted that the station will add the ice after mixing."
+        },
+        {
+            "line": 65,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "It's not something you should mind though. Just a fun fact."
+        },
+        {
+            "line": 66,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 67,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Give me a Moonblast and I'll leave you alone."
+        },
+        {
+            "line": 68,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Keep in mind what I said!"
+        },
+        {
+            "line": 69,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, yeah..."
+        },
+        {
+            "line": 70,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here, did I amuse you for long enough?"
+        },
+        {
+            "line": 71,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You did. Sorry to hold you."
+        },
+        {
+            "line": 72,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Let's get working."
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah."
+        },
+        {
+            "line": 74,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 75,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Huh, you actually made the Piano Man."
+        },
+        {
+            "line": 76,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "I was gonna leave you alone after this one, but good to see it done."
+        },
+        {
+            "line": 77,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 78,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "A-Anyways, let's start working."
+        },
+        {
+            "line": 79,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah."
+        },
+        {
+            "line": 80,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 81,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 82,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Uh..."
+        },
+        {
+            "line": 83,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You didn't blow everything when mixing. Let's leave it at that. We need to start working."
+        },
+        {
+            "line": 84,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Finally."
+        },
+        {
+            "line": 85,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Oh, yeah! Before I forget!"
+        },
+        {
+            "line": 86,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hm?"
+        },
+        {
+            "line": 87,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "You can make any drink big by doubling the amount of ingredients."
+        },
+        {
+            "line": 88,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "But if the recipe already has over 10 ingredients, the drink is already big."
+        },
+        {
+            "line": 89,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Oh, and if a recipe says it uses \"Optional Karmotrine\" it means you can use none or fill it to the brim."
+        },
+        {
+            "line": 90,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Optional Karmotrine doesn't count towards making a big drink, of course."
+        },
+        {
+            "line": 91,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Karmotrine is the alcoholic factor in a drink. It doesn't change the taste but the amount still has an effect."
+        },
+        {
+            "line": 92,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "If you add too much of it, the client will get drunk faster. So please be mindful of that."
+        },
+        {
+            "line": 93,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you done with the exposition?"
+        },
+        {
+            "line": 94,
+            "character": "Gillian",
+            "type": "dialogue",
+            "text": "Now I am. Yeah."
+        }
+    ]

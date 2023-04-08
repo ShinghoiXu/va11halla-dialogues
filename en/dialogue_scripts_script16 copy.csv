@@ -1,0 +1,586 @@
+line,filename,lines,type,character,text
+0,script16.txt,585,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,G'evening.
+3,undefined,undefined,dialogue,Dana,"Ah, Jill. I'm out to get firecrackers."
+4,undefined,undefined,dialogue,Jill,Firecrackers?
+5,undefined,undefined,dialogue,Dana,"It's New Year's, right? We need some!"
+6,undefined,undefined,dialogue,Jill,Wouldn't firecrackers scare off the do-...
+7,undefined,undefined,dialogue,Jill,"Yeah, good idea. Go ahead."
+8,undefined,undefined,dialogue,Dana,I'll be back in a bit.
+9,undefined,undefined,dialogue,Gillian,"Even for a cat lover, you sure get excited about firecrackers a whole lot more when dogs are involved."
+10,undefined,undefined,dialogue,Jill,"I know how hypocritical it sounds, and I don't care."
+11,undefined,undefined,dialogue,Jill,"Ah, Jamie's here."
+12,undefined,undefined,dialogue,Jamie,Greetings.
+13,undefined,undefined,dialogue,Jill,"Anyway, let's start."
+14,undefined,undefined,dialogue,Jill,Time to mix drinks and change lives.
+15,undefined,undefined,dialogue,Jill,"Ah, the guy that wouldn't come back twice."
+16,undefined,undefined,dialogue,Ingram,"Yeah, yeah. shut up."
+17,undefined,undefined,dialogue,Ingram,"By any chance, did something fly over here two weeks ago?"
+18,undefined,undefined,dialogue,Jill,On Friday?
+19,undefined,undefined,dialogue,Ingram,Yes.
+20,undefined,undefined,dialogue,Jill,There were lots of weird explosion noises throughout the night.
+21,undefined,undefined,dialogue,Jill,"But as far as I understand, those were made by a flying drone or something like that."
+22,undefined,undefined,dialogue,Ingram,So it flew by here.
+23,undefined,undefined,dialogue,Jill,I take it you know what made the noise?
+24,undefined,undefined,dialogue,Ingram,Let's just keep it at whatever drone story you heard.
+25,undefined,undefined,dialogue,Jill,Right.
+26,undefined,undefined,dialogue,Jill,"The noise got annoying after a while, I must say."
+27,undefined,undefined,dialogue,Ingram,So it remained in the vicinity?
+28,undefined,undefined,dialogue,Jill,"I don't know what counts as ""in the vicinity"", but yeah."
+29,undefined,undefined,dialogue,Jill,Distant explosions all night.
+30,undefined,undefined,dialogue,Ingram,Interesting... so it didn't get far away.
+31,undefined,undefined,dialogue,Ingram,Hm...
+32,undefined,undefined,dialogue,Jill,Um...
+33,undefined,undefined,dialogue,Ingram,"Now, get me a Marsblast."
+34,undefined,undefined,dialogue,Jill,Here you go.
+35,undefined,undefined,dialogue,Ingram,"Well, you didn't mess up."
+36,undefined,undefined,dialogue,Jill,Here.
+37,undefined,undefined,dialogue,Ingram,I'll let this one pass.
+38,undefined,undefined,dialogue,Jill,Here.
+39,undefined,undefined,dialogue,Ingram,Here we go again...
+40,undefined,undefined,dialogue,Jill,Here.
+41,undefined,undefined,dialogue,Ingram,"Bravo, you fucked up."
+42,undefined,undefined,dialogue,Ingram,"If you're actually worried about how I'm doing, I'll have you know that I've been taking care of that Mozart bastard."
+43,undefined,undefined,dialogue,Ingram,"He enters the house, sleeps on the couch, eats my food, and leaves until the next day."
+44,undefined,undefined,dialogue,Ingram,"So, yeah. I now have a fucking hobby."
+45,undefined,undefined,dialogue,Jill,I said nothing.
+46,undefined,undefined,dialogue,Ingram,You got me a sweet drink.
+47,undefined,undefined,dialogue,Jill,Could've been a mistake on my side.
+48,undefined,undefined,dialogue,Ingram,...
+49,undefined,undefined,dialogue,Jill,You look happier though.
+50,undefined,undefined,dialogue,Ingram,Needing to feed a ball of fur that never stays in one place. A cat that doesn't even catch mice.
+51,undefined,undefined,dialogue,Ingram,Leaving hair everywhere and scratching the furniture. Yippity fucking yay.
+52,undefined,undefined,dialogue,Ingram,I don't think I wanna explore your fucked up definition of happy.
+53,undefined,undefined,dialogue,Jill,"Come on, cats are fine. Just the other day my Fore..."
+54,undefined,undefined,dialogue,Ingram,"Sorry, not interested in your crazy cat lady stories."
+55,undefined,undefined,dialogue,Jill,I'm not a-...
+56,undefined,undefined,dialogue,Ingram,"Yes, you are."
+57,undefined,undefined,dialogue,Ingram,"The change in the tone of your voice, that glint in your eyes..."
+58,undefined,undefined,dialogue,Ingram,"You're a crazy cat lady, through and through. I bet you've deluded yourself into thinking he's your baby or something."
+59,undefined,undefined,dialogue,Jill,...
+60,undefined,undefined,dialogue,Jill,"(I'm not deluded, he IS my baby.)"
+61,undefined,undefined,dialogue,Jamie,"Sorry, if I may interject..."
+62,undefined,undefined,dialogue,Ingram,You lookin' for a fight?
+63,undefined,undefined,dialogue,Jamie,Most certainly not.
+64,undefined,undefined,dialogue,Jill,You really think you'd stand a chance?
+65,undefined,undefined,dialogue,Jill,"You're, like, half his size."
+66,undefined,undefined,dialogue,Ingram,I can fight dirty.
+67,undefined,undefined,dialogue,Jill,He kills people for a living.
+68,undefined,undefined,dialogue,Ingram,...
+69,undefined,undefined,dialogue,Ingram,I can fight dirty.
+70,undefined,undefined,dialogue,Jamie,"Jill, please. You make me sound like a savage."
+71,undefined,undefined,dialogue,Jamie,It would be like me saying that you get people drunk for a living.
+72,undefined,undefined,dialogue,Jamie,"It's not wrong, but there are better ways of saying stuff like that."
+73,undefined,undefined,dialogue,Jill,"You're right, sorry."
+74,undefined,undefined,dialogue,Jamie,"And like I said, I'm not looking for a fight."
+75,undefined,undefined,dialogue,Jamie,I just noticed you seem to like strong drinks.
+76,undefined,undefined,dialogue,Ingram,What about it?
+77,undefined,undefined,dialogue,Jamie,"Well, to be honest, it's a rare sight in this bar."
+78,undefined,undefined,dialogue,Jamie,"I'd even come to believe I'm the only one here who enjoys them, aside from the owner."
+79,undefined,undefined,dialogue,Jamie,"May I suggest you try a ""Suplex"" next time? It might be to your liking."
+80,undefined,undefined,dialogue,Ingram,Hm...
+81,undefined,undefined,dialogue,Ingram,You wouldn't by any chance know of anyone with a suit of White Knight armor?
+82,undefined,undefined,dialogue,Ingram,This looks like the kind of shady place where such info would hide.
+83,undefined,undefined,dialogue,Jill,(Shady place.)
+84,undefined,undefined,dialogue,Jill,*ahem*
+85,undefined,undefined,dialogue,Jill,"Not really, no. Why?"
+86,undefined,undefined,dialogue,Ingram,Engineers are paying small fortunes for those these days.
+87,undefined,undefined,dialogue,Ingram,It's a scavenger hunt for all that tech.
+88,undefined,undefined,dialogue,Ingram,It was behind closed doors for many years...
+89,undefined,undefined,dialogue,Ingram,But now lots of people are reverse-engineering the decommissioned armors.
+90,undefined,undefined,dialogue,Ingram,It's like a gold rush to see who gets the most tech out of it.
+91,undefined,undefined,dialogue,Jill,I'll... let you know if I hear anything.
+92,undefined,undefined,dialogue,Jill,"If I find out somebody has one, what's in it for me?"
+93,undefined,undefined,dialogue,Ingram,The pleasure of giving me money.
+94,undefined,undefined,dialogue,Jill,What about money for me?
+95,undefined,undefined,dialogue,Ingram,What would you do with money?
+96,undefined,undefined,dialogue,Jill,...
+97,undefined,undefined,dialogue,Jill,"I'll make sure to keep the intel for myself, then."
+98,undefined,undefined,dialogue,Ingram,"Not like you could gather any, anyway."
+99,undefined,undefined,dialogue,Jill,...
+100,undefined,undefined,dialogue,Ingram,"Okay, let's try this Suplex thing."
+101,undefined,undefined,dialogue,Jill,Right.
+102,undefined,undefined,dialogue,Ingram,"Okay, gimme a Fringe Weaver."
+103,undefined,undefined,dialogue,Jill,Sure.
+104,undefined,undefined,dialogue,Jill,Here.
+105,undefined,undefined,dialogue,Ingram,Good stuff. Like a less burning but punchier Piledriver.
+106,undefined,undefined,dialogue,Jill,Here.
+107,undefined,undefined,dialogue,Ingram,I'm pretty sure this is wrong.
+108,undefined,undefined,dialogue,Jill,Here.
+109,undefined,undefined,dialogue,Ingram,Hmph.
+110,undefined,undefined,dialogue,Jill,Here.
+111,undefined,undefined,dialogue,Ingram,"*sigh* Right, right..."
+112,undefined,undefined,dialogue,Jill,Here.
+113,undefined,undefined,dialogue,Ingram,And you fucked up.
+114,undefined,undefined,dialogue,Ingram,"Say, your face looks somehow familiar, mister..."
+115,undefined,undefined,dialogue,Jamie,Call me Jamie. And you are?
+116,undefined,undefined,dialogue,Ingram,"I'm Ingram. Anyway, I think I saw your face somewhere..."
+117,undefined,undefined,dialogue,Ingram,Maybe when I needed to look for a specific file at... hm...
+118,undefined,undefined,dialogue,Ingram,Did you perhaps go through a nanomachine expunge?
+119,undefined,undefined,dialogue,Jamie,"I did, actually."
+120,undefined,undefined,dialogue,Ingram,Figured as much. Only a handful of people do that.
+121,undefined,undefined,dialogue,Ingram,And almost all of them are people with Nanomachine Rejection that feel oddly suicidal.
+122,undefined,undefined,dialogue,Ingram,"So, why go through the whole thing? Rejection? Need to hide something?"
+123,undefined,undefined,dialogue,Jamie,The second one.
+124,undefined,undefined,dialogue,Jamie,It's easier to remain undetected when they have no means to track you or your activity.
+125,undefined,undefined,dialogue,Ingram,I see.
+126,undefined,undefined,dialogue,Jill,How does the expunge work?
+127,undefined,undefined,dialogue,Jamie,You lie in a pressure chamber and they give you a special IV solution.
+128,undefined,undefined,dialogue,Jamie,It causes Nanomachine Rejection while giving you the antibodies needed to prevent them from getting back in.
+129,undefined,undefined,dialogue,Jamie,"For five hours you're trapped in bed while a horrible pressure builds up in your body, and nanomachines are forced out."
+130,undefined,undefined,dialogue,Jamie,They're like little needles all over your body.
+131,undefined,undefined,dialogue,Jamie,"You feel them in your eyes, in your gums, in your toes... everywhere."
+132,undefined,undefined,dialogue,Jamie,"And after all that, they need to implant you with a mechanism that constantly releases the same antibodies."
+133,undefined,undefined,dialogue,Jill,Ouch...
+134,undefined,undefined,dialogue,Ingram,"What are you having, Jamie?"
+135,undefined,undefined,dialogue,Jamie,This is a Gut Punch.
+136,undefined,undefined,dialogue,Ingram,"Yeah, should've figured."
+137,undefined,undefined,dialogue,Ingram,"Hey, give me one of those."
+138,undefined,undefined,dialogue,Jill,Sure.
+139,undefined,undefined,dialogue,Ingram,"Seriously though, I don't know how people deal with cats."
+140,undefined,undefined,dialogue,Ingram,They're like that one roommate that never talks and just uses your house as he wants.
+141,undefined,undefined,dialogue,Ingram,"And he's always rubbing himself against my leg, and..."
+142,undefined,undefined,dialogue,Jill,You seem to be enjoying yourself.
+143,undefined,undefined,dialogue,Ingram,Like hell I am.
+144,undefined,undefined,dialogue,Jill,But you do. You wouldn't talk so much about the cat if you didn't like him.
+145,undefined,undefined,dialogue,Jill,"There's nothing wrong with cats, you know?"
+146,undefined,undefined,dialogue,Jill,"For example, Fore..."
+147,undefined,undefined,dialogue,Ingram,"No cat lady stories, please."
+148,undefined,undefined,dialogue,Jill,"Hey, you started it, talking about your own cat."
+149,undefined,undefined,dialogue,Jill,You've also been talking like every little thing he does is magic.
+150,undefined,undefined,dialogue,Jill,And I haven't asked about the cat at any point.
+151,undefined,undefined,dialogue,Jill,And I'M the cat lady?
+152,undefined,undefined,dialogue,Ingram,...
+153,undefined,undefined,dialogue,Ingram,"If I order something sweet, will you shut up?"
+154,undefined,undefined,dialogue,Jill,...
+155,undefined,undefined,dialogue,Jill,Here.
+156,undefined,undefined,dialogue,Ingram,"Yeah, I love these. It looks different from yours, though."
+157,undefined,undefined,dialogue,Gillian,"I add a couple of extras in his, actually."
+158,undefined,undefined,dialogue,Jill,Here.
+159,undefined,undefined,dialogue,Ingram,This... is not a Gut Punch.
+160,undefined,undefined,dialogue,Jill,Here.
+161,undefined,undefined,dialogue,Jill,As I was saying...
+162,undefined,undefined,dialogue,Ingram,You told me you'd shut up if I ordered this.
+163,undefined,undefined,dialogue,Jill,I never verbally agreed.
+164,undefined,undefined,dialogue,Jill,Here.
+165,undefined,undefined,dialogue,Ingram,I guess this is sweet if you're a cat.
+166,undefined,undefined,dialogue,Jill,Cats can't sense the taste of swee-...
+167,undefined,undefined,dialogue,Jill,"Okay, that one was clever."
+168,undefined,undefined,dialogue,Ingram,"So where's the antibody unit they stuck you with, Jamie?"
+169,undefined,undefined,dialogue,Jamie,"Inside, like all other maintenance systems."
+170,undefined,undefined,dialogue,Jamie,"It can be troublesome at times, but the perks of not having nanomachines in the body outweigh the cons."
+171,undefined,undefined,dialogue,Ingram,And the rest of the enhancements? Were you reconstructed or have you been adding them over time?
+172,undefined,undefined,dialogue,Jamie,"Over time, either by getting a much-needed enhancement or through fixing injuries."
+173,undefined,undefined,dialogue,Ingram,I see.
+174,undefined,undefined,dialogue,Ingram,"Well, it was a pleasure, Jamie. But I gotta leave."
+175,undefined,undefined,dialogue,Jamie,"Nice meeting you, Ingram."
+176,undefined,undefined,dialogue,Jill,Please come again.
+177,undefined,undefined,dialogue,Ingram,Don't count on it.
+178,undefined,undefined,dialogue,Jill,You've said that twice.
+179,undefined,undefined,dialogue,Ingram,Shut up.
+180,undefined,undefined,dialogue,Jamie,Seemed like a nice guy.
+181,undefined,undefined,dialogue,Jill,Right...
+182,undefined,undefined,dialogue,Jill,"I won't call him a bastard, but he's not the nicest in the bunch."
+183,undefined,undefined,dialogue,Jamie,Maybe you caught him on a bad day?
+184,undefined,undefined,dialogue,Jill,"Nah, I think you're just that good at bringing out the nicer side of people."
+185,undefined,undefined,dialogue,Jill,...oddly enough.
+186,undefined,undefined,dialogue,Ingram,"Well, I got a drink. I'm out."
+187,undefined,undefined,dialogue,Jill,"Hey, Mr. Ingram?"
+188,undefined,undefined,dialogue,Ingram,What?
+189,undefined,undefined,dialogue,Jill,I just wanted to say that you look... healthier. Happier.
+190,undefined,undefined,dialogue,Jill,I'm glad to see you like that.
+191,undefined,undefined,dialogue,Ingram,So?
+192,undefined,undefined,dialogue,Jill,...
+193,undefined,undefined,dialogue,Jill,Nothing. Leave and say you won't come back even though you probably will.
+194,undefined,undefined,dialogue,Ingram,Yeah? Well...
+195,undefined,undefined,dialogue,Ingram,"Ah, fuck you."
+196,undefined,undefined,dialogue,Jill,(That guy tires the hell out of me.)
+197,undefined,undefined,dialogue,Alma,*pfffft* Heheheh...
+198,undefined,undefined,dialogue,Jill,Someone's in a good mood.
+199,undefined,undefined,dialogue,Alma,"Give me a Bad Touch, will you? That way you'll be in a good mood too."
+200,undefined,undefined,dialogue,Jill,*pfft*
+201,undefined,undefined,dialogue,Jill,Here.
+202,undefined,undefined,dialogue,Alma,"Jill, you have such a petty sense of humor."
+203,undefined,undefined,dialogue,Jill,Guilty as charged.
+204,undefined,undefined,dialogue,Jill,Here.
+205,undefined,undefined,dialogue,Alma,Aaaand wrong.
+206,undefined,undefined,dialogue,Jill,"So, what put you in a good mood?"
+207,undefined,undefined,dialogue,Alma,"Oh yeah, that."
+208,undefined,undefined,dialogue,Alma,"Today, my sister was supposed to be in court for all the custody proceedings."
+209,undefined,undefined,dialogue,Alma,"Of course, not only does she show up later than her husband and drunk at that."
+210,undefined,undefined,dialogue,Alma,But also dressed... like she got fucked in the back of a parking lot.
+211,undefined,undefined,dialogue,Alma,"And to top it off, she forgot to even bring her kids!"
+212,undefined,undefined,dialogue,Alma,"Luckily, my parents brought them to court. The judge assigned the kids to my parents for the time being."
+213,undefined,undefined,dialogue,Jill,"So she really messed it up, huh?"
+214,undefined,undefined,dialogue,Alma,When they came back to the house and Dayana started throwing a temper tantrum...
+215,undefined,undefined,dialogue,Alma,She said it was lucky her husband didn't get the kids because the angst would make her jump onto the highway.
+216,undefined,undefined,dialogue,Alma,So Eva comes and says...
+217,undefined,undefined,dialogue,Alma,"""Then make sure it kills you, because we aren't dealing with you as a cripple."""
+218,undefined,undefined,dialogue,Alma,I shouldn't reinforce that behaviour but pshahahahaha!
+219,undefined,undefined,dialogue,Alma,"I don't know, maybe it was the timing, but..."
+220,undefined,undefined,dialogue,Alma,I've been laughing for an hour now.
+221,undefined,undefined,dialogue,Jill,"You hold quite the animosity for Dayana, don't you?"
+222,undefined,undefined,dialogue,Alma,She and I used to be the closest friends when I was seven or eight.
+223,undefined,undefined,dialogue,Alma,We played all the time. We even slept on the same bed for a while.
+224,undefined,undefined,dialogue,Alma,...then she turned into a teen.
+225,undefined,undefined,dialogue,Alma,We stopped playing. She had other things she wanted to do.
+226,undefined,undefined,dialogue,Alma,"I could forgive all of that. I mean, the age difference and all."
+227,undefined,undefined,dialogue,Alma,But there is something in particular I still can't forgive.
+228,undefined,undefined,dialogue,Alma,"It was a day she invited her friends to the house, and I went to ask her something."
+229,undefined,undefined,dialogue,Alma,"As I was leaving, one of her friends asked if I was her sister."
+230,undefined,undefined,dialogue,Alma,...and she said she had no little sisters.
+231,undefined,undefined,dialogue,Jill,...ouch.
+232,undefined,undefined,dialogue,Alma,I think that was the moment that finally broke the pedestal I held her on.
+233,undefined,undefined,dialogue,Alma,"I admired her as much as a kid could admire someone, you know?"
+234,undefined,undefined,dialogue,Alma,"Little by little, that admiration wore off, until we finally reached that breaking point. I felt betrayed."
+235,undefined,undefined,dialogue,Jill,And you haven't been able to forgive her after 40 years?
+236,undefined,undefined,dialogue,Alma,Hey.
+237,undefined,undefined,dialogue,Alma,...it's not that I still hold a grudge against her. But rather...
+238,undefined,undefined,dialogue,Alma,The Dayana who said all those things so many years ago is the same Dayana that I know today.
+239,undefined,undefined,dialogue,Jill,How so?
+240,undefined,undefined,dialogue,Alma,She hasn't matured one bit.
+241,undefined,undefined,dialogue,Alma,"She's still as selfish, childish, and immature as she was back then."
+242,undefined,undefined,dialogue,Alma,"When you see her, you don't see an adult. You see an overgrown, horny teen."
+243,undefined,undefined,dialogue,Alma,"So aside from destroying any admiration I held for her, she's made sure not to fix that impression."
+244,undefined,undefined,dialogue,Jill,Huh...
+245,undefined,undefined,dialogue,Alma,But enough about me. How are you?
+246,undefined,undefined,dialogue,Jill,Everything's fine... aside from this note.
+247,undefined,undefined,dialogue,Alma,A note?
+248,undefined,undefined,dialogue,Jill,Remember how I told you I lashed out at my dead girlf-... dead ex's sister?
+249,undefined,undefined,dialogue,Alma,Yeah.
+250,undefined,undefined,dialogue,Jill,I got this note from her.
+251,undefined,undefined,dialogue,Alma,Let's see...
+252,undefined,undefined,dialogue,Alma,...
+253,undefined,undefined,dialogue,Alma,"...wow, she must really feel bad about the whole thing."
+254,undefined,undefined,dialogue,Jill,As do I.
+255,undefined,undefined,dialogue,Alma,"So, what's the problem then?"
+256,undefined,undefined,dialogue,Jill,The same fear that drove me away from her in the first place.
+257,undefined,undefined,dialogue,Alma,Right.
+258,undefined,undefined,dialogue,Alma,"Give a Brandtini, will you? There's a little story I wanna tell you."
+259,undefined,undefined,dialogue,Jill,Right...
+260,undefined,undefined,dialogue,Jill,Here.
+261,undefined,undefined,dialogue,Alma,This is the thing. Let's start.
+262,undefined,undefined,dialogue,Jill,Here.
+263,undefined,undefined,dialogue,Alma,"Whatever, let's start."
+264,undefined,undefined,dialogue,Anna,Boo!
+265,undefined,undefined,dialogue,Jill,"(Oh, hell no.)"
+266,undefined,undefined,dialogue,Alma,This is the story of a girl who grew disillusioned with one of her sisters.
+267,undefined,undefined,dialogue,Alma,"Soon, it became animosity, and not long after that, she distanced herself completely from said sister."
+268,undefined,undefined,dialogue,Alma,"With time, the girl would become attached to her eldest sister, looking up to her achievements."
+269,undefined,undefined,dialogue,Anna,All I can look at right now are those boobs.
+270,undefined,undefined,dialogue,Jill,(Not now...)
+271,undefined,undefined,dialogue,Alma,Said sister would even marry the girl's best friend not soon after.
+272,undefined,undefined,dialogue,Alma,"And after the girl went into college, said sister would quit her job."
+273,undefined,undefined,dialogue,Alma,"The sister was worried sick about leaving her baby kid alone, prompting her to quit her high-ranking job."
+274,undefined,undefined,dialogue,Anna,What if I hire your high-ranking lips?
+275,undefined,undefined,dialogue,Jill,(Shut up.)
+276,undefined,undefined,dialogue,Alma,"The girl, even as an adult, felt... betrayed."
+277,undefined,undefined,dialogue,Alma,Her role model sister went against everything she held her in high esteem for.
+278,undefined,undefined,dialogue,Alma,"She was no longer a child, and yet, she felt like a part of her had crumbled."
+279,undefined,undefined,dialogue,Anna,"Hey Jo, I can lift her sweater. Do you wanna see? I bet you wanna see."
+280,undefined,undefined,dialogue,Jill,"Alright, enough."
+281,undefined,undefined,dialogue,Alma,Enough?
+282,undefined,undefined,dialogue,Jill,(Shit.)
+283,undefined,undefined,dialogue,Anna,Peace out.
+284,undefined,undefined,dialogue,Jill,Err... I mean.
+285,undefined,undefined,dialogue,Jill,I know the girl is you and the sister is your eldest sister. Please get to the point.
+286,undefined,undefined,dialogue,Alma,Right.
+287,undefined,undefined,dialogue,Alma,"The point is, if you don't face her, she will be heavily disappointed."
+288,undefined,undefined,dialogue,Alma,She's trying to make amends with you. That must take courage. Lots of it.
+289,undefined,undefined,dialogue,Jill,"Yeah, you're right."
+290,undefined,undefined,dialogue,Alma,My mouth's dry. Can I get a Beer?
+291,undefined,undefined,dialogue,Jill,Right.
+292,undefined,undefined,dialogue,Jill,Here.
+293,undefined,undefined,dialogue,Alma,Thanks...
+294,undefined,undefined,dialogue,Jill,Here.
+295,undefined,undefined,dialogue,Alma,And... wrong.
+296,undefined,undefined,dialogue,Alma,"So, tell me. Did you and this Gaby girl get along?"
+297,undefined,undefined,dialogue,Jill,"Oh, yeah."
+298,undefined,undefined,dialogue,Jill,"I never had brothers and sisters, but once Lenore introduced me to her as her ""sister in law""..."
+299,undefined,undefined,dialogue,Jill,"She got so excited about ""having a new sister"" that she clung to me a lot."
+300,undefined,undefined,dialogue,Jill,"I helped her in her studies, read books with her, played with her a lot."
+301,undefined,undefined,dialogue,Jill,She was... she was pretty much my sister too.
+302,undefined,undefined,dialogue,Jill,...
+303,undefined,undefined,dialogue,Alma,I have to leave. But I'll tell you this.
+304,undefined,undefined,dialogue,Alma,"As both a big and little sister, if you don't grant that girl the chance of talking to you..."
+305,undefined,undefined,dialogue,Alma,I'll. NEVER. Forgive. You.
+306,undefined,undefined,dialogue,Jill,"Yeah, yeah."
+307,undefined,undefined,dialogue,Jill,"Oh, there's a small New Year's party this Saturday if you're interested."
+308,undefined,undefined,dialogue,Alma,"Oh! Sure, I'll be here."
+309,undefined,undefined,dialogue,Alma,Remember. I won't forgive you!
+310,undefined,undefined,dialogue,Jill,"Yeah, yeah."
+311,undefined,undefined,dialogue,Jill,I'll go take my break.
+312,undefined,undefined,dialogue,Gillian,Alright.
+313,undefined,undefined,dialogue,Jill,Bwah! You were here?
+314,undefined,undefined,dialogue,Gillian,...you were quite absorbed in the conversation just now.
+315,undefined,undefined,dialogue,Gillian,"Jamie even said goodbye to you, didn't you hear?"
+316,undefined,undefined,dialogue,Jill,"A-Anyways, call me if anything comes up."
+317,undefined,undefined,dialogue,Gillian,"Jill, a kid's looking for you."
+318,undefined,undefined,dialogue,Jill,"Oh, shit..."
+319,undefined,undefined,dialogue,Norma,Hey...
+320,undefined,undefined,dialogue,Jill,"Ah, Norma."
+321,undefined,undefined,dialogue,Jill,(Phew...)
+322,undefined,undefined,dialogue,Anna,You're back!
+323,undefined,undefined,dialogue,Jill,"(Oh, fuck you.)"
+324,undefined,undefined,dialogue,Jill,"You do know I'm not giving you any drinks, right?"
+325,undefined,undefined,dialogue,Jill,(Crap! I said it out loud.)
+326,undefined,undefined,dialogue,Norma,"Yeah, um... actually..."
+327,undefined,undefined,dialogue,Norma,I wanted to thank you!
+328,undefined,undefined,dialogue,Jill,(Phew... she thought it was for her.)
+329,undefined,undefined,dialogue,Jill,Thank me?
+330,undefined,undefined,dialogue,Norma,"Well first, by not letting me drink that whole thing, you didn't let me get home smelling of alcohol."
+331,undefined,undefined,dialogue,Norma,"I mean, even though you served me the alcohol..."
+332,undefined,undefined,dialogue,Anna,"Oh, but when I do it, you get all suspicious."
+333,undefined,undefined,dialogue,Jill,(Not now...)
+334,undefined,undefined,dialogue,Norma,"Well, for starters, by not complying and giving me alcohol."
+335,undefined,undefined,dialogue,Norma,Everything else would've fallen apart if I had some.
+336,undefined,undefined,dialogue,Anna,"Aw, so responsible, Jo."
+337,undefined,undefined,dialogue,Jill,...
+338,undefined,undefined,dialogue,Norma,I... kinda faced my mom and told her all about the pressure she was putting on me.
+339,undefined,undefined,dialogue,Norma,And said I wanted to figure out what I wanted to do.
+340,undefined,undefined,dialogue,Jill,And?
+341,undefined,undefined,dialogue,Norma,"Well, she didn't speak to me for two days."
+342,undefined,undefined,dialogue,Norma,"After that, she told me that it'd be a waste to spend money in a university just for me to not give it my all."
+343,undefined,undefined,dialogue,Norma,"So she told me to still go to the college course, but that I was free to ""explore""."
+344,undefined,undefined,dialogue,Jill,Glad to hear that.
+345,undefined,undefined,dialogue,Norma,"And, well... I wanted to thank you for that."
+346,undefined,undefined,dialogue,Jill,Me?
+347,undefined,undefined,dialogue,Norma,"If I just rushed headfirst into my original plan, things would've gotten ugly."
+348,undefined,undefined,dialogue,Norma,"And you were right, I would be hurting her for the sake of hurting."
+349,undefined,undefined,dialogue,Norma,So... thank you!
+350,undefined,undefined,dialogue,Jill,Don't worry about it.
+351,undefined,undefined,dialogue,Norma,I'll leave before it's too late outside.
+352,undefined,undefined,dialogue,Jill,Be careful.
+353,undefined,undefined,dialogue,Anna,"Aw, so sweet."
+354,undefined,undefined,dialogue,Jill,(Shut up.)
+355,undefined,undefined,dialogue,Gillian,"Hey, Jill. Mind helping me here?"
+356,undefined,undefined,dialogue,Jill,Sure.
+357,undefined,undefined,dialogue,Gillian,"Make a Bleeding Jane, please."
+358,undefined,undefined,dialogue,Jill,On it.
+359,undefined,undefined,dialogue,Gillian,Thanks.
+360,undefined,undefined,dialogue,Gillian,Um... right.
+361,undefined,undefined,dialogue,Anna,"Hey Jo, do you hate me?"
+362,undefined,undefined,dialogue,Jill,(Hate is a... harsh word.)
+363,undefined,undefined,dialogue,Jill,"(It's not against you directly, but rather the fact that only I can see you.)"
+364,undefined,undefined,dialogue,Anna,"Like I told you, if they wanted, they could see me."
+365,undefined,undefined,dialogue,Jill,(And why can I?)
+366,undefined,undefined,dialogue,Anna,You're the main character? Dunno.
+367,undefined,undefined,dialogue,Jill,(...what are you?)
+368,undefined,undefined,dialogue,Anna,A cute girl.
+369,undefined,undefined,dialogue,Jill,(Right...)
+370,undefined,undefined,dialogue,Gillian,"You okay, Jill? Making a lot of faces there."
+371,undefined,undefined,dialogue,Jill,"Hm? Yeah, just remembering stuff."
+372,undefined,undefined,dialogue,Gillian,"Could you give me a hand here and serve a Beer, please?"
+373,undefined,undefined,dialogue,Jill,Sure.
+374,undefined,undefined,dialogue,Gillian,Thanks.
+375,undefined,undefined,dialogue,Gillian,Thanks.
+376,undefined,undefined,dialogue,Gillian,Hey!
+377,undefined,undefined,dialogue,Gillian,...right.
+378,undefined,undefined,dialogue,Anna,Would you lighten up if I showed you I can interact with the environment?
+379,undefined,undefined,dialogue,Jill,"(Maybe it'll spook me, but let's try.)"
+380,undefined,undefined,dialogue,Anna,There!
+381,undefined,undefined,dialogue,Jill,(Can't see anything.)
+382,undefined,undefined,dialogue,Anna,You sure?
+383,undefined,undefined,dialogue,Jill,(Yup.)
+384,undefined,undefined,dialogue,Anna,Weird.
+385,undefined,undefined,dialogue,Dorothy,NOBODY EXPECTS THE DOROTHINQUISITION!
+386,undefined,undefined,dialogue,Dorothy,"Dorothinquisition, Dorothinquisition, Dorothinqui-OUCH! I biz my zongue."
+387,undefined,undefined,dialogue,Dorothy,...
+388,undefined,undefined,dialogue,Dorothy,Can't believe I'm using the spare tongue so early in the night.
+389,undefined,undefined,dialogue,Dorothy,*ahem*
+390,undefined,undefined,dialogue,Dorothy,Hoooooneyyyy~
+391,undefined,undefined,dialogue,Jill,"Ah, hey Dorothy."
+392,undefined,undefined,dialogue,Dorothy,I'm making a quick stop for a drink. Can I get a Fluffy Dream?
+393,undefined,undefined,dialogue,Jill,Sure.
+394,undefined,undefined,dialogue,Dorothy,Thanks!
+395,undefined,undefined,dialogue,Dorothy,No time to complain!
+396,undefined,undefined,dialogue,Jill,"Oh yeah, before you leave..."
+397,undefined,undefined,dialogue,Dorothy,What? Are you guys throwing a New Year's party too?
+398,undefined,undefined,dialogue,Jill,Yep.
+399,undefined,undefined,dialogue,Dorothy,"Sure, I'll be here then!"
+400,undefined,undefined,dialogue,Anna,...
+401,undefined,undefined,dialogue,Anna,"Well, I've got things to do, so..."
+402,undefined,undefined,dialogue,Jill,You do?
+403,undefined,undefined,dialogue,Gillian,Who does what?
+404,undefined,undefined,dialogue,Jill,Sorry... I... sneezed.
+405,undefined,undefined,dialogue,Gillian,Weird sneezes.
+406,undefined,undefined,dialogue,Anna,"Anyway, I'm out for now."
+407,undefined,undefined,dialogue,Anna,"Oh yeah, Jo?"
+408,undefined,undefined,dialogue,Anna,"Take care of Becky, please."
+409,undefined,undefined,dialogue,Jill,...
+410,undefined,undefined,dialogue,Gillian,"Man, she was in a rush."
+411,undefined,undefined,dialogue,Jill,Who the hell is Becky?
+412,undefined,undefined,dialogue,Gillian,Who's Becky?
+413,undefined,undefined,dialogue,Jill,Who's what?
+414,undefined,undefined,dialogue,Gillian,You said...
+415,undefined,undefined,dialogue,Jill,I said nothing.
+416,undefined,undefined,dialogue,Dana,"Okay, fuck that noise."
+417,undefined,undefined,dialogue,Dana,Fireworks are sold out everywhere.
+418,undefined,undefined,dialogue,Dana,I'll need to get them through more... shady means.
+419,undefined,undefined,dialogue,Jill,She's gonna buy them from the internet.
+420,undefined,undefined,dialogue,Jill,She'll find them and put us all at risk of burning.
+421,undefined,undefined,dialogue,Gillian,I'll make sure there's an extra extinguisher at hand.
+422,undefined,undefined,dialogue,Jill,Please.
+423,undefined,undefined,dialogue,Jill,"Well, I guess that's it for today."
+424,undefined,undefined,dialogue,Gillian,You sure you're fine?
+425,undefined,undefined,dialogue,Jill,I am. Don't worry.
+426,undefined,undefined,dialogue,Gillian,"Hey Jill, mind if I ask a silly question?"
+427,undefined,undefined,dialogue,Jill,"You've seen my clients, you can assume I don't mind silly questions. Silly answers can get on my nerves though."
+428,undefined,undefined,dialogue,Jill,...sorry. What did you wanna ask?
+429,undefined,undefined,dialogue,Gillian,"Do you know why they call them ""Cat Boomers""?"
+430,undefined,undefined,dialogue,Gillian,"I mean, I guess their second set of ears look like a cat's but..."
+431,undefined,undefined,dialogue,Gillian,"The word ""Boomer"" seems so out of place."
+432,undefined,undefined,dialogue,Jill,"Not so much when you consider it's not them, but their parents who were called such."
+433,undefined,undefined,dialogue,Gillian,
+434,undefined,undefined,dialogue,Jill,Let's go a bit back first.
+435,undefined,undefined,dialogue,Jill,"You do know why Cat Boomers look like that, right?"
+436,undefined,undefined,dialogue,Gillian,"Because they went through some anti-Nanomachine Rejection treatment while they were still a fetus, right?"
+437,undefined,undefined,dialogue,Jill,It's called the Yamazaki-Romanova treatment.
+438,undefined,undefined,dialogue,Jill,Or was it the Romanenko-Yamada treatment?
+439,undefined,undefined,dialogue,Jill,The Roma...
+440,undefined,undefined,dialogue,Jill,...let's call it the Catification procedure.
+441,undefined,undefined,dialogue,Jill,"It was not only the first successful genetic treatment on a fetus, but also the first way to fight Nanomachine Rejection."
+442,undefined,undefined,dialogue,Jill,"Moreover, that research had a bit of a rocky story."
+443,undefined,undefined,dialogue,Jill,"Funding got cut in the middle of it, at a critical point that could make or break the whole thing."
+444,undefined,undefined,dialogue,Jill,Not to mention Zaibatsu Corp's record of not addressing Nanomachine Rejection at all.
+445,undefined,undefined,dialogue,Jill,The rest of the research was funded by Mackie Stengovich.
+446,undefined,undefined,dialogue,Jill,Was it Stengovich? Let's call him Stengovich for now.
+447,undefined,undefined,dialogue,Jill,He's a businessman whose unborn daughter got diagnosed with early Nanomachine Rejection.
+448,undefined,undefined,dialogue,Jill,"Stengovich funded the research. And in a desperate move, his wife offered herself and her daughter as test subjects."
+449,undefined,undefined,dialogue,Jill,"Of course, the experiment was a success."
+450,undefined,undefined,dialogue,Jill,"The girl, Silvia Stengovich, didn't die. She became the living testament of a scientific breakthrough."
+451,undefined,undefined,dialogue,Jill,"But then, the story of how things played out for Silvia got sensationalized in the media and created a weird fad."
+452,undefined,undefined,dialogue,Jill,"Parents made their unborn children go through the Catification procedure, even if they had no ailments at all."
+453,undefined,undefined,dialogue,Jill,All because one particular girl whose life got saved through that treatment became a media darling for a bit.
+454,undefined,undefined,dialogue,Jill,
+455,undefined,undefined,dialogue,Gillian,And their parents got called Cat Boomers?
+456,undefined,undefined,dialogue,Jill,A generation of parents obsessed with those cat-like features.
+457,undefined,undefined,dialogue,Jill,"The fad quickly passed, but the term remained in use."
+458,undefined,undefined,dialogue,Jill,"Eventually ""Cat Boomer"" just started being used for people with the protrusions instead of their parents."
+459,undefined,undefined,dialogue,Gillian,"You keep calling them Protrusions, why is that?"
+460,undefined,undefined,dialogue,Jill,Because that's what they are.
+461,undefined,undefined,dialogue,Gillian,Eh?
+462,undefined,undefined,dialogue,Jill,"You didn't think those things on their heads were ears, right?"
+463,undefined,undefined,dialogue,Jill,"Sure, they can be moved because they're somehow connected to the facial and ear muscles."
+464,undefined,undefined,dialogue,Jill,Thus they can move like a cat's and react to their mood.
+465,undefined,undefined,dialogue,Jill,"But in the end, they're just appendages with no real function."
+466,undefined,undefined,dialogue,Gillian,Huh...
+467,undefined,undefined,dialogue,Jill,"It still surprises me a bit though, that the biggest mutation they get after the treatment is just that."
+468,undefined,undefined,dialogue,Jill,"Those ""ears"" are a small miracle on their own. People have been born with no eyes for less intrusive procedures."
+469,undefined,undefined,dialogue,Jill,"You really thought they were functional ears, huh?"
+470,undefined,undefined,dialogue,Gillian,Let's say I learned quite a bit today. Thank you.
+471,undefined,undefined,dialogue,Jill,
+472,undefined,undefined,dialogue,Jill,And keep in mind I'm fucking up the terms.
+473,undefined,undefined,dialogue,Jill,I don't want you saying someone got protrusions because of a Catification procedure.
+474,undefined,undefined,dialogue,Gillian,I'll keep it in mind.
+475,undefined,undefined,dialogue,Jill,WAIT!
+476,undefined,undefined,dialogue,Gillian,What?!
+477,undefined,undefined,dialogue,Jill,"...yeah, the guy's name was Stengovich."
+478,undefined,undefined,dialogue,Gillian,Eh?
+479,undefined,undefined,dialogue,Jill,"I just remembered Silvia Stengovich was around my age, and when I was a teen, there were some TV specials featuring her."
+480,undefined,undefined,dialogue,Jill,And I just remembered that I had the biggest crush on her.
+481,undefined,undefined,dialogue,Jill,"...now that I think about it, that crush had me VERY confused back then."
+482,undefined,undefined,dialogue,Gillian,And did you need to shout just now?
+483,undefined,undefined,dialogue,Jill,...sorry.
+484,undefined,undefined,dialogue,Jill,"In any case, I'm out for the day."
+485,undefined,undefined,dialogue,Gillian,Alright. Careful out there.
+486,undefined,undefined,dialogue,TOMCAT,Let's see... not here...
+487,undefined,undefined,dialogue,TOMCAT,"Weird, I'd swear the tracks led here."
+488,undefined,undefined,dialogue,Jill,Um...
+489,undefined,undefined,dialogue,TOMCAT,"Oh, I'm at a bar. Well, that's nice."
+490,undefined,undefined,dialogue,Jill,Can I get you something?
+491,undefined,undefined,dialogue,TOMCAT,Let's have a Brandtini.
+492,undefined,undefined,dialogue,Jill,Sure.
+493,undefined,undefined,dialogue,TOMCAT,This seems right.
+494,undefined,undefined,dialogue,TOMCAT,Not really what I was expecting.
+495,undefined,undefined,dialogue,Jill,And what brought you here? Um...
+496,undefined,undefined,dialogue,TOMCAT,I think it's better if my name remains a mystery for now.
+497,undefined,undefined,dialogue,Jill,(The registry says... error? Huh...)
+498,undefined,undefined,dialogue,Jill,"(The money's there, but the registry can't display the name properly...)"
+499,undefined,undefined,dialogue,Jill,"Still, what brought you here... um... mysterious person?"
+500,undefined,undefined,dialogue,TOMCAT,I'm following Alice_Rabbit's trail.
+501,undefined,undefined,dialogue,TOMCAT,I wanna know how deep the hole goes.
+502,undefined,undefined,dialogue,Jill,"""Trail""?"
+503,undefined,undefined,dialogue,TOMCAT,The massive leak of White Knights' insider info from two weeks ago made it to global news.
+504,undefined,undefined,dialogue,TOMCAT,"Curiosity got the best of me, so I started seeking the trail of the transmission."
+505,undefined,undefined,dialogue,Jill,"Do you work for someone, then?"
+506,undefined,undefined,dialogue,TOMCAT,"No, you could say it's for fun."
+507,undefined,undefined,dialogue,TOMCAT,Alice_Rabbit is quite the urban legend and I wanted to study it.
+508,undefined,undefined,dialogue,Jill,I see.
+509,undefined,undefined,dialogue,Jill,"Hey, would you say Alice_Rabbit is a person or a group?"
+510,undefined,undefined,dialogue,TOMCAT,Excuse me?
+511,undefined,undefined,dialogue,Jill,"Well, there're people who say that it might as well be a group instead of just a person."
+512,undefined,undefined,dialogue,TOMCAT,"If it can be just a group, it can also be just a symbol."
+513,undefined,undefined,dialogue,TOMCAT,Everyone using the Alice_Rabbit moniker could be doing so as a way of staying anonymous while projecting clear intent.
+514,undefined,undefined,dialogue,TOMCAT,"I doubt it, though."
+515,undefined,undefined,dialogue,Jill,Why?
+516,undefined,undefined,dialogue,TOMCAT,Alice_Rabbit's actions are too consistent.
+517,undefined,undefined,dialogue,TOMCAT,"It can't be a group. And if it's a group, it's most likely coordinated by just one person."
+518,undefined,undefined,dialogue,TOMCAT,"Everything seems to fit an agenda, the attacks are too consistent, and use similar methods."
+519,undefined,undefined,dialogue,Jill,Really?
+520,undefined,undefined,dialogue,TOMCAT,"I guess it can be hard for most people to notice, beyond the consistent usage of the same bunny avatar."
+521,undefined,undefined,dialogue,TOMCAT,But the way the attacks are executed is always in the same vein.
+522,undefined,undefined,dialogue,TOMCAT,"Not that it makes it easier to track, actually. Its tracks only get dimmer and dimmer with each attack."
+523,undefined,undefined,dialogue,Jill,And so you came to check on what might be left behind from the last hacking job?
+524,undefined,undefined,dialogue,TOMCAT,"A pilgrimage of sorts, if you will."
+525,undefined,undefined,dialogue,TOMCAT,"Say, would you mind giving me a Zen Star?"
+526,undefined,undefined,dialogue,Jill,Sure.
+527,undefined,undefined,dialogue,Jill,Here.
+528,undefined,undefined,dialogue,TOMCAT,"Ah, as nasty as I remember."
+529,undefined,undefined,dialogue,Jill,Here.
+530,undefined,undefined,dialogue,TOMCAT,This isn't Zen at all.
+531,undefined,undefined,dialogue,Jill,"So, what have you found? Can you share?"
+532,undefined,undefined,dialogue,TOMCAT,Sure. Why the hell not? I'm in a good mood.
+533,undefined,undefined,dialogue,TOMCAT,"Well, whoever Alice_Rabbit is, or... are, they spent a lot of time planting ""seeds"" all over the city."
+534,undefined,undefined,dialogue,Jill,"""Seeds""?"
+535,undefined,undefined,dialogue,TOMCAT,There's traces of the video being streamed from up to 23 different locations.
+536,undefined,undefined,dialogue,TOMCAT,All of them routers of different brands that blew up after the transmission.
+537,undefined,undefined,dialogue,TOMCAT,"Every one of them using different ISPs, some even using internet providers from outside the city."
+538,undefined,undefined,dialogue,TOMCAT,There's even traces of programs that hacked into devices...
+539,undefined,undefined,dialogue,TOMCAT,Giving it the means to access a network for as long as the broadcast lasted.
+540,undefined,undefined,dialogue,TOMCAT,"Apparently, Alice_Rabbit also accessed devices early to make sure they'd be turned on at the right time."
+541,undefined,undefined,dialogue,Jill,"Well, the only thing without the transmission was my old CRT, so yeah."
+542,undefined,undefined,dialogue,TOMCAT,"Quite the craftsmanship, let me tell you."
+543,undefined,undefined,dialogue,TOMCAT,Left no trace whatsoever of where anything came from.
+544,undefined,undefined,dialogue,TOMCAT,"Even if you look at the metadata in the leaked files left on all devices after the transmission ended, there's nothing."
+545,undefined,undefined,dialogue,Jill,"Perfect crime, then?"
+546,undefined,undefined,dialogue,TOMCAT,"Not perfect. Compared to other attacks, like the first leaks that started riots around here, this one is... sloppy."
+547,undefined,undefined,dialogue,TOMCAT,"More specifically, the means of destroying evidence wasn't as effective as other occasions."
+548,undefined,undefined,dialogue,TOMCAT,"But thanks to the commotion at the bank, any attempts to investigate further were curbed by the madness that followed."
+549,undefined,undefined,dialogue,Jill,I see.
+550,undefined,undefined,dialogue,TOMCAT,"Well, I must keep moving."
+551,undefined,undefined,dialogue,TOMCAT,"Oh, yeah."
+552,undefined,undefined,dialogue,TOMCAT,Name's TOMCAT by the way.
+553,undefined,undefined,dialogue,Jill,Nice meeting you.
+554,undefined,undefined,dialogue,Jill,"(Huh, the registry cleared up too.)"
+555,undefined,undefined,dialogue,Jill,"Well, I guess that's it for today."
+556,undefined,undefined,dialogue,Gillian,You sure you're fine?
+557,undefined,undefined,dialogue,Jill,"I am, don't worry."
+558,undefined,undefined,dialogue,Gillian,Alright. Careful out there.
+559,undefined,undefined,dialogue,Jill,It's less chilly today...
+560,undefined,undefined,dialogue,Ingram,"So, no dogs this time around?"
+561,undefined,undefined,dialogue,Jill,"They're around here somewhere, but I can't be arsed to look for them."
+562,undefined,undefined,dialogue,Ingram,So you're not a dog person.
+563,undefined,undefined,dialogue,Jill,It's not that I'm not a dog person.
+564,undefined,undefined,dialogue,Jill,I'm just... tired of dogs right now.
+565,undefined,undefined,dialogue,Ingram,"You're not a dog person, then."
+566,undefined,undefined,dialogue,Ingram,I've never met anyone who liked a specific animal and got tired of it.
+567,undefined,undefined,dialogue,Ingram,There's nothing wrong with not being a dog person. I'm not one either.
+568,undefined,undefined,dialogue,Jill,"(Well, fuck.)"
+569,undefined,undefined,dialogue,Ingram,Think about it. Do you get tired of your cat?
+570,undefined,undefined,dialogue,Jill,...
+571,undefined,undefined,dialogue,Ingram,"It's not about hating them, but some people just have little tolerance for certain animals."
+572,undefined,undefined,dialogue,Ingram,"In my experience, cat people are the ones that didn't have pets in their childhood."
+573,undefined,undefined,dialogue,Ingram,"Dog people, on the other hand, were most likely raised with one."
+574,undefined,undefined,dialogue,Jill,You're pretty insightful today.
+575,undefined,undefined,dialogue,Ingram,"No, I'm just messing with you."
+576,undefined,undefined,dialogue,Jill,...
+577,undefined,undefined,dialogue,Jill,Anything else I can get you?
+578,undefined,undefined,dialogue,Ingram,Let's try something sweet.
+579,undefined,undefined,dialogue,Jill,Okay.
+580,undefined,undefined,dialogue,Jill,Here.
+581,undefined,undefined,dialogue,Ingram,Sweet drinks take me back...
+582,undefined,undefined,dialogue,Jill,Good memories?
+583,undefined,undefined,dialogue,Ingram,"Sour ones, actually."
+584,undefined,undefined,dialogue,Jill,Here.
+585,undefined,undefined,dialogue,Ingram,Aaaaand wrong.

@@ -1,0 +1,3615 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "pro3.txt",
+            "lines": 602,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "G'evening."
+        },
+        {
+            "line": 3,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You look bummed, Boss."
+        },
+        {
+            "line": 4,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Starting tomorrow, there will be no more Corgis in our bar. Why wouldn't I be sad?"
+        },
+        {
+            "line": 5,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Maybe because starting tomorrow, there will be no more Corgis at the bar.)"
+        },
+        {
+            "line": 6,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...I wonder if the Shiba Appreciation Society might be interested in booking us."
+        },
+        {
+            "line": 7,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "One problem at a time, Boss."
+        },
+        {
+            "line": 8,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Wait, I know someone from the Pomeranian Development Institute!"
+        },
+        {
+            "line": 9,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "ONE PROBLEM AT A TIME!!"
+        },
+        {
+            "line": 10,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Still, you've been tense ever since Friday. Are you worried about Gil or something?"
+        },
+        {
+            "line": 11,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Trust me. Of all my worries, Gil is the least of them."
+        },
+        {
+            "line": 12,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Put on some music and enjoy the day, won't you?"
+        },
+        {
+            "line": 13,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right..."
+        },
+        {
+            "line": 14,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Time to mix drinks and change lives."
+        },
+        {
+            "line": 15,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Bartender, we meet again."
+        },
+        {
+            "line": 16,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh... Ms. Betty."
+        },
+        {
+            "line": 17,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Hello."
+        },
+        {
+            "line": 18,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And Mr. Corgi Lover."
+        },
+        {
+            "line": 19,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Call me Deal."
+        },
+        {
+            "line": 20,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Deal."
+        },
+        {
+            "line": 21,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Deal?"
+        },
+        {
+            "line": 22,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Deal."
+        },
+        {
+            "line": 23,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "...wipe that satisfied look off your faces, you two."
+        },
+        {
+            "line": 24,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*ahem* What can I serve you today?"
+        },
+        {
+            "line": 25,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'll have a Beer."
+        },
+        {
+            "line": 26,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'm not the designated driver today, so... give me a Fringe Weaver."
+        },
+        {
+            "line": 27,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...alright, coming right up."
+        },
+        {
+            "line": 28,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 29,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 30,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Thank you."
+        },
+        {
+            "line": 31,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 32,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 33,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Something's not right here."
+        },
+        {
+            "line": 34,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 35,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 36,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Thank you."
+        },
+        {
+            "line": 37,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "There's something wrong here. My drink."
+        },
+        {
+            "line": 38,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 39,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 40,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "This doesn't seem right."
+        },
+        {
+            "line": 41,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You too?!"
+        },
+        {
+            "line": 42,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 43,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 44,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You seem distracted."
+        },
+        {
+            "line": 45,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Has serving so many dogs finally gotten to you?"
+        },
+        {
+            "line": 46,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No... well. Yeah. But it's not that."
+        },
+        {
+            "line": 47,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My boss has been acting weird since Friday."
+        },
+        {
+            "line": 48,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Weird how?"
+        },
+        {
+            "line": 49,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Romantic weird? Drug-addict weird? Let's-hope-nobody-finds-the-body-in-the-fridge weird?"
+        },
+        {
+            "line": 50,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "For starters, there's the fact she only told me we were being booked moments before we opened."
+        },
+        {
+            "line": 51,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Plus, she seems completely distracted or lost in her thoughts."
+        },
+        {
+            "line": 52,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Like you."
+        },
+        {
+            "line": 53,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Worse."
+        },
+        {
+            "line": 54,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Oh..."
+        },
+        {
+            "line": 55,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She's not being herself, and that makes me wonder if something's going on."
+        },
+        {
+            "line": 56,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Like what? Do you run a human trafficking ring in the basement?"
+        },
+        {
+            "line": 57,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, we don't have a license for that."
+        },
+        {
+            "line": 58,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Oh, well. Thinking about it too much is not part of my job."
+        },
+        {
+            "line": 59,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Can I ask you something about your job?"
+        },
+        {
+            "line": 60,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 61,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I've always been curious. What does the BTC need in their bartenders? What do you need to study?"
+        },
+        {
+            "line": 62,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They train you from scratch, so you don't have to study anything beforehand."
+        },
+        {
+            "line": 63,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "What does the training involve?"
+        },
+        {
+            "line": 64,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's a lot of etiquette and regulation work. Most of our time, though, is actually spent in simulations."
+        },
+        {
+            "line": 65,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Simulations?"
+        },
+        {
+            "line": 66,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Different scenarios involving different chemical hazards. That sort of thing."
+        },
+        {
+            "line": 67,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They want you to be able to respond to every possible situation that might come up involving our ingredients."
+        },
+        {
+            "line": 68,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, the chances for failure are really slim... but it's better to not take those chances."
+        },
+        {
+            "line": 69,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I see."
+        },
+        {
+            "line": 70,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll be back with you guys in a bit. I must attend to the other clients... dogs... that."
+        },
+        {
+            "line": 71,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Oh, sure."
+        },
+        {
+            "line": 72,
+            "character": "Mister Puff",
+            "type": "dialogue",
+            "text": "THEY ARE CHASING ME, MAN!"
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Who?"
+        },
+        {
+            "line": 74,
+            "character": "Mister Puff",
+            "type": "dialogue",
+            "text": "THE CABBAGES, MAN! THE GODDAMN CABBAGES!"
+        },
+        {
+            "line": 75,
+            "character": "Mister Puff",
+            "type": "dialogue",
+            "text": "THEY ARE EVERYWHERE! THEY ARE OUT FOR MY RUMP!!"
+        },
+        {
+            "line": 76,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Your...? Nevermind."
+        },
+        {
+            "line": 77,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Can I get you anything to calm down?"
+        },
+        {
+            "line": 78,
+            "character": "Mister Puff",
+            "type": "dialogue",
+            "text": "A BIG BLUE FAIRY WOULD BE NICE."
+        },
+        {
+            "line": 79,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay then."
+        },
+        {
+            "line": 80,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 81,
+            "character": "Mister Puff",
+            "type": "dialogue",
+            "text": "THANKS, VERY NICE OF YOU."
+        },
+        {
+            "line": 82,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 83,
+            "character": "Mister Puff",
+            "type": "dialogue",
+            "text": "THIS ISN'T THAT BIG."
+        },
+        {
+            "line": 84,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 85,
+            "character": "Mister Puff",
+            "type": "dialogue",
+            "text": "THE CABAGGES TOLD YOU TO SERVE ME SOMETHING ELSE, DIDN'T THEY?!"
+        },
+        {
+            "line": 86,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 87,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 88,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Something the matter?"
+        },
+        {
+            "line": 89,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "Nothing a drink can't solve."
+        },
+        {
+            "line": 90,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not sure about that, but it's hardly my job to preach sobriety. What do you want?"
+        },
+        {
+            "line": 91,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "Give me a Gut Punch."
+        },
+        {
+            "line": 92,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay."
+        },
+        {
+            "line": 93,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you are."
+        },
+        {
+            "line": 94,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 95,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "Hey, you ever felt guilty for being born the wrong race?"
+        },
+        {
+            "line": 96,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The what now?"
+        },
+        {
+            "line": 97,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "I've just been hearing so much about how we're racist. I'm wondering..."
+        },
+        {
+            "line": 98,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you racist?"
+        },
+        {
+            "line": 99,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "Not really."
+        },
+        {
+            "line": 100,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do you feel like other Corgis might be?"
+        },
+        {
+            "line": 101,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "Definitely. I mean..."
+        },
+        {
+            "line": 102,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Then, why worry? It's not like they're calling YOU racist."
+        },
+        {
+            "line": 103,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You shouldn't take generalizations personally."
+        },
+        {
+            "line": 104,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "You might be right..."
+        },
+        {
+            "line": 105,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 106,
+            "character": "Third Barkday",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 107,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Well, that made me feel guilty.)"
+        },
+        {
+            "line": 108,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Man, you should've seen the cutie I saw yesterday on the way home."
+        },
+        {
+            "line": 109,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "She looked like a Cat Boomer. She was wearing a mini-dress, and had this prosthetic eye..."
+        },
+        {
+            "line": 110,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I thought you were against people using prosthetics."
+        },
+        {
+            "line": 111,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'm not against cute, though."
+        },
+        {
+            "line": 112,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Besides, I'm not against prosthetics. I'm only against enhancements."
+        },
+        {
+            "line": 113,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I don't see a difference between the two."
+        },
+        {
+            "line": 114,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Alright, let me put it this way."
+        },
+        {
+            "line": 115,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "If you lost an arm and replaced it with a mechanical arm that does exactly what the older one did, I'm okay with it."
+        },
+        {
+            "line": 116,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "But if you lost your arm and replaced it with a gun-loaded super arm from hell..."
+        },
+        {
+            "line": 117,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "That's something I'm not okay with."
+        },
+        {
+            "line": 118,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Even worse is if you decide to replace your arm because of fashion, or a whim, or to get better at some sport."
+        },
+        {
+            "line": 119,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "That's completely not cool."
+        },
+        {
+            "line": 120,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "That's the difference between a prosthetic and an enhancement. Replacement versus, er, enhancement..."
+        },
+        {
+            "line": 121,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'm of a similar opinion about Lilim replacing their factory parts for kicks."
+        },
+        {
+            "line": 122,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "If you think that's going to be an easy way of getting better at something, you're in for a bad surprise."
+        },
+        {
+            "line": 123,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Well, I can see why you think that, but... what suggested to you that what she had wasn't an enhancement?"
+        },
+        {
+            "line": 124,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "If she had bad eyesight, wouldn't that count as an enhancement? Even if it fixes it?"
+        },
+        {
+            "line": 125,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "How does reparative work factor into your ideologies?"
+        },
+        {
+            "line": 126,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "They might be enhancements, but they also replace something faulty."
+        },
+        {
+            "line": 127,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Well... uh..."
+        },
+        {
+            "line": 128,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Dammit. Stop making sense, you piece o' scrap."
+        },
+        {
+            "line": 129,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You're weakening my resolve."
+        },
+        {
+            "line": 130,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Having fun?"
+        },
+        {
+            "line": 131,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Oh, bartender. That was fast."
+        },
+        {
+            "line": 132,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "There seem to be less dogs out today - at least, dogs that want a drink."
+        },
+        {
+            "line": 133,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Yeah... some of them ate their tickets."
+        },
+        {
+            "line": 134,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "*sigh* Lovely. I'll be the one dealing with that later."
+        },
+        {
+            "line": 135,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Say, what's your take on the whole enhancement discussion, bartender?"
+        },
+        {
+            "line": 136,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "My mom had a saying: \"Anyone can make a chandelier out of their asses.\""
+        },
+        {
+            "line": 137,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Which somehow means \"Your body, your choices.\""
+        },
+        {
+            "line": 138,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If they are not hurting anyone, I don't see the point in hating them."
+        },
+        {
+            "line": 139,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "See, Betty?"
+        },
+        {
+            "line": 140,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hey! I didn't say I automatically hate anyone who has an enhancement."
+        },
+        {
+            "line": 141,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Me being against something isn't the same as me being against someone."
+        },
+        {
+            "line": 142,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'm not some 12 year old blindingly hating someone because of something like that."
+        },
+        {
+            "line": 143,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Maybe you should practice what you preach."
+        },
+        {
+            "line": 144,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "What does THAT mean?"
+        },
+        {
+            "line": 145,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I fear retaliation, so I'm not saying another word."
+        },
+        {
+            "line": 146,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Are you two gonna order anything?"
+        },
+        {
+            "line": 147,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'm fine right now."
+        },
+        {
+            "line": 148,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "She's drinking mine, actually."
+        },
+        {
+            "line": 149,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright. Call if you need anything else."
+        },
+        {
+            "line": 150,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 151,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Let's see..."
+        },
+        {
+            "line": 152,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Ow!"
+        },
+        {
+            "line": 153,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(So much for avoiding retaliation.)"
+        },
+        {
+            "line": 154,
+            "character": "Poop-eater",
+            "type": "dialogue",
+            "text": "You're not gonna believe me."
+        },
+        {
+            "line": 155,
+            "character": "Poop-eater",
+            "type": "dialogue",
+            "text": "I was in the bathroom and this other dog was looking at me from the top of the sink!"
+        },
+        {
+            "line": 156,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You mean the mirror?"
+        },
+        {
+            "line": 157,
+            "character": "Poop-eater",
+            "type": "dialogue",
+            "text": "No! Another dog!"
+        },
+        {
+            "line": 158,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see... what can I serve you?"
+        },
+        {
+            "line": 159,
+            "character": "Poop-eater",
+            "type": "dialogue",
+            "text": "You're not gonna do anything about that other dog on the top of the sink?!"
+        },
+        {
+            "line": 160,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm sure he doesn't want to hurt anybody. Don't worry."
+        },
+        {
+            "line": 161,
+            "character": "Poop-eater",
+            "type": "dialogue",
+            "text": "I hope you're right..."
+        },
+        {
+            "line": 162,
+            "character": "Poop-eater",
+            "type": "dialogue",
+            "text": "Well, I want something really sweet."
+        },
+        {
+            "line": 163,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Coming right up."
+        },
+        {
+            "line": 164,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here you go."
+        },
+        {
+            "line": 165,
+            "character": "Poop-eater",
+            "type": "dialogue",
+            "text": "Thanks! Please think about the thing with the other dog on top of the sink."
+        },
+        {
+            "line": 166,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I will, don't worry."
+        },
+        {
+            "line": 167,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 168,
+            "character": "Poop-eater",
+            "type": "dialogue",
+            "text": "But I didn't want this. You're in cahoots with the dog on top of the sink, aren't you?!"
+        },
+        {
+            "line": 169,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Who knows...?"
+        },
+        {
+            "line": 170,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well then..."
+        },
+        {
+            "line": 171,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "That was quick."
+        },
+        {
+            "line": 172,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Like I said, there aren't too many dogs today."
+        },
+        {
+            "line": 173,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "When I heard someone booked us for three days, I expected more of an attendance."
+        },
+        {
+            "line": 174,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "While you were gone, this fella here said that the Bleeding Jane is better than a Piledriver."
+        },
+        {
+            "line": 175,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Please. Prove him wrong."
+        },
+        {
+            "line": 176,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "All I'm saying is that I don't see the point in drinks that feel more like a kick in the mouth than a beverage."
+        },
+        {
+            "line": 177,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "What do you think, bartender? Do you think there's any point discussing non-alcoholic drinks in a bar?"
+        },
+        {
+            "line": 178,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "In my opinion, people who order a Bad Touch always make me giggle like an idiot, though."
+        },
+        {
+            "line": 179,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "That's not an opinion... That's a statement."
+        },
+        {
+            "line": 180,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Oh, well. Please serve us either Piledrivers or Bleeding Janes. We'll let you decide which one is better."
+        },
+        {
+            "line": 181,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Coming right up."
+        },
+        {
+            "line": 182,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 183,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Yes!"
+        },
+        {
+            "line": 184,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Yeah. Take his side. See if I care."
+        },
+        {
+            "line": 185,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 186,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Jackpot!"
+        },
+        {
+            "line": 187,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Oh, well..."
+        },
+        {
+            "line": 188,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No fighting this way, right?"
+        },
+        {
+            "line": 189,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Wow, you're quite the softie..."
+        },
+        {
+            "line": 190,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Just kidding. Wise choice."
+        },
+        {
+            "line": 191,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "No complaints here."
+        },
+        {
+            "line": 192,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*pfft* Here."
+        },
+        {
+            "line": 193,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And you think this is funny."
+        },
+        {
+            "line": 194,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I can see why she'd find it funny. Loosen up a bit, Betty."
+        },
+        {
+            "line": 195,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "With a couple more of these, maybe I will."
+        },
+        {
+            "line": 196,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 197,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Taking a third choice, huh?"
+        },
+        {
+            "line": 198,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I could've accepted the \"Cut the baby in half\" Solomon thing, but whatever."
+        },
+        {
+            "line": 199,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "R-Right..."
+        },
+        {
+            "line": 200,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How did you two end up discussing that?"
+        },
+        {
+            "line": 201,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Well, it started when I told this guy that I wasn't as crazy about the idea of working just for Corgis."
+        },
+        {
+            "line": 202,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Why don't you like Corgis?! They're cute, and fluffy, and funny and they just... like... MAKE YOU SMILE!"
+        },
+        {
+            "line": 203,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Tell me one interesting thing about them."
+        },
+        {
+            "line": 204,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Legends say they were created by a fairy and that their breed was raised to fight dragons."
+        },
+        {
+            "line": 205,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Oh, you have to be kidding."
+        },
+        {
+            "line": 206,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, actually, I heard that one too."
+        },
+        {
+            "line": 207,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Really?"
+        },
+        {
+            "line": 208,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Still, I can't see why you're so tired of them."
+        },
+        {
+            "line": 209,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Dunno. Maybe because I only ever deal with them at their worst?"
+        },
+        {
+            "line": 210,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You've only seen them in their \"happy\" state."
+        },
+        {
+            "line": 211,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'm the one running feces samples and unclogging their sphincters if they eat their owner's dental floss."
+        },
+        {
+            "line": 212,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I might be their veterinarian, but they treat me more like a mom and not in a good way."
+        },
+        {
+            "line": 213,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "It's like being a gynecologist."
+        },
+        {
+            "line": 214,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "After a while, you stop seeing boobs and vaginas. Instead, all you see are ISSUES you must fix."
+        },
+        {
+            "line": 215,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "At least they are cute issues."
+        },
+        {
+            "line": 216,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Depends, a gynecologist can't pick clients by age or preferences."
+        },
+        {
+            "line": 217,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I was talking about your job."
+        },
+        {
+            "line": 218,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Oh. Yeah. That too."
+        },
+        {
+            "line": 219,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Still, I don't think it's so much that I'm tired of them as it is I'm tired of you being so obsessed with them."
+        },
+        {
+            "line": 220,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'm not obsessed. I'm passionate."
+        },
+        {
+            "line": 221,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You sleep with a Corgi plushie and have a wall dedicated to photos you've taken at the company."
+        },
+        {
+            "line": 222,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'm really passionate?"
+        },
+        {
+            "line": 223,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Too much passion can become an issue, you know..."
+        },
+        {
+            "line": 224,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Speaking of issues, did you talk with the directors about the whole Cardigan conflict?"
+        },
+        {
+            "line": 225,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I was going to do that tomorrow when they're all together."
+        },
+        {
+            "line": 226,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "But I still don't see why I should be the one doing it."
+        },
+        {
+            "line": 227,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "For starters, they don't take me too seriously."
+        },
+        {
+            "line": 228,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Understandable. I don't take you seriously either."
+        },
+        {
+            "line": 229,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I mean, in the end, they're still dogs. They need someone with a strong, commanding voice."
+        },
+        {
+            "line": 230,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Are you saying I have a naggy voice?"
+        },
+        {
+            "line": 231,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "No, not your VOICE. Just your entire demeanor."
+        },
+        {
+            "line": 232,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "So I have a naggy DEMEANOR?"
+        },
+        {
+            "line": 233,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm assuming you two are talking about the whole race conflict."
+        },
+        {
+            "line": 234,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Yeah, this is hurting them more than they think. The company might actually collapse at this rate."
+        },
+        {
+            "line": 235,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Which is terrible, because a couple of these dogs' families are dependent on their paychecks."
+        },
+        {
+            "line": 236,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Doesn't that count as unethical and... unusual treatment of animals?"
+        },
+        {
+            "line": 237,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "It's a bit of a legal gray area. The dogs are doing it willingly, after all."
+        },
+        {
+            "line": 238,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And even if they weren't doing it willingly, the dogs aren't actually being mistreated or exploited."
+        },
+        {
+            "line": 239,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "In fact, the company's pretty relaxed."
+        },
+        {
+            "line": 240,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Speaking of relaxed, how's Juergen doing?"
+        },
+        {
+            "line": 241,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "He's fine. Still complaining about his back. Still unwilling to take his medicine. He says he's \"not that weak\"."
+        },
+        {
+            "line": 242,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Who's this Juergen guy?"
+        },
+        {
+            "line": 243,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 244,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's actually commonplace, isn't it?"
+        },
+        {
+            "line": 245,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lilim being unable to leave their guardians because they feel too much like family."
+        },
+        {
+            "line": 246,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Now, to be fair, people get attached to many things. Some even get obsessed with inanimate objects."
+        },
+        {
+            "line": 247,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "My grandpa loved his car more than any of his sons."
+        },
+        {
+            "line": 248,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "The one whose will left all his earthly possessions to his car, right?"
+        },
+        {
+            "line": 249,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Yeah, that one."
+        },
+        {
+            "line": 250,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How do you become a Lilim's guardian?"
+        },
+        {
+            "line": 251,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You fill a form at the Artificial Intelligence Council."
+        },
+        {
+            "line": 252,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Then, they do a background check. If they deem you useful, they'll give you authorization."
+        },
+        {
+            "line": 253,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You're given a week's notice before they give you all the data about the Lilim you'll be taking care of."
+        },
+        {
+            "line": 254,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You'll have to watch over it until it can pass three different personality tests."
+        },
+        {
+            "line": 255,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "If the Lilim wants to stay with you after that, that's your problem."
+        },
+        {
+            "line": 256,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, it's like adoption and the lottery all rolled into one."
+        },
+        {
+            "line": 257,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "They do that to diversify the possible outcomes."
+        },
+        {
+            "line": 258,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Two Lilim can be of the same model, but they'll grow differently depending on their guardians."
+        },
+        {
+            "line": 259,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "What if something happens to the guardian?"
+        },
+        {
+            "line": 260,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "A new guardian can appeal to the council, stating they're more fit for the position than the original."
+        },
+        {
+            "line": 261,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "This happens when a guardian has become unavailable in some way..."
+        },
+        {
+            "line": 262,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "...or because you can back up claims of neglect or maltreatment."
+        },
+        {
+            "line": 263,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You spit out all that information like it's hard-coded in you."
+        },
+        {
+            "line": 264,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I worked in that department for some time before coming to the STC. It's almost a reflex."
+        },
+        {
+            "line": 265,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Are you interested in becoming a guardian, bartender?"
+        },
+        {
+            "line": 266,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know, I'm just a nerd when it comes to AIs in general."
+        },
+        {
+            "line": 267,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "The money they give you for it is not that great though."
+        },
+        {
+            "line": 268,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see."
+        },
+        {
+            "line": 269,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, time to check on the dogs."
+        },
+        {
+            "line": 270,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "LISTEN HERE PUNK!"
+        },
+        {
+            "line": 271,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "Sorry, I didn't mean to call you a punk. It's just..."
+        },
+        {
+            "line": 272,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "I WAS CHASING MY TAIL AND NOW I'M TOO HYPER TO CONTROL MYSELF!"
+        },
+        {
+            "line": 273,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "Sorry, sorry, sorry..."
+        },
+        {
+            "line": 274,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "Just... give me anything."
+        },
+        {
+            "line": 275,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...alright."
+        },
+        {
+            "line": 276,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 277,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "...whew, that's better."
+        },
+        {
+            "line": 278,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "Thanks, punk."
+        },
+        {
+            "line": 279,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "This is good, very good, VERY GOOD, VERY GOOOOOOOOOOOOOOOOOOOO..."
+        },
+        {
+            "line": 280,
+            "character": "Money Shredder",
+            "type": "dialogue",
+            "text": "AAAAAAAAAAAAAAAAAAAAAAAH!"
+        },
+        {
+            "line": 281,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...huh."
+        },
+        {
+            "line": 282,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "No, see, I can see the value of other dog races."
+        },
+        {
+            "line": 283,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Like Pomeranians. Those are NICE, but they aren't Corgis."
+        },
+        {
+            "line": 284,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Well, yeah, I can understand that."
+        },
+        {
+            "line": 285,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I mean, remember that cute girl from yesterday I mentioned earlier?"
+        },
+        {
+            "line": 286,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Yeah..."
+        },
+        {
+            "line": 287,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "The white knight that was with her? She wasn't half-bad either."
+        },
+        {
+            "line": 288,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I mean, it was obvious that a tapestry of muscles was hidden under her armor."
+        },
+        {
+            "line": 289,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I prefer more delicate-looking girls, though."
+        },
+        {
+            "line": 290,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You can appreciate how something looks, but that doesn't mean it's necessarily YOUR thing."
+        },
+        {
+            "line": 291,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "And you, bartender?"
+        },
+        {
+            "line": 292,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Me... what?"
+        },
+        {
+            "line": 293,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Which dog race do you prefer?"
+        },
+        {
+            "line": 294,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "That's not the question I was expecting."
+        },
+        {
+            "line": 295,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...not much of a dog person, actually."
+        },
+        {
+            "line": 296,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Do you have any pets?"
+        },
+        {
+            "line": 297,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A cat named Fore, yeah."
+        },
+        {
+            "line": 298,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He's just a stray I rescued."
+        },
+        {
+            "line": 299,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Do you like rescuing girls too?"
+        },
+        {
+            "line": 300,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'm sure I should be making a witty retort right now, but I'm just gonna go ahead and say... no."
+        },
+        {
+            "line": 301,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Weird. I've always thought that the \"rescue fantasy\" was universal."
+        },
+        {
+            "line": 302,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Why call it Fore?"
+        },
+        {
+            "line": 303,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Fore is a Lilim I met some time ago that..."
+        },
+        {
+            "line": 304,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...nevermind."
+        },
+        {
+            "line": 305,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Pretty lame name, if you ask me."
+        },
+        {
+            "line": 306,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Better than calling it \"Asshat\"."
+        },
+        {
+            "line": 307,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I bet when you and Fore play, it's quite the sight, eh?"
+        },
+        {
+            "line": 308,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 309,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He's so lively, sometimes I fear Fore shadows my presence entirely."
+        },
+        {
+            "line": 310,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You guys want to lose consciousness that much?"
+        },
+        {
+            "line": 311,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You really need to calm down with the whole \"pun hating\" stuff, Betty."
+        },
+        {
+            "line": 312,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "But to move away from this whole Fore ground, what is this \"rescue fantasy\" you mentioned before?"
+        },
+        {
+            "line": 313,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You know, the one where wayward, dangerous souls redeem themselves through the power of love."
+        },
+        {
+            "line": 314,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "The bad boy who turns away a life of crime."
+        },
+        {
+            "line": 315,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "The drug-addict girl who lived on the streets and turned tricks until she found a good man worth changing for."
+        },
+        {
+            "line": 316,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "It's Corny Romance Cliches 101."
+        },
+        {
+            "line": 317,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Well, you're the one with the shelf full of old-lady romance novels. I'll trust you on this."
+        },
+        {
+            "line": 318,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hey! Fabio the 13th is a national treasure!"
+        },
+        {
+            "line": 319,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You don't even like guys. Why do you read all those novels?"
+        },
+        {
+            "line": 320,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "They let you put yourself in the place of the main character quite easily."
+        },
+        {
+            "line": 321,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Even if said main character is a muscular man?"
+        },
+        {
+            "line": 322,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I see no problem."
+        },
+        {
+            "line": 323,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Just... what is your self-image?"
+        },
+        {
+            "line": 324,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If I can ask something else..."
+        },
+        {
+            "line": 325,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "What is it?"
+        },
+        {
+            "line": 326,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why do you hate puns so much?"
+        },
+        {
+            "line": 327,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Many people cringe at puns, you know?"
+        },
+        {
+            "line": 328,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, but you react like you have a vendetta against them."
+        },
+        {
+            "line": 329,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "...they made me feel stupid."
+        },
+        {
+            "line": 330,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Um... what?"
+        },
+        {
+            "line": 331,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "When I was a kid, everyone in my house had a penchant for making puns at the drop of a hat."
+        },
+        {
+            "line": 332,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I was the only one who couldn't get them."
+        },
+        {
+            "line": 333,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Years later, I finally got them and... THEY WEREN'T THAT FUNNY!"
+        },
+        {
+            "line": 334,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "They made me feel stupid!"
+        },
+        {
+            "line": 335,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "All in the name of some terrible joke that wasn't even funny in the first place!"
+        },
+        {
+            "line": 336,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I've said this so many times I might as well just make a recording, but... you need to chill out, Betty."
+        },
+        {
+            "line": 337,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I am chilling out."
+        },
+        {
+            "line": 338,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Just because I complain about stuff doesn't mean I'm not relaxed."
+        },
+        {
+            "line": 339,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'm... not sure that's how it works."
+        },
+        {
+            "line": 340,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Trust me. When I'm tense and angry, you'll know it."
+        },
+        {
+            "line": 341,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I fear the thought."
+        },
+        {
+            "line": 342,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Anyway, I'll go check on the dogs. I'm supposed to be their doctor and they are being suspiciously quiet."
+        },
+        {
+            "line": 343,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Be careful."
+        },
+        {
+            "line": 344,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You want anything else?"
+        },
+        {
+            "line": 345,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'll have a Bloom Light. Actually, make that two, please."
+        },
+        {
+            "line": 346,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 347,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 348,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Thanks."
+        },
+        {
+            "line": 349,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 350,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Not what I ordered, but whatever..."
+        },
+        {
+            "line": 351,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Say... you two seem to get along quite well."
+        },
+        {
+            "line": 352,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Well, when you are the only sentient humanoids in the entire company, it kinda happens."
+        },
+        {
+            "line": 353,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sentient?"
+        },
+        {
+            "line": 354,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "We have a couple of test mannequins and cardboard cutouts, so..."
+        },
+        {
+            "line": 355,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I see."
+        },
+        {
+            "line": 356,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Seems there's more to it than just that, though."
+        },
+        {
+            "line": 357,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, even if you two are the only ones of your kind, you can still hate each other."
+        },
+        {
+            "line": 358,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Well, I guess I'm one of the few that can stand Betty."
+        },
+        {
+            "line": 359,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "She's a really nice person, but she doesn't sugar coat things."
+        },
+        {
+            "line": 360,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, I can see that."
+        },
+        {
+            "line": 361,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You should see her treating those dogs."
+        },
+        {
+            "line": 362,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "She becomes so patient and understanding, even if it's only for a little while."
+        },
+        {
+            "line": 363,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "The dogs don't call her \"Mom\" to mock her."
+        },
+        {
+            "line": 364,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Can dogs mock people?"
+        },
+        {
+            "line": 365,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I... don't know."
+        },
+        {
+            "line": 366,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "\"Even if it's only for a little while\"."
+        },
+        {
+            "line": 367,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You were eavesdropping?"
+        },
+        {
+            "line": 368,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "So you can say nice things once in a while..."
+        },
+        {
+            "line": 369,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You say it like I'm the aggressive one here."
+        },
+        {
+            "line": 370,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "It's nice hearing people say good things about you once in a while, you know?"
+        },
+        {
+            "line": 371,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You should take your own advice."
+        },
+        {
+            "line": 372,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Maybe some other time. I'm not a hugbox."
+        },
+        {
+            "line": 373,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Anything happened?"
+        },
+        {
+            "line": 374,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "A dog in the bathroom got angry at his reflection on the mirror and charged into it."
+        },
+        {
+            "line": 375,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Luckily, nothing bad happened. It just made a dog very confused."
+        },
+        {
+            "line": 376,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How the hell do they get on top of the sinks?"
+        },
+        {
+            "line": 377,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "They are surprisingly agile even with those stubby little legs."
+        },
+        {
+            "line": 378,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Oh, yeah. I ordered you this."
+        },
+        {
+            "line": 379,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Ah, thanks."
+        },
+        {
+            "line": 380,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "By the way, Betty, how's Veronica?"
+        },
+        {
+            "line": 381,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "She... we broke up last month."
+        },
+        {
+            "line": 382,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "What?!"
+        },
+        {
+            "line": 383,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Well, things were not going so well. We got too used to one another."
+        },
+        {
+            "line": 384,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Everything was starting to become... routine."
+        },
+        {
+            "line": 385,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "We decided to break up before things got bitter."
+        },
+        {
+            "line": 386,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "And why didn't you tell me that before?"
+        },
+        {
+            "line": 387,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Why? Did you want your turn at the Betty mobile?"
+        },
+        {
+            "line": 388,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 389,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I don't know. I guess I just didn't want to trouble you."
+        },
+        {
+            "line": 390,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And, after a while, it stopped feeling like it was something relevant to say."
+        },
+        {
+            "line": 391,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "*sigh* Please don't do that again. Try trusting me."
+        },
+        {
+            "line": 392,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Yeah, you're right..."
+        },
+        {
+            "line": 393,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 394,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 395,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 396,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You know what bothers me?"
+        },
+        {
+            "line": 397,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The fact that asking after someone's health always feels like you're walking on a floor full of glass shards."
+        },
+        {
+            "line": 398,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "There's always this chance that the other person is not okay, or even dead..."
+        },
+        {
+            "line": 399,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And what started as a legitimately fun moment can go sour."
+        },
+        {
+            "line": 400,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Yeah, you're right."
+        },
+        {
+            "line": 401,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Sorry for not trusting you, you piece o' scrap."
+        },
+        {
+            "line": 402,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Don't worry. I understand why you did it."
+        },
+        {
+            "line": 403,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hey. Now that I think about it, you sure hang out with us a lot, bartender."
+        },
+        {
+            "line": 404,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, dogs can only be so interesting, and besides, there haven't been as many dogs today."
+        },
+        {
+            "line": 405,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Is my presence unwanted?"
+        },
+        {
+            "line": 406,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Not at all. Especially since you're the one bringing the booze."
+        },
+        {
+            "line": 407,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You're like those cab drivers that like to chat all the way... but you smell better than most of them."
+        },
+        {
+            "line": 408,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thank you."
+        },
+        {
+            "line": 409,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Funny thing is that we are unofficially associated with a local taxi line."
+        },
+        {
+            "line": 410,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They're the ones that send drunkards to their homes."
+        },
+        {
+            "line": 411,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You seem to really, really like talking to your clients. Like, it's the best part of your job or something."
+        },
+        {
+            "line": 412,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It kinda is."
+        },
+        {
+            "line": 413,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I used to sit around in crowded places like malls or bars and think to myself..."
+        },
+        {
+            "line": 414,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "\"Each and every person here has a story.\""
+        },
+        {
+            "line": 415,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's a humbling experience."
+        },
+        {
+            "line": 416,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Everyone has dreams, fears, and loved ones."
+        },
+        {
+            "line": 417,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If you dig deep enough, you'll realize that the gap between two random people isn't as big as you think it is."
+        },
+        {
+            "line": 418,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "In fact, it's quite small."
+        },
+        {
+            "line": 419,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And in this job, you get to hear all kinds of stories."
+        },
+        {
+            "line": 420,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Some people just blurt it all out. Some do it while drunk."
+        },
+        {
+            "line": 421,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "To know that no matter how similar they might seem at first glance, no two people are alike... it's fascinating."
+        },
+        {
+            "line": 422,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You could be a powerful information broker with all that knowledge."
+        },
+        {
+            "line": 423,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Nah. Not interested."
+        },
+        {
+            "line": 424,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I like to see myself more as a friendly ear rather than someone you need to be wary of."
+        },
+        {
+            "line": 425,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I guess there're still decent folks out there."
+        },
+        {
+            "line": 426,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'm not decent?"
+        },
+        {
+            "line": 427,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "YOU'RE CRITICALLY OBSESSED WITH DOGS!"
+        },
+        {
+            "line": 428,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll go check if there's any other dogs who want something."
+        },
+        {
+            "line": 429,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Sure."
+        },
+        {
+            "line": 430,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Go ahead."
+        },
+        {
+            "line": 431,
+            "character": "Gruff Bucket",
+            "type": "dialogue",
+            "text": "QUICK! A BEER!"
+        },
+        {
+            "line": 432,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay..."
+        },
+        {
+            "line": 433,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Here."
+        },
+        {
+            "line": 434,
+            "character": "Gruff Bucket",
+            "type": "dialogue",
+            "text": "Thanks, now... BOOM!"
+        },
+        {
+            "line": 435,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 436,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...why did you break the glass?"
+        },
+        {
+            "line": 437,
+            "character": "Gruff Bucket",
+            "type": "dialogue",
+            "text": "I made breakfast!"
+        },
+        {
+            "line": 438,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 439,
+            "character": "Gruff Bucket",
+            "type": "dialogue",
+            "text": "Get it? Because you made the drink fast... and I broke it... and..."
+        },
+        {
+            "line": 440,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...go."
+        },
+        {
+            "line": 441,
+            "character": "Gruff Bucket",
+            "type": "dialogue",
+            "text": "Tough crowd."
+        },
+        {
+            "line": 442,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Suddenly, I understand the hate for puns.)"
+        },
+        {
+            "line": 443,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hey Bat Render!"
+        },
+        {
+            "line": 444,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah?"
+        },
+        {
+            "line": 445,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Heheh... your job has a funny name."
+        },
+        {
+            "line": 446,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You don't say..."
+        },
+        {
+            "line": 447,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How is she already drunk? She drank way less than she did last night."
+        },
+        {
+            "line": 448,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Yeah... but she drank a bottle before coming here."
+        },
+        {
+            "line": 449,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why?"
+        },
+        {
+            "line": 450,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I wish I knew. It's an example of her alcohol tolerance though."
+        },
+        {
+            "line": 451,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Bra Denter, I want to make a toast to my good friend the robot here."
+        },
+        {
+            "line": 452,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Probably the only person... robot... THING that can stand my yapping for more than half an hour."
+        },
+        {
+            "line": 453,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Without him, my job would be five times more boring and my life two times more meaningless."
+        },
+        {
+            "line": 454,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Cheers!"
+        },
+        {
+            "line": 455,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're not holding a drink."
+        },
+        {
+            "line": 456,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Then give me one, Ben Trader! Isn't that YOUR job? I need a Beer! A big one!"
+        },
+        {
+            "line": 457,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright..."
+        },
+        {
+            "line": 458,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Alright, cheers!"
+        },
+        {
+            "line": 459,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I said... CHEEEEEEERS!"
+        },
+        {
+            "line": 460,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Cheers."
+        },
+        {
+            "line": 461,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Cheers."
+        },
+        {
+            "line": 462,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Good!"
+        },
+        {
+            "line": 463,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Grumpy when sober and a sweetheart when drunk. It seems like she's been like this since her university years."
+        },
+        {
+            "line": 464,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You make it sound like those were a decade ago."
+        },
+        {
+            "line": 465,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "*AHEM* I can understand liking the taste of alcohol, but what's so good about getting drunk?"
+        },
+        {
+            "line": 466,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "First of all, I'm not drunk."
+        },
+        {
+            "line": 467,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You're too happy."
+        },
+        {
+            "line": 468,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'm a happy person!"
+        },
+        {
+            "line": 469,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "When drunk."
+        },
+        {
+            "line": 470,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hmph..."
+        },
+        {
+            "line": 471,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Anyway, it's something you just can't explain."
+        },
+        {
+            "line": 472,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You just like it. Your body needs it. Craves it."
+        },
+        {
+            "line": 473,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "That's called being an alcoholic."
+        },
+        {
+            "line": 474,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I prefer the term \"alcohol enthusiast.\""
+        },
+        {
+            "line": 475,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Anyway, humans actively look for things that make them feel light-headed."
+        },
+        {
+            "line": 476,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Why else would they leave some poison in potentially poisonous foods like that weird balloon fish thing?"
+        },
+        {
+            "line": 477,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Why would they eat spicy food or drink fermented milk?"
+        },
+        {
+            "line": 478,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Seriously, how crazy does someone need to be to say \"Hey, let's eat this and see what happens\"?"
+        },
+        {
+            "line": 479,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Worse yet, they've even found MEDICINE among all that junk."
+        },
+        {
+            "line": 480,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "The one that invented penicillin was probably the worst of them all."
+        },
+        {
+            "line": 481,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Fair enough. But see, that's proof you're drunk."
+        },
+        {
+            "line": 482,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "If you were sober, you would just say \"Hell if I know...\""
+        },
+        {
+            "line": 483,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Silly robot..."
+        },
+        {
+            "line": 484,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Now that I think about it, what KIND of robot are you?"
+        },
+        {
+            "line": 485,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Lilim."
+        },
+        {
+            "line": 486,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Lilim always sounds too feminine."
+        },
+        {
+            "line": 487,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Okay then. What manner of piece of scrap are you?"
+        },
+        {
+            "line": 488,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "You don't know?"
+        },
+        {
+            "line": 489,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Never cared. But now I'm curious."
+        },
+        {
+            "line": 490,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Oh. Well. You won't remember it tomorrow."
+        },
+        {
+            "line": 491,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'm a DT-01d, a social development robot."
+        },
+        {
+            "line": 492,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Is that like the DFC-72s?"
+        },
+        {
+            "line": 493,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "No, no... DFC-72s are designed to be as physically human as possible in order to blend in with humans better."
+        },
+        {
+            "line": 494,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "My line is more tailored for resilience. We are \"Work Lilim.\""
+        },
+        {
+            "line": 495,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Why must you be cursed to only one destiny from the moment you are born?"
+        },
+        {
+            "line": 496,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You can do whatever you want, silly robot. Follow your dreams!"
+        },
+        {
+            "line": 497,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I know. I'm already doing it."
+        },
+        {
+            "line": 498,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Being created or hardwired for one duty only means you're more adept at certain things."
+        },
+        {
+            "line": 499,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Giving robots freedom of choice? That's the whole purpose of the ADN law."
+        },
+        {
+            "line": 500,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Yeah, but you know... you say you're resilient, but you don't look the part."
+        },
+        {
+            "line": 501,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "True, I never upgraded my muscles, but I can stand up to 200 degrees Celsius without breaking a sweat."
+        },
+        {
+            "line": 502,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lilim can sweat?"
+        },
+        {
+            "line": 503,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Cooling agents, yes."
+        },
+        {
+            "line": 504,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "No matter! You're still special to me no matter what kind of robot you are!"
+        },
+        {
+            "line": 505,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Lilim."
+        },
+        {
+            "line": 506,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "No matter what piece of shit you are!"
+        },
+        {
+            "line": 507,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Speaking of special, how come it isn't legal to marry a dog yet?"
+        },
+        {
+            "line": 508,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 509,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "'scuse me, what?"
+        },
+        {
+            "line": 510,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "If humans are allowed to marry robots... LILIM! I meant Lilim!"
+        },
+        {
+            "line": 511,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "*ahem* They should be able to marry dogs too."
+        },
+        {
+            "line": 512,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 513,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Ab Trender~"
+        },
+        {
+            "line": 514,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's me... I think."
+        },
+        {
+            "line": 515,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "This guy here wants to bang a dog. Mock him."
+        },
+        {
+            "line": 516,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Excuse me?"
+        },
+        {
+            "line": 517,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I do NOT."
+        },
+        {
+            "line": 518,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I was just saying that if humans are now allowed to marry Lilim, why shouldn't they be able to marry animals?"
+        },
+        {
+            "line": 519,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Because first of all, they're not humanoids."
+        },
+        {
+            "line": 520,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "What about monkeys then?"
+        },
+        {
+            "line": 521,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And now you wanna bang a monkey?"
+        },
+        {
+            "line": 522,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I DO NOT!"
+        },
+        {
+            "line": 523,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And second of all, dogs, just like many other animals, can't give you consent."
+        },
+        {
+            "line": 524,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "But look at these dogs!"
+        },
+        {
+            "line": 525,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Sure, they have the cognitive abilities of 7-year olds, but they can talk, drink booze, and argue."
+        },
+        {
+            "line": 526,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "So now you wanna bang a 7-year old?"
+        },
+        {
+            "line": 527,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We have a regular here who would be delighted to hear that."
+        },
+        {
+            "line": 528,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Stop it!"
+        },
+        {
+            "line": 529,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Remember. Lilim-human marriages were only sanctioned after the Lilim achieved full sentience."
+        },
+        {
+            "line": 530,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "And even then, they used marriage as a way to evolve the Collective Source."
+        },
+        {
+            "line": 531,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Besides, dogs don't really \"love\" us that way."
+        },
+        {
+            "line": 532,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Trying to apply human ideas like marriage to a dog is like..."
+        },
+        {
+            "line": 533,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "...like trying to feed vegetables to a carnivore, you get me?"
+        },
+        {
+            "line": 534,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Says the ex-vegetarian. Why are you only so smart when drunk?"
+        },
+        {
+            "line": 535,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "I'm not drunk!"
+        },
+        {
+            "line": 536,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "But, anyways. If you want to screw a dog or a chimp, go ahead."
+        },
+        {
+            "line": 537,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Just don't bring marriage or infants into the whole deal... Deal."
+        },
+        {
+            "line": 538,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "But if you even start thinking about doing the horizontal mambo with a 7-year-old, please seek some mental help."
+        },
+        {
+            "line": 539,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "But I don't want to bang dogs! Or monkeys! Or 7 year-olds!"
+        },
+        {
+            "line": 540,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Well, thank god!"
+        },
+        {
+            "line": 541,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Then why did you suddenly start talking about dog-human marriage?"
+        },
+        {
+            "line": 542,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "It's just... I was thinking about all these dogs in tuxedos and..."
+        },
+        {
+            "line": 543,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "...and I started picturing a dog in a bridal dress..."
+        },
+        {
+            "line": 544,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I mean, Just try and picture that."
+        },
+        {
+            "line": 545,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "...and I'M the drunk one."
+        },
+        {
+            "line": 546,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Wait... I'm not drunk, why would I say that?"
+        },
+        {
+            "line": 547,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Then again, when YOU get drunk you only get dizzy."
+        },
+        {
+            "line": 548,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Do you have a limit? As in, a limit to how much you can drink before passing out?"
+        },
+        {
+            "line": 549,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "No, I just get disoriented to the point I'm effectively useless, but I never pass out."
+        },
+        {
+            "line": 550,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Maybe, if I passed out, I wouldn't have to deal with all the shit that follows."
+        },
+        {
+            "line": 551,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I always have to wait at least 24 hours before the effects pass."
+        },
+        {
+            "line": 552,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "One has to wonder why they gave all those human flaws to Lilim."
+        },
+        {
+            "line": 553,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I read something about that."
+        },
+        {
+            "line": 554,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It said that by giving Lilim the same kind of weaknesses humans have, they would develop the same way humans do."
+        },
+        {
+            "line": 555,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "So that's why they also bite their lips randomly when eating?"
+        },
+        {
+            "line": 556,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Seems like it."
+        },
+        {
+            "line": 557,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "But it makes me wonder: exactly how anatomically correct are you?"
+        },
+        {
+            "line": 558,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "That's something I know and you don't."
+        },
+        {
+            "line": 559,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hmph..."
+        },
+        {
+            "line": 560,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Any of you want anything else to drink?"
+        },
+        {
+            "line": 561,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Yeah! I want..."
+        },
+        {
+            "line": 562,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Nothing, you're drunk enough as is."
+        },
+        {
+            "line": 563,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "You're not my dad! You can't tell me what I can or can't do!"
+        },
+        {
+            "line": 564,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Beatrice Albert, stop drinking right now."
+        },
+        {
+            "line": 565,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "...yes, mom."
+        },
+        {
+            "line": 566,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Now, go sleep in the car. We are almost done here."
+        },
+        {
+            "line": 567,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "But mo-om!"
+        },
+        {
+            "line": 568,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Go."
+        },
+        {
+            "line": 569,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Hmph..."
+        },
+        {
+            "line": 570,
+            "character": "Betty",
+            "type": "dialogue",
+            "text": "Bye, Bad Nerter."
+        },
+        {
+            "line": 571,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Bye Ms. Betty."
+        },
+        {
+            "line": 572,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "It... actually worked."
+        },
+        {
+            "line": 573,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "If I didn't know she wouldn't remember anything tomorrow, I'd be afraid of retaliation."
+        },
+        {
+            "line": 574,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Although, I'm curious. Why do you call her \"Ms. Betty?\" It makes her sound like a teacher or something."
+        },
+        {
+            "line": 575,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Etiquette? I don't know."
+        },
+        {
+            "line": 576,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "There's also something about her that makes it feel right to call her that. Maybe, it's the forehead..."
+        },
+        {
+            "line": 577,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I see..."
+        },
+        {
+            "line": 578,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Well, I gotta get things ready. If you'll excuse me..."
+        },
+        {
+            "line": 579,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Good luck."
+        },
+        {
+            "line": 580,
+            "character": "Wyvern Lover",
+            "type": "dialogue",
+            "text": "Hey!"
+        },
+        {
+            "line": 581,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We're closing."
+        },
+        {
+            "line": 582,
+            "character": "Wyvern Lover",
+            "type": "dialogue",
+            "text": "Dammit!"
+        },
+        {
+            "line": 583,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Well, everyone's safe in a cab."
+        },
+        {
+            "line": 584,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "We are taking our leave, bartender. Thank you for providing such great service on such short notice."
+        },
+        {
+            "line": 585,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "That's my job. Um, you were interesting too?"
+        },
+        {
+            "line": 586,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Well, thank you."
+        },
+        {
+            "line": 587,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "I'll make sure to tell all our associates about the wonders of this place."
+        },
+        {
+            "line": 588,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thank you, and please come again."
+        },
+        {
+            "line": 589,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "We sure will."
+        },
+        {
+            "line": 590,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Send my regards to Ms. Betty."
+        },
+        {
+            "line": 591,
+            "character": "Deal",
+            "type": "dialogue",
+            "text": "Gladly. See you later then."
+        },
+        {
+            "line": 592,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Bye."
+        },
+        {
+            "line": 593,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "All done?"
+        },
+        {
+            "line": 594,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 595,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Seems like we got some new regulars."
+        },
+        {
+            "line": 596,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yeah... it'd be nice if they came back... or that we're still here when they want to come back."
+        },
+        {
+            "line": 597,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You've been acting weird all weekend, Boss. Are you okay?"
+        },
+        {
+            "line": 598,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I am, but the bar is not."
+        },
+        {
+            "line": 599,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What do you mean?"
+        },
+        {
+            "line": 600,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, I guess you have the right to know."
+        },
+        {
+            "line": 601,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "The BTC sent me a message on Friday. Valhalla hasn't been bringing in much income these last few months."
+        },
+        {
+            "line": 602,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Which means that we are at risk of being wiped off the map."
+        }
+    ]

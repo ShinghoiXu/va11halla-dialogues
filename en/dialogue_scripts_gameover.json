@@ -1,0 +1,333 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "gameover.txt",
+            "lines": 55,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey Jill, come here a sec."
+        },
+        {
+            "line": 3,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss?"
+        },
+        {
+            "line": 4,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why don't you take a seat?"
+        },
+        {
+            "line": 5,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What?"
+        },
+        {
+            "line": 6,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Take a seat. Over there."
+        },
+        {
+            "line": 7,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Okay..."
+        },
+        {
+            "line": 8,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Are you okay? You're not just spamming the easiest drinks, right?"
+        },
+        {
+            "line": 9,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 10,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why don't you go home today? Get some rest, I'll take it from here."
+        },
+        {
+            "line": 11,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "B-But Boss...!"
+        },
+        {
+            "line": 12,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't you ButtBoss me, young lady."
+        },
+        {
+            "line": 13,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Butt... eh?"
+        },
+        {
+            "line": 14,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I need you in top form for the whole team."
+        },
+        {
+            "line": 15,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Get some rest, clear your mind."
+        },
+        {
+            "line": 16,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'm sending you to the bench, soldier."
+        },
+        {
+            "line": 17,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Bench? Soldier? ButtBo-... what?)"
+        },
+        {
+            "line": 18,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 19,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss?"
+        },
+        {
+            "line": 20,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill, why don't you take the rest of the day off?"
+        },
+        {
+            "line": 21,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Huh? Why?"
+        },
+        {
+            "line": 22,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I have reasons to believe you've been just spamming the easiest drinks over and over again."
+        },
+        {
+            "line": 23,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I... have?"
+        },
+        {
+            "line": 24,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You most certainly have."
+        },
+        {
+            "line": 25,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Don't worry, I'll take it from here. Just get some rest, will you?"
+        },
+        {
+            "line": 26,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Oh, and... leave the rum."
+        },
+        {
+            "line": 27,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "That's um... punishment. Yeah, let's go with that."
+        },
+        {
+            "line": 28,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...right."
+        },
+        {
+            "line": 29,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Hey Jill."
+        },
+        {
+            "line": 30,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...hm?"
+        },
+        {
+            "line": 31,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Let's go out for a bit."
+        },
+        {
+            "line": 32,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why?"
+        },
+        {
+            "line": 33,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You've been spamming easy drinks for too long."
+        },
+        {
+            "line": 34,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 35,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Come on. Come here. Gil will take care of the fort while we hang out."
+        },
+        {
+            "line": 36,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "JIIIIIIIIIIIIIIIIIIIIIILL!!"
+        },
+        {
+            "line": 37,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 38,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 39,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I was... and I came back because you've been slacking off!"
+        },
+        {
+            "line": 40,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 41,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Yes! You've been serving easy drinks one after the other, haven't you? Wrong drinks at that."
+        },
+        {
+            "line": 42,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 43,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": ""
+        },
+        {
+            "line": 44,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I just know. Just like I know you should take a rest."
+        },
+        {
+            "line": 45,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll take it from here."
+        },
+        {
+            "line": 46,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't you think taunting me for serving \"easy drinks\" of all things is too much?"
+        },
+        {
+            "line": 47,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Then go get some rest or I shall taunt you a second time."
+        },
+        {
+            "line": 48,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Jill, you need to stop."
+        },
+        {
+            "line": 49,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Boss?"
+        },
+        {
+            "line": 50,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "You can't just go serving easy drinks that aren't even the right ones are even trying?"
+        },
+        {
+            "line": 51,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 52,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Why the smirk?"
+        },
+        {
+            "line": 53,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "...it's the helmet, isn't it?"
+        },
+        {
+            "line": 54,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 55,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Just go home, you're grounded for today, young lady."
+        }
+    ]

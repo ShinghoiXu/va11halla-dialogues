@@ -1,0 +1,95 @@
+line,filename,lines,type,character,text
+0,tutorial.txt,94,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,G'evening.
+3,undefined,undefined,dialogue,Gillian,"Ah! Hey there, Jill."
+4,undefined,undefined,dialogue,Jill,...
+5,undefined,undefined,dialogue,Jill,"Oh. Hey, John."
+6,undefined,undefined,dialogue,Gillian,...
+7,undefined,undefined,dialogue,Jill,"When will you admit you have a John face, Gil?"
+8,undefined,undefined,dialogue,Gillian,When you let people call you Jules.
+9,undefined,undefined,dialogue,Jill,Quiet.
+10,undefined,undefined,dialogue,Gillian,Are you okay? You look distracted.
+11,undefined,undefined,dialogue,Jill,Where's Boss?
+12,undefined,undefined,dialogue,Gillian,Dunno. She went out to buy some stuff and...
+13,undefined,undefined,dialogue,Gillian,Did you hear what I just told you?
+14,undefined,undefined,dialogue,Jill,You said something?
+15,undefined,undefined,dialogue,Gillian,"Yes. That you look distracted. Very, very distracted."
+16,undefined,undefined,dialogue,Jill,It's nothing. I'm just thinking about... stuff.
+17,undefined,undefined,dialogue,Gillian,What stuff?
+18,undefined,undefined,dialogue,Jill,"Well, I have to pay rent by the 30th, which is always stressful, and -"
+19,undefined,undefined,dialogue,Gillian,Ah.
+20,undefined,undefined,dialogue,Jill,(There's also the fact that I spent a full hour yesterday apparently talking to myself.)
+21,undefined,undefined,dialogue,Jill,"(Not to mention the fact that two days ago, I found out the bar is at risk of closing.)"
+22,undefined,undefined,dialogue,Jill,"(So not only is my life being shaken up, I'm apparently going crazy.)"
+23,undefined,undefined,dialogue,Jill,"(On top of that, neutering Fore left me with a completely empty wallet and I'll get evicted if I miss rent again...)"
+24,undefined,undefined,dialogue,Jill,"(And there're all the beer cans around my apartment, and...)"
+25,undefined,undefined,dialogue,Gillian,Jill!
+26,undefined,undefined,dialogue,Jill,"Sorry, did you say something?"
+27,undefined,undefined,dialogue,Gillian,...can you really work today?
+28,undefined,undefined,dialogue,Jill,Of course I can!
+29,undefined,undefined,dialogue,Gillian,"Let's go through the basics, then, shall we? Just in case."
+30,undefined,undefined,dialogue,Jill,...
+31,undefined,undefined,dialogue,Gillian,"If you can make a Piano Man, I'll skip the rest. But. Bear with me for a second here, okay?"
+32,undefined,undefined,dialogue,Jill,...
+33,undefined,undefined,dialogue,Gillian,Let's start with a Sugar Rush.
+34,undefined,undefined,dialogue,Gillian,Look for the recipe using the navigation bar in the recipe book that will show up on the top left.
+35,undefined,undefined,dialogue,Gillian,"You can also sort drinks by flavors like ""Sweet"" or types like ""Manly""."
+36,undefined,undefined,dialogue,Gillian,Drag the desired amount of ingredients from their cells on the right to the shaker in the center.
+37,undefined,undefined,dialogue,Jill,Gil...
+38,undefined,undefined,dialogue,Gillian,"When done, press the mix button, and then press it again to stop mixing."
+39,undefined,undefined,dialogue,Gillian,Click the serve button or the drink itself to serve it and that'll be all.
+40,undefined,undefined,dialogue,Gillian,"Oh, but if the drink looks messed up, you'll need to press the Reset button and try again."
+41,undefined,undefined,dialogue,Gillian,You can press Reset at any time. Even while the Shaker is moving. Don't be afraid to use it.
+42,undefined,undefined,dialogue,Jill,"Gil, I'm the one that went through the formal BTC instruction."
+43,undefined,undefined,dialogue,Gillian,Then this should be no problem!
+44,undefined,undefined,dialogue,Jill,*sigh*
+45,undefined,undefined,dialogue,Jill,Here. Happy now?
+46,undefined,undefined,dialogue,Gillian,"A little, but not quite. Let's do one more."
+47,undefined,undefined,dialogue,Jill,*sigh*
+48,undefined,undefined,dialogue,Gillian,"I know, I know. Please humor me for a bit."
+49,undefined,undefined,dialogue,Jill,Here.
+50,undefined,undefined,dialogue,Gillian,You... spent too much time mixing. It got blended and became a Sparkle Star instead.
+51,undefined,undefined,dialogue,Jill,...
+52,undefined,undefined,dialogue,Gillian,L-Let's try something else.
+53,undefined,undefined,dialogue,Jill,Here. Happy?
+54,undefined,undefined,dialogue,Gillian,Yes. Very. I stand corrected.
+55,undefined,undefined,dialogue,Gillian,"Now, let's get working."
+56,undefined,undefined,dialogue,Jill,Here.
+57,undefined,undefined,dialogue,Gillian,This is... not a Sugar Rush
+58,undefined,undefined,dialogue,Gillian,Um... let's try something else.
+59,undefined,undefined,dialogue,Gillian,Some drinks need to be blended.
+60,undefined,undefined,dialogue,Gillian,This is done by mixing it for over five seconds. You can tell it's being blended when the shaker starts moving faster.
+61,undefined,undefined,dialogue,Gillian,You also need to check if the drink should be served on the rocks or aged.
+62,undefined,undefined,dialogue,Gillian,Check Ice and Age buttons on the side to select the one you need.
+63,undefined,undefined,dialogue,Gillian,"And in case it wasn't obvious. ""On the rocks"" means you have to toggle the ""Ice"" tab."
+64,undefined,undefined,dialogue,Gillian,It should be noted that the station will add the ice after mixing.
+65,undefined,undefined,dialogue,Gillian,It's not something you should mind though. Just a fun fact.
+66,undefined,undefined,dialogue,Jill,...
+67,undefined,undefined,dialogue,Gillian,Give me a Moonblast and I'll leave you alone.
+68,undefined,undefined,dialogue,Gillian,Keep in mind what I said!
+69,undefined,undefined,dialogue,Jill,"Yeah, yeah..."
+70,undefined,undefined,dialogue,Jill,"Here, did I amuse you for long enough?"
+71,undefined,undefined,dialogue,Gillian,You did. Sorry to hold you.
+72,undefined,undefined,dialogue,Gillian,Let's get working.
+73,undefined,undefined,dialogue,Jill,Yeah.
+74,undefined,undefined,dialogue,Jill,Here.
+75,undefined,undefined,dialogue,Gillian,"Huh, you actually made the Piano Man."
+76,undefined,undefined,dialogue,Gillian,"I was gonna leave you alone after this one, but good to see it done."
+77,undefined,undefined,dialogue,Jill,...
+78,undefined,undefined,dialogue,Gillian,"A-Anyways, let's start working."
+79,undefined,undefined,dialogue,Jill,Yeah.
+80,undefined,undefined,dialogue,Jill,Here.
+81,undefined,undefined,dialogue,Gillian,Um...
+82,undefined,undefined,dialogue,Gillian,Uh...
+83,undefined,undefined,dialogue,Gillian,You didn't blow everything when mixing. Let's leave it at that. We need to start working.
+84,undefined,undefined,dialogue,Jill,Finally.
+85,undefined,undefined,dialogue,Gillian,"Oh, yeah! Before I forget!"
+86,undefined,undefined,dialogue,Jill,Hm?
+87,undefined,undefined,dialogue,Gillian,You can make any drink big by doubling the amount of ingredients.
+88,undefined,undefined,dialogue,Gillian,"But if the recipe already has over 10 ingredients, the drink is already big."
+89,undefined,undefined,dialogue,Gillian,"Oh, and if a recipe says it uses ""Optional Karmotrine"" it means you can use none or fill it to the brim."
+90,undefined,undefined,dialogue,Gillian,"Optional Karmotrine doesn't count towards making a big drink, of course."
+91,undefined,undefined,dialogue,Gillian,Karmotrine is the alcoholic factor in a drink. It doesn't change the taste but the amount still has an effect.
+92,undefined,undefined,dialogue,Gillian,"If you add too much of it, the client will get drunk faster. So please be mindful of that."
+93,undefined,undefined,dialogue,Jill,Are you done with the exposition?
+94,undefined,undefined,dialogue,Gillian,Now I am. Yeah.

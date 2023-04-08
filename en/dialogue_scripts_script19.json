@@ -1,0 +1,2373 @@
+
+    [
+        {
+            "line": 0,
+            "filename": "script19.txt",
+            "lines": 395,
+            "type": "META"
+        },
+        {
+            "line": 2,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 3,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 4,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Well, let's see..."
+        },
+        {
+            "line": 5,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Gil is in the back getting everything ready..."
+        },
+        {
+            "line": 6,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll go grab some food I've ordered."
+        },
+        {
+            "line": 7,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "They only agreed to work on New Year's if I went to pick it up myself."
+        },
+        {
+            "line": 8,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 9,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Are you alright?"
+        },
+        {
+            "line": 10,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...I'm scared."
+        },
+        {
+            "line": 11,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gaby will show up at any minute."
+        },
+        {
+            "line": 12,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Relax, everything will be alright! I can assure you of that."
+        },
+        {
+            "line": 13,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 14,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Drink something! Maybe that will cheer you up!"
+        },
+        {
+            "line": 15,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...maybe."
+        },
+        {
+            "line": 16,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "I'll leave you for a bit, but keep your chin up!"
+        },
+        {
+            "line": 17,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "If you get through this, I'll give you... I don't know, a hug. Does that work?"
+        },
+        {
+            "line": 18,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A-A hug?"
+        },
+        {
+            "line": 19,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "A big one. A reward for after everything's said and done."
+        },
+        {
+            "line": 20,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 21,
+            "character": "Dana",
+            "type": "dialogue",
+            "text": "Gotta go! You can do it!"
+        },
+        {
+            "line": 22,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "R-Right..."
+        },
+        {
+            "line": 23,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 24,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Everything's fine...)"
+        },
+        {
+            "line": 25,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(You've been avoiding this for all these years, now it's time to face it head-on.)"
+        },
+        {
+            "line": 26,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Yeah! Everything's fine!)"
+        },
+        {
+            "line": 27,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Everything will be better after I talk to Gaby.)"
+        },
+        {
+            "line": 28,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Boss might even give me a hug!)"
+        },
+        {
+            "line": 29,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I'm okay!)"
+        },
+        {
+            "line": 30,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Um... hello."
+        },
+        {
+            "line": 31,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Gaby..."
+        },
+        {
+            "line": 32,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 33,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...c-come in."
+        },
+        {
+            "line": 34,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Excuse me..."
+        },
+        {
+            "line": 35,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 36,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Welcome to Valha-..."
+        },
+        {
+            "line": 37,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 38,
+            "character": "Jill & Gaby",
+            "type": "dialogue",
+            "text": "Hey!"
+        },
+        {
+            "line": 39,
+            "character": "Jill & Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 40,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Y-You talk first."
+        },
+        {
+            "line": 41,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "No, I..."
+        },
+        {
+            "line": 42,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 43,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 44,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 45,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...some days ago, I got a letter."
+        },
+        {
+            "line": 46,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And even odder than getting a letter, is the fact that..."
+        },
+        {
+            "line": 47,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...it was from your sister."
+        },
+        {
+            "line": 48,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "A what?"
+        },
+        {
+            "line": 49,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "My sister sent you a letter? That's the first I've heard of it."
+        },
+        {
+            "line": 50,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "What did it say?"
+        },
+        {
+            "line": 51,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't know, I never opened it."
+        },
+        {
+            "line": 52,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...at least not until now."
+        },
+        {
+            "line": 53,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Huh?"
+        },
+        {
+            "line": 54,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I figured I should read it with you."
+        },
+        {
+            "line": 55,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 56,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Yeah, let's do it."
+        },
+        {
+            "line": 57,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Let's read it."
+        },
+        {
+            "line": 58,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alright then..."
+        },
+        {
+            "line": 59,
+            "character": "None",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 60,
+            "character": "None",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 61,
+            "character": "Lenore",
+            "type": "dialogue",
+            "text": "Sorry."
+        },
+        {
+            "line": 62,
+            "character": "None",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 63,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 64,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Just... Just that?"
+        },
+        {
+            "line": 65,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 66,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Isn't there anything else in the letter? Maybe on the back?"
+        },
+        {
+            "line": 67,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* This is just like your sister."
+        },
+        {
+            "line": 68,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I spent days worried about this letter, not wanting to open it for fear of what it might contain."
+        },
+        {
+            "line": 69,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I lost sleep and appetite thinking about it."
+        },
+        {
+            "line": 70,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And after all those worries, after all those problems..."
+        },
+        {
+            "line": 71,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "After all these years not talking to her, she sends me a letter, a fucking letter of all things."
+        },
+        {
+            "line": 72,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And she just says \"Sorry\"?!"
+        },
+        {
+            "line": 73,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Sorry for what?! For our fight? For not talking all these years?"
+        },
+        {
+            "line": 74,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 75,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Agh! Now I'm fucking pissed."
+        },
+        {
+            "line": 76,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Heheh..."
+        },
+        {
+            "line": 77,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...are you laughing?"
+        },
+        {
+            "line": 78,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Heheheheh... Sorry, I just... heheh... I remembered all the times my sis provoked you that way."
+        },
+        {
+            "line": 79,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Like that time where she gave you chocolates labeled 1, 2 and 4 during Valentine's Day."
+        },
+        {
+            "line": 80,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "And you were pissed about the lack of a 3."
+        },
+        {
+            "line": 81,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Or that time when you left an unopened Beer bottle on the table, she sneakily opened it and took a sip."
+        },
+        {
+            "line": 82,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She didn't tell you she did it and you were confused all day long."
+        },
+        {
+            "line": 83,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She always bragged she knew me like the back of her hand."
+        },
+        {
+            "line": 84,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...if the letter was supposed to piss me off like that, I guess she had all the rights to brag."
+        },
+        {
+            "line": 85,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Maybe she was being sincere, though."
+        },
+        {
+            "line": 86,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She did express to me that she was sorry on more than one occasion."
+        },
+        {
+            "line": 87,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She did, huh?"
+        },
+        {
+            "line": 88,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 89,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You told me she died from... Localized Nanomachine Rejection, right?"
+        },
+        {
+            "line": 90,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "In her heart, yeah."
+        },
+        {
+            "line": 91,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Instead of the massive rejection that always makes the news, her case was more... focused."
+        },
+        {
+            "line": 92,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "They usually amputate or replace the part and call it a day."
+        },
+        {
+            "line": 93,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "But organs are different. The condition made her susceptible to transplant rejections."
+        },
+        {
+            "line": 94,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not to mention artificial hearts and genetic treatments were out of the question."
+        },
+        {
+            "line": 95,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Yup."
+        },
+        {
+            "line": 96,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Thing is, apparently, she suffered that since she was 18, but kept it a secret from everyone."
+        },
+        {
+            "line": 97,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why?"
+        },
+        {
+            "line": 98,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Hell if I know. I was angry to learn that she hid it."
+        },
+        {
+            "line": 99,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Why didn't she tell me?! Was it to avoid worrying me? Was she ashamed? What was it?!"
+        },
+        {
+            "line": 100,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 101,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 102,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Wait, how did she live so normally then?"
+        },
+        {
+            "line": 103,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She had to use a serum. Shots near her heart every three days."
+        },
+        {
+            "line": 104,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Apparently, the serum burns like hell. The shot even left her a nasty mark where she had to apply them."
+        },
+        {
+            "line": 105,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(So the thing near her left breast wasn't a birth mark?)"
+        },
+        {
+            "line": 106,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And the rejection was what ended up killing her?"
+        },
+        {
+            "line": 107,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "The Nanomachine Rejection was what ended up killing her, but they couldn't find what made her so vulnerable."
+        },
+        {
+            "line": 108,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Doctor said she might have missed a shot, or the shots made her other defenses grow weaker."
+        },
+        {
+            "line": 109,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "The condition could've just gone nuts outta nowhere, or maybe it was blood pressure."
+        },
+        {
+            "line": 110,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Maybe it was a regular heart attack and the rejection acted afterwards, they don't know."
+        },
+        {
+            "line": 111,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She kept it a secret from everyone, so nobody knows!"
+        },
+        {
+            "line": 112,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Maybe if she had told me about it, I could've helped her, maybe she'd still be alive."
+        },
+        {
+            "line": 113,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Maybe she wouldn't have faced it alone instead of just dying in her sleep."
+        },
+        {
+            "line": 114,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 115,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 116,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Thinking about what ifs won't bring her back."
+        },
+        {
+            "line": 117,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 118,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I spent so much time hammering myself with what ifs after you told me she died."
+        },
+        {
+            "line": 119,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What if I waited to cool down a bit back then? What if I just swallowed my fears at that very moment?"
+        },
+        {
+            "line": 120,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What if I had apologized earlier? What if I had given a chance to the research institute thing back then?"
+        },
+        {
+            "line": 121,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And the amount just increased threefold after I lashed out at you the other day."
+        },
+        {
+            "line": 122,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But today, I realized something."
+        },
+        {
+            "line": 123,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Having such regrets with the dead is a hollow effort."
+        },
+        {
+            "line": 124,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You're alive, you're here. I can make amends with you... but I can't make amends with the dead."
+        },
+        {
+            "line": 125,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I can't apologize to her like I can apologize to you right now."
+        },
+        {
+            "line": 126,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Jill..."
+        },
+        {
+            "line": 127,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lenore, she's..."
+        },
+        {
+            "line": 128,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 129,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She's resting now."
+        },
+        {
+            "line": 130,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She's just resting after having that heart condition all these years."
+        },
+        {
+            "line": 131,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She didn't have to face it alone, though. If she only..."
+        },
+        {
+            "line": 132,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So! Let's celebrate her life and achievements."
+        },
+        {
+            "line": 133,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If we are to mourn, let's mourn her together. If we are to honor her, we'll do it together."
+        },
+        {
+            "line": 134,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Together..."
+        },
+        {
+            "line": 135,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lenore was a fun-loving person. The best we can do right now is try to lighten up, even if it's only for a moment."
+        },
+        {
+            "line": 136,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 137,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I need to ask, though. Did she really start to complain about chest pains shortly after I left?"
+        },
+        {
+            "line": 138,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "N-No..."
+        },
+        {
+            "line": 139,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She didn't get visibly worse after you left or anything. Everything was actually too sudden."
+        },
+        {
+            "line": 140,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She did complain about chest pains from time to time, but that actually goes way back before you left."
+        },
+        {
+            "line": 141,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Back then, we thought it was just acid reflux or something."
+        },
+        {
+            "line": 142,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 143,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Gods, I even blamed her death on you."
+        },
+        {
+            "line": 144,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I was just too angry back then, and part of me just wanted to put the blame on... someone or something."
+        },
+        {
+            "line": 145,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "And you didn't deserve that. Sorry."
+        },
+        {
+            "line": 146,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey, I'm sorry too, you know?"
+        },
+        {
+            "line": 147,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We both have things to apologize for. Don't think too much about it."
+        },
+        {
+            "line": 148,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I should've been mature and not shouted at you either. So."
+        },
+        {
+            "line": 149,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Let's just call all that water under the bridge, shall we?"
+        },
+        {
+            "line": 150,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Are you sure?"
+        },
+        {
+            "line": 151,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Of course I am."
+        },
+        {
+            "line": 152,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 153,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, how did you find me, exactly?"
+        },
+        {
+            "line": 154,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "E-Eh? Um..."
+        },
+        {
+            "line": 155,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Well... have you heard of a message board called Danger/u/?"
+        },
+        {
+            "line": 156,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "...I have, yeah."
+        },
+        {
+            "line": 157,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Well, truth is that I visit it from time to time."
+        },
+        {
+            "line": 158,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "And the other day, I read a thread that discussed the bar."
+        },
+        {
+            "line": 159,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "And the description of the bartender sounded just like you."
+        },
+        {
+            "line": 160,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 161,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Are you mad?"
+        },
+        {
+            "line": 162,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, not mad. More like... dumbfounded."
+        },
+        {
+            "line": 163,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 164,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Hey Jill, can you tell me what the problem was back then?"
+        },
+        {
+            "line": 165,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "What sparked that fight? Weren't you happy with my sister?"
+        },
+        {
+            "line": 166,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well... hm..."
+        },
+        {
+            "line": 167,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Back then, I didn't know what to do with myself after I graduated college."
+        },
+        {
+            "line": 168,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I went in and pretty much hated my last couple of years there."
+        },
+        {
+            "line": 169,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's not far-fetched to think that I only tolerated being there because your sister was with me."
+        },
+        {
+            "line": 170,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Had she stopped supporting my studies, I would've quit right then and there."
+        },
+        {
+            "line": 171,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And then after graduating, I got a very good job offer... that she accepted on my behalf in no time."
+        },
+        {
+            "line": 172,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She kept saying it was the best for me and my future, but I was LIVID. Why did she have to do that?"
+        },
+        {
+            "line": 173,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I hated it... I didn't even know if I wanted to go there, but she still insisted so much."
+        },
+        {
+            "line": 174,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Like she was forcing that burden on me."
+        },
+        {
+            "line": 175,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And then \"my\" became \"our\" future and she started talking about marriage..."
+        },
+        {
+            "line": 176,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "YOU WERE GOING TO GET MARRIED?!"
+        },
+        {
+            "line": 177,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't think we ever took it seriously! It was just something she kept mentioning."
+        },
+        {
+            "line": 178,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Not like we didn't think about that down the line, but she mostly teased me with it."
+        },
+        {
+            "line": 179,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But the thought suddenly scared the shit out of me..."
+        },
+        {
+            "line": 180,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I loved her, but I don't think I was ready for such a commitment. Especially considering what she did."
+        },
+        {
+            "line": 181,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I didn't know what I wanted to do, but I wasn't going to let her decide such a big thing for me."
+        },
+        {
+            "line": 182,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I mean, she could be really pushy from time to time."
+        },
+        {
+            "line": 183,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Like I said, I pretty much passed college thanks to being with her. And that was partly because she was so pushy."
+        },
+        {
+            "line": 184,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Even if she had the best intentions, she could be... abrasive from time to time."
+        },
+        {
+            "line": 185,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And it rained down on me at that moment."
+        },
+        {
+            "line": 186,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She took it upon herself to make that choice for me. What would have stopped her once we'd gotten married?"
+        },
+        {
+            "line": 187,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "What if she suddenly decided to craft my life to her needs after marriage?"
+        },
+        {
+            "line": 188,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I knew her. She would do it thinking it was the best for me. But what about my freedom? My say on the matter?"
+        },
+        {
+            "line": 189,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "So that's where you stopped loving Lenore?"
+        },
+        {
+            "line": 190,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No! No, no..."
+        },
+        {
+            "line": 191,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I never stopped loving her, which is why it hurt so much. But you have to understand."
+        },
+        {
+            "line": 192,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I didn't want to wake up 40 years old and working a job I hate."
+        },
+        {
+            "line": 193,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Just out of routine. Getting used to it."
+        },
+        {
+            "line": 194,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I wanted a break from everything for a while to put my thoughts in order."
+        },
+        {
+            "line": 195,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Regroup myself. Think carefully about what to do next."
+        },
+        {
+            "line": 196,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I can understand. I've sometimes felt the same, although I'm not even in college."
+        },
+        {
+            "line": 197,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "So that's what led to you two fighting, huh?"
+        },
+        {
+            "line": 198,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Heh. You know, the word \"fight\" makes it sound like we exchanged blows or something."
+        },
+        {
+            "line": 199,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's all silly when I think back to it. Tragically silly."
+        },
+        {
+            "line": 200,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe I was the one who started the fight, getting all defensive about not wanting to take that offer."
+        },
+        {
+            "line": 201,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Perhaps if I didn't overreact to her arguments about wasting this huge opportunity..."
+        },
+        {
+            "line": 202,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Maybe she wouldn't have lashed out at me this bad."
+        },
+        {
+            "line": 203,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It could've been avoided if I had just kept a cool head and talked about that with her."
+        },
+        {
+            "line": 204,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "...my sister said something like that."
+        },
+        {
+            "line": 205,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 206,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I told you she mentioned on more than one occasion how sorry she was about the whole thing, right?"
+        },
+        {
+            "line": 207,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "\"Should've listened to her to the end, but instead I kept pushing her.\""
+        },
+        {
+            "line": 208,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "\"I should've kept a cool head instead of letting my jealousy take the best of me.\""
+        },
+        {
+            "line": 209,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "\"It was her offer, not mine. Should've stopped projecting myself so much into her.\""
+        },
+        {
+            "line": 210,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Something like that."
+        },
+        {
+            "line": 211,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lenore..."
+        },
+        {
+            "line": 212,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Heheh... we are quite the hot heads. You, me, my sis."
+        },
+        {
+            "line": 213,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You were supposed to be the mature one, you know? Play your role correctly!"
+        },
+        {
+            "line": 214,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Heh..."
+        },
+        {
+            "line": 215,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "But why didn't you come back, Jill? Did you end up hating us that much?"
+        },
+        {
+            "line": 216,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Did the break include us too?"
+        },
+        {
+            "line": 217,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "No, it's just that..."
+        },
+        {
+            "line": 218,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 219,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Remember when your sister was giving a class and you broke a window?"
+        },
+        {
+            "line": 220,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How you didn't want to see her for fear of being scolded?"
+        },
+        {
+            "line": 221,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "But my sister wouldn't have scolded you."
+        },
+        {
+            "line": 222,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But I was afraid. Dead afraid. I couldn't bring myself to face your sister."
+        },
+        {
+            "line": 223,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "But I faced her back then, and I was, like, 7 at the time. Why couldn't you do it?"
+        },
+        {
+            "line": 224,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's... not quite the same."
+        },
+        {
+            "line": 225,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And in perspective, no matter what reason I come up with, it will never make sense."
+        },
+        {
+            "line": 226,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Everything sounds very stupid when I look back, you know? Not that it makes things easier."
+        },
+        {
+            "line": 227,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I won't ever get to speak to her ever again, and it feels bad because it's stupid!"
+        },
+        {
+            "line": 228,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I swear, you and my sis were meant for one another."
+        },
+        {
+            "line": 229,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "You both moved on after all that, but neither had the courage to go back and say you're sorry."
+        },
+        {
+            "line": 230,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*sigh* And like I said, berating myself over those past mistakes won't bring her back."
+        },
+        {
+            "line": 231,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "...I miss her so much though."
+        },
+        {
+            "line": 232,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "We were together all the time! Always talking about dumb stuff."
+        },
+        {
+            "line": 233,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I wouldn't call my parents useless, but she was the one I could always talk to."
+        },
+        {
+            "line": 234,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I feel her absence every day."
+        },
+        {
+            "line": 235,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Everything is just so... quiet now."
+        },
+        {
+            "line": 236,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She was an amazing person."
+        },
+        {
+            "line": 237,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 238,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah! She was an amazing person!"
+        },
+        {
+            "line": 239,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "E-Eh?"
+        },
+        {
+            "line": 240,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Mourning is fine and all, but we should be celebrating her life!"
+        },
+        {
+            "line": 241,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "If she was here, she would tell us that there's no fun in sulking for so long."
+        },
+        {
+            "line": 242,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She told YOU that all the time."
+        },
+        {
+            "line": 243,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "The same way she told you to stop rubbing things in people's faces."
+        },
+        {
+            "line": 244,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Both figuratively and literally."
+        },
+        {
+            "line": 245,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Hey! I was eight back then."
+        },
+        {
+            "line": 246,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So, let's have a toast in her honor, shall we?"
+        },
+        {
+            "line": 247,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "A toast?"
+        },
+        {
+            "line": 248,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah! Let me get you a drink."
+        },
+        {
+            "line": 249,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "A-A drink?"
+        },
+        {
+            "line": 250,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't worry, trust me."
+        },
+        {
+            "line": 251,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Grab this for a sec."
+        },
+        {
+            "line": 252,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "O-Okay."
+        },
+        {
+            "line": 253,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*ahem*"
+        },
+        {
+            "line": 254,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Lenore, I know you're watching from the beyond right now... as I give a drink to your little sister."
+        },
+        {
+            "line": 255,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It's obvious to me now that we both meant to make amends at some point, but we never got around to it."
+        },
+        {
+            "line": 256,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I can't apologize to you anymore, but I can at the very least make you rest easier."
+        },
+        {
+            "line": 257,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So know that I'll look out for Gaby in your absence."
+        },
+        {
+            "line": 258,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll make sure Gaby grows into a fine woman, just like you were. I'll always be there for her."
+        },
+        {
+            "line": 259,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll be sure the little brat doesn't face the same problem you and I had."
+        },
+        {
+            "line": 260,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Hey!"
+        },
+        {
+            "line": 261,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Want to add anything?"
+        },
+        {
+            "line": 262,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Um..."
+        },
+        {
+            "line": 263,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 264,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I'll always miss her."
+        },
+        {
+            "line": 265,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't say it to me. Say it to her."
+        },
+        {
+            "line": 266,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "That's a bit..."
+        },
+        {
+            "line": 267,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Come on. Just this once."
+        },
+        {
+            "line": 268,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 269,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I-I'll always miss you, sis!"
+        },
+        {
+            "line": 270,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Sis..."
+        },
+        {
+            "line": 271,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Sis... you idiot! Why did you keep that secret for so long?! Idiot! Idiot!"
+        },
+        {
+            "line": 272,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "*sniff* I always told you everything. Wasn't I enough? You idiotic IDIOOOOOOOOT!"
+        },
+        {
+            "line": 273,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 274,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "...Agh!"
+        },
+        {
+            "line": 275,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Hey, Jill! Promise me you won't be like that knucklehead. That you won't keep stuff like that to yourself."
+        },
+        {
+            "line": 276,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Only if you promise the same to me."
+        },
+        {
+            "line": 277,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "And... And promise me we won't fight."
+        },
+        {
+            "line": 278,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I can't do that."
+        },
+        {
+            "line": 279,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Eh?"
+        },
+        {
+            "line": 280,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You and I are both too thickheaded. Sooner or later we'll clash on some opinion."
+        },
+        {
+            "line": 281,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "But what I can promise is that I won't run away like last time."
+        },
+        {
+            "line": 282,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We'll both cool off and talk it over like the adults we are."
+        },
+        {
+            "line": 283,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I'm... not an adult."
+        },
+        {
+            "line": 284,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Let's face it. You've been more mature than I have."
+        },
+        {
+            "line": 285,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Heheh..."
+        },
+        {
+            "line": 286,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 287,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Hey, did you mean what you said? That you'll look after me?"
+        },
+        {
+            "line": 288,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll always be here for you, Gaby. I mean, I'm not Lenore, but..."
+        },
+        {
+            "line": 289,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I wouldn't dare leave my little sister alone."
+        },
+        {
+            "line": 290,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Jill..."
+        },
+        {
+            "line": 291,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 292,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "H-Hey, wasn't this a toast?"
+        },
+        {
+            "line": 293,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Right!"
+        },
+        {
+            "line": 294,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "For Lenore. Faithful sister and girlfriend."
+        },
+        {
+            "line": 295,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Cheers!"
+        },
+        {
+            "line": 296,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Cheers!"
+        },
+        {
+            "line": 297,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 298,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Um, so..."
+        },
+        {
+            "line": 299,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "About this drink..."
+        },
+        {
+            "line": 300,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Can I drink it?"
+        },
+        {
+            "line": 301,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Do you like it? Take a sip."
+        },
+        {
+            "line": 302,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "...it's not bad."
+        },
+        {
+            "line": 303,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Why not drink it then? You're with an adult."
+        },
+        {
+            "line": 304,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "We might as well break the alcohol taboo here and now."
+        },
+        {
+            "line": 305,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "R-Right."
+        },
+        {
+            "line": 306,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah... give it to me."
+        },
+        {
+            "line": 307,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It might be too strong for a kid."
+        },
+        {
+            "line": 308,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "O-Oh..."
+        },
+        {
+            "line": 309,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Now that I think back to it. Didn't your sister give you Beer once as a prank?"
+        },
+        {
+            "line": 310,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Oh yeah. That."
+        },
+        {
+            "line": 311,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "It was April Fool's. I should've known better when she offered me apple soda."
+        },
+        {
+            "line": 312,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I put bubblegum on the soles of all her shoes in retaliation."
+        },
+        {
+            "line": 313,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "She walked funny. And my jaw hurt for the rest of the day."
+        },
+        {
+            "line": 314,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Yeah, but did you know you got my drink that time?"
+        },
+        {
+            "line": 315,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Huh?"
+        },
+        {
+            "line": 316,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "She gave me a Beer and it turned out to be apple soda."
+        },
+        {
+            "line": 317,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Oh."
+        },
+        {
+            "line": 318,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Did you get back at her?"
+        },
+        {
+            "line": 319,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well..."
+        },
+        {
+            "line": 320,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(I did hide all the dildos in the house that night... only to find out she knew how to use a cucumber.)"
+        },
+        {
+            "line": 321,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(And as a follow up, she used that same cucumber in a salad days later.)"
+        },
+        {
+            "line": 322,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(She said, \"so, do you like eating me for lunch?\")"
+        },
+        {
+            "line": 323,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Jill?"
+        },
+        {
+            "line": 324,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I'll... tell you when you're older."
+        },
+        {
+            "line": 325,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "(Or never at all.)"
+        },
+        {
+            "line": 326,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "...?"
+        },
+        {
+            "line": 327,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey, Gaby. Do your parents know you're here?"
+        },
+        {
+            "line": 328,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "They think I'm at Clarie's, actually."
+        },
+        {
+            "line": 329,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Who?"
+        },
+        {
+            "line": 330,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Oh. She's my best friend at school."
+        },
+        {
+            "line": 331,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And this Clarie knows you're using her as an excuse, right?"
+        },
+        {
+            "line": 332,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Of course! How would she cover for me otherwise?"
+        },
+        {
+            "line": 333,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "True."
+        },
+        {
+            "line": 334,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Will you go to her house afterwards?"
+        },
+        {
+            "line": 335,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "To be honest, I didn't think that far..."
+        },
+        {
+            "line": 336,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Maybe I will, I do live in another district, but Clarie doesn't live close by, so..."
+        },
+        {
+            "line": 337,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Hm..."
+        },
+        {
+            "line": 338,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Well, it can't be helped."
+        },
+        {
+            "line": 339,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I live nearby and the streets aren't exactly safe at night. Why not stay with me tonight?"
+        },
+        {
+            "line": 340,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "A-Are you sure?"
+        },
+        {
+            "line": 341,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I don't live in a mansion, but I'd say it's comfy enough. At least to spend the night."
+        },
+        {
+            "line": 342,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Sure! I'd love to stay with you!"
+        },
+        {
+            "line": 343,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Great."
+        },
+        {
+            "line": 344,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey, does your dad still have that bakery? His bread was really good."
+        },
+        {
+            "line": 345,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Yup! He opened a second branch last year."
+        },
+        {
+            "line": 346,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "So he's looking to expand?"
+        },
+        {
+            "line": 347,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I think he got into a partnership with a friend in Motor District."
+        },
+        {
+            "line": 348,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "The guy saw an opportunity after realizing Motor District has almost no bakeries."
+        },
+        {
+            "line": 349,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I still remember when your sister introduced me to him."
+        },
+        {
+            "line": 350,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "He started shouting \"I knew it! I fucking knew you were a lesbian! Mark one for daddy!\""
+        },
+        {
+            "line": 351,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I think he had this bet with an acquaintance of his ever since my sis was 12 years old or so."
+        },
+        {
+            "line": 352,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Dad said sis was into girls. The acquaintance didn't believe him..."
+        },
+        {
+            "line": 353,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "He bet a Beer on whether he was right or not."
+        },
+        {
+            "line": 354,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "...that Beer bottle is still in the fridge. It's even labeled \"sweet victory\"."
+        },
+        {
+            "line": 355,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Heh."
+        },
+        {
+            "line": 356,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 357,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Your mom and Lenore never made up, did they?"
+        },
+        {
+            "line": 358,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "*sigh*"
+        },
+        {
+            "line": 359,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I guess that one wasn't as simple as the \"said one too many things\" argument."
+        },
+        {
+            "line": 360,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Mom was always obsessed with high society and in her circle of friends, a lesbian daughter was a no-no."
+        },
+        {
+            "line": 361,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I'm still on my sis' side for that one, though."
+        },
+        {
+            "line": 362,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Mom didn't reject her because she herself was homophobic, she did it because her friends were."
+        },
+        {
+            "line": 363,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "To mom, the opinion of her circle of friends was worth more than her own daughter."
+        },
+        {
+            "line": 364,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "How did she react to her death?"
+        },
+        {
+            "line": 365,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Dunno, mom and dad broke up two years ago."
+        },
+        {
+            "line": 366,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "They did?"
+        },
+        {
+            "line": 367,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "They never got married, so there was no proper divorce."
+        },
+        {
+            "line": 368,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I haven't seen her since... August, I think."
+        },
+        {
+            "line": 369,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Did you two fight too?"
+        },
+        {
+            "line": 370,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "No, she just hasn't showed up."
+        },
+        {
+            "line": 371,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "You must've felt alone, huh? I've been there."
+        },
+        {
+            "line": 372,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "A bit, but I'm not alone anymore. Thanks to you."
+        },
+        {
+            "line": 373,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "..."
+        },
+        {
+            "line": 374,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Jill, I'm a bit dizzy..."
+        },
+        {
+            "line": 375,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Must be the alcohol."
+        },
+        {
+            "line": 376,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "The WHAT?!"
+        },
+        {
+            "line": 377,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "I did say \"let's break the alcohol taboo,\" didn't I?"
+        },
+        {
+            "line": 378,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Yeah, but..."
+        },
+        {
+            "line": 379,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't worry, it'll pass in a bit."
+        },
+        {
+            "line": 380,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "And let this be a warning of the dangers of taking things from strangers in bars."
+        },
+        {
+            "line": 381,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "First you feel dizzy, then you wake up in a bathtub full of ice."
+        },
+        {
+            "line": 382,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "If you're trying to justify your action with a moral, you're digging yourself deeper."
+        },
+        {
+            "line": 383,
+            "character": "Alma",
+            "type": "dialogue",
+            "text": "Huh? I thought there was gonna be a party here."
+        },
+        {
+            "line": 384,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Alma, over here."
+        },
+        {
+            "line": 385,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "Party?"
+        },
+        {
+            "line": 386,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "A small New Year's celebration."
+        },
+        {
+            "line": 387,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Wanna stay for it?"
+        },
+        {
+            "line": 388,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I-I don't want a kid to burden..."
+        },
+        {
+            "line": 389,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Don't worry, you won't. You'll only get cola for the night, though. No alcohol."
+        },
+        {
+            "line": 390,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "I think it's a bit late for that."
+        },
+        {
+            "line": 391,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "*ahem*"
+        },
+        {
+            "line": 392,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "It'll give us time to catch up even more. I can introduce you to some friends. Are you in?"
+        },
+        {
+            "line": 393,
+            "character": "Gaby",
+            "type": "dialogue",
+            "text": "If you don't mind me..."
+        },
+        {
+            "line": 394,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Great."
+        },
+        {
+            "line": 395,
+            "character": "Jill",
+            "type": "dialogue",
+            "text": "Hey Alma! Come here, there's someone I wanna introduce to you."
+        }
+    ]

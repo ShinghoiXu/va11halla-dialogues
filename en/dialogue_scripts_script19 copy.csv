@@ -1,0 +1,396 @@
+line,filename,lines,type,character,text
+0,script19.txt,395,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,...
+3,undefined,undefined,dialogue,Jill,...
+4,undefined,undefined,dialogue,Dana,"Well, let's see..."
+5,undefined,undefined,dialogue,Dana,Gil is in the back getting everything ready...
+6,undefined,undefined,dialogue,Dana,I'll go grab some food I've ordered.
+7,undefined,undefined,dialogue,Dana,They only agreed to work on New Year's if I went to pick it up myself.
+8,undefined,undefined,dialogue,Jill,...
+9,undefined,undefined,dialogue,Dana,Are you alright?
+10,undefined,undefined,dialogue,Jill,...I'm scared.
+11,undefined,undefined,dialogue,Jill,Gaby will show up at any minute.
+12,undefined,undefined,dialogue,Dana,"Relax, everything will be alright! I can assure you of that."
+13,undefined,undefined,dialogue,Jill,...
+14,undefined,undefined,dialogue,Dana,Drink something! Maybe that will cheer you up!
+15,undefined,undefined,dialogue,Jill,...maybe.
+16,undefined,undefined,dialogue,Dana,"I'll leave you for a bit, but keep your chin up!"
+17,undefined,undefined,dialogue,Dana,"If you get through this, I'll give you... I don't know, a hug. Does that work?"
+18,undefined,undefined,dialogue,Jill,A-A hug?
+19,undefined,undefined,dialogue,Dana,A big one. A reward for after everything's said and done.
+20,undefined,undefined,dialogue,Jill,...
+21,undefined,undefined,dialogue,Dana,Gotta go! You can do it!
+22,undefined,undefined,dialogue,Jill,R-Right...
+23,undefined,undefined,dialogue,Jill,...
+24,undefined,undefined,dialogue,Jill,(Everything's fine...)
+25,undefined,undefined,dialogue,Jill,"(You've been avoiding this for all these years, now it's time to face it head-on.)"
+26,undefined,undefined,dialogue,Jill,(Yeah! Everything's fine!)
+27,undefined,undefined,dialogue,Jill,(Everything will be better after I talk to Gaby.)
+28,undefined,undefined,dialogue,Jill,(Boss might even give me a hug!)
+29,undefined,undefined,dialogue,Jill,(I'm okay!)
+30,undefined,undefined,dialogue,Gaby,Um... hello.
+31,undefined,undefined,dialogue,Jill,Gaby...
+32,undefined,undefined,dialogue,Jill,...
+33,undefined,undefined,dialogue,Jill,...c-come in.
+34,undefined,undefined,dialogue,Gaby,Excuse me...
+35,undefined,undefined,dialogue,Gaby,...
+36,undefined,undefined,dialogue,Jill,Welcome to Valha-...
+37,undefined,undefined,dialogue,Jill,...
+38,undefined,undefined,dialogue,Jill & Gaby,Hey!
+39,undefined,undefined,dialogue,Jill & Gaby,...
+40,undefined,undefined,dialogue,Jill,Y-You talk first.
+41,undefined,undefined,dialogue,Gaby,"No, I..."
+42,undefined,undefined,dialogue,Gaby,Well...
+43,undefined,undefined,dialogue,Gaby,...
+44,undefined,undefined,dialogue,Jill,...
+45,undefined,undefined,dialogue,Jill,"...some days ago, I got a letter."
+46,undefined,undefined,dialogue,Jill,"And even odder than getting a letter, is the fact that..."
+47,undefined,undefined,dialogue,Jill,...it was from your sister.
+48,undefined,undefined,dialogue,Gaby,A what?
+49,undefined,undefined,dialogue,Gaby,My sister sent you a letter? That's the first I've heard of it.
+50,undefined,undefined,dialogue,Gaby,What did it say?
+51,undefined,undefined,dialogue,Jill,"I don't know, I never opened it."
+52,undefined,undefined,dialogue,Jill,...at least not until now.
+53,undefined,undefined,dialogue,Gaby,Huh?
+54,undefined,undefined,dialogue,Jill,I figured I should read it with you.
+55,undefined,undefined,dialogue,Gaby,...
+56,undefined,undefined,dialogue,Gaby,"Yeah, let's do it."
+57,undefined,undefined,dialogue,Gaby,Let's read it.
+58,undefined,undefined,dialogue,Jill,Alright then...
+59,undefined,undefined,dialogue,None,...
+60,undefined,undefined,dialogue,None,...
+61,undefined,undefined,dialogue,Lenore,Sorry.
+62,undefined,undefined,dialogue,None,...
+63,undefined,undefined,dialogue,Jill,...
+64,undefined,undefined,dialogue,Gaby,Just... Just that?
+65,undefined,undefined,dialogue,Jill,Yup.
+66,undefined,undefined,dialogue,Gaby,Isn't there anything else in the letter? Maybe on the back?
+67,undefined,undefined,dialogue,Jill,*sigh* This is just like your sister.
+68,undefined,undefined,dialogue,Jill,"I spent days worried about this letter, not wanting to open it for fear of what it might contain."
+69,undefined,undefined,dialogue,Jill,I lost sleep and appetite thinking about it.
+70,undefined,undefined,dialogue,Jill,"And after all those worries, after all those problems..."
+71,undefined,undefined,dialogue,Jill,"After all these years not talking to her, she sends me a letter, a fucking letter of all things."
+72,undefined,undefined,dialogue,Jill,"And she just says ""Sorry""?!"
+73,undefined,undefined,dialogue,Jill,Sorry for what?! For our fight? For not talking all these years?
+74,undefined,undefined,dialogue,Jill,...
+75,undefined,undefined,dialogue,Jill,Agh! Now I'm fucking pissed.
+76,undefined,undefined,dialogue,Gaby,Heheh...
+77,undefined,undefined,dialogue,Jill,...are you laughing?
+78,undefined,undefined,dialogue,Gaby,"Heheheheh... Sorry, I just... heheh... I remembered all the times my sis provoked you that way."
+79,undefined,undefined,dialogue,Gaby,"Like that time where she gave you chocolates labeled 1, 2 and 4 during Valentine's Day."
+80,undefined,undefined,dialogue,Gaby,And you were pissed about the lack of a 3.
+81,undefined,undefined,dialogue,Gaby,"Or that time when you left an unopened Beer bottle on the table, she sneakily opened it and took a sip."
+82,undefined,undefined,dialogue,Gaby,She didn't tell you she did it and you were confused all day long.
+83,undefined,undefined,dialogue,Jill,She always bragged she knew me like the back of her hand.
+84,undefined,undefined,dialogue,Jill,"...if the letter was supposed to piss me off like that, I guess she had all the rights to brag."
+85,undefined,undefined,dialogue,Gaby,"Maybe she was being sincere, though."
+86,undefined,undefined,dialogue,Gaby,She did express to me that she was sorry on more than one occasion.
+87,undefined,undefined,dialogue,Jill,"She did, huh?"
+88,undefined,undefined,dialogue,Jill,...
+89,undefined,undefined,dialogue,Jill,"You told me she died from... Localized Nanomachine Rejection, right?"
+90,undefined,undefined,dialogue,Gaby,"In her heart, yeah."
+91,undefined,undefined,dialogue,Gaby,"Instead of the massive rejection that always makes the news, her case was more... focused."
+92,undefined,undefined,dialogue,Gaby,They usually amputate or replace the part and call it a day.
+93,undefined,undefined,dialogue,Gaby,But organs are different. The condition made her susceptible to transplant rejections.
+94,undefined,undefined,dialogue,Jill,Not to mention artificial hearts and genetic treatments were out of the question.
+95,undefined,undefined,dialogue,Gaby,Yup.
+96,undefined,undefined,dialogue,Gaby,"Thing is, apparently, she suffered that since she was 18, but kept it a secret from everyone."
+97,undefined,undefined,dialogue,Jill,Why?
+98,undefined,undefined,dialogue,Gaby,Hell if I know. I was angry to learn that she hid it.
+99,undefined,undefined,dialogue,Gaby,Why didn't she tell me?! Was it to avoid worrying me? Was she ashamed? What was it?!
+100,undefined,undefined,dialogue,Gaby,...
+101,undefined,undefined,dialogue,Jill,...
+102,undefined,undefined,dialogue,Jill,"Wait, how did she live so normally then?"
+103,undefined,undefined,dialogue,Gaby,She had to use a serum. Shots near her heart every three days.
+104,undefined,undefined,dialogue,Gaby,"Apparently, the serum burns like hell. The shot even left her a nasty mark where she had to apply them."
+105,undefined,undefined,dialogue,Jill,(So the thing near her left breast wasn't a birth mark?)
+106,undefined,undefined,dialogue,Jill,And the rejection was what ended up killing her?
+107,undefined,undefined,dialogue,Gaby,"The Nanomachine Rejection was what ended up killing her, but they couldn't find what made her so vulnerable."
+108,undefined,undefined,dialogue,Gaby,"Doctor said she might have missed a shot, or the shots made her other defenses grow weaker."
+109,undefined,undefined,dialogue,Gaby,"The condition could've just gone nuts outta nowhere, or maybe it was blood pressure."
+110,undefined,undefined,dialogue,Gaby,"Maybe it was a regular heart attack and the rejection acted afterwards, they don't know."
+111,undefined,undefined,dialogue,Gaby,"She kept it a secret from everyone, so nobody knows!"
+112,undefined,undefined,dialogue,Gaby,"Maybe if she had told me about it, I could've helped her, maybe she'd still be alive."
+113,undefined,undefined,dialogue,Gaby,Maybe she wouldn't have faced it alone instead of just dying in her sleep.
+114,undefined,undefined,dialogue,Gaby,...
+115,undefined,undefined,dialogue,Jill,...
+116,undefined,undefined,dialogue,Jill,Thinking about what ifs won't bring her back.
+117,undefined,undefined,dialogue,Gaby,Eh?
+118,undefined,undefined,dialogue,Jill,I spent so much time hammering myself with what ifs after you told me she died.
+119,undefined,undefined,dialogue,Jill,What if I waited to cool down a bit back then? What if I just swallowed my fears at that very moment?
+120,undefined,undefined,dialogue,Jill,What if I had apologized earlier? What if I had given a chance to the research institute thing back then?
+121,undefined,undefined,dialogue,Jill,And the amount just increased threefold after I lashed out at you the other day.
+122,undefined,undefined,dialogue,Jill,"But today, I realized something."
+123,undefined,undefined,dialogue,Jill,Having such regrets with the dead is a hollow effort.
+124,undefined,undefined,dialogue,Jill,"You're alive, you're here. I can make amends with you... but I can't make amends with the dead."
+125,undefined,undefined,dialogue,Jill,I can't apologize to her like I can apologize to you right now.
+126,undefined,undefined,dialogue,Gaby,Jill...
+127,undefined,undefined,dialogue,Jill,"Lenore, she's..."
+128,undefined,undefined,dialogue,Jill,...
+129,undefined,undefined,dialogue,Jill,She's resting now.
+130,undefined,undefined,dialogue,Jill,She's just resting after having that heart condition all these years.
+131,undefined,undefined,dialogue,Gaby,"She didn't have to face it alone, though. If she only..."
+132,undefined,undefined,dialogue,Jill,So! Let's celebrate her life and achievements.
+133,undefined,undefined,dialogue,Jill,"If we are to mourn, let's mourn her together. If we are to honor her, we'll do it together."
+134,undefined,undefined,dialogue,Gaby,Together...
+135,undefined,undefined,dialogue,Jill,"Lenore was a fun-loving person. The best we can do right now is try to lighten up, even if it's only for a moment."
+136,undefined,undefined,dialogue,Gaby,...
+137,undefined,undefined,dialogue,Jill,"I need to ask, though. Did she really start to complain about chest pains shortly after I left?"
+138,undefined,undefined,dialogue,Gaby,N-No...
+139,undefined,undefined,dialogue,Gaby,She didn't get visibly worse after you left or anything. Everything was actually too sudden.
+140,undefined,undefined,dialogue,Gaby,"She did complain about chest pains from time to time, but that actually goes way back before you left."
+141,undefined,undefined,dialogue,Gaby,"Back then, we thought it was just acid reflux or something."
+142,undefined,undefined,dialogue,Gaby,...
+143,undefined,undefined,dialogue,Gaby,"Gods, I even blamed her death on you."
+144,undefined,undefined,dialogue,Gaby,"I was just too angry back then, and part of me just wanted to put the blame on... someone or something."
+145,undefined,undefined,dialogue,Gaby,And you didn't deserve that. Sorry.
+146,undefined,undefined,dialogue,Jill,"Hey, I'm sorry too, you know?"
+147,undefined,undefined,dialogue,Jill,We both have things to apologize for. Don't think too much about it.
+148,undefined,undefined,dialogue,Jill,I should've been mature and not shouted at you either. So.
+149,undefined,undefined,dialogue,Jill,"Let's just call all that water under the bridge, shall we?"
+150,undefined,undefined,dialogue,Gaby,Are you sure?
+151,undefined,undefined,dialogue,Jill,Of course I am.
+152,undefined,undefined,dialogue,Jill,...
+153,undefined,undefined,dialogue,Jill,"So, how did you find me, exactly?"
+154,undefined,undefined,dialogue,Gaby,E-Eh? Um...
+155,undefined,undefined,dialogue,Gaby,Well... have you heard of a message board called Danger/u/?
+156,undefined,undefined,dialogue,Jill,"...I have, yeah."
+157,undefined,undefined,dialogue,Gaby,"Well, truth is that I visit it from time to time."
+158,undefined,undefined,dialogue,Gaby,"And the other day, I read a thread that discussed the bar."
+159,undefined,undefined,dialogue,Gaby,And the description of the bartender sounded just like you.
+160,undefined,undefined,dialogue,Jill,...
+161,undefined,undefined,dialogue,Gaby,Are you mad?
+162,undefined,undefined,dialogue,Jill,"No, not mad. More like... dumbfounded."
+163,undefined,undefined,dialogue,Gaby,...
+164,undefined,undefined,dialogue,Gaby,"Hey Jill, can you tell me what the problem was back then?"
+165,undefined,undefined,dialogue,Gaby,What sparked that fight? Weren't you happy with my sister?
+166,undefined,undefined,dialogue,Jill,Well... hm...
+167,undefined,undefined,dialogue,Jill,"Back then, I didn't know what to do with myself after I graduated college."
+168,undefined,undefined,dialogue,Jill,I went in and pretty much hated my last couple of years there.
+169,undefined,undefined,dialogue,Jill,It's not far-fetched to think that I only tolerated being there because your sister was with me.
+170,undefined,undefined,dialogue,Jill,"Had she stopped supporting my studies, I would've quit right then and there."
+171,undefined,undefined,dialogue,Jill,"And then after graduating, I got a very good job offer... that she accepted on my behalf in no time."
+172,undefined,undefined,dialogue,Jill,"She kept saying it was the best for me and my future, but I was LIVID. Why did she have to do that?"
+173,undefined,undefined,dialogue,Jill,"I hated it... I didn't even know if I wanted to go there, but she still insisted so much."
+174,undefined,undefined,dialogue,Jill,Like she was forcing that burden on me.
+175,undefined,undefined,dialogue,Jill,"And then ""my"" became ""our"" future and she started talking about marriage..."
+176,undefined,undefined,dialogue,Gaby,YOU WERE GOING TO GET MARRIED?!
+177,undefined,undefined,dialogue,Jill,I don't think we ever took it seriously! It was just something she kept mentioning.
+178,undefined,undefined,dialogue,Jill,"Not like we didn't think about that down the line, but she mostly teased me with it."
+179,undefined,undefined,dialogue,Jill,But the thought suddenly scared the shit out of me...
+180,undefined,undefined,dialogue,Jill,"I loved her, but I don't think I was ready for such a commitment. Especially considering what she did."
+181,undefined,undefined,dialogue,Jill,"I didn't know what I wanted to do, but I wasn't going to let her decide such a big thing for me."
+182,undefined,undefined,dialogue,Jill,"I mean, she could be really pushy from time to time."
+183,undefined,undefined,dialogue,Jill,"Like I said, I pretty much passed college thanks to being with her. And that was partly because she was so pushy."
+184,undefined,undefined,dialogue,Jill,"Even if she had the best intentions, she could be... abrasive from time to time."
+185,undefined,undefined,dialogue,Jill,And it rained down on me at that moment.
+186,undefined,undefined,dialogue,Jill,She took it upon herself to make that choice for me. What would have stopped her once we'd gotten married?
+187,undefined,undefined,dialogue,Jill,What if she suddenly decided to craft my life to her needs after marriage?
+188,undefined,undefined,dialogue,Jill,I knew her. She would do it thinking it was the best for me. But what about my freedom? My say on the matter?
+189,undefined,undefined,dialogue,Gaby,So that's where you stopped loving Lenore?
+190,undefined,undefined,dialogue,Jill,"No! No, no..."
+191,undefined,undefined,dialogue,Jill,"I never stopped loving her, which is why it hurt so much. But you have to understand."
+192,undefined,undefined,dialogue,Jill,I didn't want to wake up 40 years old and working a job I hate.
+193,undefined,undefined,dialogue,Jill,Just out of routine. Getting used to it.
+194,undefined,undefined,dialogue,Jill,I wanted a break from everything for a while to put my thoughts in order.
+195,undefined,undefined,dialogue,Jill,Regroup myself. Think carefully about what to do next.
+196,undefined,undefined,dialogue,Gaby,"I can understand. I've sometimes felt the same, although I'm not even in college."
+197,undefined,undefined,dialogue,Gaby,"So that's what led to you two fighting, huh?"
+198,undefined,undefined,dialogue,Jill,"Heh. You know, the word ""fight"" makes it sound like we exchanged blows or something."
+199,undefined,undefined,dialogue,Jill,It's all silly when I think back to it. Tragically silly.
+200,undefined,undefined,dialogue,Jill,"Maybe I was the one who started the fight, getting all defensive about not wanting to take that offer."
+201,undefined,undefined,dialogue,Jill,Perhaps if I didn't overreact to her arguments about wasting this huge opportunity...
+202,undefined,undefined,dialogue,Jill,Maybe she wouldn't have lashed out at me this bad.
+203,undefined,undefined,dialogue,Jill,It could've been avoided if I had just kept a cool head and talked about that with her.
+204,undefined,undefined,dialogue,Gaby,...my sister said something like that.
+205,undefined,undefined,dialogue,Jill,Eh?
+206,undefined,undefined,dialogue,Gaby,"I told you she mentioned on more than one occasion how sorry she was about the whole thing, right?"
+207,undefined,undefined,dialogue,Gaby,"""Should've listened to her to the end, but instead I kept pushing her."""
+208,undefined,undefined,dialogue,Gaby,"""I should've kept a cool head instead of letting my jealousy take the best of me."""
+209,undefined,undefined,dialogue,Gaby,"""It was her offer, not mine. Should've stopped projecting myself so much into her."""
+210,undefined,undefined,dialogue,Gaby,Something like that.
+211,undefined,undefined,dialogue,Jill,Lenore...
+212,undefined,undefined,dialogue,Gaby,"Heheh... we are quite the hot heads. You, me, my sis."
+213,undefined,undefined,dialogue,Jill,"You were supposed to be the mature one, you know? Play your role correctly!"
+214,undefined,undefined,dialogue,Gaby,Heh...
+215,undefined,undefined,dialogue,Gaby,"But why didn't you come back, Jill? Did you end up hating us that much?"
+216,undefined,undefined,dialogue,Gaby,Did the break include us too?
+217,undefined,undefined,dialogue,Jill,"No, it's just that..."
+218,undefined,undefined,dialogue,Jill,...
+219,undefined,undefined,dialogue,Jill,Remember when your sister was giving a class and you broke a window?
+220,undefined,undefined,dialogue,Jill,How you didn't want to see her for fear of being scolded?
+221,undefined,undefined,dialogue,Gaby,But my sister wouldn't have scolded you.
+222,undefined,undefined,dialogue,Jill,But I was afraid. Dead afraid. I couldn't bring myself to face your sister.
+223,undefined,undefined,dialogue,Gaby,"But I faced her back then, and I was, like, 7 at the time. Why couldn't you do it?"
+224,undefined,undefined,dialogue,Jill,It's... not quite the same.
+225,undefined,undefined,dialogue,Jill,"And in perspective, no matter what reason I come up with, it will never make sense."
+226,undefined,undefined,dialogue,Jill,"Everything sounds very stupid when I look back, you know? Not that it makes things easier."
+227,undefined,undefined,dialogue,Jill,"I won't ever get to speak to her ever again, and it feels bad because it's stupid!"
+228,undefined,undefined,dialogue,Gaby,"I swear, you and my sis were meant for one another."
+229,undefined,undefined,dialogue,Gaby,"You both moved on after all that, but neither had the courage to go back and say you're sorry."
+230,undefined,undefined,dialogue,Jill,"*sigh* And like I said, berating myself over those past mistakes won't bring her back."
+231,undefined,undefined,dialogue,Gaby,...I miss her so much though.
+232,undefined,undefined,dialogue,Gaby,We were together all the time! Always talking about dumb stuff.
+233,undefined,undefined,dialogue,Gaby,"I wouldn't call my parents useless, but she was the one I could always talk to."
+234,undefined,undefined,dialogue,Gaby,I feel her absence every day.
+235,undefined,undefined,dialogue,Gaby,Everything is just so... quiet now.
+236,undefined,undefined,dialogue,Jill,She was an amazing person.
+237,undefined,undefined,dialogue,Jill,...
+238,undefined,undefined,dialogue,Jill,Yeah! She was an amazing person!
+239,undefined,undefined,dialogue,Gaby,E-Eh?
+240,undefined,undefined,dialogue,Jill,"Mourning is fine and all, but we should be celebrating her life!"
+241,undefined,undefined,dialogue,Jill,"If she was here, she would tell us that there's no fun in sulking for so long."
+242,undefined,undefined,dialogue,Gaby,She told YOU that all the time.
+243,undefined,undefined,dialogue,Jill,The same way she told you to stop rubbing things in people's faces.
+244,undefined,undefined,dialogue,Jill,Both figuratively and literally.
+245,undefined,undefined,dialogue,Gaby,Hey! I was eight back then.
+246,undefined,undefined,dialogue,Jill,"So, let's have a toast in her honor, shall we?"
+247,undefined,undefined,dialogue,Gaby,A toast?
+248,undefined,undefined,dialogue,Jill,Yeah! Let me get you a drink.
+249,undefined,undefined,dialogue,Gaby,A-A drink?
+250,undefined,undefined,dialogue,Jill,"Don't worry, trust me."
+251,undefined,undefined,dialogue,Jill,Grab this for a sec.
+252,undefined,undefined,dialogue,Gaby,O-Okay.
+253,undefined,undefined,dialogue,Jill,*ahem*
+254,undefined,undefined,dialogue,Jill,"Lenore, I know you're watching from the beyond right now... as I give a drink to your little sister."
+255,undefined,undefined,dialogue,Jill,"It's obvious to me now that we both meant to make amends at some point, but we never got around to it."
+256,undefined,undefined,dialogue,Jill,"I can't apologize to you anymore, but I can at the very least make you rest easier."
+257,undefined,undefined,dialogue,Jill,So know that I'll look out for Gaby in your absence.
+258,undefined,undefined,dialogue,Jill,"I'll make sure Gaby grows into a fine woman, just like you were. I'll always be there for her."
+259,undefined,undefined,dialogue,Jill,I'll be sure the little brat doesn't face the same problem you and I had.
+260,undefined,undefined,dialogue,Gaby,Hey!
+261,undefined,undefined,dialogue,Jill,Want to add anything?
+262,undefined,undefined,dialogue,Gaby,Um...
+263,undefined,undefined,dialogue,Gaby,...
+264,undefined,undefined,dialogue,Gaby,I'll always miss her.
+265,undefined,undefined,dialogue,Jill,Don't say it to me. Say it to her.
+266,undefined,undefined,dialogue,Gaby,That's a bit...
+267,undefined,undefined,dialogue,Jill,Come on. Just this once.
+268,undefined,undefined,dialogue,Gaby,...
+269,undefined,undefined,dialogue,Gaby,"I-I'll always miss you, sis!"
+270,undefined,undefined,dialogue,Gaby,Sis...
+271,undefined,undefined,dialogue,Gaby,Sis... you idiot! Why did you keep that secret for so long?! Idiot! Idiot!
+272,undefined,undefined,dialogue,Gaby,*sniff* I always told you everything. Wasn't I enough? You idiotic IDIOOOOOOOOT!
+273,undefined,undefined,dialogue,Gaby,...
+274,undefined,undefined,dialogue,Gaby,...Agh!
+275,undefined,undefined,dialogue,Gaby,"Hey, Jill! Promise me you won't be like that knucklehead. That you won't keep stuff like that to yourself."
+276,undefined,undefined,dialogue,Jill,Only if you promise the same to me.
+277,undefined,undefined,dialogue,Gaby,And... And promise me we won't fight.
+278,undefined,undefined,dialogue,Jill,I can't do that.
+279,undefined,undefined,dialogue,Gaby,Eh?
+280,undefined,undefined,dialogue,Jill,You and I are both too thickheaded. Sooner or later we'll clash on some opinion.
+281,undefined,undefined,dialogue,Jill,But what I can promise is that I won't run away like last time.
+282,undefined,undefined,dialogue,Jill,We'll both cool off and talk it over like the adults we are.
+283,undefined,undefined,dialogue,Gaby,I'm... not an adult.
+284,undefined,undefined,dialogue,Jill,Let's face it. You've been more mature than I have.
+285,undefined,undefined,dialogue,Gaby,Heheh...
+286,undefined,undefined,dialogue,Gaby,...
+287,undefined,undefined,dialogue,Gaby,"Hey, did you mean what you said? That you'll look after me?"
+288,undefined,undefined,dialogue,Jill,"I'll always be here for you, Gaby. I mean, I'm not Lenore, but..."
+289,undefined,undefined,dialogue,Jill,I wouldn't dare leave my little sister alone.
+290,undefined,undefined,dialogue,Gaby,Jill...
+291,undefined,undefined,dialogue,Gaby,...
+292,undefined,undefined,dialogue,Gaby,"H-Hey, wasn't this a toast?"
+293,undefined,undefined,dialogue,Jill,Right!
+294,undefined,undefined,dialogue,Jill,For Lenore. Faithful sister and girlfriend.
+295,undefined,undefined,dialogue,Jill,Cheers!
+296,undefined,undefined,dialogue,Gaby,Cheers!
+297,undefined,undefined,dialogue,Gaby,...
+298,undefined,undefined,dialogue,Gaby,"Um, so..."
+299,undefined,undefined,dialogue,Gaby,About this drink...
+300,undefined,undefined,dialogue,Gaby,Can I drink it?
+301,undefined,undefined,dialogue,Jill,Do you like it? Take a sip.
+302,undefined,undefined,dialogue,Gaby,...it's not bad.
+303,undefined,undefined,dialogue,Jill,Why not drink it then? You're with an adult.
+304,undefined,undefined,dialogue,Jill,We might as well break the alcohol taboo here and now.
+305,undefined,undefined,dialogue,Gaby,R-Right.
+306,undefined,undefined,dialogue,Jill,Yeah... give it to me.
+307,undefined,undefined,dialogue,Jill,It might be too strong for a kid.
+308,undefined,undefined,dialogue,Gaby,O-Oh...
+309,undefined,undefined,dialogue,Jill,Now that I think back to it. Didn't your sister give you Beer once as a prank?
+310,undefined,undefined,dialogue,Gaby,Oh yeah. That.
+311,undefined,undefined,dialogue,Gaby,It was April Fool's. I should've known better when she offered me apple soda.
+312,undefined,undefined,dialogue,Gaby,I put bubblegum on the soles of all her shoes in retaliation.
+313,undefined,undefined,dialogue,Gaby,She walked funny. And my jaw hurt for the rest of the day.
+314,undefined,undefined,dialogue,Jill,"Yeah, but did you know you got my drink that time?"
+315,undefined,undefined,dialogue,Gaby,Huh?
+316,undefined,undefined,dialogue,Jill,She gave me a Beer and it turned out to be apple soda.
+317,undefined,undefined,dialogue,Gaby,Oh.
+318,undefined,undefined,dialogue,Gaby,Did you get back at her?
+319,undefined,undefined,dialogue,Jill,Well...
+320,undefined,undefined,dialogue,Jill,(I did hide all the dildos in the house that night... only to find out she knew how to use a cucumber.)
+321,undefined,undefined,dialogue,Jill,"(And as a follow up, she used that same cucumber in a salad days later.)"
+322,undefined,undefined,dialogue,Jill,"(She said, ""so, do you like eating me for lunch?"")"
+323,undefined,undefined,dialogue,Gaby,Jill?
+324,undefined,undefined,dialogue,Jill,I'll... tell you when you're older.
+325,undefined,undefined,dialogue,Jill,(Or never at all.)
+326,undefined,undefined,dialogue,Gaby,...?
+327,undefined,undefined,dialogue,Jill,"Hey, Gaby. Do your parents know you're here?"
+328,undefined,undefined,dialogue,Gaby,"They think I'm at Clarie's, actually."
+329,undefined,undefined,dialogue,Jill,Who?
+330,undefined,undefined,dialogue,Gaby,Oh. She's my best friend at school.
+331,undefined,undefined,dialogue,Jill,"And this Clarie knows you're using her as an excuse, right?"
+332,undefined,undefined,dialogue,Gaby,Of course! How would she cover for me otherwise?
+333,undefined,undefined,dialogue,Jill,True.
+334,undefined,undefined,dialogue,Jill,Will you go to her house afterwards?
+335,undefined,undefined,dialogue,Gaby,"To be honest, I didn't think that far..."
+336,undefined,undefined,dialogue,Gaby,"Maybe I will, I do live in another district, but Clarie doesn't live close by, so..."
+337,undefined,undefined,dialogue,Gaby,Hm...
+338,undefined,undefined,dialogue,Jill,"Well, it can't be helped."
+339,undefined,undefined,dialogue,Jill,I live nearby and the streets aren't exactly safe at night. Why not stay with me tonight?
+340,undefined,undefined,dialogue,Gaby,A-Are you sure?
+341,undefined,undefined,dialogue,Jill,"I don't live in a mansion, but I'd say it's comfy enough. At least to spend the night."
+342,undefined,undefined,dialogue,Gaby,Sure! I'd love to stay with you!
+343,undefined,undefined,dialogue,Jill,Great.
+344,undefined,undefined,dialogue,Jill,"Hey, does your dad still have that bakery? His bread was really good."
+345,undefined,undefined,dialogue,Gaby,Yup! He opened a second branch last year.
+346,undefined,undefined,dialogue,Jill,So he's looking to expand?
+347,undefined,undefined,dialogue,Gaby,I think he got into a partnership with a friend in Motor District.
+348,undefined,undefined,dialogue,Gaby,The guy saw an opportunity after realizing Motor District has almost no bakeries.
+349,undefined,undefined,dialogue,Jill,I still remember when your sister introduced me to him.
+350,undefined,undefined,dialogue,Jill,"He started shouting ""I knew it! I fucking knew you were a lesbian! Mark one for daddy!"""
+351,undefined,undefined,dialogue,Gaby,I think he had this bet with an acquaintance of his ever since my sis was 12 years old or so.
+352,undefined,undefined,dialogue,Gaby,Dad said sis was into girls. The acquaintance didn't believe him...
+353,undefined,undefined,dialogue,Gaby,He bet a Beer on whether he was right or not.
+354,undefined,undefined,dialogue,Gaby,"...that Beer bottle is still in the fridge. It's even labeled ""sweet victory""."
+355,undefined,undefined,dialogue,Jill,Heh.
+356,undefined,undefined,dialogue,Jill,...
+357,undefined,undefined,dialogue,Jill,"Your mom and Lenore never made up, did they?"
+358,undefined,undefined,dialogue,Gaby,*sigh*
+359,undefined,undefined,dialogue,Gaby,"I guess that one wasn't as simple as the ""said one too many things"" argument."
+360,undefined,undefined,dialogue,Gaby,"Mom was always obsessed with high society and in her circle of friends, a lesbian daughter was a no-no."
+361,undefined,undefined,dialogue,Gaby,"I'm still on my sis' side for that one, though."
+362,undefined,undefined,dialogue,Gaby,"Mom didn't reject her because she herself was homophobic, she did it because her friends were."
+363,undefined,undefined,dialogue,Gaby,"To mom, the opinion of her circle of friends was worth more than her own daughter."
+364,undefined,undefined,dialogue,Jill,How did she react to her death?
+365,undefined,undefined,dialogue,Gaby,"Dunno, mom and dad broke up two years ago."
+366,undefined,undefined,dialogue,Jill,They did?
+367,undefined,undefined,dialogue,Gaby,"They never got married, so there was no proper divorce."
+368,undefined,undefined,dialogue,Gaby,"I haven't seen her since... August, I think."
+369,undefined,undefined,dialogue,Jill,Did you two fight too?
+370,undefined,undefined,dialogue,Gaby,"No, she just hasn't showed up."
+371,undefined,undefined,dialogue,Jill,"You must've felt alone, huh? I've been there."
+372,undefined,undefined,dialogue,Gaby,"A bit, but I'm not alone anymore. Thanks to you."
+373,undefined,undefined,dialogue,Jill,...
+374,undefined,undefined,dialogue,Gaby,"Jill, I'm a bit dizzy..."
+375,undefined,undefined,dialogue,Jill,Must be the alcohol.
+376,undefined,undefined,dialogue,Gaby,The WHAT?!
+377,undefined,undefined,dialogue,Jill,"I did say ""let's break the alcohol taboo,"" didn't I?"
+378,undefined,undefined,dialogue,Gaby,"Yeah, but..."
+379,undefined,undefined,dialogue,Jill,"Don't worry, it'll pass in a bit."
+380,undefined,undefined,dialogue,Jill,And let this be a warning of the dangers of taking things from strangers in bars.
+381,undefined,undefined,dialogue,Jill,"First you feel dizzy, then you wake up in a bathtub full of ice."
+382,undefined,undefined,dialogue,Gaby,"If you're trying to justify your action with a moral, you're digging yourself deeper."
+383,undefined,undefined,dialogue,Alma,Huh? I thought there was gonna be a party here.
+384,undefined,undefined,dialogue,Jill,"Alma, over here."
+385,undefined,undefined,dialogue,Gaby,Party?
+386,undefined,undefined,dialogue,Jill,A small New Year's celebration.
+387,undefined,undefined,dialogue,Jill,Wanna stay for it?
+388,undefined,undefined,dialogue,Gaby,I-I don't want a kid to burden...
+389,undefined,undefined,dialogue,Jill,"Don't worry, you won't. You'll only get cola for the night, though. No alcohol."
+390,undefined,undefined,dialogue,Gaby,I think it's a bit late for that.
+391,undefined,undefined,dialogue,Jill,*ahem*
+392,undefined,undefined,dialogue,Jill,It'll give us time to catch up even more. I can introduce you to some friends. Are you in?
+393,undefined,undefined,dialogue,Gaby,If you don't mind me...
+394,undefined,undefined,dialogue,Jill,Great.
+395,undefined,undefined,dialogue,Jill,"Hey Alma! Come here, there's someone I wanna introduce to you."

@@ -1,0 +1,1068 @@
+line,filename,lines,type,character,text
+0,script2.txt,1067,META,undefined,undefined
+2,undefined,undefined,dialogue,Jill,G'evening.
+3,undefined,undefined,dialogue,Dana,Hey Jill...
+4,undefined,undefined,dialogue,Jill,...
+5,undefined,undefined,dialogue,Jill,BWAH!!
+6,undefined,undefined,dialogue,Dana,That's a sound you don't hear every day.
+7,undefined,undefined,dialogue,Jill,B-Boss? What are you doing with that helmet?
+8,undefined,undefined,dialogue,Dana,I was just about to ask you where it came from.
+9,undefined,undefined,dialogue,Jill,A White Knight came yesterday. She left and... well... she forgot to take it with her.
+10,undefined,undefined,dialogue,Jill,I figured she'd eventually come looking for it so I left it under the count-... wait.
+11,undefined,undefined,dialogue,Jill,Do you regularly put things on without asking who they belong to first?
+12,undefined,undefined,dialogue,Dana,"I don't plan and evaluate every move, Jill... I just act."
+13,undefined,undefined,dialogue,Dana,"Anyway, as your boss, I'm taking this helmet until the client comes for it."
+14,undefined,undefined,dialogue,Jill,You sound happy.
+15,undefined,undefined,dialogue,Dana,"Well, this helmet is comfortable. And cool. And comfortable, and cool, and... and really, really cool."
+16,undefined,undefined,dialogue,Gillian,'ello...
+17,undefined,undefined,dialogue,Dana,"It's strange that you're late, Gil."
+18,undefined,undefined,dialogue,Gillian,"Yeah, the traffic was... GAH!"
+19,undefined,undefined,dialogue,Dana,Don't run! You have work to do!
+20,undefined,undefined,dialogue,Gillian,I'M NOT GOING BACK TO HONG KONG!!!
+21,undefined,undefined,dialogue,Dana,Hong Kong?
+22,undefined,undefined,dialogue,Gillian,C-Chief?
+23,undefined,undefined,dialogue,Gillian,"S-Sorry, I thought you were someone else."
+24,undefined,undefined,dialogue,Dana,Apparently.
+25,undefined,undefined,dialogue,Dana,I'll leave the rest up to you. I'll detonate the Pluto Warhead somewhere safe.
+26,undefined,undefined,dialogue,Jill,The what where now?
+27,undefined,undefined,dialogue,Dana,Nothing. Nevermind.
+28,undefined,undefined,dialogue,Gillian,She seems happy.
+29,undefined,undefined,dialogue,Jill,"She's been tense these past couple of days. If she's somehow relaxed now, good."
+30,undefined,undefined,dialogue,Jill,Are you all set?
+31,undefined,undefined,dialogue,Gillian,Yup.
+32,undefined,undefined,dialogue,Jill,Alright.
+33,undefined,undefined,dialogue,Jill,Time to mix drinks and cha-...
+34,undefined,undefined,dialogue,Kim,YOUUUUUUUUUUUUUUUUUUUUUUUU!!
+35,undefined,undefined,dialogue,Jill,"Oh, Miss Kim."
+36,undefined,undefined,dialogue,Kim,Because of you I got up late and lost a full day of work! And on the day everyone got a nifty assignment too!
+37,undefined,undefined,dialogue,Jill,Wait. Because of me?
+38,undefined,undefined,dialogue,Kim,You were the one that got me drunk and made me fall asleep like a goddamn log!
+39,undefined,undefined,dialogue,Jill,So you arrived home safely. That's nice.
+40,undefined,undefined,dialogue,Kim,T-That's all you have to say?!
+41,undefined,undefined,dialogue,Jill,What do you want me to say?
+42,undefined,undefined,dialogue,Jill,"If I felt remorse over every client that gets drunk in here, I wouldn't be working."
+43,undefined,undefined,dialogue,Kim,B-But...!
+44,undefined,undefined,dialogue,Jill,"True. Morally speaking, I shouldn't let people get drunk."
+45,undefined,undefined,dialogue,Jill,But getting people drunk IS the unspoken main purpose of my job.
+46,undefined,undefined,dialogue,Jill,"And I did say that I didn't know how much alcohol you could handle, didn't I?"
+47,undefined,undefined,dialogue,Kim,I... AGH!
+48,undefined,undefined,dialogue,Kim,"Seriously, what kind of answer is THAT?!"
+49,undefined,undefined,dialogue,Kim,Ugh... Hello Mr. Donovan.
+50,undefined,undefined,dialogue,Mr. Donovan,Do I know you?
+51,undefined,undefined,dialogue,Jill,Time to mix drinks and change lives.
+52,undefined,undefined,dialogue,Mr. Donovan,"Hey, brat. You're in luck! I decided to bless this place again."
+53,undefined,undefined,dialogue,Jill,(Luck he says...)
+54,undefined,undefined,dialogue,Jill,"Oh, Mr. Donovan. Welcome to Valhalla. What can I get you?"
+55,undefined,undefined,dialogue,Mr. Donovan,"What do you think I want, kid?"
+56,undefined,undefined,dialogue,Jill,...
+57,undefined,undefined,dialogue,Jill,Here.
+58,undefined,undefined,dialogue,Mr. Donovan,Close. Partial credit.
+59,undefined,undefined,dialogue,Jill,...
+60,undefined,undefined,dialogue,Jill,Here you go.
+61,undefined,undefined,dialogue,Mr. Donovan,"Yes. Now, that's what I call service!"
+62,undefined,undefined,dialogue,Jill,That's good to hear.
+63,undefined,undefined,dialogue,Jill,(He wanted his fucking Beer! How could I mess this one up?!)
+64,undefined,undefined,dialogue,Jill,H-Here...
+65,undefined,undefined,dialogue,Mr. Donovan,"I'll take it, but there's no credit for trying."
+66,undefined,undefined,dialogue,Jill,...
+67,undefined,undefined,dialogue,Jill,Here.
+68,undefined,undefined,dialogue,Mr. Donovan,"Aaaand, wrong. Sorry, kid. Better luck next time."
+69,undefined,undefined,dialogue,Jill,(At least he didn't ask me to redo it.)
+70,undefined,undefined,dialogue,Jill,"What brings you here today, Mr. Donovan?"
+71,undefined,undefined,dialogue,Mr. Donovan,"Today, we were supposed to hand the interns an article topic."
+72,undefined,undefined,dialogue,Mr. Donovan,All those crazy bitches came flocking to me like the first high schooler with a car.
+73,undefined,undefined,dialogue,Mr. Donovan,"I couldn't deal with it, so I switched places with some poor sap."
+74,undefined,undefined,dialogue,Mr. Donovan,"He was supposed to be doing an interview today, but to hell with that."
+75,undefined,undefined,dialogue,Mr. Donovan,"And thanks to all that shit, I found myself here, blessing your hell hole with my presence."
+76,undefined,undefined,dialogue,Jill,You were here yesterday too. How did that come about?
+77,undefined,undefined,dialogue,Mr. Donovan,There's this gal that's performing at a concert later tonight.
+78,undefined,undefined,dialogue,Mr. Donovan,"Yesterday, I was tuning the details of the interview I'd have with her today."
+79,undefined,undefined,dialogue,Mr. Donovan,"And like I said, I'd rather work here than deal with a pack of competitive bitches."
+80,undefined,undefined,dialogue,Jill,I see.
+81,undefined,undefined,dialogue,Jill,How was the interview?
+82,undefined,undefined,dialogue,Mr. Donovan,Easy enough. The fact that the gal had a nice pair of knockers helped.
+83,undefined,undefined,dialogue,Mr. Donovan,"We've come a long way in the department of Lilim sex appeal, I tell you."
+84,undefined,undefined,dialogue,Jill,She was a Lilim then?
+85,undefined,undefined,dialogue,Mr. Donovan,"Yes, one of those new fancy King-Class CH1A models."
+86,undefined,undefined,dialogue,Mr. Donovan,I've heard they're anatomically correct in every way.
+87,undefined,undefined,dialogue,Mr. Donovan,I wouldn't mind finding out about that myself.
+88,undefined,undefined,dialogue,Mr. Donovan,"Hm? Hey, you! The guy with a John face."
+89,undefined,undefined,dialogue,Gillian,Huh? Me?
+90,undefined,undefined,dialogue,Gillian,"What the hell is a ""John Face?"""
+91,undefined,undefined,dialogue,Mr. Donovan,"Yeah, you. Do I know you?"
+92,undefined,undefined,dialogue,Gillian,"I don't think so, sir."
+93,undefined,undefined,dialogue,Mr. Donovan,"No, no. I'm pretty sure I know you."
+94,undefined,undefined,dialogue,Mr. Donovan,"Wait wait wait... it was the Hong Kong riots ten years ago, right?"
+95,undefined,undefined,dialogue,Gillian,I-I've never been to Hong Kong... and I certainly didn't defect from any anti-riot force after stealing supplies.
+96,undefined,undefined,dialogue,Mr. Donovan,Really? That's a bummer.
+97,undefined,undefined,dialogue,Mr. Donovan,You look like a guy who owes me a drink.
+98,undefined,undefined,dialogue,Jill,"You were in those riots, Mr. Donovan?"
+99,undefined,undefined,dialogue,Mr. Donovan,Do I look like some anarchist hippie to you?
+100,undefined,undefined,dialogue,Mr. Donovan,"Ten years ago, I tried to start a silicone business."
+101,undefined,undefined,dialogue,Mr. Donovan,"So, I was in Hong Kong talking with some investors when those damned riots broke out."
+102,undefined,undefined,dialogue,Mr. Donovan,"Seriously, though. Did they really think the laws they were trying to pass wouldn't backfire?"
+103,undefined,undefined,dialogue,Mr. Donovan,They were openly trying to segregate people with augmentations!
+104,undefined,undefined,dialogue,Mr. Donovan,"No matter how many ""They have different capabilities"" you put in-between, it's still segregation."
+105,undefined,undefined,dialogue,Mr. Donovan,"And once people start crying ""Segregation!"" like that you're doomed."
+106,undefined,undefined,dialogue,Mr. Donovan,"This is the PR century! If you're gonna do that, disguise it a bit."
+107,undefined,undefined,dialogue,Jill,That's a... very laconic way of summarizing the incident.
+108,undefined,undefined,dialogue,Jill,"I mean, there was a political agenda revolving around cheap labour."
+109,undefined,undefined,dialogue,Jill,And the plan reached such a developed stage because the media was instilling fear in the public.
+110,undefined,undefined,dialogue,Jill,The general fear that augmented people would become power-hungry maniacs was a key factor in the plans.
+111,undefined,undefined,dialogue,Jill,And everything is mostly the aftermath of previous protests where-...
+112,undefined,undefined,dialogue,Jill,...
+113,undefined,undefined,dialogue,Jill,"On second thought, maybe it's better to be laconic."
+114,undefined,undefined,dialogue,Jill,Trying to get the full picture might take you back beyond the industrial revolution.
+115,undefined,undefined,dialogue,Jill,All that happened when I got out of high school.
+116,undefined,undefined,dialogue,Jill,I remember I had to turn down a scholarship in Hong Kong because of all that.
+117,undefined,undefined,dialogue,Mr. Donovan,"Heh, scholarship. That's no mean feat, brat."
+118,undefined,undefined,dialogue,Jill,"Well, I guess even without the scholarship, there would have been the language barrier."
+119,undefined,undefined,dialogue,Jill,I remember I was kinda excited back then because I was really into this one Chinese idol band.
+120,undefined,undefined,dialogue,Jill,It's... one of those things I'd rather not remember much of.
+121,undefined,undefined,dialogue,Mr. Donovan,You'd be surprised at how easy Chinese can be.
+122,undefined,undefined,dialogue,Jill,So you know how to speak Chinese?
+123,undefined,undefined,dialogue,Mr. Donovan,The only translator I had available was some pizza-faced pencilneck.
+124,undefined,undefined,dialogue,Mr. Donovan,And I wasn't gonna allow myself to be seen with THAT.
+125,undefined,undefined,dialogue,Mr. Donovan,"If someone like me can learn Chinese in two weeks, well..."
+126,undefined,undefined,dialogue,Mr. Donovan,I'm guessing a scholarship student might have a chance.
+127,undefined,undefined,dialogue,Jill,(Why do I feel like he suddenly challenged me to finally learn Chinese?)
+128,undefined,undefined,dialogue,Jill,(Chinese?)
+129,undefined,undefined,dialogue,Jill,"Wait... when you say ""Chinese"", do you mean Mandarin or Cantonese?"
+130,undefined,undefined,dialogue,Mr. Donovan,Tangerine? Cantowhat?
+131,undefined,undefined,dialogue,Jill,"When people say ""Chinese,"" they're usually referring to the written word. Not the spoken one."
+132,undefined,undefined,dialogue,Jill,It's important to clarify because there are lots of dialects in the Chinese language.
+133,undefined,undefined,dialogue,Jill,"In Hong Kong, lots of people speak Cantonese, so just saying ""Chinese"" won't do."
+134,undefined,undefined,dialogue,Jill,You might've learned Cantonese because you were only going to Hong Kong.
+135,undefined,undefined,dialogue,Jill,Or you might've learned Mandarin because it's the one spoken by the majority elsewhere...
+136,undefined,undefined,dialogue,Mr. Donovan,I went to Hong Kong and managed to seal a deal. I have no idea about anything else.
+137,undefined,undefined,dialogue,Jill,R-Right...
+138,undefined,undefined,dialogue,Mr. Donovan,"Anyways, surely a student with a scholarship can serve me a Marsblast too, right?"
+139,undefined,undefined,dialogue,Jill,...
+140,undefined,undefined,dialogue,Jill,"*ahem* S-Sure, on it."
+141,undefined,undefined,dialogue,Jill,Here.
+142,undefined,undefined,dialogue,Mr. Donovan,Alright. I guess I'll believe your story.
+143,undefined,undefined,dialogue,Jill,(Right...)
+144,undefined,undefined,dialogue,Jill,Here you go.
+145,undefined,undefined,dialogue,Mr. Donovan,This is good! But wrong. Like having sex with your business partner's wife.
+146,undefined,undefined,dialogue,Jill,Right...
+147,undefined,undefined,dialogue,Jill,Here.
+148,undefined,undefined,dialogue,Mr. Donovan,"Suuuuuuuuure, a scholarship. Hong Kong must have very low standards."
+149,undefined,undefined,dialogue,Jill,...
+150,undefined,undefined,dialogue,Mr. Donovan,"Hey kid, I got wasted yesterday, so there's certain protocol here."
+151,undefined,undefined,dialogue,Mr. Donovan,Would you mind telling me if I said anything someone could use against me in a court of law?
+152,undefined,undefined,dialogue,Jill,"Unless complaining about your investors can be used as a legal weapon, I don't think so."
+153,undefined,undefined,dialogue,Mr. Donovan,"Oh, good. Fuck those sons of bitches."
+154,undefined,undefined,dialogue,Mr. Donovan,What did I tell you?
+155,undefined,undefined,dialogue,Jill,"How they wanted unreasonable stuff, how they feel like they have more power than you do, and all that."
+156,undefined,undefined,dialogue,Mr. Donovan,"Oh yeah, I recall something like that. But then again, it seems to be something I say a lot when drunk."
+157,undefined,undefined,dialogue,Mr. Donovan,That and racial slurs in German.
+158,undefined,undefined,dialogue,Jill,(Racial slurs in... what?)
+159,undefined,undefined,dialogue,Mr. Donovan,But let me tell you something. There are people worse than your investors.
+160,undefined,undefined,dialogue,Jill,Who?
+161,undefined,undefined,dialogue,Mr. Donovan,Your clients.
+162,undefined,undefined,dialogue,Jill,E-Excuse me?
+163,undefined,undefined,dialogue,Mr. Donovan,"Your readers! If you think clients are always right then you're wrong -- unless I'm the client, that is."
+164,undefined,undefined,dialogue,Mr. Donovan,We live in an era where PR is the first and only word in anything.
+165,undefined,undefined,dialogue,Mr. Donovan,You can sell the shittiest of stuff and people will buy it if you're the apple of their eyes.
+166,undefined,undefined,dialogue,Mr. Donovan,But make one fucking mistake and it's OVER for you. You're suddenly a criminal to them.
+167,undefined,undefined,dialogue,Mr. Donovan,No chance of appeal. Gods forbid if they ever catch something you said out of context.
+168,undefined,undefined,dialogue,Mr. Donovan,"A month ago, we had to clarify that we were talking about the animal in an article about ""cougars in nearby forests."""
+169,undefined,undefined,dialogue,Mr. Donovan,All because we got a pack of forty-year-old divorced soccer moms crying about hurt feelings.
+170,undefined,undefined,dialogue,Mr. Donovan,They were having picnic parties in the same forests and thought we were writing about them.
+171,undefined,undefined,dialogue,Mr. Donovan,God! I hope at least one of them gets eaten by their damned namesake.
+172,undefined,undefined,dialogue,Jill,Pfft...
+173,undefined,undefined,dialogue,Mr. Donovan,"Yeah, it's funny when somebody else hears it, but the smell of rosy perfume still makes my blood boil."
+174,undefined,undefined,dialogue,Mr. Donovan,"Nowadays, nobody can take a joke. They're always out for blood."
+175,undefined,undefined,dialogue,Mr. Donovan,You can't win. You will ALWAYS offend somebody.
+176,undefined,undefined,dialogue,Mr. Donovan,"And while some take it graciously, many just LOVE feeling insulted."
+177,undefined,undefined,dialogue,Mr. Donovan,They RELISH the thought of ganging up against something.
+178,undefined,undefined,dialogue,Mr. Donovan,And those hypersensitive bastards are your clients - they're the ones you have to target.
+179,undefined,undefined,dialogue,Mr. Donovan,I run a goddamn newspaper! The whole point is to present news in the most neutral way possible!
+180,undefined,undefined,dialogue,Mr. Donovan,Being offended by a newspaper is like being angry at the mirror.
+181,undefined,undefined,dialogue,Jill,(Sure... let's go with that.)
+182,undefined,undefined,dialogue,Jill,"(I mean, it's not like he's totally wrong, but...)"
+183,undefined,undefined,dialogue,Jill,(Hearing it from him is kinda...)
+184,undefined,undefined,dialogue,Jill,"So, I'm a bit interested in this interview you had. Can you tell me anything about it?"
+185,undefined,undefined,dialogue,Mr. Donovan,"You don't run any blogs, right? No microphones hiding between your boobs?"
+186,undefined,undefined,dialogue,Mr. Donovan,...do you have boobs at all?
+187,undefined,undefined,dialogue,Jill,...*cough*
+188,undefined,undefined,dialogue,Jill,"There's this one blog I wrote when I was 12. But it just fills me with shame, so I try to forget it exists."
+189,undefined,undefined,dialogue,Mr. Donovan,Okay then.
+190,undefined,undefined,dialogue,Mr. Donovan,It started with the same boring questions.
+191,undefined,undefined,dialogue,Mr. Donovan,"How are you, why choose this place, how's the city, the tour, new single, blah blah blah..."
+192,undefined,undefined,dialogue,Mr. Donovan,"It went by very quickly. It was the ""Regular Interview Stencil,"" as we call it in the business."
+193,undefined,undefined,dialogue,Mr. Donovan,So I tried some fun questions afterwards.
+194,undefined,undefined,dialogue,Mr. Donovan,"""How big are your tits? Is it true that you don't wear underwear on stage? Are you still a virgin?"""
+195,undefined,undefined,dialogue,Jill,...
+196,undefined,undefined,dialogue,Jill,How did she react?
+197,undefined,undefined,dialogue,Mr. Donovan,She answered them like it was the most natural thing on earth!
+198,undefined,undefined,dialogue,Mr. Donovan,I don't think I wanna know what kind of questions other people have asked.
+199,undefined,undefined,dialogue,Mr. Donovan,"I did it to get a reaction out of her, but she just took it in her stride."
+200,undefined,undefined,dialogue,Jill,Huh...
+201,undefined,undefined,dialogue,Mr. Donovan,"In case you were interested, the answers were: 91 centimeters, depends on the costume, and no."
+202,undefined,undefined,dialogue,Jill,I see.
+203,undefined,undefined,dialogue,Mr. Donovan,Her room backstage was filled to the brim with gifts of all sorts.
+204,undefined,undefined,dialogue,Mr. Donovan,"Dolls, blue roses, chocolates, fruit. I'm pretty sure I saw at least three dildos in there too."
+205,undefined,undefined,dialogue,Jill,...
+206,undefined,undefined,dialogue,Jill,"Thanks for the info, I guess."
+207,undefined,undefined,dialogue,Jill,"Perhaps too much info, but thanks anyways."
+208,undefined,undefined,dialogue,Mr. Donovan,You're lucky I'm in a good mood.
+209,undefined,undefined,dialogue,Mr. Donovan,"Damn, look at the time, I need to get back to work soon."
+210,undefined,undefined,dialogue,Jill,Really?
+211,undefined,undefined,dialogue,Mr. Donovan,I just finished an interview and it must be posted as soon as possible.
+212,undefined,undefined,dialogue,Mr. Donovan,The fact that we're posting it AFTER the chick finished her concert is enough of a problem already.
+213,undefined,undefined,dialogue,Jill,Something delayed the interview?
+214,undefined,undefined,dialogue,Mr. Donovan,The interview was supposed to happen last Friday!
+215,undefined,undefined,dialogue,Mr. Donovan,"One of the interns -- this meek little girl -- was supposed to do it, but for some fucking reason, she just didn't."
+216,undefined,undefined,dialogue,Mr. Donovan,I spent two days negotiating something else instead.
+217,undefined,undefined,dialogue,Jill,"""Negotiating""... did you have to pay or something?"
+218,undefined,undefined,dialogue,Mr. Donovan,"Basically, when that encore concert happens, I need to plaster that chick's face all over the front page."
+219,undefined,undefined,dialogue,Jill,I see...
+220,undefined,undefined,dialogue,Mr. Donovan,Okay then. One last drink before I leave.
+221,undefined,undefined,dialogue,Mr. Donovan,Give me something bitter to wake me up.
+222,undefined,undefined,dialogue,Jill,Sure.
+223,undefined,undefined,dialogue,Jill,Here.
+224,undefined,undefined,dialogue,Mr. Donovan,"Yeah, this works just fine."
+225,undefined,undefined,dialogue,Jill,Is this fine?
+226,undefined,undefined,dialogue,Mr. Donovan,"No, I'm gonna doze off with this shit, kid."
+227,undefined,undefined,dialogue,Mr. Donovan,"You know, I feel like I should compensate the poor bastard that took the heat today."
+228,undefined,undefined,dialogue,Jill,Oh?
+229,undefined,undefined,dialogue,Mr. Donovan,"Yeah. That kid, Joel... Jean... Guillermo... Hirohito... I can't remember his name."
+230,undefined,undefined,dialogue,Mr. Donovan,That kid is always gushing about that idol I interviewed.
+231,undefined,undefined,dialogue,Mr. Donovan,"I can't remember anyone for shit, but he's annoying enough to make me remember him."
+232,undefined,undefined,dialogue,Mr. Donovan,"So, I dunno. I feel like I cockblocked 'im big time today by taking his gig away."
+233,undefined,undefined,dialogue,Mr. Donovan,"Worst of all, I left him to fend off a pack of crazy bitches."
+234,undefined,undefined,dialogue,Mr. Donovan,"And that's something I wouldn't wish on anyone, not even my worst enemies... well... maybe two of 'em."
+235,undefined,undefined,dialogue,Jill,You're sounding so considerate right now.
+236,undefined,undefined,dialogue,Mr. Donovan,"I'm no saint, kid, but I'm a man."
+237,undefined,undefined,dialogue,Mr. Donovan,And a man must never cockblock another man unless he's trying to fuck your mom.
+238,undefined,undefined,dialogue,Jill,What if it's your dad?
+239,undefined,undefined,dialogue,Mr. Donovan,Did. I. Stutter?
+240,undefined,undefined,dialogue,Jill,...
+241,undefined,undefined,dialogue,Jill,Maybe you can get him tickets or something.
+242,undefined,undefined,dialogue,Mr. Donovan,"Nah, see. That'd mean he'd be off work. And I need him to be at my beck and call tonight."
+243,undefined,undefined,dialogue,Mr. Donovan,"I've seen that brat talk to no end about her, so..."
+244,undefined,undefined,dialogue,Mr. Donovan,I know! I'll let him write about her somewhere else in the newspaper.
+245,undefined,undefined,dialogue,Mr. Donovan,Give him the Food Critic's column. It's shit anyways.
+246,undefined,undefined,dialogue,Mr. Donovan,Heheh... I'm so fucking nice.
+247,undefined,undefined,dialogue,Mr. Donovan,"I'm out, kid."
+248,undefined,undefined,dialogue,Jill,"Thank you, please come again."
+249,undefined,undefined,dialogue,Jill,"(That'd be something interesting to see, I guess.)"
+250,undefined,undefined,dialogue,Mr. Donovan,"Man, that gal's producer was angry as fuck. Trying to negotiate with him was a hassle."
+251,undefined,undefined,dialogue,Mr. Donovan,I've had less problems dealing with SoCal Justice Warriors.
+252,undefined,undefined,dialogue,Jill,Who?
+253,undefined,undefined,dialogue,Mr. Donovan,"SoCal Justice Warriors, that mafia/vigilante group that runs around solving crimes in swimsuits."
+254,undefined,undefined,dialogue,Jill,"Oh yeah, those artificially blond, artificially tanned folks with big blunt objects. Yeah."
+255,undefined,undefined,dialogue,Mr. Donovan,"They're an interesting group, you know?"
+256,undefined,undefined,dialogue,Mr. Donovan,They only accept people born or raised in South California and go through hellish training on a daily basis.
+257,undefined,undefined,dialogue,Jill,They have to. No normal person can run around in swimsuits in this cold weather.
+258,undefined,undefined,dialogue,Mr. Donovan,"They have an interesting view on the world and how it works, but they're pretty sensitive too."
+259,undefined,undefined,dialogue,Mr. Donovan,"Too many outlets have insulted them in the past, so they are trigger-happy against defamation."
+260,undefined,undefined,dialogue,Mr. Donovan,I've had a dozen guys in speedos talking to me about some news while flaunting their bags of batteries.
+261,undefined,undefined,dialogue,Mr. Donovan,And they were still more polite than that producer guy.
+262,undefined,undefined,dialogue,Mr. Donovan,Think about it. Watching a banana hammock move at the same time as a bag of batteries was more pleasant.
+263,undefined,undefined,dialogue,Jill,"I'm pretty sure there's a ""banana hammocks and bags of batteries"" audience somewhere, though."
+264,undefined,undefined,dialogue,Mr. Donovan,"Well, I'm out."
+265,undefined,undefined,dialogue,Jill,"Thank you, please come again."
+266,undefined,undefined,dialogue,Mr. Donovan,"Yeah, yeah..."
+267,undefined,undefined,dialogue,Jill,That was... um... tiring.
+268,undefined,undefined,dialogue,Dana,"Hey Jill, I think I have a problem."
+269,undefined,undefined,dialogue,Jill,...don't tell me.
+270,undefined,undefined,dialogue,Dana,Yup. I can't take the helmet off.
+271,undefined,undefined,dialogue,Gillian,AHAHAHAHAHAHAHAHAHAHAHAHAHAHA!!
+272,undefined,undefined,dialogue,Dana,"Yeah, yeah. Very funny."
+273,undefined,undefined,dialogue,Jill,Did you check the internet for help?
+274,undefined,undefined,dialogue,Dana,"""How to take off a Valkyrie-type White Knight Helmet"" is not precisely a common query, you know?"
+275,undefined,undefined,dialogue,Dana,"I could break it, but I don't wanna damage a client's propert-..."
+276,undefined,undefined,dialogue,Dana,...
+277,undefined,undefined,dialogue,Jill,W-What? Did you run out of air?!
+278,undefined,undefined,dialogue,Dana,I just realized you served a Valkyrie in Valhalla.
+279,undefined,undefined,dialogue,Gillian,HAAAAAHAHAHAHAHAHAHAHAHAHAHAHAHA!!!
+280,undefined,undefined,dialogue,Jill,Shit... d-don't scare me like that.
+281,undefined,undefined,dialogue,Dana,I don't think you can run out of air with this helmet.
+282,undefined,undefined,dialogue,Jill,What are you gonna do?
+283,undefined,undefined,dialogue,Dana,I know someone that might help me. I'll give her a call.
+284,undefined,undefined,dialogue,Dana,Let's see... where was her number... oh! Here it is.
+285,undefined,undefined,dialogue,Dana,"Hey, Iris! I need some unclogging advice."
+286,undefined,undefined,dialogue,Jill,Iris?
+287,undefined,undefined,dialogue,Gillian,I've heard Chief call her a couple of times. Maybe she's a friend?
+288,undefined,undefined,dialogue,Gillian,"More importantly, will Chief be fine?"
+289,undefined,undefined,dialogue,Jill,"She will. Even if there's no God or Buddha, you can always trust Boss."
+290,undefined,undefined,dialogue,Gillian,Yeah... let's hope you're right.
+291,undefined,undefined,dialogue,Dorothy,"Hey, honey! Can you see me?"
+292,undefined,undefined,dialogue,Jill,"Ah, Dorothy."
+293,undefined,undefined,dialogue,Jill,"Yeah, I can see you. Why?"
+294,undefined,undefined,dialogue,Dorothy,Really? Man! Did they sell me the wrong stuff?
+295,undefined,undefined,dialogue,Jill,Who sold you what?
+296,undefined,undefined,dialogue,Dana,"Jill, I'm going out for a bit to buy a screwdriver and bacon and..."
+297,undefined,undefined,dialogue,Dana,...are you talking to yourself again?
+298,undefined,undefined,dialogue,Jill,"No, I'm not."
+299,undefined,undefined,dialogue,Dorothy,Hello!
+300,undefined,undefined,dialogue,Dana,"Oh, hello Dorothy... wherever you are."
+301,undefined,undefined,dialogue,Dana,I'll be back in a bit then.
+302,undefined,undefined,dialogue,Jill,She didn't see you?
+303,undefined,undefined,dialogue,Dorothy,Oh! I get it now.
+304,undefined,undefined,dialogue,Dorothy,They sold me a VIC Jammer. Not an optic camouflage system.
+305,undefined,undefined,dialogue,Jill,Um... care to explain?
+306,undefined,undefined,dialogue,Dorothy,Have you seen those pics or videos of someone stripping or undressing?
+307,undefined,undefined,dialogue,Dorothy,But I mean the ones where the clothes are the only thing you see and the other person is invisible.
+308,undefined,undefined,dialogue,Jill,...come again?
+309,undefined,undefined,dialogue,Dorothy,There's people out there with a fetish for invisible people.
+310,undefined,undefined,dialogue,Dorothy,Where you can only see a few articles of clothes floating about.
+311,undefined,undefined,dialogue,Dorothy,"I was trying to find something that would let me cater to that fetish, but my contact misunderstood my request."
+312,undefined,undefined,dialogue,Dorothy,I asked him to bring me something that'd make me invisible. And he did.
+313,undefined,undefined,dialogue,Dorothy,But I'm only invisible to cameras.
+314,undefined,undefined,dialogue,Jill,...
+315,undefined,undefined,dialogue,Jill,"Even then, wouldn't your clothes be invisible too with such a jammer or something?"
+316,undefined,undefined,dialogue,Dorothy,Hm... you have a point.
+317,undefined,undefined,dialogue,Dorothy,Oh well. I'll work something out. Maybe I'll get a Nanocamo module.
+318,undefined,undefined,dialogue,Jill,Nanocamo?
+319,undefined,undefined,dialogue,Dorothy,Haven't you heard of Nanocamo?
+320,undefined,undefined,dialogue,Dorothy,They're a military technology company that recently branched to civilian appliances.
+321,undefined,undefined,dialogue,Dorothy,They use nanotechnology to make fabric or other materials take any color or texture you want.
+322,undefined,undefined,dialogue,Dorothy,"You can order a module from them and change the colors of clothes, walls or tables with it!"
+323,undefined,undefined,dialogue,Jill,Hm... sounds interesting. Maybe I'll look it up.
+324,undefined,undefined,dialogue,Jill,What does that have to do with what you want though?
+325,undefined,undefined,dialogue,Dorothy,"If I remember correctly, they have a module that makes things almost invisible to the human eye."
+326,undefined,undefined,dialogue,Dorothy,It was quite pricey last I checked though.
+327,undefined,undefined,dialogue,Jill,"""Almost""? ""To the human eye""?"
+328,undefined,undefined,dialogue,Dorothy,"Well, it's not perfect, if you move you'd be an eerie, surroundings-colored blob."
+329,undefined,undefined,dialogue,Dorothy,"And we Lilim see things differently, so it's ineffective against us."
+330,undefined,undefined,dialogue,Dorothy,"Still, it might be what I need..."
+331,undefined,undefined,dialogue,Dorothy,"Now, what was that about talking to yourself ""again""?"
+332,undefined,undefined,dialogue,Jill,...
+333,undefined,undefined,dialogue,Jill,Nothing important.
+334,undefined,undefined,dialogue,Jill,What are you having?
+335,undefined,undefined,dialogue,Dorothy,"I'm in a good mood, so give me a Piano Woman."
+336,undefined,undefined,dialogue,Jill,Sure.
+337,undefined,undefined,dialogue,Jill,One Piano Woman.
+338,undefined,undefined,dialogue,Dorothy,"Thanks! I love these ones, you know?"
+339,undefined,undefined,dialogue,Dorothy,I keep them for special occasions - whenever I'm feeling good or when I need to get out of a slump.
+340,undefined,undefined,dialogue,Jill,And today?
+341,undefined,undefined,dialogue,Dorothy,Today I feel good.
+342,undefined,undefined,dialogue,Jill,That's nice.
+343,undefined,undefined,dialogue,Jill,Here.
+344,undefined,undefined,dialogue,Dorothy,Hm...
+345,undefined,undefined,dialogue,Dorothy,"As much as I enjoy the company of men, this isn't my kind of drink."
+346,undefined,undefined,dialogue,Dorothy,I don't like drinks that aren't sweet.
+347,undefined,undefined,dialogue,Dorothy,I deal with enough bitterness at work.
+348,undefined,undefined,dialogue,Jill,I'll keep it in mind.
+349,undefined,undefined,dialogue,Jill,"(What does she mean by bitter-... wait, no. Don't wanna know.)"
+350,undefined,undefined,dialogue,Jill,Here...
+351,undefined,undefined,dialogue,Dorothy,Hm...
+352,undefined,undefined,dialogue,Jill,...?
+353,undefined,undefined,dialogue,Dorothy,Hmhmhm...
+354,undefined,undefined,dialogue,Dorothy,"Wrong drink, but I can't say no to one of these. Lucky you."
+355,undefined,undefined,dialogue,Jill,...
+356,undefined,undefined,dialogue,Jill,Here.
+357,undefined,undefined,dialogue,Dorothy,Buzz! Wrong!
+358,undefined,undefined,dialogue,Dorothy,Don't worry. I still love you.
+359,undefined,undefined,dialogue,Jill,That's... nice to know.
+360,undefined,undefined,dialogue,Dorothy,"Okay, then. How's this for a bonus payment?"
+361,undefined,undefined,dialogue,Jill,Oh... the ticket from Friday.
+362,undefined,undefined,dialogue,Jill,(Can't believe I still remember that.)
+363,undefined,undefined,dialogue,Dorothy,That guy was so nice in giving it to me.
+364,undefined,undefined,dialogue,Dorothy,...too bad it was filled to the brim with dogs. I would've enjoyed the drink here otherwise.
+365,undefined,undefined,dialogue,Jill,(I don't think this ticket should be valid...)
+366,undefined,undefined,dialogue,Jill,"(...but then again, they were improvised, so there isn't really a contract involved or anything.)"
+367,undefined,undefined,dialogue,Dorothy,You know...
+368,undefined,undefined,dialogue,Jill,Hm?
+369,undefined,undefined,dialogue,Dorothy,"If you're lonely enough to start talking to yourself, we could hit an arrangement."
+370,undefined,undefined,dialogue,Dorothy,Keep me fed and I'll keep you company.
+371,undefined,undefined,dialogue,Dorothy,"You'll still need to pay if you want to get naughty, though."
+372,undefined,undefined,dialogue,Jill,I think I'll pass. I already have a cat that does all that.
+373,undefined,undefined,dialogue,Dorothy,Do you pay him to-...
+374,undefined,undefined,dialogue,Jill,Finish that sentence and I'll make sure you truly become invisible.
+375,undefined,undefined,dialogue,Dorothy,"Fiiiiiiiiiiiiiiiine. Consider this a standing offer, though."
+376,undefined,undefined,dialogue,Dorothy,Oh! Hey John!
+377,undefined,undefined,dialogue,Gillian,"Ah, Dorothy."
+378,undefined,undefined,dialogue,Dorothy,Didn't see you here last Friday.
+379,undefined,undefined,dialogue,Gillian,I was... dealing with some stuff over the weekend.
+380,undefined,undefined,dialogue,Jill,AND Monday.
+381,undefined,undefined,dialogue,Gillian,"Yeah, yeah..."
+382,undefined,undefined,dialogue,Dorothy,Was it a girl?
+383,undefined,undefined,dialogue,Gillian,I wish...
+384,undefined,undefined,dialogue,Dorothy,What did you do? What did you do?
+385,undefined,undefined,dialogue,Gillian,I'd rather not talk about it.
+386,undefined,undefined,dialogue,Dorothy,"Hey honey, what did he do?"
+387,undefined,undefined,dialogue,Jill,Gil's been a complete mystery for as long as I've known him.
+388,undefined,undefined,dialogue,Jill,His past is like a nebulous mass that tries to bite him every once in a while.
+389,undefined,undefined,dialogue,Dorothy,Nebulous?
+390,undefined,undefined,dialogue,Jill,You hear so much random stuff it's hard to make connections about what happened when.
+391,undefined,undefined,dialogue,Jill,"And, you know, people lie."
+392,undefined,undefined,dialogue,Dorothy,Does your boss know about it?
+393,undefined,undefined,dialogue,Jill,"She said ""I'm not one to judge"". Seems like she knows what the hell's going on."
+394,undefined,undefined,dialogue,Jill,But I think I'm better off not knowing. It's not really that necessary and it's a pain to think about.
+395,undefined,undefined,dialogue,Gillian,"I'm... right here, you know?"
+396,undefined,undefined,dialogue,Jill,Did I tell any lies?
+397,undefined,undefined,dialogue,Gillian,"No, but..."
+398,undefined,undefined,dialogue,Gillian,...nevermind.
+399,undefined,undefined,dialogue,Dorothy,Oh yeah. About your boss. Why was she wearing a helmet?
+400,undefined,undefined,dialogue,Jill,"She found it. She put it on. Now, she's stuck."
+401,undefined,undefined,dialogue,Dorothy,"Oh. Yeah, randomly putting on stuff you find is problematic."
+402,undefined,undefined,dialogue,Jill,No shit.
+403,undefined,undefined,dialogue,Dorothy,"I mean, there's this girl that wanted to see if she could use a glass bottle as a-..."
+404,undefined,undefined,dialogue,Jill,"*ahem* A bit early for those stories, don't you think?"
+405,undefined,undefined,dialogue,Dorothy,Nope.
+406,undefined,undefined,dialogue,Jill,"By the way, it's weird that I didn't see you yesterday."
+407,undefined,undefined,dialogue,Dorothy,"I have a job too, you know?"
+408,undefined,undefined,dialogue,Jill,"Yeah, but you usually come before you start."
+409,undefined,undefined,dialogue,Dorothy,Aww... did you miss me that much?
+410,undefined,undefined,dialogue,Dorothy,Yesterday was a bit different. I worked the entire day.
+411,undefined,undefined,dialogue,Jill,I don't know if I should ask.
+412,undefined,undefined,dialogue,Dorothy,"Oh, it was weird, but not... kinky weird?"
+413,undefined,undefined,dialogue,Dorothy,The guy paid me to spend ALL DAY pretending to be his daughter.
+414,undefined,undefined,dialogue,Jill,Really?
+415,undefined,undefined,dialogue,Dorothy,"Yeah, I go to his house at 11 a.m, dress as requested and spend all day there."
+416,undefined,undefined,dialogue,Dorothy,"Play some games, occasionally tell him I love him, go to bed when ordered, and leave."
+417,undefined,undefined,dialogue,Dorothy,Nothing sexual. I used to expect him to push me against the ground and have his way with me.
+418,undefined,undefined,dialogue,Dorothy,"But after three years, it's unlikely that'll happen."
+419,undefined,undefined,dialogue,Jill,Three years?
+420,undefined,undefined,dialogue,Dorothy,Yeah. One day a year for three years now.
+421,undefined,undefined,dialogue,Dorothy,"Oh, but last year he also wanted me to play the part on his daughter's birthday."
+422,undefined,undefined,dialogue,Jill,Wait a second... does he have a daughter or not?
+423,undefined,undefined,dialogue,Dorothy,Had. Seems she died four years ago.
+424,undefined,undefined,dialogue,Jill,Oh...
+425,undefined,undefined,dialogue,Dorothy,Yup. I seem to attract that kind of people for some reason.
+426,undefined,undefined,dialogue,Jill,What kind of people?
+427,undefined,undefined,dialogue,Dorothy,Nobody. I said nothing.
+428,undefined,undefined,dialogue,Dorothy,"Gimme a Moonblast, would you?"
+429,undefined,undefined,dialogue,Jill,Sure.
+430,undefined,undefined,dialogue,Jill,Here.
+431,undefined,undefined,dialogue,Dorothy,There's something interesting about this drink.
+432,undefined,undefined,dialogue,Dorothy,"I don't actually like it, but I can't stop drinking them."
+433,undefined,undefined,dialogue,Jill,It tastes like a bit of sugar drowned in pure alcohol. Small wonder you feel like that.
+434,undefined,undefined,dialogue,Jill,Here.
+435,undefined,undefined,dialogue,Dorothy,"Alright, I'll take your offer this time."
+436,undefined,undefined,dialogue,Dorothy,I'll let you know I don't do this with everyone.
+437,undefined,undefined,dialogue,Jill,Right...
+438,undefined,undefined,dialogue,Jill,Here yo-...
+439,undefined,undefined,dialogue,Dorothy,And you're WRONG.
+440,undefined,undefined,dialogue,Dorothy,"If I remember correctly, you have a recipe book. Mind using it?"
+441,undefined,undefined,dialogue,Jill,...
+442,undefined,undefined,dialogue,Jill,"Hey, did you see something about a concert outside?"
+443,undefined,undefined,dialogue,Dorothy,A concert?
+444,undefined,undefined,dialogue,Dorothy,"Yeah. Now that you mention it, I remember seeing a line near the stadium a couple of blocks away."
+445,undefined,undefined,dialogue,Dorothy,"They couldn't take their eyes off of me, so I took some photos with them."
+446,undefined,undefined,dialogue,Jill,Oh.
+447,undefined,undefined,dialogue,Dorothy,Why do you ask?
+448,undefined,undefined,dialogue,Jill,Someone was here just a minute ago. Seems he was interviewing the star of the show.
+449,undefined,undefined,dialogue,Dorothy,Really? What kind of person is this star?
+450,undefined,undefined,dialogue,Jill,Some girl. He didn't tell me her name.
+451,undefined,undefined,dialogue,Jill,Seems she's a King-Class CH1A.
+452,undefined,undefined,dialogue,Dorothy,Oh...
+453,undefined,undefined,dialogue,Jill,What's with that reaction?
+454,undefined,undefined,dialogue,Dorothy,"Nothing, it's just that the CH1A is the model that comes after mine."
+455,undefined,undefined,dialogue,Jill,Really?
+456,undefined,undefined,dialogue,Dorothy,"Yeah, they think they're so important because they have more sensitivity points in their skins."
+457,undefined,undefined,dialogue,Dorothy,And because their voice modulators are more advanced.
+458,undefined,undefined,dialogue,Jill,They do?
+459,undefined,undefined,dialogue,Dorothy,"...n-no, I'm just kinda jealous that they do."
+460,undefined,undefined,dialogue,Dorothy,"I had to mod myself to have what they have from the get-go, you know?"
+461,undefined,undefined,dialogue,Jill,"Wait, they don't make DFC-72s like you anymore?"
+462,undefined,undefined,dialogue,Dorothy,"My line is quite alive and well, thank you very much."
+463,undefined,undefined,dialogue,Dorothy,The difference with the CH1A is mostly that they sacrifice functionality for appearance.
+464,undefined,undefined,dialogue,Dorothy,They don't have an expansion port in their heads and their senses and abilities are more akin to those of humans.
+465,undefined,undefined,dialogue,Dorothy,"They're mostly for human stand-ins, while my line is slightly more work-oriented."
+466,undefined,undefined,dialogue,Jill,"Huh, I see."
+467,undefined,undefined,dialogue,Dorothy,"Oh yeah, I think I saw the concert poster outside the bar."
+468,undefined,undefined,dialogue,Jill,Poster...?
+469,undefined,undefined,dialogue,Dorothy,"You work here, you should know which one!"
+470,undefined,undefined,dialogue,Jill,I... kinda forget things on that entryway from time to time. All because of Didi and Gogo.
+471,undefined,undefined,dialogue,Dorothy,Who?
+472,undefined,undefined,dialogue,Jill,The vending machines outside. They blabber so much I've learned to ignore anything on the door.
+473,undefined,undefined,dialogue,Dorothy,Oh! And here I was wondering why their volumes were reduced so much.
+474,undefined,undefined,dialogue,Jill,"They're interesting to talk with, they just talk... so... much."
+475,undefined,undefined,dialogue,Jill,You can actually get physically sick from listening to them for too long.
+476,undefined,undefined,dialogue,Jill,There's something I've been meaning to ask you...
+477,undefined,undefined,dialogue,Dorothy,"Yes, I'm single and I don't mind that you're a girl."
+478,undefined,undefined,dialogue,Jill,Do you actually mind what anyone is?
+479,undefined,undefined,dialogue,Dorothy,Not at all.
+480,undefined,undefined,dialogue,Jill,"Anyway, it's not about that..."
+481,undefined,undefined,dialogue,Jill,Do all DFC-72s look like kids?
+482,undefined,undefined,dialogue,Dorothy,Yes and no.
+483,undefined,undefined,dialogue,Dorothy,"Out of factory, we look like kids because our development needs to be as close to human as possible."
+484,undefined,undefined,dialogue,Jill,Then you look like babies outside the factory?
+485,undefined,undefined,dialogue,Dorothy,"Nope, every fresh DFC-72 looks about 10 to 13. It makes it easier to upgrade later."
+486,undefined,undefined,dialogue,Jill,Upgrade?
+487,undefined,undefined,dialogue,Dorothy,"Once a DFC-72 passes three ""maturity tests"" it can opt for a factory upgrade."
+488,undefined,undefined,dialogue,Dorothy,Said upgrade alters its body to something older.
+489,undefined,undefined,dialogue,Dorothy,"Some go for it, some don't."
+490,undefined,undefined,dialogue,Jill,Will you go through it?
+491,undefined,undefined,dialogue,Dorothy,"I don't know. Right now, I'm a rarity."
+492,undefined,undefined,dialogue,Dorothy,"You don't find many like me in my line of work, so I have an advantage."
+493,undefined,undefined,dialogue,Dorothy,"And I really need that advantage, you know?"
+494,undefined,undefined,dialogue,Jill,How so?
+495,undefined,undefined,dialogue,Dorothy,"When people hire me, half the time it's not because I'm me."
+496,undefined,undefined,dialogue,Dorothy,The amount of roleplaying I have to do on a normal night is ridiculous.
+497,undefined,undefined,dialogue,Dorothy,"So, if I stop looking underaged, I'll lose my advantage over everyone else."
+498,undefined,undefined,dialogue,Jill,I didn't think about it that way.
+499,undefined,undefined,dialogue,Jill,(Should I think about it at all?)
+500,undefined,undefined,dialogue,Dorothy,"I mean, maybe I'll go through with it if I ever decide to retire or something."
+501,undefined,undefined,dialogue,Dorothy,But right now I'm just fine the way I am!
+502,undefined,undefined,dialogue,Jill,I see.
+503,undefined,undefined,dialogue,Jamie,Good evening Gil.
+504,undefined,undefined,dialogue,Jill & Gillian,Welcome to...!
+505,undefined,undefined,dialogue,Jill & Gillian,...
+506,undefined,undefined,dialogue,Dorothy,Does that happen a lot?
+507,undefined,undefined,dialogue,Jill,Not really.
+508,undefined,undefined,dialogue,Gillian,It would happen less if Jill would just let people call her Jules.
+509,undefined,undefined,dialogue,Jill,"Call me Jules and I'll make sure every time you sit, you'll hear the *cling* of your shaker."
+510,undefined,undefined,dialogue,Gillian,"Fine, fine..."
+511,undefined,undefined,dialogue,Gillian,"I'll be with you in a minute, Jamie. Just let me finish here."
+512,undefined,undefined,dialogue,Jamie,"Sure, no hurry."
+513,undefined,undefined,dialogue,Dorothy,Hello sailor.
+514,undefined,undefined,dialogue,Jill,...
+515,undefined,undefined,dialogue,Jamie,"Hello, young lady."
+516,undefined,undefined,dialogue,Dorothy,"Just call me Dorothy. You're Jamie, right?"
+517,undefined,undefined,dialogue,Jamie,"Nice to meet you, Dorothy."
+518,undefined,undefined,dialogue,Dorothy,"Hey, hey! Let me buy you a drink!"
+519,undefined,undefined,dialogue,Jamie,"Oh, I couldn't let you do that..."
+520,undefined,undefined,dialogue,Dorothy,I insist! I got a hefty bonus the other day and today I'm in a good mood.
+521,undefined,undefined,dialogue,Jamie,I suppose it'd be impolite of me to reject...
+522,undefined,undefined,dialogue,Jamie,"Sure, I'll take your offer."
+523,undefined,undefined,dialogue,Dorothy,"Yay! Honey, I'll have a big Sunshine Cloud."
+524,undefined,undefined,dialogue,Jamie,I'll be fine with just a Gut Punch.
+525,undefined,undefined,dialogue,Dorothy,Come on! Don't be stingy! Ask for something more expensive!
+526,undefined,undefined,dialogue,Jamie,I'd rather not.
+527,undefined,undefined,dialogue,Jill,"(Man, that girl puts me on edge with the way she addresses people.)"
+528,undefined,undefined,dialogue,Jill,Okay then. Let me get your orders.
+529,undefined,undefined,dialogue,Jill,Here and here.
+530,undefined,undefined,dialogue,Dorothy,Thank you!
+531,undefined,undefined,dialogue,Jamie,"All in order. Thank you, Dorothy."
+532,undefined,undefined,dialogue,Dorothy,Don't mention it.
+533,undefined,undefined,dialogue,Jamie,And thank you Jill.
+534,undefined,undefined,dialogue,Jill,It's my job.
+535,undefined,undefined,dialogue,Jill,Here.
+536,undefined,undefined,dialogue,Dorothy,"Honey, you mixed these up. Even though they're technically right."
+537,undefined,undefined,dialogue,Dorothy,"Oh well, I'll give you an A for effort."
+538,undefined,undefined,dialogue,Jamie,"I feel bad about having the big drink. Do you want some, Dorothy?"
+539,undefined,undefined,dialogue,Dorothy,Nononononononono. Keep it for yourself.
+540,undefined,undefined,dialogue,Jill,Here you are.
+541,undefined,undefined,dialogue,Dorothy,Yay! Now we've matching drinks!
+542,undefined,undefined,dialogue,Jamie,"Seems so. Perhaps, it's nice to have a change."
+543,undefined,undefined,dialogue,Jill,Here you go.
+544,undefined,undefined,dialogue,Dorothy,"Honey, this is so not funny. I hate bitter drinks."
+545,undefined,undefined,dialogue,Dorothy,"Here, Jamie. Take mine."
+546,undefined,undefined,dialogue,Jamie,"You shouldn't be rude with your clients, Jill."
+547,undefined,undefined,dialogue,Jill,Y-Yeah...
+548,undefined,undefined,dialogue,Jill,Here you go.
+549,undefined,undefined,dialogue,Dorothy,"Is this your ""I don't know what I'm doing so have this"" order?"
+550,undefined,undefined,dialogue,Dorothy,I heard restaurants do that from time to time.
+551,undefined,undefined,dialogue,Jamie,You don't seem too upset about it.
+552,undefined,undefined,dialogue,Dorothy,Because I really like this one.
+553,undefined,undefined,dialogue,Dorothy,Jamie... Jamie... Jamie...
+554,undefined,undefined,dialogue,Jamie,Hm? You want to repeat that in front of a mirror?
+555,undefined,undefined,dialogue,Dorothy,"No, that doesn't cut it."
+556,undefined,undefined,dialogue,Dorothy,You don't have a Jamie face. You look more like an Adam or a Jack.
+557,undefined,undefined,dialogue,Dorothy,Just like how Fuckboy over there looks like a John to me.
+558,undefined,undefined,dialogue,Gillian,F-Fuckboy?
+559,undefined,undefined,dialogue,Dorothy,You also remind me of this one client I had a couple of years ago.
+560,undefined,undefined,dialogue,Dorothy,You have the same stern look to your face.
+561,undefined,undefined,dialogue,Dorothy,The guy made me dress in a school uniform with a training bra and some bunny panties.
+562,undefined,undefined,dialogue,Dorothy,"Then he asked me to stand near the bed and say ""What are we doing for homework today?"""
+563,undefined,undefined,dialogue,Dorothy,He jumped on top of me before I could even finish.
+564,undefined,undefined,dialogue,Dorothy,"Just... tore open the uniform's shirt, ripping the buttons in the process."
+565,undefined,undefined,dialogue,Dorothy,He shredded the training bra with his TEETH. Even ripped the panties.
+566,undefined,undefined,dialogue,Jamie,...
+567,undefined,undefined,dialogue,Jill,...
+568,undefined,undefined,dialogue,Dorothy,"I ended up lying on the bed with this 50-something fucking me like a rabbit, while shaking me like a ragdoll."
+569,undefined,undefined,dialogue,Dorothy,"He started spouting nonsense, like he was trying to live all of his fantasies at the same time or something."
+570,undefined,undefined,dialogue,Dorothy,He lasted a long while. I'll give him that. But I was a mess afterwards.
+571,undefined,undefined,dialogue,Gillian,Wait! Don't leave! Just ignore her... stories... dammit!
+572,undefined,undefined,dialogue,Dorothy,And what do I find out a couple days later?
+573,undefined,undefined,dialogue,Dorothy,The poor bastard is a mid-school teacher!
+574,undefined,undefined,dialogue,Dorothy,Who knows how much he was holding inside up to that moment!
+575,undefined,undefined,dialogue,Dorothy,"Anyways, I'm late. Nice meeting you, Jamie. You reminded me of a damn nice dick."
+576,undefined,undefined,dialogue,Dorothy,"Bye, honey!"
+577,undefined,undefined,dialogue,Jamie,I... don't know how I should react.
+578,undefined,undefined,dialogue,Jill,Ignore her? Take her comments in stride? Drink even more?
+579,undefined,undefined,dialogue,Jill,"She's a nice girl once you get past her, um... pluckiness."
+580,undefined,undefined,dialogue,Gillian,"Pluckiness, my ass! The client she scared off always leaves nice tips!"
+581,undefined,undefined,dialogue,Jamie,"Hey Dorothy, may I ask you something... ah, private?"
+582,undefined,undefined,dialogue,Dorothy,"If you need a price list, I have a convenient card with updated fees!"
+583,undefined,undefined,dialogue,Dorothy,I can give you a discount if you pay for the room or invite me to dinner.
+584,undefined,undefined,dialogue,Jamie,"No, thank you. It's not about that."
+585,undefined,undefined,dialogue,Dorothy,Then go ahead! I don't think you can ask me something I've never been asked before.
+586,undefined,undefined,dialogue,Jamie,Is it true that the DFC-72 line leaves tracking nanomachines in the other person after... well...
+587,undefined,undefined,dialogue,Dorothy,After they violate every hole in your body regardless of its original purpose?
+588,undefined,undefined,dialogue,Jamie,...*ahem* Yes.
+589,undefined,undefined,dialogue,Dorothy,That's a semi-myth that nobody has tried to dispel.
+590,undefined,undefined,dialogue,Dorothy,"It's true, but also not true at the same time."
+591,undefined,undefined,dialogue,Jamie,Care to explain?
+592,undefined,undefined,dialogue,Dorothy,"We do have tracking nanomachines, but they're released when the body enters alert mode."
+593,undefined,undefined,dialogue,Dorothy,"When we're being assaulted or the like. That way, the authorities can chase down the attacker."
+594,undefined,undefined,dialogue,Dorothy,"It's kind of buggy, though."
+595,undefined,undefined,dialogue,Dorothy,"I've heard stories of DFC-72s who marry, get nervous on their wedding night, and BAM!"
+596,undefined,undefined,dialogue,Dorothy,Their partners end up spending the honeymoon in jail.
+597,undefined,undefined,dialogue,Jamie,I see.
+598,undefined,undefined,dialogue,Dorothy,"And besides, I've modded myself so much that if any tracking nanomachines were still being released..."
+599,undefined,undefined,dialogue,Dorothy,I'd have to commend their tenacity to be honest.
+600,undefined,undefined,dialogue,Dorothy,"There's also this urban myth that those nanomachines help improve performance, but that's just silly."
+601,undefined,undefined,dialogue,Dorothy,Now I get to ask you something!
+602,undefined,undefined,dialogue,Jamie,"Sure, go ahead."
+603,undefined,undefined,dialogue,Dorothy,How much of you is still organic?
+604,undefined,undefined,dialogue,Jamie,Just enough that my skin still heals over time.
+605,undefined,undefined,dialogue,Dorothy,Come on! You know that's not what I mean!
+606,undefined,undefined,dialogue,Jamie,"I'll tell you that and nothing more, young lady."
+607,undefined,undefined,dialogue,Dorothy,"Fiiiiiiiiiiiiine, see if I care."
+608,undefined,undefined,dialogue,Dorothy,"Honey, I'm going. I'll leave you with the MEANIE."
+609,undefined,undefined,dialogue,Jill,"Thank you, please come again."
+610,undefined,undefined,dialogue,Jamie,"That girl's something else, huh?"
+611,undefined,undefined,dialogue,Jill,She's so earnest about what she does that it's kinda hard not to root for her.
+612,undefined,undefined,dialogue,Jill,...she also has no qualms about anything whatsoever and that becomes a problem from time to time.
+613,undefined,undefined,dialogue,Gillian,"Okay, I'm done here."
+614,undefined,undefined,dialogue,Jill,"Right, I'm gonna go and take my..."
+615,undefined,undefined,dialogue,Dana,GIIIIIIIIIL!!! I NEED YOUR GIRLY HANDS FOR A SECOND HERE!!
+616,undefined,undefined,dialogue,Gillian,Coming!
+617,undefined,undefined,dialogue,Gillian,"Sorry, can you take care of him while I help her?"
+618,undefined,undefined,dialogue,Jill,"Sure, no problem."
+619,undefined,undefined,dialogue,Jamie,I apologize if I'm taking time from your break.
+620,undefined,undefined,dialogue,Jill,"Nah, don't worry. Sorry you'll have to deal with me."
+621,undefined,undefined,dialogue,Jamie,"You're no problem, Jill."
+622,undefined,undefined,dialogue,Jill,"Yeah, but you usually seem to have a blast when Gil's the one serving you."
+623,undefined,undefined,dialogue,Jill,"Anyway, do you want something else?"
+624,undefined,undefined,dialogue,Jamie,Can you make me a Marsblast?
+625,undefined,undefined,dialogue,Jill,That I can.
+626,undefined,undefined,dialogue,Jill,Here.
+627,undefined,undefined,dialogue,Jamie,Bitter and mind-numbing. Just like war.
+628,undefined,undefined,dialogue,Jill,Have you been to war?
+629,undefined,undefined,dialogue,Jamie,"Life's a war we fight every day, Jill."
+630,undefined,undefined,dialogue,Jill,So you haven't been to a war.
+631,undefined,undefined,dialogue,Jamie,"Not to an official one, at least."
+632,undefined,undefined,dialogue,Jill,Here you are.
+633,undefined,undefined,dialogue,Jamie,"Wrong astral body, Jill."
+634,undefined,undefined,dialogue,Jamie,"You know, years ago I met the lead engineer of the moon cannon."
+635,undefined,undefined,dialogue,Jill,What kind of guy was he?
+636,undefined,undefined,dialogue,Jamie,A bit cocky. He said he started the project to pick up girls.
+637,undefined,undefined,dialogue,Jamie,Apparently he always told them he'd name it after them.
+638,undefined,undefined,dialogue,Jamie,Seems it was *this* close to being called the Simonetta cannon instead of the Selene cannon.
+639,undefined,undefined,dialogue,Jill,Huh...
+640,undefined,undefined,dialogue,Jill,That one poem about it would've been pretty weird like that.
+641,undefined,undefined,dialogue,Jill,"""Under the ever-vigilant eye of Simonetta"" doesn't have the same ring to it."
+642,undefined,undefined,dialogue,Jamie,Mercury... it was such a mystical metal ages ago.
+643,undefined,undefined,dialogue,Jill,"Well, if you saw a liquid that's all silvery and shiny, you'd think there's something mystical about it."
+644,undefined,undefined,dialogue,Jill,I think there was a Chinese emperor that died from drinking mercury mixed with powdered jade.
+645,undefined,undefined,dialogue,Jamie,"That would cause liver failure, mercury poisoning, and brain death."
+646,undefined,undefined,dialogue,Jill,"...you know a lot about toxicology, don't you?"
+647,undefined,undefined,dialogue,Jamie,Just enough.
+648,undefined,undefined,dialogue,Jill,Here.
+649,undefined,undefined,dialogue,Jamie,...
+650,undefined,undefined,dialogue,Jill,(No comments?)
+651,undefined,undefined,dialogue,Jill,"Hey, are there many gun-for-hire types in this city?"
+652,undefined,undefined,dialogue,Jamie,"Not really. There's maybe two girls and three guys, myself included. Why?"
+653,undefined,undefined,dialogue,Jill,"Yesterday, there was this client talking about how a White Knight killed his daughter."
+654,undefined,undefined,dialogue,Jill,"Said he sent someone to ""take care"" of the guy. That the hire brought back the guy's head."
+655,undefined,undefined,dialogue,Jill,"So, I wanted to know if it sounds familiar to you."
+656,undefined,undefined,dialogue,Jamie,Hm... can you give me the guy's name?
+657,undefined,undefined,dialogue,Jill,I'd rather not. No offense.
+658,undefined,undefined,dialogue,Jamie,None taken.
+659,undefined,undefined,dialogue,Jamie,I don't behead my targets - it's too messy.
+660,undefined,undefined,dialogue,Jamie,"If they ask me for its head, I generally just give them the whole body."
+661,undefined,undefined,dialogue,Jamie,But that story sounds familiar...
+662,undefined,undefined,dialogue,Jamie,I think I know the guy that handled that job.
+663,undefined,undefined,dialogue,Jamie,"If it's who I think it is, then it's a fellow who goes by ""Sanders""."
+664,undefined,undefined,dialogue,Jill,Sanders...
+665,undefined,undefined,dialogue,Jill,"Now that I think about it, Jamie's not your real name, is it?"
+666,undefined,undefined,dialogue,Jamie,"To tell you the truth, I don't remember my real name."
+667,undefined,undefined,dialogue,Jamie,It might as well be Jamie for all I know.
+668,undefined,undefined,dialogue,Jill,"Oh, I see..."
+669,undefined,undefined,dialogue,Jill,...
+670,undefined,undefined,dialogue,Jamie,Something wrong?
+671,undefined,undefined,dialogue,Jill,I just realized how easy it is for me to get ahold of dangerous information from dangerous people.
+672,undefined,undefined,dialogue,Jill,No offense.
+673,undefined,undefined,dialogue,Jamie,None taken.
+674,undefined,undefined,dialogue,Jamie,It was easy because I know you won't do anything with it.
+675,undefined,undefined,dialogue,Jamie,I wouldn't be so open about that with anyone else.
+676,undefined,undefined,dialogue,Jill,You flatter m-...
+677,undefined,undefined,dialogue,Jamie,Something wrong?
+678,undefined,undefined,dialogue,Jill,I was just thinking how troublesome it'd be for common people to get rid of a human head.
+679,undefined,undefined,dialogue,Jill,"(Shit, he might have lied after all...)"
+680,undefined,undefined,dialogue,Jamie,...?
+681,undefined,undefined,dialogue,Jill,There's something I've been wondering for a while now.
+682,undefined,undefined,dialogue,Jamie,What could that be?
+683,undefined,undefined,dialogue,Jill,First it was how a professional assassin could be so polite and pleasant to be around...
+684,undefined,undefined,dialogue,Jill,...but I guess your line of work doesn't have to have any bearing on your personality.
+685,undefined,undefined,dialogue,Jamie,Thanks a lot.
+686,undefined,undefined,dialogue,Jill,What I've often wondered about is how you can be so calm here?
+687,undefined,undefined,dialogue,Jill,Aren't you worried about police or the like?
+688,undefined,undefined,dialogue,Jamie,"Well... first of all, I try to keep everything as clean as possible."
+689,undefined,undefined,dialogue,Jamie,"Second, I don't come here looking for trouble, so I don't raise suspicion."
+690,undefined,undefined,dialogue,Jamie,"And finally, you can thank your boss for easing my mind about other folks."
+691,undefined,undefined,dialogue,Jill,My boss?
+692,undefined,undefined,dialogue,Jamie,I've seen what she's done. I feel safe here.
+693,undefined,undefined,dialogue,Jamie,She could take care of things if I went haywire.
+694,undefined,undefined,dialogue,Jill,Haywire? You?
+695,undefined,undefined,dialogue,Jamie,Don't mind that.
+696,undefined,undefined,dialogue,Jill,(Hard not to mind it if you just said...)
+697,undefined,undefined,dialogue,Jill,Hm...
+698,undefined,undefined,dialogue,Jill,"You... wouldn't happen to know how she got her mechanical arm, would you?"
+699,undefined,undefined,dialogue,Jamie,I heard she lost her original fighting a cyborg wrestler that had gone rogue.
+700,undefined,undefined,dialogue,Jamie,"Just a rumor, though."
+701,undefined,undefined,dialogue,Jill,"Damn... I still don't know, then."
+702,undefined,undefined,dialogue,Jamie,Have you tried asking her?
+703,undefined,undefined,dialogue,Jill,"She told me ""It's more interesting if it's left a mystery."""
+704,undefined,undefined,dialogue,Jill,Which leads me to believe that she might have started some of the rumors herself.
+705,undefined,undefined,dialogue,Jamie,They're believable because she's her.
+706,undefined,undefined,dialogue,Jill,Maybe I'll see her in action one day.
+707,undefined,undefined,dialogue,Jamie,You should. It's quite the show.
+708,undefined,undefined,dialogue,Gillian,"Good news, Jill. The helmet came off and you can take your break."
+709,undefined,undefined,dialogue,Jill,Finally.
+710,undefined,undefined,dialogue,Jill,"It's always a pleasure, Jamie."
+711,undefined,undefined,dialogue,Jamie,"Thank you, Jill."
+712,undefined,undefined,dialogue,Jill,"Boss, break!"
+713,undefined,undefined,dialogue,Dana,Alright!
+714,undefined,undefined,dialogue,Dana,"You could take a couple minutes more, you know?"
+715,undefined,undefined,dialogue,Jill,"I'm fine, thanks."
+716,undefined,undefined,dialogue,Jill,How did you get the helmet off?
+717,undefined,undefined,dialogue,Dana,Turns out the release button was jammed with ashes.
+718,undefined,undefined,dialogue,Dana,Whoever owns that helmet made sure to use it to the point of voiding the warranty.
+719,undefined,undefined,dialogue,Dana,"Keep it safe in case she comes back, okay?"
+720,undefined,undefined,dialogue,Jill,Sure.
+721,undefined,undefined,dialogue,Dana,"Now, take it away from me before I feel compelled to put it on again."
+722,undefined,undefined,dialogue,Jill,R-Right...
+723,undefined,undefined,dialogue,*Kira* Miki,Yes! It's open. Great!
+724,undefined,undefined,dialogue,Jill,Welcome to Valhalla.
+725,undefined,undefined,dialogue,*Kira* Miki,Good evening. Um... what kind of place is this?
+726,undefined,undefined,dialogue,*Kira* Miki,Did I step into some kind of afterlife?
+727,undefined,undefined,dialogue,Jill,Do you often enter places without knowing what they are?
+728,undefined,undefined,dialogue,*Kira* Miki,Sorta. Kinda. Yeah?
+729,undefined,undefined,dialogue,Jill,Well. This is a bar.
+730,undefined,undefined,dialogue,*Kira* Miki,A bar? Nice! Nice!
+731,undefined,undefined,dialogue,Jill,What can I get you?
+732,undefined,undefined,dialogue,*Kira* Miki,"I don't know... I don't drink that much, to be honest."
+733,undefined,undefined,dialogue,*Kira* Miki,What do you recommend for me?
+734,undefined,undefined,dialogue,Jill,What do you normally enjoy?
+735,undefined,undefined,dialogue,*Kira* Miki,I like tea.
+736,undefined,undefined,dialogue,Jill,That's... not something I can work with.
+737,undefined,undefined,dialogue,Jill,What about flavors?
+738,undefined,undefined,dialogue,*Kira* Miki,Bitter but not too bitter?
+739,undefined,undefined,dialogue,*Kira* Miki,Sorry if it's too confusing.
+740,undefined,undefined,dialogue,Jill,(Something bitter but not too much. Maybe something bitter and girly?)
+741,undefined,undefined,dialogue,Jill,Let me see what I can get you.
+742,undefined,undefined,dialogue,Jill,Try this.
+743,undefined,undefined,dialogue,*Kira* Miki,"Yup, this'll do just fine. Thanks!"
+744,undefined,undefined,dialogue,Jill,"Here, try this."
+745,undefined,undefined,dialogue,*Kira* Miki,*cough* A bit too strong for me.
+746,undefined,undefined,dialogue,Jill,Here you go.
+747,undefined,undefined,dialogue,*Kira* Miki,"Hey, I like this one!"
+748,undefined,undefined,dialogue,*Kira* Miki,But didn't you say you didn't have tea?
+749,undefined,undefined,dialogue,Jill,"Well, it's not freshly made tea or anything like that."
+750,undefined,undefined,dialogue,Jill,Here.
+751,undefined,undefined,dialogue,*Kira* Miki,This doesn't taste like what I had in mind.
+752,undefined,undefined,dialogue,*Kira* Miki,"But then again, I wasn't clear with the order. Sorry."
+753,undefined,undefined,dialogue,Jill,...
+754,undefined,undefined,dialogue,Jill,"You don't look like you're from around here. What brought you by, Miss...?"
+755,undefined,undefined,dialogue,*Kira* Miki,I'm the star that always shines in the dark night sky!
+756,undefined,undefined,dialogue,*Kira* Miki,I'm the glow that will guide you through your sorrow!
+757,undefined,undefined,dialogue,*Kira* Miki,I'm the northern light that will show you your dreams!
+758,undefined,undefined,dialogue,*Kira* Miki,I'm *Kira* Miki!
+759,undefined,undefined,dialogue,Jill,S-So... Should I call you Miss Miki or Miss Kira?
+760,undefined,undefined,dialogue,*Kira* Miki,"No, you're not getting it, I'm just *Kira* Miki."
+761,undefined,undefined,dialogue,*Kira* Miki,"Here, let me help you. I'll say Kira and you say Miki, okay?"
+762,undefined,undefined,dialogue,Jill,Okay...
+763,undefined,undefined,dialogue,*Kira* Miki,Kira!
+764,undefined,undefined,dialogue,Jill,...M-Miki.
+765,undefined,undefined,dialogue,*Kira* Miki,No no no no! Put more spirit into it!
+766,undefined,undefined,dialogue,*Kira* Miki,Kira!
+767,undefined,undefined,dialogue,Jill,M-Miki.
+768,undefined,undefined,dialogue,*Kira* Miki,Almost there!
+769,undefined,undefined,dialogue,*Kira* Miki,Kira!
+770,undefined,undefined,dialogue,Jill,Miki.
+771,undefined,undefined,dialogue,*Kira* Miki,Kira!
+772,undefined,undefined,dialogue,Jill,Miki!
+773,undefined,undefined,dialogue,*Kira* Miki,Kira!!
+774,undefined,undefined,dialogue,Jill & Gillian,Miki!!
+775,undefined,undefined,dialogue,*Kira* Miki,Kira!!
+776,undefined,undefined,dialogue,Everyone,Miki!!
+777,undefined,undefined,dialogue,*Kira* Miki,That's it! Are you feeling it?
+778,undefined,undefined,dialogue,*Kira* Miki,Kira!!!
+779,undefined,undefined,dialogue,Everyone,Miki!!!
+780,undefined,undefined,dialogue,*Kira* Miki,Kira!!!
+781,undefined,undefined,dialogue,Everyone,Miki!!!
+782,undefined,undefined,dialogue,*Kira* Miki,Kira!!!
+783,undefined,undefined,dialogue,Everyone,Miki!!!!
+784,undefined,undefined,dialogue,*Kira* Miki,And don't you ever forget it!
+785,undefined,undefined,dialogue,"Jill, Gillian, Dana, & Jamie",...
+786,undefined,undefined,dialogue,Dana,What the hell am I doing out here?
+787,undefined,undefined,dialogue,Gillian,"Um... where were we, Jamie?"
+788,undefined,undefined,dialogue,Jamie,"R-Right, I was telling you..."
+789,undefined,undefined,dialogue,Jill,Wow. You're good.
+790,undefined,undefined,dialogue,*Kira* Miki,Thank you!
+791,undefined,undefined,dialogue,*Kira* Miki,It's nice to know I still have it.
+792,undefined,undefined,dialogue,*Kira* Miki,Especially since I have a concert in a bit.
+793,undefined,undefined,dialogue,Jill,Concert?
+794,undefined,undefined,dialogue,Jill,"Wait, you're the Lilim that's putting on a concert tonight?"
+795,undefined,undefined,dialogue,*Kira* Miki,I'm ONE Lilim who is putting on a concert tonight. I don't know if I'm the same Lilim you're looking for.
+796,undefined,undefined,dialogue,Jill,And what are you doing all the way down here?
+797,undefined,undefined,dialogue,*Kira* Miki,"Well, they were making last preparations for the concert so I snuck out."
+798,undefined,undefined,dialogue,*Kira* Miki,"My producer is always obnoxious while that's going on, so I just decided to leave."
+799,undefined,undefined,dialogue,*Kira* Miki,I saw one of the concert's posters outside and decided to check this place.
+800,undefined,undefined,dialogue,Jill,(Just that? Isn't that a bit... dangerous?)
+801,undefined,undefined,dialogue,Jill,Won't your producer be mad when you go back?
+802,undefined,undefined,dialogue,*Kira* Miki,"He will, but it's not the first time I've done this."
+803,undefined,undefined,dialogue,*Kira* Miki,And he still needs me to do the concert anyway.
+804,undefined,undefined,dialogue,Jill,I-I see...
+805,undefined,undefined,dialogue,Jill,How big is the concert?
+806,undefined,undefined,dialogue,*Kira* Miki,"We planned for a bit over 100,000 people and sold out fast."
+807,undefined,undefined,dialogue,*Kira* Miki,"So, we managed to secure ourselves another show in a couple of weeks."
+808,undefined,undefined,dialogue,Jill,"Oh, that's nice."
+809,undefined,undefined,dialogue,*Kira* Miki,"Yeah. I may not have as many fans as other performers, but mine are very loyal, and that's nice."
+810,undefined,undefined,dialogue,Jill,"(Over 100,000 is not many? Then what exactly is?)"
+811,undefined,undefined,dialogue,Jill,"Hold on. Then, based on your little demonstration from before, I should call you ""Ms. Miki"", right?"
+812,undefined,undefined,dialogue,*Kira* Miki,You don't get it! Let's start from the top.
+813,undefined,undefined,dialogue,Jill,I'll just call you Ms. Idol then.
+814,undefined,undefined,dialogue,*Kira* Miki,Oh! I like that.
+815,undefined,undefined,dialogue,*Kira* Miki,"Hey, do you have anything... soft?"
+816,undefined,undefined,dialogue,Jill,Soft? As in Alcohol-free?
+817,undefined,undefined,dialogue,*Kira* Miki,"No, I meant soft as in soft."
+818,undefined,undefined,dialogue,Jill,Soft...?
+819,undefined,undefined,dialogue,Jill,L-Let's see what I can get you.
+820,undefined,undefined,dialogue,Jill,Try this.
+821,undefined,undefined,dialogue,*Kira* Miki,"Yeah, this'll do it. Thanks!"
+822,undefined,undefined,dialogue,*Kira* Miki,"Hey, have you considered being more theatrical when mixing drinks?"
+823,undefined,undefined,dialogue,Jill,Eh?
+824,undefined,undefined,dialogue,*Kira* Miki,"Yeah, you know. Like spinning bottles and lighting drinks on fire. That kind of stuff."
+825,undefined,undefined,dialogue,Jill,"When I was in college, I tried going to a party once."
+826,undefined,undefined,dialogue,Jill,The bartender who tried those tricks gave me a nasty bump on the forehead when the bottle slipped his hand.
+827,undefined,undefined,dialogue,Jill,Those kind of theatrics usually feel pointless and seem to slow down the process of actually making a drink.
+828,undefined,undefined,dialogue,*Kira* Miki,"Yeah, but never underestimate the power of putting on a good show."
+829,undefined,undefined,dialogue,*Kira* Miki,"It can feel incredible and be very rewarding, you know?"
+830,undefined,undefined,dialogue,Jill,I'll keep it in mind.
+831,undefined,undefined,dialogue,Jill,What about this?
+832,undefined,undefined,dialogue,*Kira* Miki,It isn't what I had in mind for soft...
+833,undefined,undefined,dialogue,*Kira* Miki,But it'll work juuuuuuuust fine. Thanks!
+834,undefined,undefined,dialogue,Jill,"(Soft is a bit vague, though.)"
+835,undefined,undefined,dialogue,Jill,Here.
+836,undefined,undefined,dialogue,*Kira* Miki,"Aw man, this isn't soft."
+837,undefined,undefined,dialogue,*Kira* Miki,I'm gonna reek of alcohol.
+838,undefined,undefined,dialogue,Jill,(You should've thought about that before ordering drinks in a godforsaken bar.)
+839,undefined,undefined,dialogue,Jill,We have mints that can help you with that.
+840,undefined,undefined,dialogue,Jill,But it would've been easier if you'd just said what you needed in your drink.
+841,undefined,undefined,dialogue,*Kira* Miki,"Oh, I'll keep it in mind."
+842,undefined,undefined,dialogue,*Kira* Miki,Hmhm...
+843,undefined,undefined,dialogue,*Kira* Miki,"Hey, is this glass important?"
+844,undefined,undefined,dialogue,Jill,Depends on why you're asking.
+845,undefined,undefined,dialogue,*Kira* Miki,Do you want me to sign it?
+846,undefined,undefined,dialogue,Jill,"Oh. Sure, I guess?"
+847,undefined,undefined,dialogue,*Kira* Miki,No guessing! Are you sure or not?
+848,undefined,undefined,dialogue,Jill,Yeah. Do as you please.
+849,undefined,undefined,dialogue,*Kira* Miki,"Okay, then. Who should I make it out to?"
+850,undefined,undefined,dialogue,Jill,(Maybe for my boss? I wonder if Gil would like it though.)
+851,undefined,undefined,dialogue,*Kira* Miki,"Your name, girl!"
+852,undefined,undefined,dialogue,Jill,Oh! For Jill then.
+853,undefined,undefined,dialogue,*Kira* Miki,"""For Jill. Never lose your star. From *Kira* Miki."""
+854,undefined,undefined,dialogue,Jill,"Oh, that's a pretty autograph."
+855,undefined,undefined,dialogue,*Kira* Miki,Thanks!
+856,undefined,undefined,dialogue,Jill,"No, thank you."
+857,undefined,undefined,dialogue,Jill,"So, tell me more about this concert of yours."
+858,undefined,undefined,dialogue,*Kira* Miki,"Well, we're promoting my new single. It's called Shine Spark."
+859,undefined,undefined,dialogue,*Kira* Miki,"I say that, but people still look forward to my old single, ""Your Love Is a Drug""."
+860,undefined,undefined,dialogue,*Kira* Miki,"I'm worried I might become a one-note star, you know?"
+861,undefined,undefined,dialogue,*Kira* Miki,"*ahem* Anyways, the tour is called Shining Star and we've been traveling the whole continent."
+862,undefined,undefined,dialogue,*Kira* Miki,We sold out of tickets fast! So we decided to give an encore concert after all others are done.
+863,undefined,undefined,dialogue,Jill,"Ah, nice."
+864,undefined,undefined,dialogue,*Kira* Miki,But I'm not gonna bore you with details you'll find in tomorrow's newspapers anyways.
+865,undefined,undefined,dialogue,*Kira* Miki,I got this awesome dress that looks all cat-like.
+866,undefined,undefined,dialogue,*Kira* Miki,"My hairdresser, Agnes, came up with a hairstyle that makes me look like I have cat ears and all!"
+867,undefined,undefined,dialogue,Jill,What do cats have to do with stars?
+868,undefined,undefined,dialogue,*Kira* Miki,Nothing! I just like cats.
+869,undefined,undefined,dialogue,*Kira* Miki,My producer suggested a bunny though.
+870,undefined,undefined,dialogue,Jill,I see...
+871,undefined,undefined,dialogue,*Kira* Miki,"You know, if I hadn't ended up on stage singing, I'd probably be the one planning the pyrotechnics."
+872,undefined,undefined,dialogue,*Kira* Miki,"When you enter the stage and the sparks start flying... that's magical, you know?"
+873,undefined,undefined,dialogue,Jill,You've never burned yourself with those fireworks? I've heard ugly stories from other musicians.
+874,undefined,undefined,dialogue,*Kira* Miki,"No, not yet. I singed my hair once, but I just went for something short for a bit."
+875,undefined,undefined,dialogue,*Kira* Miki,People seemed to love it. I should go back to it sometime.
+876,undefined,undefined,dialogue,Jill,(Um... how do Lilim get longer hair?)
+877,undefined,undefined,dialogue,Jill,"I'm guessing someone with as many fans as you has their fair share of stalkers, right?"
+878,undefined,undefined,dialogue,*Kira* Miki,"Well, there are two kinds of people that obsess over me."
+879,undefined,undefined,dialogue,*Kira* Miki,"There are the shy ones that follow me everywhere, hiding just out of sight."
+880,undefined,undefined,dialogue,*Kira* Miki,And then there's my fanclub.
+881,undefined,undefined,dialogue,Jill,What's the difference between them?
+882,undefined,undefined,dialogue,*Kira* Miki,"The fanclub follows me around a lot too, but they usually keep a distance."
+883,undefined,undefined,dialogue,*Kira* Miki,"Actually, I think they're outside waiting for me right now."
+884,undefined,undefined,dialogue,Jill,I-I see...
+885,undefined,undefined,dialogue,*Kira* Miki,They're also very organized. They'd make pretty good soldiers.
+886,undefined,undefined,dialogue,*Kira* Miki,"The others, the stalkers, are a bit sneakier and don't act in groups."
+887,undefined,undefined,dialogue,Jill,"I'm guessing those stalkers must be bothersome, huh..."
+888,undefined,undefined,dialogue,*Kira* Miki,"Actually, they're not that bad."
+889,undefined,undefined,dialogue,*Kira* Miki,Stalkers are nice when you get used to them.
+890,undefined,undefined,dialogue,*Kira* Miki,I remember one once protected me from being mugged.
+891,undefined,undefined,dialogue,*Kira* Miki,There's another that breaks into my house once a week to make me breakfast.
+892,undefined,undefined,dialogue,Jill,(And she fails to see the problem?)
+893,undefined,undefined,dialogue,*Kira* Miki,I just wish they'd leave my underwear drawer the same way they find it.
+894,undefined,undefined,dialogue,*Kira* Miki,"I take pride in how neatly I organize my underwear, you know?"
+895,undefined,undefined,dialogue,Jill,I take pride in my old liquor collection. I guess it's the same.
+896,undefined,undefined,dialogue,Jill,"(No, wait. It isn't!)"
+897,undefined,undefined,dialogue,*Kira* Miki,"Yeah! You get me, Jill."
+898,undefined,undefined,dialogue,Jill,...
+899,undefined,undefined,dialogue,*Kira* Miki,"Okay, one more drink before I go."
+900,undefined,undefined,dialogue,*Kira* Miki,"By now, the stage should be all organized, so the fallout should have settled."
+901,undefined,undefined,dialogue,Jill,Isn't it a bit late for a concert?
+902,undefined,undefined,dialogue,*Kira* Miki,It's part of my gimmick. I always make concerts that go from night till dawn.
+903,undefined,undefined,dialogue,*Kira* Miki,"In this one, I'm supposed to close with a song called Sunshine Stone."
+904,undefined,undefined,dialogue,*Kira* Miki,If everything goes as planned and the weather forecast is accurate...
+905,undefined,undefined,dialogue,*Kira* Miki,The sun should come up just as I reach the climax of the song.
+906,undefined,undefined,dialogue,*Kira* Miki,"I'd be depressed if they ask for ""Your Love Is A Drug"" as an encore though..."
+907,undefined,undefined,dialogue,Jill,That sounds nice.
+908,undefined,undefined,dialogue,*Kira* Miki,"Hey, I need to make people feel their tickets were worth the ridiculous price, you know?"
+909,undefined,undefined,dialogue,*Kira* Miki,"Don't you think it sucks to pay for something, only to find out you shouldn't have bothered?"
+910,undefined,undefined,dialogue,Jill,Yeah. One time I bought some expensive coffee in this one cafe...
+911,undefined,undefined,dialogue,Jill,"It tasted like filthy water with cream. I still don't know if it was the coffee or the girl that served it, but it was BAD."
+912,undefined,undefined,dialogue,*Kira* Miki,"Man, that sucks."
+913,undefined,undefined,dialogue,*Kira* Miki,"Speaking of which, do you have anything bitter? I really need to wake myself up."
+914,undefined,undefined,dialogue,Jill,Let's see what I can find for you.
+915,undefined,undefined,dialogue,Jill,Try this.
+916,undefined,undefined,dialogue,*Kira* Miki,"Yeah, this works."
+917,undefined,undefined,dialogue,Jill,"So, how is it?"
+918,undefined,undefined,dialogue,*Kira* Miki,It could be a bit sweeter but it's delicious.
+919,undefined,undefined,dialogue,Jill,I figured it was for waking you up or something so...
+920,undefined,undefined,dialogue,*Kira* Miki,"Really nice, thanks!"
+921,undefined,undefined,dialogue,Jill,Here.
+922,undefined,undefined,dialogue,*Kira* Miki,"This is good, but it isn't exactly what I needed."
+923,undefined,undefined,dialogue,Jill,And what did you need?
+924,undefined,undefined,dialogue,*Kira* Miki,"Something that'll wake me up, or help me sober up a bit before going back."
+925,undefined,undefined,dialogue,Jill,You could've said so earlier and I would've fixed you something like that.
+926,undefined,undefined,dialogue,*Kira* Miki,...the order's still wrong though.
+927,undefined,undefined,dialogue,Jill,I'm not arguing that.
+928,undefined,undefined,dialogue,Jill,"I hope you aren't offended by this question, but..."
+929,undefined,undefined,dialogue,*Kira* Miki,Hm?
+930,undefined,undefined,dialogue,Jill,"I can see that you enjoy what you do, but how much of it is about the music?"
+931,undefined,undefined,dialogue,*Kira* Miki,"I'll let you know that before becoming *Kira* Miki, I was a very accomplished pianist."
+932,undefined,undefined,dialogue,*Kira* Miki,I had concerts every week and part-timed in bars with a jazz band.
+933,undefined,undefined,dialogue,*Kira* Miki,I still write and compose my own songs!
+934,undefined,undefined,dialogue,Jill,Whoa...
+935,undefined,undefined,dialogue,Jill,Why the change?
+936,undefined,undefined,dialogue,Jill,Going from jazz and piano to idol...
+937,undefined,undefined,dialogue,*Kira* Miki,Have you ever thought about the power music has over people?
+938,undefined,undefined,dialogue,*Kira* Miki,"You could argue it's just noise, but it can make you feel a wide range of emotions."
+939,undefined,undefined,dialogue,*Kira* Miki,And that power is universal. It can transcend language and culture.
+940,undefined,undefined,dialogue,*Kira* Miki,"Being in a jazz band or performing recitals, I can only take that power to so many people."
+941,undefined,undefined,dialogue,*Kira* Miki,"But being an Idol, I can take that power and spread it far and wide!"
+942,undefined,undefined,dialogue,*Kira* Miki,"Kids and adults, men and women. They all have access to my music, and I can reach every one of them!"
+943,undefined,undefined,dialogue,Jill,Wow...
+944,undefined,undefined,dialogue,*Kira* Miki,"What music do you like, Jill?"
+945,undefined,undefined,dialogue,Jill,"I'm not picky, but I do prefer versions with no lyrics."
+946,undefined,undefined,dialogue,*Kira* Miki,Why?
+947,undefined,undefined,dialogue,Jill,"I like to listen to music while working, and lyrics distract me."
+948,undefined,undefined,dialogue,Jill,"And besides, it always bothers me when people nonchalantly start singing songs with creepy lyrics."
+949,undefined,undefined,dialogue,Jill,I think only half of the listeners actually care about what's being said.
+950,undefined,undefined,dialogue,*Kira* Miki,"Oh, that's a bummer."
+951,undefined,undefined,dialogue,*Kira* Miki,"I'd give you a copy of my latest CD, but I don't have any at the moment."
+952,undefined,undefined,dialogue,Jill,Don't worry about it.
+953,undefined,undefined,dialogue,Jill,"Hey, do you get flowers and that kind of stuff when you do concerts?"
+954,undefined,undefined,dialogue,*Kira* Miki,Yeah! Lots!
+955,undefined,undefined,dialogue,*Kira* Miki,"I once said in an interview that I loved blue roses, so people started sending them to me!"
+956,undefined,undefined,dialogue,Jill,Blue roses? There's such a thing?
+957,undefined,undefined,dialogue,*Kira* Miki,"No, silly. They're just dyed white roses. But they're so pretty!"
+958,undefined,undefined,dialogue,Jill,(You'd think blue roses would be a reality by now.)
+959,undefined,undefined,dialogue,Jill,Any interesting gifts you can remember?
+960,undefined,undefined,dialogue,*Kira* Miki,Let's see...
+961,undefined,undefined,dialogue,*Kira* Miki,A guy named Danny sent a 1/60th scale chocolate sculpture of me!
+962,undefined,undefined,dialogue,*Kira* Miki,"Her boobs were a bit smaller, though."
+963,undefined,undefined,dialogue,*Kira* Miki,But... he did request a video of me eating it. I feel kinda guilty for not complying.
+964,undefined,undefined,dialogue,Jill,Oh. I had a classmate with that same fetish in high school. Lunchtime was awkward.
+965,undefined,undefined,dialogue,Jill,"Wait, no. The fetish had nothing to do with it. He was the awkward one."
+966,undefined,undefined,dialogue,*Kira* Miki,"There was also this girl named Roxanne who sent me an oil painting, canvas and all!"
+967,undefined,undefined,dialogue,*Kira* Miki,It was a rendition of a photo from one of my swimwear photoshoots.
+968,undefined,undefined,dialogue,*Kira* Miki,"It was my favorite shot! Paul, the photographer, caught me while I was adjusting the bikini's top."
+969,undefined,undefined,dialogue,*Kira* Miki,It just looks so natural...
+970,undefined,undefined,dialogue,*Kira* Miki,"Anyway, I still have that painting in my lobby."
+971,undefined,undefined,dialogue,*Kira* Miki,I'm even considering commissioning Roxanne to do another one!
+972,undefined,undefined,dialogue,Jill,Something tells me you're one human sacrifice away from being a pagan goddess of sorts.
+973,undefined,undefined,dialogue,*Kira* Miki,"Calling me a goddess won't get you anywhere, you know?"
+974,undefined,undefined,dialogue,*Kira* Miki,You need to be more creative with your flattery.
+975,undefined,undefined,dialogue,*Kira* Miki,There was an attempt that involved a sacrifice though... but the police solved that one quickly.
+976,undefined,undefined,dialogue,Jill,I'm surprised you remember all those names.
+977,undefined,undefined,dialogue,*Kira* Miki,I try to remember as many of my fans' names as possible. I'd be a bad Idol if I didn't.
+978,undefined,undefined,dialogue,*Kira* Miki,"Okay then, I'm out."
+979,undefined,undefined,dialogue,*Kira* Miki,"Thanks for helping me pass the time, Jill!"
+980,undefined,undefined,dialogue,Jill,Sure.
+981,undefined,undefined,dialogue,Jill,Please come again.
+982,undefined,undefined,dialogue,*Kira* Miki,I'll make sure of it!
+983,undefined,undefined,dialogue,Gillian,Will she be alright?
+984,undefined,undefined,dialogue,Jill,"Yeah, she'll be fine."
+985,undefined,undefined,dialogue,Gillian,You think she'll come back?
+986,undefined,undefined,dialogue,Jill,"Usually I'd say no, but I honestly don't know."
+987,undefined,undefined,dialogue,*Kira* Miki,"Hey Jill, have you ever lost your identity?"
+988,undefined,undefined,dialogue,Jill,"I've lost my ID card a couple of times, yeah."
+989,undefined,undefined,dialogue,*Kira* Miki,"No, I mean... your identity. Forgotten who you are."
+990,undefined,undefined,dialogue,Jill,(What's with the change in expression?!)
+991,undefined,undefined,dialogue,Jill,"N-No, not really..."
+992,undefined,undefined,dialogue,*Kira* Miki,I did.
+993,undefined,undefined,dialogue,Jill,Eh?
+994,undefined,undefined,dialogue,*Kira* Miki,*Kira* Miki is just an artist name.
+995,undefined,undefined,dialogue,*Kira* Miki,"At first, it was hard for me to play the part, you know?"
+996,undefined,undefined,dialogue,*Kira* Miki,But I gained so much satisfaction from the concerts that I decided to invest myself.
+997,undefined,undefined,dialogue,*Kira* Miki,...and I overdid it.
+998,undefined,undefined,dialogue,Jill,How so?
+999,undefined,undefined,dialogue,*Kira* Miki,I became so invested in the character that I forgot who I was.
+1000,undefined,undefined,dialogue,*Kira* Miki,Who was I before I became *Kira* Miki? What did I like?
+1001,undefined,undefined,dialogue,*Kira* Miki,Where does *Kira* Miki end and I begin?
+1002,undefined,undefined,dialogue,*Kira* Miki,I... just don't know anymore.
+1003,undefined,undefined,dialogue,Jill,Sounds rough.
+1004,undefined,undefined,dialogue,Jill,What drove you to such a decision?
+1005,undefined,undefined,dialogue,*Kira* Miki,The fact that I know I'm performing a noble duty.
+1006,undefined,undefined,dialogue,Jill,H-How?
+1007,undefined,undefined,dialogue,*Kira* Miki,You have to deal with many stressful things in everyday life.
+1008,undefined,undefined,dialogue,*Kira* Miki,"Work, debt, sickness, insecurity, the black slime that comes out of the sewers every full moon..."
+1009,undefined,undefined,dialogue,*Kira* Miki,You don't know what will await you every morning.
+1010,undefined,undefined,dialogue,*Kira* Miki,You don't know if you'll make it back to bed that night.
+1011,undefined,undefined,dialogue,*Kira* Miki,"When measured, the cons of life outweigh the pros."
+1012,undefined,undefined,dialogue,*Kira* Miki,"People need something to cling to, and for many I'm that thing."
+1013,undefined,undefined,dialogue,Jill,You are?
+1014,undefined,undefined,dialogue,*Kira* Miki,"During my concerts, they stop being themselves for 4 hours."
+1015,undefined,undefined,dialogue,*Kira* Miki,"They're not a nurse, an office worker, or a store clerk."
+1016,undefined,undefined,dialogue,*Kira* Miki,"For those 4 hours, they're just part of the mass that goes to see an idol."
+1017,undefined,undefined,dialogue,*Kira* Miki,"No religion, gender, or social class divides them. They're all at the same level."
+1018,undefined,undefined,dialogue,Jill,Damn...
+1019,undefined,undefined,dialogue,*Kira* Miki,"When not in concert, I try to give them songs that will cheer them up, that will make their lives worth living."
+1020,undefined,undefined,dialogue,*Kira* Miki,"When I see the people call my name from the stage, I know they're thanking me."
+1021,undefined,undefined,dialogue,*Kira* Miki,Thanking me for that single moment where they can be happy.
+1022,undefined,undefined,dialogue,*Kira* Miki,That's what I love about the stadium. I'm down below while they're up high.
+1023,undefined,undefined,dialogue,*Kira* Miki,"If forgetting who I was before means that I can protect those smiles, SO BE IT!"
+1024,undefined,undefined,dialogue,*Kira* Miki,I'll make that sacrifice as many times as needed.
+1025,undefined,undefined,dialogue,*Kira* Miki,Because I live for them. Because I know I help them.
+1026,undefined,undefined,dialogue,*Kira* Miki,I'm the star that always shines in the dark night sky!
+1027,undefined,undefined,dialogue,*Kira* Miki,I'm the glow that will guide you through your sorrow!
+1028,undefined,undefined,dialogue,*Kira* Miki,I'm the northern light that will show you your dreams!
+1029,undefined,undefined,dialogue,*Kira* Miki,I am *Kira* Miki!
+1030,undefined,undefined,dialogue,*Kira* Miki,And don't you ever forget that.
+1031,undefined,undefined,dialogue,Jill,...
+1032,undefined,undefined,dialogue,*Kira* Miki,FANCLUB! TO ME!
+1033,undefined,undefined,dialogue,*Kira* Miki,We ride to the stadium!
+1034,undefined,undefined,dialogue,Jill,...wow.
+1035,undefined,undefined,dialogue,Gillian,"She's something else, huh?"
+1036,undefined,undefined,dialogue,Jill,I suddenly feel the urge to ditch my shift and follow.
+1037,undefined,undefined,dialogue,Gillian,Do you think she's telling the truth?
+1038,undefined,undefined,dialogue,Jill,Gimme a sec...
+1039,undefined,undefined,dialogue,Jill,"According to this article, her real name is Michelle Kingston. Deployed about 2 years ago."
+1040,undefined,undefined,dialogue,Jill,She did a few variety shows with her jazz band but went solo afterwards.
+1041,undefined,undefined,dialogue,Gillian,What was all that talk then?
+1042,undefined,undefined,dialogue,Jill,She was drunk and she was a very... peculiar drunk.
+1043,undefined,undefined,dialogue,Gillian,Figures.
+1044,undefined,undefined,dialogue,Gillian,"Still quite the motivational performer, though."
+1045,undefined,undefined,dialogue,Jill,No doubt.
+1046,undefined,undefined,dialogue,Jill,"Boss, we're done."
+1047,undefined,undefined,dialogue,Dana,Alright.
+1048,undefined,undefined,dialogue,Dana,You feel like going to that girl's concert?
+1049,undefined,undefined,dialogue,Jill,"Nah, I don't think so. I don't have tickets anyway."
+1050,undefined,undefined,dialogue,Jill,"Hey, Boss. Does the name ""Red Comet"" ring any bells?"
+1051,undefined,undefined,dialogue,Dana,"Why, that was my moniker during my wrestling days."
+1052,undefined,undefined,dialogue,Jill,Your... huh?
+1053,undefined,undefined,dialogue,Dana,That's what they called me during my time in the Grand Slam Fighters.
+1054,undefined,undefined,dialogue,Dana,"They saw me coming, but they couldn't stop me before I CRASHED INTO THEIR HEADS."
+1055,undefined,undefined,dialogue,Jill,Any reason for being red specifically?
+1056,undefined,undefined,dialogue,Dana,That way I was three times faster!
+1057,undefined,undefined,dialogue,Dana,How did you find that out? Do you like wrestling?
+1058,undefined,undefined,dialogue,Jill,A client mentioned it yesterday when he saw you. I just kinda remembered it.
+1059,undefined,undefined,dialogue,Dana,"Ah, I see."
+1060,undefined,undefined,dialogue,Dana,I should take you to a wrestling match sometime. Maybe you'll like it.
+1061,undefined,undefined,dialogue,Jill,Maybe.
+1062,undefined,undefined,dialogue,Jill,"In any case, Gil's cleaning the glasses today, so I'll leave now."
+1063,undefined,undefined,dialogue,Dana,Take care.
+1064,undefined,undefined,dialogue,Jill,"Oh, and... boss?"
+1065,undefined,undefined,dialogue,Jill,"Don't cram anything on your head without thinking, please."
+1066,undefined,undefined,dialogue,Dana,"Yeah, yeah..."
+1067,undefined,undefined,dialogue,Jill,(Boss should clean the chicken buckets she throws out. Everyone can smell the spice from a mile away.)

@@ -1,0 +1,582 @@
+line,filename,lines,type,character,text
+0,script6.txt,581,META,undefined,undefined
+2,undefined,undefined,dialogue,Dana,Rise and shine.
+3,undefined,undefined,dialogue,Jill,*yawn* G'mornin'.
+4,undefined,undefined,dialogue,Dana,"It's 11 a.m., though."
+5,undefined,undefined,dialogue,Jill,That's morning for me on the weekends... and any other day. How's everything outside?
+6,undefined,undefined,dialogue,Dana,"Still noisy, but forces have been deployed to take care of most of 'em at least."
+7,undefined,undefined,dialogue,Jill,How so?
+8,undefined,undefined,dialogue,Dana,"Zaibatsu Corp's President is pleading with ""anyone"" to stop the rogue White Knights."
+9,undefined,undefined,dialogue,Dana,Neighboring city forces were deployed quickly and have subdued most of the opposition.
+10,undefined,undefined,dialogue,Dana,There have also been reports of White Knights just... freezing. Like they were petrified somehow.
+11,undefined,undefined,dialogue,Jill,You make it sound like some god suddenly decided to put everything in place.
+12,undefined,undefined,dialogue,Dana,"Well, I'm just glad no bullets are flying in and out of the whole building."
+13,undefined,undefined,dialogue,Dana,"Sure, there're still some bad apples out and it's not really safe yet, but it was worse last night."
+14,undefined,undefined,dialogue,Dana,There also seems to be a civilian force lynching any White Knight they spot.
+15,undefined,undefined,dialogue,Dana,"So not only are the White Knights a problem, regular folks are on edge too."
+16,undefined,undefined,dialogue,Jill,(I wonder if Sei is okay...)
+17,undefined,undefined,dialogue,Jill,Should we be worried about Gil?
+18,undefined,undefined,dialogue,Dana,That kid knows how to take care of himself.
+19,undefined,undefined,dialogue,Dana,"I'm sure that... whatever it is that he's doing, he's safe."
+20,undefined,undefined,dialogue,Dana,Dare I say even safer wherever he is than here.
+21,undefined,undefined,dialogue,Jill,I sure hope so.
+22,undefined,undefined,dialogue,Jill,Are we gonna work today?
+23,undefined,undefined,dialogue,Dana,"Nah, things are too nasty right now. Let's take the Sunday off."
+24,undefined,undefined,dialogue,Jill,"Oh, alright."
+25,undefined,undefined,dialogue,Dana,"Say, do you want me to help you get to your apartment?"
+26,undefined,undefined,dialogue,Jill,"Actually yeah, I'd appreciate that."
+27,undefined,undefined,dialogue,Dana,Okay then. Let me lock things up and we'll go.
+28,undefined,undefined,dialogue,Dana,We'll grab something for lunch on the way.
+29,undefined,undefined,dialogue,Jill,Sounds good.
+30,undefined,undefined,dialogue,Dana,Aaaaaaaaand here we are.
+31,undefined,undefined,dialogue,Jill,Home sweet home. Thanks a lot.
+32,undefined,undefined,dialogue,Jill,"Hey Boss, wanna hang out for a bit?"
+33,undefined,undefined,dialogue,Dana,Hm?
+34,undefined,undefined,dialogue,Jill,"Yeah, grab a Beer, chill out for a bit... Mostly to thank you for helping me."
+35,undefined,undefined,dialogue,Dana,"Well, I don't have much to do anyway. So yeah, sure."
+36,undefined,undefined,dialogue,Dana,"I did tell you you should invite me to your apartment sometime, didn't I?"
+37,undefined,undefined,dialogue,Jill,"Oh, yeah. You did."
+38,undefined,undefined,dialogue,Dana,What worries me a bit is that Beer always leads to something else.
+39,undefined,undefined,dialogue,Jill,To more Beer?
+40,undefined,undefined,dialogue,Dana,"I was gonna say, ""To one of us going through the Spanish announcers' table."""
+41,undefined,undefined,dialogue,Dana,But I think we're safe here.
+42,undefined,undefined,dialogue,Jill,"Come on in, then."
+43,undefined,undefined,dialogue,Dana,Excuse me...
+44,undefined,undefined,dialogue,Jill,Want one?
+45,undefined,undefined,dialogue,Dana,"Sorry, I don't smoke. Don't mind me though, smoke if you wanna."
+46,undefined,undefined,dialogue,Jill,Thanks.
+47,undefined,undefined,dialogue,Dana,"Say, how is the chilly weather treating you?"
+48,undefined,undefined,dialogue,Jill,It gets cold from time to time but nothing the kotatsu and the heater can't fix.
+49,undefined,undefined,dialogue,Jill,"Oh right, Boss. You're not very good with the cold, are you?"
+50,undefined,undefined,dialogue,Dana,You know it...
+51,undefined,undefined,dialogue,Jill,You didn't bring your jacket here either.
+52,undefined,undefined,dialogue,Dana,"Yeah, I left it at home when going to the bar yesterday."
+53,undefined,undefined,dialogue,Dana,It wasn't that cold and I didn't expect to spend the night at the bar.
+54,undefined,undefined,dialogue,Jill,Would you like a sweater or something?
+55,undefined,undefined,dialogue,Dana,"Oh, don't mind me."
+56,undefined,undefined,dialogue,Jill,I insist. I have this hoodie from some time ago and it was too big for me.
+57,undefined,undefined,dialogue,Dana,Why buy it then?
+58,undefined,undefined,dialogue,Jill,It was dirt-cheap!
+59,undefined,undefined,dialogue,Dana,Right...
+60,undefined,undefined,dialogue,Dana,Wait... w-where did you get this one?
+61,undefined,undefined,dialogue,Jill,Dunno. Some flea market ages ago. Why?
+62,undefined,undefined,dialogue,Dana,Nothing. It's just like one I had many years ago.
+63,undefined,undefined,dialogue,Jill,What happened to it?
+64,undefined,undefined,dialogue,Dana,"Too much use, it just... ripped."
+65,undefined,undefined,dialogue,Jill,I see...
+66,undefined,undefined,dialogue,Jill,"You can keep it if you want, I never use it anyway."
+67,undefined,undefined,dialogue,Dana,Um... we'll see.
+68,undefined,undefined,dialogue,Jill,"Come to think of it, how old are you, Boss?"
+69,undefined,undefined,dialogue,Dana,I'm eternally seventeen!
+70,undefined,undefined,dialogue,Jill,Fair enough. Seventeen plus how much?
+71,undefined,undefined,dialogue,Dana,Seventeen plus I'd have to cut your tongue if you knew.
+72,undefined,undefined,dialogue,Jill,...alright.
+73,undefined,undefined,dialogue,Jill,Let me go change into something more comfortable.
+74,undefined,undefined,dialogue,Dana,Take your time.
+75,undefined,undefined,dialogue,Dana,...
+76,undefined,undefined,dialogue,Fore,...
+77,undefined,undefined,dialogue,Dana,...
+78,undefined,undefined,dialogue,Dana,"Say Jill, there's a blue-eyed mass of black fur glaring in my general direction."
+79,undefined,undefined,dialogue,Jill,"Hm? Oh, that's just Fore. He's just wary of any new visitors. Cats will be cats, I guess."
+80,undefined,undefined,dialogue,Jill,He'll warm up quickly though. Just give him time.
+81,undefined,undefined,dialogue,Dana,He's unusual-looking. Blue eyes on a black cat. They usually have green.
+82,undefined,undefined,dialogue,Jill,"Yeah, weird, huh?"
+83,undefined,undefined,dialogue,Jill,At first I thought they were like that because he was small but they never changed.
+84,undefined,undefined,dialogue,Jill,"Do you have any pets, Boss?"
+85,undefined,undefined,dialogue,Dana,Back at home we had a bear.
+86,undefined,undefined,dialogue,Jill,"Ah, I se-... what?"
+87,undefined,undefined,dialogue,Dana,Good ol' Bosco. He kept intruders away better than any dog.
+88,undefined,undefined,dialogue,Jill,R-Right...
+89,undefined,undefined,dialogue,Dana,Hm? This picture here isn't something you see everyday.
+90,undefined,undefined,dialogue,Jill,What? Me taking such a sappy pic?
+91,undefined,undefined,dialogue,Dana,"No, a framed picture on printed paper. It's so... vintage."
+92,undefined,undefined,dialogue,Dana,Who are these?
+93,undefined,undefined,dialogue,Jill,That's... um...
+94,undefined,undefined,dialogue,Jill,"The one on the right is Lenore, my... ex-girlfriend. The one on the left is Gabrielle, her sister."
+95,undefined,undefined,dialogue,Dana,Huh. Is this pic recent or...?
+96,undefined,undefined,dialogue,Jill,"Actually, that one's from 3-4 years ago."
+97,undefined,undefined,dialogue,Dana,...
+98,undefined,undefined,dialogue,Dana,You look exactly the same.
+99,undefined,undefined,dialogue,Jill,I'm only 27. What did you expect? That's why they say kids are the ones that get old.
+100,undefined,undefined,dialogue,Dana,I thought it was recent because you don't usually see people displaying pictures of their exes so openly.
+101,undefined,undefined,dialogue,Dana,...let alone a printed and framed one.
+102,undefined,undefined,dialogue,Dana,"Did you two break up on good terms, then? You even hesitated a bit when calling her your ex."
+103,undefined,undefined,dialogue,Jill,*sigh* Let's just say that everything ended with both of us saying mean things.
+104,undefined,undefined,dialogue,Jill,"...and me storming out of her house, breaking a couple of things on the way out."
+105,undefined,undefined,dialogue,Jill,We never broke up formally... and I guess I still have feelings for her.
+106,undefined,undefined,dialogue,Jill,"I just... went away, haven't said a word since."
+107,undefined,undefined,dialogue,Dana,Really? It's... hard to picture you doing such a thing. And you look so happy in the pic.
+108,undefined,undefined,dialogue,Dana,Why have her pic out like this then?
+109,undefined,undefined,dialogue,Jill,I just couldn't get my mind off something that Alma said to me.
+110,undefined,undefined,dialogue,Jill,About missing having the warmth of someone else pressed against your side...
+111,undefined,undefined,dialogue,Jill,"Using them as a pillow, mixing your perfume with theirs."
+112,undefined,undefined,dialogue,Jill,"Putting your head in their chest, listening to their breathing as they pet your head."
+113,undefined,undefined,dialogue,Jill,"Dozing off knowing they're there, watching you. Protecting you..."
+114,undefined,undefined,dialogue,Jill,I don't know. I felt nostalgic... then miserable.
+115,undefined,undefined,dialogue,Jill,...
+116,undefined,undefined,dialogue,Dana,I'll... just put this away.
+117,undefined,undefined,dialogue,Dana,...
+118,undefined,undefined,dialogue,Jill,"I've been meaning to apologize, but I feel like it's too late now."
+119,undefined,undefined,dialogue,Jill,"Whenever I go out, there's this fear in the back of my head that I'll meet her in the street."
+120,undefined,undefined,dialogue,Jill,I just don't know if I could face her again. Let alone talk to her.
+121,undefined,undefined,dialogue,Jill,...I'd be a mess.
+122,undefined,undefined,dialogue,Dana,"It's never too late to apologize, Jill."
+123,undefined,undefined,dialogue,Jill,Maybe.
+124,undefined,undefined,dialogue,Dana,Hm? What's that on the table?
+125,undefined,undefined,dialogue,Jill,...!
+126,undefined,undefined,dialogue,Dana,Looks like an enve-...
+127,undefined,undefined,dialogue,Jill,"It's nothing! NOTHING! Now, please give that to me."
+128,undefined,undefined,dialogue,Dana,...lope. Alright.
+129,undefined,undefined,dialogue,Dana,"I saw nothing, don't worry."
+130,undefined,undefined,dialogue,Jill,...
+131,undefined,undefined,dialogue,Jill,A-Anyway... Let's grab some Beers!
+132,undefined,undefined,dialogue,Dana,Guide me.
+133,undefined,undefined,dialogue,Dana,"Damn, you have lots of Beer."
+134,undefined,undefined,dialogue,Jill,"Well, the BTC gives me discounts and a point card I can use every time I buy their alcohol."
+135,undefined,undefined,dialogue,Jill,"With that, Beer is actually the cheapest drink I can get."
+136,undefined,undefined,dialogue,Dana,Is there any difference between the drinks at the bar and these?
+137,undefined,undefined,dialogue,Jill,"The drinks at the bar are more addictive, flavorful and also stronger than the ones they sell in stores."
+138,undefined,undefined,dialogue,Jill,"And besides, the one in the bar is more of a Double IPA. This one is more of a Pilsner."
+139,undefined,undefined,dialogue,Dana,"In English, please."
+140,undefined,undefined,dialogue,Jill,This one's lighter in color and lighter in flavor.
+141,undefined,undefined,dialogue,Dana,"Dunno, it doesn't taste like a lighter to me."
+142,undefined,undefined,dialogue,Jill,*pffffft*
+143,undefined,undefined,dialogue,Dana,Is this one made with that... um... what was the name of the base liquid you use at the bar again?
+144,undefined,undefined,dialogue,Jill,"Nutriogenic Dichometrical Lydogenol, or NDL."
+145,undefined,undefined,dialogue,Dana,"It was a supplement or something, right?"
+146,undefined,undefined,dialogue,Jill,It was an experimental fluid they created to replace water when the Maiden Kiss polluted water supplies.
+147,undefined,undefined,dialogue,Jill,"The effects of pollution turned out to be temporary, so NDL never went into mass production."
+148,undefined,undefined,dialogue,Jill,But the BTC still commissioned it for use in bars.
+149,undefined,undefined,dialogue,Dana,And is this one made with it?
+150,undefined,undefined,dialogue,Jill,"Let's see... yup, here it is, near the end: NDL and corn starch."
+151,undefined,undefined,dialogue,Dana,Corn starch?
+152,undefined,undefined,dialogue,Jill,"It serves as a stabilizer, if I remember correctly. They need it for packaged drinks."
+153,undefined,undefined,dialogue,Dana,I see. And I just realized something.
+154,undefined,undefined,dialogue,Jill,What?
+155,undefined,undefined,dialogue,Dana,"You're a nerd, Jill."
+156,undefined,undefined,dialogue,Jill,Guilty as charged.
+157,undefined,undefined,dialogue,Jill,There's my alcohol collection if you feel like getting anything else.
+158,undefined,undefined,dialogue,Dana,Those bottles over there?
+159,undefined,undefined,dialogue,Jill,I can't afford a fancy fridge or whatever for them so I have to put them in plain sight.
+160,undefined,undefined,dialogue,Jill,"I'm guessing if some authority on alcohol came in here, he'd stab me for crimes against beverages or something."
+161,undefined,undefined,dialogue,Jill,"Anyway, many of them are still drinkable."
+162,undefined,undefined,dialogue,Jill,I could get you some of the Absinthe I brought to the bar if you want.
+163,undefined,undefined,dialogue,Dana,"I'm not an Oscar Wilde kind of person, sadly. I'm more of a Theodore Roosevelt girl."
+164,undefined,undefined,dialogue,Jill,I have a teddy bear on my closet. But I don't think you can drink it.
+165,undefined,undefined,dialogue,Dana,"Nah, that's what I-... wait, you do?"
+166,undefined,undefined,dialogue,Jill,I'm not ashamed of Doctor Fluff but it just so happens that I have a cat.
+167,undefined,undefined,dialogue,Jill,And I don't want the bear's fillings spilled all over the place.
+168,undefined,undefined,dialogue,Dana,Oh...
+169,undefined,undefined,dialogue,Dana,"Anyway, Beer's fine. Don't worry."
+170,undefined,undefined,dialogue,Jill,If you say so.
+171,undefined,undefined,dialogue,Dana,Where did that collection come from anyways?
+172,undefined,undefined,dialogue,Jill,"Calling it a ""Collection"" is too generous, I think."
+173,undefined,undefined,dialogue,Jill,I got it from my grandpa. He made a will where the only thing stipulated was that I got them.
+174,undefined,undefined,dialogue,Dana,"Heh, that's sweet."
+175,undefined,undefined,dialogue,Jill,I've already downed some of it over the years though. Half of them have colored water instead of alcohol.
+176,undefined,undefined,dialogue,Dana,I guess you'd need to be an expert or something to notice the difference.
+177,undefined,undefined,dialogue,Jill,"Yeah, I make sure the water's the right color though."
+178,undefined,undefined,dialogue,Jill,"Bottomline, if you wanna taste anything from it, let me know."
+179,undefined,undefined,dialogue,Dana,You're too kind.
+180,undefined,undefined,dialogue,Jill,I still have that bottle of rum somewhere around. Do you want some of it?
+181,undefined,undefined,dialogue,Dana,Will you have some too?
+182,undefined,undefined,dialogue,Jill,"Not really, no."
+183,undefined,undefined,dialogue,Dana,Then leave it like that. I'm not letting you drink Beer alone. That's not how drinking with friends works.
+184,undefined,undefined,dialogue,Jill,"Do you consider me a friend then, Boss?"
+185,undefined,undefined,dialogue,Dana,Why wouldn't I?
+186,undefined,undefined,dialogue,Jill,"Dunno, what with being my boss and all. I was never too sure."
+187,undefined,undefined,dialogue,Dana,"Well, in case you had any doubts: Yes, I consider you one of my best friends."
+188,undefined,undefined,dialogue,Dana,"Besides, you and Gil are always so diligent and responsible that I'm boss in name only anyway."
+189,undefined,undefined,dialogue,Jill,That's good to know.
+190,undefined,undefined,dialogue,Dana,"On a side note, it surprises me you kept that poster of me in the room."
+191,undefined,undefined,dialogue,Dana,And even more that you hung it in plain sight.
+192,undefined,undefined,dialogue,Dana,"When I gave it to you, it was more or less a joke, you know?"
+193,undefined,undefined,dialogue,Jill,Does it make you uncomfortable?
+194,undefined,undefined,dialogue,Dana,"If it doesn't make you uncomfortable, why would it make ME uncomfortable? It's my own face."
+195,undefined,undefined,dialogue,Dana,I'm still wondering why you did it though.
+196,undefined,undefined,dialogue,Jill,"Aside from filling an empty spot in the wall, I don't really know. I thought it was funny too."
+197,undefined,undefined,dialogue,Jill,I guess it's like if someone gave you... dunno.
+198,undefined,undefined,dialogue,Jill,A dildo-shaped trophy or something and you had it there as a conversation starter.
+199,undefined,undefined,dialogue,Jill,"Although no one comes here anyways, so it's kinda pointless."
+200,undefined,undefined,dialogue,Dana,What? No steamy nights of passion?
+201,undefined,undefined,dialogue,Jill,Not since... a year ago I think. And I rather not talk about what happened then.
+202,undefined,undefined,dialogue,Dana,"Did someone hurt you? Because if they did, I can go dish out the pain."
+203,undefined,undefined,dialogue,Jill,"No, nothing of the sort. A different kind of mess."
+204,undefined,undefined,dialogue,Jill,Uncomfortable mess. A 'not being able to have sex for reasons' mess.
+205,undefined,undefined,dialogue,Jill,Glad to know you have my back though.
+206,undefined,undefined,dialogue,Dana,That's what friends are for.
+207,undefined,undefined,dialogue,Dana,"Wait, you talk about the poster and compare it to having a dildo-shaped trophy..."
+208,undefined,undefined,dialogue,Dana,Did you just call me Dildo Face?
+209,undefined,undefined,dialogue,Jill,That's what friends are for.
+210,undefined,undefined,dialogue,Dana,...
+211,undefined,undefined,dialogue,Dana,"Hey, Jill. Where did you get that black Fore ball?"
+212,undefined,undefined,dialogue,Jill,"Well, as with any black cat or house cat in general, he's actually a stray."
+213,undefined,undefined,dialogue,Jill,"I found him in the alleys near the building. Not long after I moved here, I think."
+214,undefined,undefined,dialogue,Dana,"Ah, I see."
+215,undefined,undefined,dialogue,Jill,It was quite the sight though. He was cornered by all these dogs but they were keeping their distance.
+216,undefined,undefined,dialogue,Jill,"He was holding his ground, hissing and scratching as much as he could."
+217,undefined,undefined,dialogue,Jill,"There was a fried chicken bucket nearby that had some rain water in it, so I threw the water over the dogs."
+218,undefined,undefined,dialogue,Jill,"They ran and I figured the cat's mom would be nearby, so I left."
+219,undefined,undefined,dialogue,Jill,Then I noticed people looking in my direction as I walked. Turns out the little shit started following me.
+220,undefined,undefined,dialogue,Dana,So you brought it home.
+221,undefined,undefined,dialogue,Jill,"At first, I wanted to see if I could find him a new home, but..."
+222,undefined,undefined,dialogue,Jill,"Having him welcome me whenever I came back was just too much for my heart, so he ended up staying."
+223,undefined,undefined,dialogue,Dana,"It was destiny, girl."
+224,undefined,undefined,dialogue,Jill,"When he came, he was so cute though. Not like the fat mass that's sleeping on the table."
+225,undefined,undefined,dialogue,Fore,"Hey, you're not a spring chicken yourself, you know."
+226,undefined,undefined,dialogue,Dana,...
+227,undefined,undefined,dialogue,Jill,...
+228,undefined,undefined,dialogue,Dana,Oho...
+229,undefined,undefined,dialogue,Jill,"...shit, I actually did that in front of someone else."
+230,undefined,undefined,dialogue,Dana,Ohohohoho...
+231,undefined,undefined,dialogue,Jill,A-Anyway...
+232,undefined,undefined,dialogue,Dana,"Don't ""anyway"" me, do you normally speak for your cat like that?"
+233,undefined,undefined,dialogue,Jill,...maybe.
+234,undefined,undefined,dialogue,Jill,"Hey Boss, be honest with me here."
+235,undefined,undefined,dialogue,Dana,About what?
+236,undefined,undefined,dialogue,Jill,Who's Gil exactly?
+237,undefined,undefined,dialogue,Dana,What do you mean?
+238,undefined,undefined,dialogue,Jill,You know what I mean. Who the fuck is he?
+239,undefined,undefined,dialogue,Dana,"Oh yeah, that."
+240,undefined,undefined,dialogue,Dana,"Well, I have a couple of ideas."
+241,undefined,undefined,dialogue,Dana,I know for certain that Gil was in the Hong Kong riots.
+242,undefined,undefined,dialogue,Dana,And he took part in the anti-riot force before defecting.
+243,undefined,undefined,dialogue,Dana,That should give me a clue as to who he is but...
+244,undefined,undefined,dialogue,Jill,But...?
+245,undefined,undefined,dialogue,Dana,"So far, I've only found out about one such defector, and he didn't leave Hong Kong for at least 4 years."
+246,undefined,undefined,dialogue,Dana,I also know for certain that Gil was in England and France during that time frame.
+247,undefined,undefined,dialogue,Dana,"And it's always like that, when I think I have a clue as to who he is..."
+248,undefined,undefined,dialogue,Dana,Something else comes up that contradicts the evidence.
+249,undefined,undefined,dialogue,Dana,That guy's troublesome.
+250,undefined,undefined,dialogue,Jill,"A bit, yeah."
+251,undefined,undefined,dialogue,Jill,*sigh* I wonder if Gil's alright.
+252,undefined,undefined,dialogue,Dana,You worried about him?
+253,undefined,undefined,dialogue,Jill,You make it sound like I'm some emotionless robot.
+254,undefined,undefined,dialogue,Dana,You can be hard to read.
+255,undefined,undefined,dialogue,Dana,I wouldn't worry about Gil so much though. There's three things I know for certain about him.
+256,undefined,undefined,dialogue,Dana,First: He can take care of himself.
+257,undefined,undefined,dialogue,Dana,Second: You can sincerely trust him.
+258,undefined,undefined,dialogue,Jill,And third?
+259,undefined,undefined,dialogue,Dana,He absolutely hates bell pepper.
+260,undefined,undefined,dialogue,Jill,He does?
+261,undefined,undefined,dialogue,Dana,I've seen him even reject food that has been in contact with it.
+262,undefined,undefined,dialogue,Jill,"Man, what a baby... unless he's allergic or something."
+263,undefined,undefined,dialogue,Dana,He's not.
+264,undefined,undefined,dialogue,Jill,"Man, what a baby."
+265,undefined,undefined,dialogue,Jill,How did you meet such a guy?
+266,undefined,undefined,dialogue,Dana,He... showed up in the door of the bar.
+267,undefined,undefined,dialogue,Jill,He... what?
+268,undefined,undefined,dialogue,Dana,"Well, it was shortly after the whole incident with Robert and the levitation potion."
+269,undefined,undefined,dialogue,Jill,"(Right... ""Levitation potion"".)"
+270,undefined,undefined,dialogue,Dana,It was a slow day and he just... showed up at the bar.
+271,undefined,undefined,dialogue,Dana,"I offered him a drink, but he said he didn't have money on him."
+272,undefined,undefined,dialogue,Dana,"I... couldn't leave him alone, so I pretty much gave the drinks for free."
+273,undefined,undefined,dialogue,Dana,"And after a couple, he broke down crying."
+274,undefined,undefined,dialogue,Jill,He... huh?
+275,undefined,undefined,dialogue,Dana,"I don't know what he did, but he was really, REALLY regretting it."
+276,undefined,undefined,dialogue,Dana,He wanted a second chance or whatever and I told him if he could wash himself I'd find him a job.
+277,undefined,undefined,dialogue,Dana,"And I'll be damned, he looked totally different the next day."
+278,undefined,undefined,dialogue,Jill,Damn...
+279,undefined,undefined,dialogue,Dana,I tried and failed to find out anything about him.
+280,undefined,undefined,dialogue,Dana,So I decided to take him at face value. I'd judge him from what he did as an employee.
+281,undefined,undefined,dialogue,Dana,"And aside from the occasional sudden escapade, he's been as loyal as loyal gets."
+282,undefined,undefined,dialogue,Dana,"I return the favor in kind, covering his ass from time to time... sometimes literally."
+283,undefined,undefined,dialogue,Jill,What surprises me is that you took him in so easily.
+284,undefined,undefined,dialogue,Dana,I can take care of myself and I always kept an eye on him.
+285,undefined,undefined,dialogue,Dana,"And besides, after the whole Robert thing I couldn't ignore someone that desperate so easily..."
+286,undefined,undefined,dialogue,Jill,I see...
+287,undefined,undefined,dialogue,Dana,"You've made the bar more lively yourself, you know?"
+288,undefined,undefined,dialogue,Jill,How so?
+289,undefined,undefined,dialogue,Dana,"Well, with the regulars you've earned of course."
+290,undefined,undefined,dialogue,Dana,Like that blonde titty hacker. I can't remember her name.
+291,undefined,undefined,dialogue,Jill,Alma?
+292,undefined,undefined,dialogue,Dana,I was gonna say Armitage.
+293,undefined,undefined,dialogue,Jill,"Well, she's hot, I'll give her that much."
+294,undefined,undefined,dialogue,Jill,"She's also a nice person in general, but damn, she's hot."
+295,undefined,undefined,dialogue,Dana,"Are you alright, Jill?"
+296,undefined,undefined,dialogue,Jill,"Yeah, why?"
+297,undefined,undefined,dialogue,Dana,It's... weird to see you say so openly that someone's hot.
+298,undefined,undefined,dialogue,Jill,"What? Even you can see she has a hot body, Boss."
+299,undefined,undefined,dialogue,Dana,...you'll find no objections here.
+300,undefined,undefined,dialogue,Jill,"I mean, I'd be lying if I said I hadn't thought about taking her to a room and..."
+301,undefined,undefined,dialogue,Jill,...
+302,undefined,undefined,dialogue,Dana,"Jill, you sure you aren't drunk?"
+303,undefined,undefined,dialogue,Jill,I am. I mean I'm sure I'm not. I mean...
+304,undefined,undefined,dialogue,Jill,*ahem*
+305,undefined,undefined,dialogue,Jill,But those are thoughts I leave to myself. I don't think I could handle her in a relationship.
+306,undefined,undefined,dialogue,Jill,She has... weird standards.
+307,undefined,undefined,dialogue,Jill,That and she's as straight as straight gets.
+308,undefined,undefined,dialogue,Jill,"She's still a lovely person, though. That she became a regular is a blessing."
+309,undefined,undefined,dialogue,Dana,Any regular is a blessing when you get down to it.
+310,undefined,undefined,dialogue,Jill,"She's a nice girl, you know?"
+311,undefined,undefined,dialogue,Dana,"I don't think she's young enough to be called a ""girl""."
+312,undefined,undefined,dialogue,Jill,"Says the ""Girl Who's Eternally Seventeen."""
+313,undefined,undefined,dialogue,Jill,"In any case, she's really lovely."
+314,undefined,undefined,dialogue,Jill,"When you hear her speak of her family, she speaks with such love. Her face just brightens up."
+315,undefined,undefined,dialogue,Jill,"It makes me kind of jealous that she has such a close relationship with them, to be honest."
+316,undefined,undefined,dialogue,Dana,You have bad relations with your family?
+317,undefined,undefined,dialogue,Jill,"Not bad, but I'm not exactly close to anyone aside from my mom, dad, and aunt."
+318,undefined,undefined,dialogue,Jill,"But back to Alma, I'm really hoping she finds a nice guy to settle with."
+319,undefined,undefined,dialogue,Jill,"I mean, she's so bent into finding one, I can't help but want her to succeed."
+320,undefined,undefined,dialogue,Dana,"Ah, I see."
+321,undefined,undefined,dialogue,Dana,There's also that sex worker robot girl.
+322,undefined,undefined,dialogue,Jill,"Ah, Dorothy."
+323,undefined,undefined,dialogue,Dana,"She intrigues me, though. I've seen lots of sex workers over the years, and she seems pretty giddy."
+324,undefined,undefined,dialogue,Dana,"It's not that she likes her job, but rather that she takes to it with such childish excitement."
+325,undefined,undefined,dialogue,Jill,"I've kinda noticed that too. But then again, Lilim can be weird."
+326,undefined,undefined,dialogue,Dana,You think?
+327,undefined,undefined,dialogue,Jill,Lilim operate in some really foreign logic.
+328,undefined,undefined,dialogue,Jill,"I mean, they don't really share our fear of mortality."
+329,undefined,undefined,dialogue,Jill,"Even if their bodies are destroyed, their minds are already backed up in the collective source."
+330,undefined,undefined,dialogue,Jill,"If they lose an arm, they can reattach it or replace it."
+331,undefined,undefined,dialogue,Jill,"Depending on the circumstances, they might not even feel pain at all."
+332,undefined,undefined,dialogue,Jill,"It's not like they haven't attained human-like emotions like fear or love, but they are... different."
+333,undefined,undefined,dialogue,Jill,"Like a different culture, if you must."
+334,undefined,undefined,dialogue,Dana,Hm... I didn't see it that way.
+335,undefined,undefined,dialogue,Jill,"Aside from that, Dorothy is a DFC-72. It's a ""Social Interactions"" model or something."
+336,undefined,undefined,dialogue,Jill,"Lilim get positive reinforcement straight from their bodies if they're fulfilling their main purpose, so..."
+337,undefined,undefined,dialogue,Jill,"I'm guessing she gets a built-in push whenever she's in a meaningful or ""challenging"" social interaction."
+338,undefined,undefined,dialogue,Dana,Interesting.
+339,undefined,undefined,dialogue,Dana,"The name ""Lilim"" is a bit weird though."
+340,undefined,undefined,dialogue,Jill,It is?
+341,undefined,undefined,dialogue,Dana,"You'd expect them to be called ""Bots"" or ""Dolls"", but ""Lilim"" doesn't convey the image of automatons."
+342,undefined,undefined,dialogue,Jill,"Just a tip. ""Bots"" and ""Dolls"" are considered slurs by them."
+343,undefined,undefined,dialogue,Jill,"""Bot"" is akin to calling them retarded and ""Doll"" is like calling them fake."
+344,undefined,undefined,dialogue,Dana,Thanks for the advice.
+345,undefined,undefined,dialogue,Dana,"That aside, do you know why they're called Lilim?"
+346,undefined,undefined,dialogue,Jill,"As far as I know, because they all come from a bigger AI called Lilith."
+347,undefined,undefined,dialogue,Jill,And Lilim are Lilith's offspring in Jewish folklore.
+348,undefined,undefined,dialogue,Dana,"Ooooooh, cool."
+349,undefined,undefined,dialogue,Dana,"Hey, speaking of names, why don't you like being called by your full name?"
+350,undefined,undefined,dialogue,Jill,I have no idea what you're talking about.
+351,undefined,undefined,dialogue,Dana,Don't act stupid.
+352,undefined,undefined,dialogue,Dana,"Back when you first transferred, I called you Julianne and you almost tore me a new one with your glare."
+353,undefined,undefined,dialogue,Jill,...
+354,undefined,undefined,dialogue,Dana,See? Like that.
+355,undefined,undefined,dialogue,Jill,"It's no big secret, but it's one of those things that feels silly when you say it out loud."
+356,undefined,undefined,dialogue,Dana,Try me.
+357,undefined,undefined,dialogue,Jill,"Well... did you ever watch ""Model Warrior Julianne""?"
+358,undefined,undefined,dialogue,Dana,"Not all of it, but my little sister's a big fan of the reruns."
+359,undefined,undefined,dialogue,Jill,Back when I was in elementary school I was a HUGE fan of the show.
+360,undefined,undefined,dialogue,Jill,I had everything. From the dolls to the costumes to the lunch boxes.
+361,undefined,undefined,dialogue,Jill,It didn't help that it was one of those shows that got strapped literally everywhere.
+362,undefined,undefined,dialogue,Dana,I saw a couple of episodes once. They were really nice!
+363,undefined,undefined,dialogue,Jill,It was beyond nice! The show's about a model who can transform into an armor-clad magic knight.
+364,undefined,undefined,dialogue,Jill,She fights demons born from greed and vanity.
+365,undefined,undefined,dialogue,Jill,How the show presented Jules hating her job because it invited enemies.
+366,undefined,undefined,dialogue,Jill,And yet still found solace in trying to be a role model...
+367,undefined,undefined,dialogue,Jill,"Hell, the main character wasn't a kid. Julianne was an adult that became younger when transformed."
+368,undefined,undefined,dialogue,Jill,I'd say it was a pretty ambitious kid's show.
+369,undefined,undefined,dialogue,Jill,Even by today's standards!
+370,undefined,undefined,dialogue,Jill,Just the fact that her enemies were literally issues dealing with beauty standards of body image...
+371,undefined,undefined,dialogue,Jill,Challenging as fuck.
+372,undefined,undefined,dialogue,Dana,"Whoa, you got excited there."
+373,undefined,undefined,dialogue,Jill,And that is the problem. Back then I was obsessed with Jules.
+374,undefined,undefined,dialogue,Jill,"I sang the songs, dressed like her. I could even recite full chapters."
+375,undefined,undefined,dialogue,Dana,Something tells me you still can.
+376,undefined,undefined,dialogue,Jill,...that's beside the point.
+377,undefined,undefined,dialogue,Jill,"It was nice while I was in elementary school, but then I went to middle school..."
+378,undefined,undefined,dialogue,Jill,"And what a surprise, tweens are jackasses."
+379,undefined,undefined,dialogue,Jill,They went out of their way to tease me about the things I did back then.
+380,undefined,undefined,dialogue,Jill,I don't hold it against Jules. I always hold my grudge against those fuckjobs.
+381,undefined,undefined,dialogue,Dana,Sounds rough.
+382,undefined,undefined,dialogue,Jill,You know how most girls worry about their thighs at that age?
+383,undefined,undefined,dialogue,Jill,I worried about jerkasses singing the theme tune of the show mocking me.
+384,undefined,undefined,dialogue,Jill,"Anyways, everytime someone calls me Julianne or Jules, I instinctively react negatively."
+385,undefined,undefined,dialogue,Jill,Pavlov would be proud of me.
+386,undefined,undefined,dialogue,Jill,I never talk about it because I find the whole thing too silly in retrospect.
+387,undefined,undefined,dialogue,Dana,"And yet, it affects you even today. There's nothing wrong with it though."
+388,undefined,undefined,dialogue,Dana,It's actually kinda reasonable.
+389,undefined,undefined,dialogue,Jill,I sure hope so.
+390,undefined,undefined,dialogue,Jill,"Come to think of it. What kind of kid were you, Boss?"
+391,undefined,undefined,dialogue,Dana,"When I was a toddler, I was the kind to always fight with kids bigger than me."
+392,undefined,undefined,dialogue,Dana,"Then puberty happened and I became the Merriam-Webster definition of ""shallow jerkwad""."
+393,undefined,undefined,dialogue,Dana,"Around the time I turned 16, I realized what an idiot I was and went on to become who I am today."
+394,undefined,undefined,dialogue,Dana,"And the less I talk about those years from 12 to 15, the better."
+395,undefined,undefined,dialogue,Jill,Fair enough.
+396,undefined,undefined,dialogue,Jill,Say Boss... how do you like them men?
+397,undefined,undefined,dialogue,Dana,2D.
+398,undefined,undefined,dialogue,Jill,2D?
+399,undefined,undefined,dialogue,Dana,Yes. I don't mind anything as long as that thing is cute or 2D. How about you?
+400,undefined,undefined,dialogue,Jill,Um...
+401,undefined,undefined,dialogue,Jill,"Back in high school, I liked them funny."
+402,undefined,undefined,dialogue,Jill,"In college, I liked them successful."
+403,undefined,undefined,dialogue,Jill,"After a while, I just wanted them stable, and now..."
+404,undefined,undefined,dialogue,Dana,And now...?
+405,undefined,undefined,dialogue,Jill,I... don't know.
+406,undefined,undefined,dialogue,Jill,I stopped caring about them being funny.
+407,undefined,undefined,dialogue,Jill,"My high school boyfriend started conflating ""cheering me up"" with ""mocking me when I'm down""."
+408,undefined,undefined,dialogue,Jill,I also stopped caring about them being successful.
+409,undefined,undefined,dialogue,Jill,I realized half the time they had no qualms about cheating with me or on me.
+410,undefined,undefined,dialogue,Jill,And I stopped caring about them being stable.
+411,undefined,undefined,dialogue,Jill,I realized they were the kind of person I was trying not to become.
+412,undefined,undefined,dialogue,Dana,Not become stable?
+413,undefined,undefined,dialogue,Jill,There was this guy who became so obsessed with holding a stable job that he hated...
+414,undefined,undefined,dialogue,Jill,He started being physically ill.
+415,undefined,undefined,dialogue,Jill,"Not only that. The last time I managed to get some, I ended up throwing the guy out."
+416,undefined,undefined,dialogue,Jill,He took incredible offense with how I smoked on the bed after sex.
+417,undefined,undefined,dialogue,Dana,"The bed could catch fire, you know?"
+418,undefined,undefined,dialogue,Jill,Not you too...
+419,undefined,undefined,dialogue,Jill,I kinda envy Alma for that. At least when she dumps a guy it's for... less petty reasons.
+420,undefined,undefined,dialogue,Jill,*sigh*
+421,undefined,undefined,dialogue,Jill,...
+422,undefined,undefined,dialogue,Dana,Are you okay?
+423,undefined,undefined,dialogue,Jill,"I'm fine, it's just... it all boils down to the fact that I can't get my mind off Lenore lately."
+424,undefined,undefined,dialogue,Jill,She was... she was all of what I just said.
+425,undefined,undefined,dialogue,Jill,"She made me laugh, she had a good position and was stable."
+426,undefined,undefined,dialogue,Jill,"She was also smart, caring and why can't I get my mind off the whole thing?!"
+427,undefined,undefined,dialogue,Jill,It's... it's maddening.
+428,undefined,undefined,dialogue,Dana,...
+429,undefined,undefined,dialogue,Jill,Maybe I should go and apologize?
+430,undefined,undefined,dialogue,Jill,"Maybe, I should. Maybe that will make me rest easier at night, get my mind off things for a while."
+431,undefined,undefined,dialogue,Jill,"I don't even care about going back to her, but... but..."
+432,undefined,undefined,dialogue,Jill,Agh!
+433,undefined,undefined,dialogue,Dana,...hey Jill. Have you tried thinking about clothes for Fore?
+434,undefined,undefined,dialogue,Jill,Clothes for...
+435,undefined,undefined,dialogue,Jill,...
+436,undefined,undefined,dialogue,Jill,...heh.
+437,undefined,undefined,dialogue,Dana,"Listen, I know how you must feel."
+438,undefined,undefined,dialogue,Dana,But you can't let all of that cloud your senses.
+439,undefined,undefined,dialogue,Dana,"Next time you feel overwhelmed by those thoughts, try distracting yourself."
+440,undefined,undefined,dialogue,Dana,"Like with, say... thinking what kind of clothes you can put on Fore."
+441,undefined,undefined,dialogue,Jill,Yeah...
+442,undefined,undefined,dialogue,Dana,"So Jill, what kind of guy was your grandpa?"
+443,undefined,undefined,dialogue,Jill,He was rough around the edges. The kind of guy that means well even if he says otherwise.
+444,undefined,undefined,dialogue,Jill,"He seemed to have a soft spot for me, though."
+445,undefined,undefined,dialogue,Jill,"One moment, he was congratulating my dad by berating him a little..."
+446,undefined,undefined,dialogue,Jill,"...and the next, he was playing with me."
+447,undefined,undefined,dialogue,Jill,"My dad worked a lot and my mom was always traveling, so I spent most of my childhood with him."
+448,undefined,undefined,dialogue,Dana,Can I ask how he died?
+449,undefined,undefined,dialogue,Jill,Out of old age. My dad says his last words were something like...
+450,undefined,undefined,dialogue,Jill,"""Fucking scientists. Created talking mannequins, but they still can't let you upload your brain..."""
+451,undefined,undefined,dialogue,Jill,Why the question?
+452,undefined,undefined,dialogue,Dana,I'm curious about you. Really curious.
+453,undefined,undefined,dialogue,Dana,"I just realized that even though we see each other almost every day, I know very little about you."
+454,undefined,undefined,dialogue,Jill,Oh.
+455,undefined,undefined,dialogue,Dana,"From what you tell me though, seems your grandpa's personality rubbed off on you a bit."
+456,undefined,undefined,dialogue,Jill,"I've heard that one since I was a kid, actually."
+457,undefined,undefined,dialogue,Jill,"You know, Boss, I'm a bit curious about your circle of friends. What kind of people do you have in it?"
+458,undefined,undefined,dialogue,Dana,"Keep in mind, you're included in this circle too, so any insults you hurl will apply right back to you."
+459,undefined,undefined,dialogue,Dana,"Anyways. I have this friend I've known for a long time. A red-headed, glasses-wearing gun-nut called Iris."
+460,undefined,undefined,dialogue,Jill,The one you called for the helmet thing?
+461,undefined,undefined,dialogue,Dana,That one.
+462,undefined,undefined,dialogue,Dana,"She's managing a BTC bar in Panama right now, if I remember correctly."
+463,undefined,undefined,dialogue,Jill,She's managing a bar too?
+464,undefined,undefined,dialogue,Dana,"I got the idea from her, actually."
+465,undefined,undefined,dialogue,Jill,Oh.
+466,undefined,undefined,dialogue,Dana,"It's called N1-RV Ann-A, and if you thought this city was dangerous..."
+467,undefined,undefined,dialogue,Dana,You should see the people she has to deal with there.
+468,undefined,undefined,dialogue,Dana,Piracy ain't nothing to fuck with.
+469,undefined,undefined,dialogue,Jill,"""Ann"" means it's an annex to another business. What else does she do there?"
+470,undefined,undefined,dialogue,Dana,I think the bar was originally her hotel's bar.
+471,undefined,undefined,dialogue,Dana,She moved the bar to its own building elsewhere and opened N1-RV Ann-B in the hotel instead.
+472,undefined,undefined,dialogue,Jill,Weird decision.
+473,undefined,undefined,dialogue,Dana,"I believe she said she wanted a place ""away from the noisy rich tourists that go to the hotel."""
+474,undefined,undefined,dialogue,Dana,So that bar is her woman cave.
+475,undefined,undefined,dialogue,Jill,(Woman cave...)
+476,undefined,undefined,dialogue,Dana,"That aside, let's see... friends, friends..."
+477,undefined,undefined,dialogue,Dana,"I guess there's also my little sister, but that's a given."
+478,undefined,undefined,dialogue,Dana,Oh! There's also my old partner from when I was with the Neo-San Francisco police force.
+479,undefined,undefined,dialogue,Dana,Good ol' Lexi. Should give her a call sometime.
+480,undefined,undefined,dialogue,Jill,"Wait, you were in the what?!"
+481,undefined,undefined,dialogue,Dana,"I've done lots of things, Jill."
+482,undefined,undefined,dialogue,Dana,"I spent a short time collaborating with the police force. I've been a wrestler, an MMA fighter..."
+483,undefined,undefined,dialogue,Dana,"Chimney cleaner, lumberjack, pet shop attendant, corporate mascot..."
+484,undefined,undefined,dialogue,Jill,Corporate what?!
+485,undefined,undefined,dialogue,Dana,I still see my face on some websites from time to time.
+486,undefined,undefined,dialogue,Dana,"Anyways, aside from you, Gil, my sis, Iris and Lexi... hm..."
+487,undefined,undefined,dialogue,Dana,I guess there're a lot of people that don't want to see me in harm's way.
+488,undefined,undefined,dialogue,Dana,...mostly because they're the ones that want to hurt me.
+489,undefined,undefined,dialogue,Dana,What about you?
+490,undefined,undefined,dialogue,Jill,I guess I have acquaintances here and there.
+491,undefined,undefined,dialogue,Jill,"Back at home and college, I went out a lot."
+492,undefined,undefined,dialogue,Jill,"But it felt more like going out was the pleasure, rather than the people involved."
+493,undefined,undefined,dialogue,Jill,"Aside from you and Gil, my closest friend since moving here is Alma... oh, and Dorothy."
+494,undefined,undefined,dialogue,Jill,"I mean, sure. There's always Fore, but that cat's a hermit that refuses to go out."
+495,undefined,undefined,dialogue,Jill,And you know... he's a cat.
+496,undefined,undefined,dialogue,Dana,"Hey, a cat's fine too, you know?"
+497,undefined,undefined,dialogue,Jill,"Boss. Hey, Boss."
+498,undefined,undefined,dialogue,Dana,Hm?
+499,undefined,undefined,dialogue,Jill,How did you lose your v-card?
+500,undefined,undefined,dialogue,Dana,V-huh?
+501,undefined,undefined,dialogue,Jill,"You know, your v-card, your first time, your deflowering."
+502,undefined,undefined,dialogue,Dana,"OOOOOOOOOOH, that. Well..."
+503,undefined,undefined,dialogue,Dana,I'm legally bound to not disclose that information.
+504,undefined,undefined,dialogue,Jill,Does that mean you lost it?
+505,undefined,undefined,dialogue,Dana,Can't disclose that information.
+506,undefined,undefined,dialogue,Jill,"Come on, just give me a hint or..."
+507,undefined,undefined,dialogue,Dana,"Jill, bad things will happen for everyone if that info is revealed in ANY way."
+508,undefined,undefined,dialogue,Jill,"Alright, alright... sheesh."
+509,undefined,undefined,dialogue,Dana,I can only say this: the whole thing is related to my mechanical arm.
+510,undefined,undefined,dialogue,Jill,"Great, now you're just teasing me."
+511,undefined,undefined,dialogue,Dana,Any reason you want to know that?
+512,undefined,undefined,dialogue,Jill,"Well, everyone's first time is always a mess, but I've always to know if it was as messy a time as mine."
+513,undefined,undefined,dialogue,Dana,What happened?
+514,undefined,undefined,dialogue,Jill,"Well, I got all lovey-dovey with my first boyfriend, and when we both got naked, I... pffffft..."
+515,undefined,undefined,dialogue,Dana,...?
+516,undefined,undefined,dialogue,Jill,When I saw his pfffffffffft... when I saw his dick I just started lahahahaha! *ahem* I started laughing.
+517,undefined,undefined,dialogue,Dana,What? Got nervous?
+518,undefined,undefined,dialogue,Jill,Nervous? No! I just find dicks funny!
+519,undefined,undefined,dialogue,Dana,You... uh?
+520,undefined,undefined,dialogue,Jill,"They're funny, they're pffffffft..."
+521,undefined,undefined,dialogue,Jill,They have a sack attached to them and... heheheheh... and they grow and...
+522,undefined,undefined,dialogue,Jill,They're just... AHAHAHAHAHA... THEY'RE JUST STUPID MEAT RODS!
+523,undefined,undefined,dialogue,Dana,...
+524,undefined,undefined,dialogue,Dana,So how did your boyfriend react?
+525,undefined,undefined,dialogue,Jill,He went flaccid from the laughter and... AHAHAHAHAHA! It just shrunk and went limp.
+526,undefined,undefined,dialogue,Jill,I had to work it out to for a bit so I could control my laughter. But...
+527,undefined,undefined,dialogue,Jill,It's so hard! They're just so stupid! AHAHAHAHAHA!!
+528,undefined,undefined,dialogue,Dana,Pffffffftt...
+529,undefined,undefined,dialogue,Jill,*yawn* Heheh...
+530,undefined,undefined,dialogue,Jill,Shtupid... meat... rods...
+531,undefined,undefined,dialogue,Dana,Jill?
+532,undefined,undefined,dialogue,Jill,Zzzzzzzzzz...
+533,undefined,undefined,dialogue,Dana,Huh.
+534,undefined,undefined,dialogue,Dana,...
+535,undefined,undefined,dialogue,Dana,"Well, let's see how to move her back inside before she catches a cold."
+536,undefined,undefined,dialogue,Jill,"Okay, Boss, I HAVE to know."
+537,undefined,undefined,dialogue,Dana,About what?
+538,undefined,undefined,dialogue,Jill,About your arm!
+539,undefined,undefined,dialogue,Dana,I'd rather not talk about it.
+540,undefined,undefined,dialogue,Jill,Come on! I wanna know how you got it.
+541,undefined,undefined,dialogue,Dana,Fiiiiiiiiiiiiine.
+542,undefined,undefined,dialogue,Jill,Yes?
+543,undefined,undefined,dialogue,Dana,I had to use a couple of favors to get it. I accepted no less than state-of-the-art tech.
+544,undefined,undefined,dialogue,Dana,That's how I got it.
+545,undefined,undefined,dialogue,Jill,"That's technically correct, but COME OOOOON!"
+546,undefined,undefined,dialogue,Dana,Why do you wanna know how I got it?
+547,undefined,undefined,dialogue,Jill,I just wanna know more about you.
+548,undefined,undefined,dialogue,Jill,You're always so cool and awesome and...
+549,undefined,undefined,dialogue,Jill,Can you at least tell me if it does something cool?
+550,undefined,undefined,dialogue,Dana,"It does have a couple of utilities installed, yeah."
+551,undefined,undefined,dialogue,Dana,There's a HDD in the forearm I use to save assorted data.
+552,undefined,undefined,dialogue,Dana,"It has a flashlight and a clock, but many prosthetic arms have those nowadays. Kinda like watches."
+553,undefined,undefined,dialogue,Jill,How did you feel when you lost it?
+554,undefined,undefined,dialogue,Dana,"To be honest, I was sad, but I was also satisfied."
+555,undefined,undefined,dialogue,Dana,"Yeah, I lost my dominant arm, but its sacrifice helped a bigger purpose."
+556,undefined,undefined,dialogue,Dana,"If I had to lose another limb to accomplish such a thing again, I'd totally do it."
+557,undefined,undefined,dialogue,Dana,"But of course, I just hope it doesn't come to that ever again."
+558,undefined,undefined,dialogue,Jill,Now you're just teasing me!
+559,undefined,undefined,dialogue,Dana,"You'll hear nothing else from me, young lady."
+560,undefined,undefined,dialogue,Jill,Hey Boss... what will you do when the bar closes?
+561,undefined,undefined,dialogue,Dana,I don't know. Maybe I'll take a friend's offer of working with her.
+562,undefined,undefined,dialogue,Dana,I was also thinking about going back home and helping with things there.
+563,undefined,undefined,dialogue,Dana,Or maybe going travelling for a while.
+564,undefined,undefined,dialogue,Jill,I see...
+565,undefined,undefined,dialogue,Dana,"Oh, but don't worry! Bureaucracy's slow as fuck, so they won't close the bar for quite a while."
+566,undefined,undefined,dialogue,Dana,Better enjoy being there while you can.
+567,undefined,undefined,dialogue,Jill,"Yeah, maybe..."
+568,undefined,undefined,dialogue,Jill,Will you be visiting me in whatever bar I end up working in?
+569,undefined,undefined,dialogue,Dana,I have a bone to pick with the guy that supervises the bar I'm planning to get you transferred to.
+570,undefined,undefined,dialogue,Dana,I go there even though I have virtually no reason to.
+571,undefined,undefined,dialogue,Dana,"With you there, I'd have something PLEASANT to look forward to."
+572,undefined,undefined,dialogue,Jill,Um... you're sending me to someone you have problems with?
+573,undefined,undefined,dialogue,Dana,"If I have to trust another bar owner, it's certainly him."
+574,undefined,undefined,dialogue,Dana,He's actually a pleasant boss from what I've seen.
+575,undefined,undefined,dialogue,Dana,The fact that he and I have a tendency to go at each other's throats is an unrelated matter.
+576,undefined,undefined,dialogue,Jill,I'll trust you on that one then.
+577,undefined,undefined,dialogue,Dana,Don't worry. Maybe I can get you a bracelet made out of wood pieces from the bar's counter or something.
+578,undefined,undefined,dialogue,Jill,Um... we'll see.
+579,undefined,undefined,dialogue,Dana,"Hey, I'll tell you what."
+580,undefined,undefined,dialogue,Dana,"When the bar closes, let's both take a vacation. Go on a trip! That'll clear your mind a bit."
+581,undefined,undefined,dialogue,Jill,"Yeah, maybe."

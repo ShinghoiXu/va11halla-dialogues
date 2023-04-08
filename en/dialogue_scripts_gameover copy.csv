@@ -1,0 +1,56 @@
+line,filename,lines,type,character,text
+0,gameover.txt,55,META,undefined,undefined
+2,undefined,undefined,dialogue,Dana,"Hey Jill, come here a sec."
+3,undefined,undefined,dialogue,Jill,Boss?
+4,undefined,undefined,dialogue,Dana,Why don't you take a seat?
+5,undefined,undefined,dialogue,Jill,What?
+6,undefined,undefined,dialogue,Dana,Take a seat. Over there.
+7,undefined,undefined,dialogue,Jill,Okay...
+8,undefined,undefined,dialogue,Dana,"Are you okay? You're not just spamming the easiest drinks, right?"
+9,undefined,undefined,dialogue,Jill,Well...
+10,undefined,undefined,dialogue,Dana,"Why don't you go home today? Get some rest, I'll take it from here."
+11,undefined,undefined,dialogue,Jill,B-But Boss...!
+12,undefined,undefined,dialogue,Dana,"Don't you ButtBoss me, young lady."
+13,undefined,undefined,dialogue,Jill,Butt... eh?
+14,undefined,undefined,dialogue,Dana,I need you in top form for the whole team.
+15,undefined,undefined,dialogue,Dana,"Get some rest, clear your mind."
+16,undefined,undefined,dialogue,Dana,"I'm sending you to the bench, soldier."
+17,undefined,undefined,dialogue,Jill,(Bench? Soldier? ButtBo-... what?)
+18,undefined,undefined,dialogue,Dana,...
+19,undefined,undefined,dialogue,Jill,Boss?
+20,undefined,undefined,dialogue,Dana,"Jill, why don't you take the rest of the day off?"
+21,undefined,undefined,dialogue,Jill,Huh? Why?
+22,undefined,undefined,dialogue,Dana,I have reasons to believe you've been just spamming the easiest drinks over and over again.
+23,undefined,undefined,dialogue,Jill,I... have?
+24,undefined,undefined,dialogue,Dana,You most certainly have.
+25,undefined,undefined,dialogue,Dana,"Don't worry, I'll take it from here. Just get some rest, will you?"
+26,undefined,undefined,dialogue,Dana,"Oh, and... leave the rum."
+27,undefined,undefined,dialogue,Dana,"That's um... punishment. Yeah, let's go with that."
+28,undefined,undefined,dialogue,Jill,...right.
+29,undefined,undefined,dialogue,Dana,Hey Jill.
+30,undefined,undefined,dialogue,Jill,...hm?
+31,undefined,undefined,dialogue,Dana,Let's go out for a bit.
+32,undefined,undefined,dialogue,Jill,Why?
+33,undefined,undefined,dialogue,Dana,You've been spamming easy drinks for too long.
+34,undefined,undefined,dialogue,Jill,...
+35,undefined,undefined,dialogue,Dana,Come on. Come here. Gil will take care of the fort while we hang out.
+36,undefined,undefined,dialogue,Dana,JIIIIIIIIIIIIIIIIIIIIIILL!!
+37,undefined,undefined,dialogue,Jill,
+38,undefined,undefined,dialogue,Jill,
+39,undefined,undefined,dialogue,Dana,I was... and I came back because you've been slacking off!
+40,undefined,undefined,dialogue,Jill,
+41,undefined,undefined,dialogue,Dana,"Yes! You've been serving easy drinks one after the other, haven't you? Wrong drinks at that."
+42,undefined,undefined,dialogue,Jill,
+43,undefined,undefined,dialogue,Jill,
+44,undefined,undefined,dialogue,Dana,I just know. Just like I know you should take a rest.
+45,undefined,undefined,dialogue,Dana,I'll take it from here.
+46,undefined,undefined,dialogue,Jill,"Don't you think taunting me for serving ""easy drinks"" of all things is too much?"
+47,undefined,undefined,dialogue,Dana,Then go get some rest or I shall taunt you a second time.
+48,undefined,undefined,dialogue,Dana,"Jill, you need to stop."
+49,undefined,undefined,dialogue,Jill,Boss?
+50,undefined,undefined,dialogue,Dana,You can't just go serving easy drinks that aren't even the right ones are even trying?
+51,undefined,undefined,dialogue,Jill,...
+52,undefined,undefined,dialogue,Dana,Why the smirk?
+53,undefined,undefined,dialogue,Dana,"...it's the helmet, isn't it?"
+54,undefined,undefined,dialogue,Jill,...
+55,undefined,undefined,dialogue,Dana,"Just go home, you're grounded for today, young lady."
